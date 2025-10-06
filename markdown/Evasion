@@ -12,6 +12,9 @@ __Prerequisite:__ Base Reflex save +7.
 Notes
 -----
 
+Evasion should be locked behind a character's base Reflex saving throw. Sources indicate you can gain evasion initially as early as +3. +7 reserves improved evasion for characters with exceptionally good reflexes.
+
+- Generic (2nd level, Ref +3)
 - Monk (2nd level, Ref +3)
 - Ranger (9th level, Ref +5)
 - Rogue (2nd level, Ref +3)

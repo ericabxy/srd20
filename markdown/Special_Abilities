@@ -1,0 +1,15 @@
+Special Abilities
+=================
+
+The rogue's special ability class feature can be modified to allow for generic characters.
+
+- Evasion (Ex): As monk. Prerequisite: Base Reflex save +3.
+- Improved Attack Bonus: Add a +1 proficiency bonus to your base attack bonus. Can be repeatedly taken two levels after the last time it was gained. Bonus stacks and counts as your natural base attack bonus for all purposes.
+- Improved Evasion (Ex): As monk. Prerequisite: Base Reflex save +6.
+
+How It Works
+------------
+
+For the most straightforward example, recreate the fighter class using special abilities. A poor base attack bonus needs only to gain a permanent base attack bonus increase every odd-numbered level. Then every even-numbered level can be used to take the bonus feat a normal fighter gains at those levels. Finally, it needs an additional bonus feat at 1st level to round out the feature list in addition to a "good" fortitude saving throw.
+
+A generic class needs at least two special abilities or feats at first level and at least one special ability or feat every level thereafter to emulate the fighter. Much more is probably needed to approximate any class
