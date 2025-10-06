@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Experience Rank</title>
+</head>
+<body>
+<h1>Experience Rank</h1>
+<p>Characters have a rank based on overall experience level which can be seen as their proficiency in known skills and abilities.</p>
+<ul>
+<li>(labels)</li>
+<li>Level</li>
+<li>Name</li>
+<li>Average</li>
+<li>Seasoned</li>
+<li>Elite</li>
+<li>Heroic</li>
+<li>Legendary</li>
+<li>Bonus</li>
+<li>+2</li>
+<li>+3</li>
+<li>+4</li>
+<li>+5</li>
+<li>+6</li>
+</ul>
+</body>
+</html>

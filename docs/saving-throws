@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Saving Throws</title>
+</head>
+<body>
+<h1>Saving Throws</h1>
+<p>Historical many.</p>
+<p>Third edition consolidation.</p>
+<p>Fifth Edition did away with arbitrary saving throws altogether, opting to use all six ability scores for this purpose.</p>
+<p>Characters can have a Fighter's Fortitude, a Rogue's Reflexes, or a Wizard's Willpower.</p>
+<h2>Passive vs Active</h2>
+<p>The three saving throws of Third Edition were not chosen arbitrarily. Compared to many other rolled-for skills, saving throws are passive; they are rolled in response to a threat and often automatically.</p>
+<p>Strength: an active ability, exerting muscular power to move something.</p>
+<p>Dexterity: although used to actively do things, its tied to the passive concept of reflexes to dodge attacks in combat. It makes sense to include this as a passive/saving ability in the form of <strong>Reflex</strong>.</p>
+<p>Constitution: a passive ability representing a body's resilience and endurance and not used to actively do anything. It makes sense to include this as a passive/saving ability in the form of <strong>Fortitude</strong>.</p>
+<p>Intelligence: an active ability, using logic and reason to learn, figure things out, and recall knowledge.</p>
+<p>Wisdom: a passive ability granting.... It makes sense to include this as a passive/saving ability in the form of <strong>Will</strong>.</p>
+<p>Charisma: arguably a passive ability, it has a vague definition and is used for passive and active resolutions.</p>
+</body>
+</html>

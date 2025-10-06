@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Two-weapon Fighting</title>
+</head>
+<body>
+<h1>Two-weapon Fighting</h1>
+<h2>Combat Agility (formerly Ranger Combat Style)</h2>
+<p>A ranger gets some these feats automatically by choosing a class feature, limited to using the benefits while wearing <em>light or no armor</em>. The choice is between "archery" or "two-weapon combat".</p>
+<h3>Archery</h3>
+<p><strong>Benefit:</strong> You are treated as having the rapid shot feat when wearing light armor or no armor.</p>
+<h3>Improved Archery</h3>
+<p><strong>Prerequisites:</strong> Base attack bonus +6.</p>
+<p><strong>Benefit:</strong> You are treated as having the manyshot feat when wearing light armor or no armor.</p>
+<h3>Mastered Archery</h3>
+<p><strong>Prerequisites:</strong> Base attack bonus +11.</p>
+<p><strong>Benefit:</strong> You are treated as having the improved precise shot feat when wearing light armor or no armor.</p>
+<h3>Close Combat</h3>
+<p><strong>Benefit:</strong> You are treated as having the two-weapon fighting feat when wearing light armor or no armor.</p>
+<h3>Improved Close Combat</h3>
+<p><strong>Prerequisites:</strong> Base attack bonus +6.</p>
+<p><strong>Benefit:</strong> You are treated as having the improved two-weapon fighting feat when wearing light armor or no armor.</p>
+<h3>Mastered Close Combat</h3>
+<p><strong>Prerequisites:</strong> Base attack bonus +11.</p>
+<p><strong>Benefit:</strong> You are treated as having the greater two-weapon fighting feat when wearing light armor or no armor.</p>
+<h2>Improved Two-weapon Fighting</h2>
+<p>Prerequisites pin this feat at 6th level or above for both fighters and rangers.</p>
+<h2>Greater Two-weapon Fighting</h2>
+<p>Prerequisites pin this feat at 11th level or above for both fighters and rangers.</p>
+<h2>Perfect Two-weapon Fighting</h2>
+<p>Epic rules pin this feat at 21st level or above for both fighters and rangers.</p>
+</body>
+</html>
