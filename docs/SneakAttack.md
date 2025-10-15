@@ -36,3 +36,17 @@ Sudden Strike (Ninja)
 Ninja: 1st, 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, and 19th level.
 
 Ghost-faced Killer: 2nd, 5th, and 8th level.
+
+Notes
+-----
+
+Sneak attack is a combat ability but classes tend to gain its benefits regardless of being especially stealthy or dexterous. Its being gated behind base attack bonus to represent this nature. Any character can gain it at first level, but improving it depends on how their attack bonus progresses. A rogue-like character with a little combat focus can gain it every two levels. A wizard-like character with only a basic (poor) base attack bonus would struggle to gain sneak attack as few as seven times in twenty levels.
+
+Wizard
+1st +0 +1d6
+4th +2 +2d6
+6th +3 +3d6
+10th +5 +4d6
+12th +6 +5d6
+16th +8 +6d6
+18th +9 +7d6
