@@ -1089,37 +1089,36 @@ apply.
 | Moves around a lot                                            | –1
 | Caused the death of other followers                           | –1.
 
-—— Number of Followers by Level ——
-
-| Leadership Score | Cohort Level | ^
+| Leadership Score | Cohort Level | ——  | \*  | \*  | \*  | \*  | ——
 | -----------------| -------------| ---
-|                  |                  | 1st | 2nd | 3rd | 4th | 5th | 6th
-| 1 or lower       | —                | —   | —   | —   | —   | —   | —
-| 2                | 1st              | —   | —   | —   | —   | —   | —
-| 3                | 2nd              | —   | —   | —   | —   | —   | —
-| 4                | 3rd              | —   | —   | —   | —   | —   | —
-| 5                | 3rd              | —   | —   | —   | —   | —   | —
-| 6                | 4th              | —   | —   | —   | —   | —   | —
-| 7                | 5th              | —   | —   | —   | —   | —   | —
-| 8                | 5th              | —   | —   | —   | —   | —   | —
-| 9                | 6th              | —   | —   | —   | —   | —   | —
-| 10               | 7th              | 5   | —   | —   | —   | —   | —
-| 11               | 7th              | 6   | —   | —   | —   | —   | —
-| 12               | 8th              | 8   | —   | —   | —   | —   | —
-| 13               | 9th              | 10  | 1   | —   | —   | —   | —
-| 14               | 10th             | 15  | 1   | —   | —   | —   | —
-| 15               | 10th             | 20  | 2   | 1   | —   | —   | —
-| 16               | 11th             | 25  | 2   | 1   | —   | —   | —
-| 17               | 12th             | 30  | 3   | 1   | 1   | —   | —
-| 18               | 12th             | 35  | 3   | 1   | 1   | —   | —
-| 19               | 13th             | 40  | 4   | 2   | 1   | 1   | —
-| 20               | 14th             | 50  | 5   | 3   | 2   | 1   | —
-| 21               | 15th             | 60  | 6   | 3   | 2   | 1   | 1
-| 22               | 15th             | 75  | 7   | 4   | 2   | 2   | 1
-| 23               | 16th             | 90  | 9   | 5   | 3   | 2   | 1
-| 24               | 17th             | 110 | 11  | 6   | 3   | 2   | 1
-| 25 or higher     | 17th             | 135 | 13  | 7   | 4   | 2   | 2
+|                  |              | 1st | 2nd | 3rd | 4th | 5th | 6th
+| 1 or lower       | —            | —   | —   | —   | —   | —   | —
+| 2                | 1st          | —   | —   | —   | —   | —   | —
+| 3                | 2nd          | —   | —   | —   | —   | —   | —
+| 4                | 3rd          | —   | —   | —   | —   | —   | —
+| 5                | 3rd          | —   | —   | —   | —   | —   | —
+| 6                | 4th          | —   | —   | —   | —   | —   | —
+| 7                | 5th          | —   | —   | —   | —   | —   | —
+| 8                | 5th          | —   | —   | —   | —   | —   | —
+| 9                | 6th          | —   | —   | —   | —   | —   | —
+| 10               | 7th          | 5   | —   | —   | —   | —   | —
+| 11               | 7th          | 6   | —   | —   | —   | —   | —
+| 12               | 8th          | 8   | —   | —   | —   | —   | —
+| 13               | 9th          | 10  | 1   | —   | —   | —   | —
+| 14               | 10th         | 15  | 1   | —   | —   | —   | —
+| 15               | 10th         | 20  | 2   | 1   | —   | —   | —
+| 16               | 11th         | 25  | 2   | 1   | —   | —   | —
+| 17               | 12th         | 30  | 3   | 1   | 1   | —   | —
+| 18               | 12th         | 35  | 3   | 1   | 1   | —   | —
+| 19               | 13th         | 40  | 4   | 2   | 1   | 1   | —
+| 20               | 14th         | 50  | 5   | 3   | 2   | 1   | —
+| 21               | 15th         | 60  | 6   | 3   | 2   | 1   | 1
+| 22               | 15th         | 75  | 7   | 4   | 2   | 2   | 1
+| 23               | 16th         | 90  | 9   | 5   | 3   | 2   | 1
+| 24               | 17th         | 110 | 11  | 6   | 3   | 2   | 1
+| 25 or higher     | 17th         | 135 | 13  | 7   | 4   | 2   | 2
 
+\* —— Number of Followers by Level ——
 
 *Leadership Score:* A character's base Leadership score
 equals his level plus any Charisma modifier. In order to take into
@@ -1155,7 +1154,7 @@ associated PC's character level, the cohort does not gain the new
 level---its new XP total is 1 less than the amount needed attain the
 next level. 
 
-*Number of Followers by Level: *[The character can lead up
+*Number of Followers by Level:* The character can lead up
 to the indicated number of characters of each level. Followers are
 similar to cohorts, except they're generally low-level NPCs. Because
 they're generally five or more levels behind the character they follow,
@@ -1701,24 +1700,10 @@ penalty on the check, or at up to twice your normal speed with a --20
 penalty on the check). The DC depends on the surface and the prevailing
 conditions, as given on the table below:
 
-+----------------+----------------+----------------+----------------+
-| # [Surfac      | # [Survival DC | # [Su          | # [D           |
-| e |   | rface Survival | C |
-|                |                |   |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Very soft     | [5             | [Firm ground   | [1             |
-| ground         |   |   | 5 |
-|   |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Soft ground   | [10            | [Hard ground   | [2             |
-|   |   |   | 0 |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
+| Surface          | Survival DC | Surface     | Survival DC
+| ---------------- | ----------- | ----------- | ---
+| Very soft ground | 5           | Firm ground | 15
+| Soft ground      | 10          | Hard ground | 20
 
 *Very Soft Ground:* Any surface (fresh snow, thick dust,
 wet mud) that holds deep, clear impressions of footprints.
@@ -1742,79 +1727,31 @@ pebbles).
 Several modifiers may apply to the Survival check, as given on the
 table below.
 
-+----------------------------------+----------------------------------+
-| # Condition        | # [S                             |
-|                                  | urvival DC Modifier |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| Every three creatures in the    | [--1                |
-| group being tracked              |                                  |
-|                     |                                  |
-+----------------------------------+----------------------------------+
-| [Size of creature or creatures   |                                  |
-| being                            |                                  |
-| tracked:]{                       |                                  |
-| .underline}**^1^** |                                  |
-+----------------------------------+----------------------------------+
-| Fine               | [+8                 |
-+----------------------------------+----------------------------------+
-| Diminutive         | [+4                 |
-+----------------------------------+----------------------------------+
-| Tiny               | [+2                 |
-+----------------------------------+----------------------------------+
-| Small              | [+1                 |
-+----------------------------------+----------------------------------+
-| Medium             | [+0                 |
-+----------------------------------+----------------------------------+
-| Large              | [--1                |
-+----------------------------------+----------------------------------+
-| Huge               | [--2                |
-+----------------------------------+----------------------------------+
-| Gargantuan         | [--4                |
-+----------------------------------+----------------------------------+
-| Colossal           | [--8                |
-+----------------------------------+----------------------------------+
-| Every 24 hours since the trail  | [+1                 |
-| was made            |                                  |
-+----------------------------------+----------------------------------+
-| Every hour of rain since the    | [+1                 |
-| trail was made      |                                  |
-+----------------------------------+----------------------------------+
-| Fresh snow cover since the      | [+10                |
-| trail was made      |                                  |
-+----------------------------------+----------------------------------+
-| [Poor                            |                                  |
-| visibility:]{                    |                                  |
-| .underline}**^2^** |                                  |
-+----------------------------------+----------------------------------+
-| Overcast or moonless night      | [+6                 |
-|                     |                                  |
-+----------------------------------+----------------------------------+
-| Moonlight          | [+3                 |
-+----------------------------------+----------------------------------+
-| Fog or precipitation            | [+3                 |
-|                     |                                  |
-+----------------------------------+----------------------------------+
-| Tracked party hides trail (and  | [+5                 |
-| moves at half speed)             |                                  |
-|                     |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| [1 For a group of mixed sizes,   |                                  |
-| apply only the modifier for the  |                                  |
-| largest size                     |                                  |
-| category.           |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| [2 Apply only the largest        |                                  |
-| modifier from this               |                                  |
-| category.           |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
+| Condition                                           | Survival DC Modifier
+| --------------------------------------------------- | ---
+| Every three creatures in the group being tracked    | –1
+| Size of creature or creatures being tracked:<sup>1</sup>
+| ...Fine                                             | +8
+| ...Diminutive                                       | +4
+| ...Tiny                                             | +2
+| ...Small                                            | +1
+| ...Medium                                           | +0
+| ...Large                                            | –1
+| ...Huge                                             | –2
+| ...Gargantuan                                       | –4
+| ...Colossal                                         | –8
+| Every 24 hours since the trail was made             | +1
+| Every hour of rain since the trail was made         | +1
+| Fresh snow cover since the trail was made           | +10
+| Poor visibility:<sup>2</sup>
+| ...Overcast or moonless night                       | +6
+| ...Moonlight                                        | +3
+| ...Fog or precipitation                             | +3
+| Tracked party hides trail (and moves at half speed) | +5
+
+1 For a group of mixed sizes, apply only the modifier for the largest size category.
+
+2 Apply only the largest modifier from this category.
 
 If you fail a Survival check, you can retry after 1 hour (outdoors) or
 10 minutes (indoors) of searching.
