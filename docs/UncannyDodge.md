@@ -1,11 +1,14 @@
 Uncanny Dodge
-=============
+-------------
 
 Barbarian class feature. Earliest BAB +1. Earliest improvement BAB +6.
 
 ### Barbarian
+
 - Fist of the Forest: 6th level (2nd plus 5 levels for base attack bonus). 
+
 ### Rogue
+
 - Scout: 2nd level.
 - Streetfighter: 10th level (5th plus 5 levels for base attack bonus).
 

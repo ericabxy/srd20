@@ -1,0 +1,10 @@
+Camouflage
+----------
+
+Ranger class feature. Prerequisite: at least 11 ranks in Hide and Survival.
+
+Ranger: 13th level.
+
+Scout: 8th level.
+
+Highland stalker: 12th level (7th plus 5 levels for skill ranks and base attack).

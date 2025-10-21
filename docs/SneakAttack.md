@@ -1,5 +1,5 @@
 Sneak Attack
-============
+------------
 
 __Prerequisites:__ Base attack bonus +0.
 

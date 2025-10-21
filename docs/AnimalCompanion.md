@@ -1,5 +1,5 @@
 Animal Companion
-================
+----------------
 
 Classes
 

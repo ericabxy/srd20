@@ -1,5 +1,5 @@
 Fast Movement
-=============
+-------------
 
 Barbarian class feature.
 

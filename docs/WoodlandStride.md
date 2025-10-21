@@ -1,0 +1,24 @@
+Woodland Stride
+---------------
+
+Druid class feature.
+
+- Druid: 2nd level.
+- Hold Warden: (2nd plus)
+- Ranger: 7th level.
+
+Notes
+-----
+
+* Nature sense? (Drd, holt warden)
+* Wild empathy? (Drd, Rgr) Trackless step? (Drd, holt warden)
+
+* Track
+* Endurance
+* Woodland stride (Drd, Rgr, 
+
+
+
+* Swift tracker (Rgr, forest reeve)
+* Camouflage
+* Hide in plain sight
