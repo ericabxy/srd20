@@ -1,24 +1,11 @@
-Woodland Stride
+Woodland Stride (Ex)
 ---------------
 
-Druid class feature.
-
-- Druid: 2nd level.
-- Hold Warden: (2nd plus)
-- Ranger: 7th level.
+You may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any other impairment.
 
 Notes
 -----
 
-* Nature sense? (Drd, holt warden)
-* Wild empathy? (Drd, Rgr) Trackless step? (Drd, holt warden)
+Classes: Druid (2nd), ranger (7th)
 
-* Track
-* Endurance
-* Woodland stride (Drd, Rgr, 
-
-
-
-* Swift tracker (Rgr, forest reeve)
-* Camouflage
-* Hide in plain sight
+Prestige Classes: Holt warden (2nd)

@@ -12,6 +12,6 @@ Classes: Ranger (17th), Scout (14th)
 
 Prestige Classes: Nightsong Infiltrator (10th), Shadowspy (9th)
 
-Related to, but does not require [camouflage](camouflage).
+Related to, but does not require [camouflage](Camouflage).
 
 Limited to natural terrain (nightsong infiltrator, ranger, scout), or sunlit natural terrain (shadowspy). Not limited for urban ranger.

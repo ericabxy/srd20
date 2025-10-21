@@ -1,10 +1,13 @@
-Camouflage
+Camouflage (Ex)
 ----------
 
-Ranger class feature. Prerequisite: at least 11 ranks in Hide and Survival.
+You can use the Hide skill in any sort of natural terrain, even if the terrain doesn’t grant cover or concealment.
 
-Ranger: 13th level.
+__Prerequisites:__ At least 11 ranks in Hide and Survival
 
-Scout: 8th level.
+Notes
+-----
 
-Highland stalker: 12th level (7th plus 5 levels for skill ranks and base attack).
+Classes: Ranger (13th), Scout (8th)
+
+Prestige classes: Highland stalker (7th)

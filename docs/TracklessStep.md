@@ -1,7 +1,11 @@
-Trackless Step
+Trackless Step (Ex)
 --------------
 
-Druid class feature.
+You leave no trail in natural surroundings and cannot be tracked. You may choose to leave a trail if so desired.
 
-- Druid: 
-- Nightsong infiltrator: (3rd plus)
+Notes
+-----
+
+Classes: Druid (3rd)
+
+Prestige Classes: Nightsong infiltrator (3rd)

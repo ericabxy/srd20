@@ -1,14 +1,15 @@
-Timeless Body
+Timeless Body (Ex)
 -------------
 
-Druid class feature. Prerequisite: Fort and Will saves +9.
+You no longer take ability score penalties for aging and cannot be magically aged. Any penalties you may have already incurred, however, remain in place.
 
-- Alienist: 15th (9th plus at least 6 levels to cast 3rd-level spells)
-- Druid: 15th
-- Monk: 17th
-- Holt warden: 15th (9th plus 6 levels to cast 3rd-level spells)
+Bonuses still accrue, and the druid still dies of old age when her time is up.
 
-Alienist: Will +10
-Druid: Fort and Will +9
-Holt warden: Fort and Will +8 or +10
-Monk: Fort and Will +10
+__Prerequisites:__ Fort and Will saves +9.
+
+Notes
+-----
+
+Classes: Druid (15th), monk (17th)
+
+Prestige Classes: Alienist (9th), holt warden (9th)
