@@ -117,7 +117,7 @@ however, see below.
 undead, wink out if they enter the area of an antimagic effect. They
 reappear in the same spot once the field goes away.
 
-• Magic items with continuous effects* *do not function in the area of
+• Magic items with continuous effects do not function in the area of
 an antimagic effect, but their effects are not canceled (so the contents
 of a *bag of holding* are unavailable, but neither spill out nor
 disappear forever).
@@ -320,7 +320,7 @@ thereby kept alive.
 • In case it matters, a dead character, no matter how she died, has --10
 hit points.
 
-• The spell *death ward *protects a character against these attacks.
+• The spell *death ward* protects a character against these attacks.
 
 ### DISEASE
 
@@ -398,10 +398,10 @@ cause permanent ability drain.
 | Red ache                                                                                                                         | Injury 15          | 1d3 days         | 1d6 Str
 | Shakes                                                                                                                           | Contact 13         | 1 day            | 1d8 Dex
 | Slimy doom                                                                                                                       | Contact 14         | 1 day            | 1d4 Con**^2^**
-| 1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.                                       
-| 2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.                                                      
-| 3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills.                                                               
-| 4 Successful saves do not allow the character to recover. Only magical healing can save the character.                                                               
+| 1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.
+| 2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.
+| 3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills.
+| 4 Successful saves do not allow the character to recover. Only magical healing can save the character.
 
 #### Healing a Disease
 
