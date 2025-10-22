@@ -1,9 +1,14 @@
 Backgrounds
 -----------
 
+[Channeling](Channeling)
+
 [Blue](Blue), [Duergar](Duergar), Half-giant
 
-## Special Abilities
+Special Abilities
+-----------------
+
+Exclusive abilities from character classes, extracted and rephrased in a feat-like format.
 
 [Animal Companion](AnimalCompanion), [Camouflage](Camouflage), [Combat Style](CombatStyle), [Enhance Arrow](EnhanceArrow), [Evasion](Evasion), [Fast Movement](FastMovement), [Hide in Plain Sight](HideInPlainSight), [Nature Sense](NatureSense), [Resist Nature's Lure](ResistNaturesLure), [Sneak Attack](SneakAttack), [Swift Tracker](SwiftTracker), [Timeless Body](TimelessBody), [Trackless Step](TracklessStep), [Trap Sense](TrapSense),[Trapfinding](Trapfinding), [Uncanny Dodge](UncannyDodge), [Venom Immunity](VenomImmunity), [Wild Empathy](WildEmpathy), [Woodland Stride](Woodland Stride).
 
