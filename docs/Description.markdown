@@ -108,7 +108,7 @@ The first six alignments, lawful good through chaotic neutral, are the
 standard alignments for player characters. The three evil alignments are
 for monsters and villains.
 
-**Lawful Good, "Crusader": **A lawful good character acts as a good
+**Lawful Good, "Crusader":** A lawful good character acts as a good
 person is expected or required to act. She combines a commitment to
 oppose evil with the discipline to fight relentlessly. She tells the
 truth, keeps her word, helps those in need, and speaks out against
@@ -136,7 +136,7 @@ that of society.
 Chaotic good is the best alignment you can be because it combines a good
 heart with a free spirit.
 
-**Lawful Neutral, "Judge": **A lawful neutral character acts as law,
+**Lawful Neutral, "Judge":** A lawful neutral character acts as law,
 tradition, or a personal code directs her. Order and organization are
 paramount to her. She may believe in personal order and live by a code
 or standard, or she may believe in order for all and favor a strong,
