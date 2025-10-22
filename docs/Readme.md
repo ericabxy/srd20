@@ -48,7 +48,7 @@ The original System Reference Documents are reformatted from Rich Text to Markdo
 
 [Abilities and Conditions](AbilitiesandConditions), [Basics](Basics), [Legal](Legal)
 
-__Races:__ [Humans](Races#humans), [Dwarves](Races#dwarves), [Elvess](Races#elves), [Gnomes](Races#gnomes), Goblins, [Half-elves](Races#half-elves), [Half-orcs](Races#half-orcs), [Halflings](Races#halflings), Kobolds, Orcs.
+__Races:__ [Humans](Races#humans), [Dwarves](Races#dwarves), [Elves](Races#elves), [Gnomes](Races#gnomes), Goblins, [Half-elves](Races#half-elves), [Half-orcs](Races#half-orcs), [Halflings](Races#halflings), Kobolds, Orcs.
 
 __Psionic Races:__ Blues, [Dromites](PsionicRaces#dromites), [Duergar](PsionicRaces#duergar), [Elans](PsionicRaces#elans), [Half-giants](PsionicRaces#half-giants), [Maenads](PsionicRaces#maenads), [Xephs](PsionicRaces#xephs)
 
