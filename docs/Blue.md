@@ -1,6 +1,10 @@
 Blue
 ----
 
+Also known by the misnomer "Rigelian Blue", these creatures were once thought to hail from a star system in the direction of Rigel. In reality they've inhabited our solar system since the dawn of intelligent life, and large clusters of nomadic blues began migrating back from a centuries-long jaunt to the Oort cloud in recent decades.
+
+Blues are small, primate-like humanoids with bat-like faces and fine coats of fur. The Oort segment of the population used to sport primarily gray and silver fur before reintegrating into the greater gene pool, and now come in a variety of colors. Blues are excellent climbers and their buildings and craft reflect this aptitude by featuring high hides, handholds, ladders, and ropes.
+
 Blue characters possess the following racial traits.
 
 __−2 Strength, +2 Dexterity, −2 Charisma.__

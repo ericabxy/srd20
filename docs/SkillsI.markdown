@@ -527,31 +527,14 @@ Diplomacy, Intimidate, and Sleight of Hand checks, as well as on
 Disguise checks made when you know you're being observed and you try to
 act in character.
 
-+---------------------------------------+-----------------------------+
-| **Bluff Examples**                    |                             |
-+---------------------------------------+-----------------------------+
-|                                       |                             |
-+---------------------------------------+-----------------------------+
-| **Example Circumstances**             | ##### Sense Motive Modifier |
-+---------------------------------------+-----------------------------+
-| The target wants to believe you.      | --5                         |
-+---------------------------------------+-----------------------------+
-| The bluff is believable and doesn't   | +0                          |
-| affect the target much.               |                             |
-+---------------------------------------+-----------------------------+
-| The bluff is a little hard to believe | +5                          |
-| or puts the target at some risk.      |                             |
-+---------------------------------------+-----------------------------+
-| The bluff is hard to believe or puts  | +10                         |
-| the target at significant risk.       |                             |
-+---------------------------------------+-----------------------------+
-|                                       |                             |
-+---------------------------------------+-----------------------------+
-| The bluff is way out there, almost    | +20                         |
-| too incredible to consider.           |                             |
-+---------------------------------------+-----------------------------+
-|                                       |                             |
-+---------------------------------------+-----------------------------+
+| Bluff Examples
+| Example Circumstances                                                  | Sense Motive Modifier
+| ---------------------------------------------------------------------- | ---------------------
+| The target wants to believe you.                                       | –5
+| The bluff is believable and doesn’t affect the target much.            | +0
+| The bluff is a little hard to believe or puts the target at some risk. | +5
+| The bluff is hard to believe or puts the target at significant risk.   | +10
+| The bluff is way out there, almost too incredible to consider.         | +20
 
 ### CLIMB (STR; ARMOR CHECK PENALTY)
 
@@ -570,80 +553,24 @@ A climber's kit gives you a +2 circumstance bonus on Climb checks.
 The DC of the check depends on the conditions of the climb. Compare the
 task with those on the following table to determine an appropriate DC.
 
-+----------------------------------+----------------------------------+
-| **Climb DC **                    | **Example Surface or Activity**  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| 0                                | A slope too steep to walk up, or |
-|                                  | a knotted rope with a wall to    |
-|                                  | brace against.                   |
-+----------------------------------+----------------------------------+
-| 5                                | A rope with a wall to brace      |
-|                                  | against, or a knotted rope, or a |
-|                                  | rope affected by the *rope trick |
-|                                  | *spell.                          |
-+----------------------------------+----------------------------------+
-| 10                               | A surface with ledges to hold on |
-|                                  | to and stand on, such as a very  |
-|                                  | rough wall or a ship's rigging.  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| 15                               | Any surface with adequate        |
-|                                  | handholds and footholds (natural |
-|                                  | or artificial), such as a very   |
-|                                  | rough natural rock surface or a  |
-|                                  | tree, or an unknotted rope, or   |
-|                                  | pulling yourself up when         |
-|                                  | dangling by your hands.          |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| 20                               | An uneven surface with some      |
-|                                  | narrow handholds and footholds,  |
-|                                  | such as a typical wall in a      |
-|                                  | dungeon or ruins.                |
-+----------------------------------+----------------------------------+
-| 25                               | A rough surface, such as a       |
-|                                  | natural rock wall or a brick     |
-|                                  | wall.                            |
-+----------------------------------+----------------------------------+
-| 25                               | An overhang or ceiling with      |
-|                                  | handholds but no footholds.      |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| ---                              | A perfectly smooth, flat,        |
-|                                  | vertical surface cannot be       |
-|                                  | climbed.                         |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| # Climb DC Modifier^1^           | # Example Surface or Activity    |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| --10                             | Climbing a chimney (artificial   |
-|                                  | or natural) or other location    |
-|                                  | where you can brace against two  |
-|                                  | opposite walls (reduces DC by    |
-|                                  | 10).                             |
-+----------------------------------+----------------------------------+
-| --5                              | Climbing a corner where you can  |
-|                                  | brace against perpendicular      |
-|                                  | walls (reduces DC by 5).         |
-+----------------------------------+----------------------------------+
-| +5                               | Surface is slippery (increases   |
-|                                  | DC by 5).                        |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| 1These modifiers are cumulative; |                                  |
-| use any that apply.              |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
+| Climb DC | Example Surface or Activity
+| -------- | ---------------------------
+| 0        | A slope too steep to walk up, or a knotted rope with a wall to brace against.
+| 5        | A rope with a wall to brace against, or a knotted rope, or a rope affected by the rope trick spell. 
+| 10       | A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging. 
+| 15       | Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands. 
+| 20       | An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins. 
+| 25       | A rough surface, such as a natural rock wall or a brick wall. 
+| 25       | An overhang or ceiling with handholds but no footholds. 
+| —        | A perfectly smooth, flat, vertical surface cannot be climbed.
+
+| Climb DC Modifier¹ | Example Surface or Activity
+| ------------------ | ---------------------------
+| –10                | Climbing a chimney (artificial or natural) or other location where you can brace against two opposite walls (reduces DC by 10).
+| –5                 | Climbing a corner where you can brace against perpendicular walls (reduces DC by 5).
+| +5                 | Surface is slippery (increases DC by 5).
+
+1. These modifiers are cumulative; use any that apply.
 
 You need both hands free to climb, but you may cling to a wall with one
 hand while you cast a spell or take some other action that requires only
@@ -997,27 +924,24 @@ Use the table below to determine the effectiveness of Diplomacy checks
 character, or wild empathy checks made to influence the attitude of an
 animal or magical beast.
 
-  ---------------------- ----------------------------------------------------------------- ---------------------------------------------------- ----------------- -------------- -------------
-  **Initial Attitude**   **--------------- New Attitude (DC to achieve)---------------**                                                                                         
+| Initial Attitude
+|                  | Hostile¹      | Unfriendly¹  | Indifferent¹ | Friendly¹    | Helpful¹
+| ---------------- | ------------- | ------------ | ------------ | ------------ | -------
+| Hostile          | Less than 20  | 20           | 25           | 35           | 50
+| Unfriendly       | Less than 5   | 5            | 15           | 25           | 40
+| Indifferent      | —             | Less than 1  | 1            | 15           | 30
+| Friendly         | —             | —            | Less than 1  | 1            | 20
+| Helpful          | —             | —            | —            | Less than 1  | 1
                                                                                                                                                                                  
-                         **Hostile**                                                       **Unfriendly**                                       **Indifferent**   **Friendly**   **Helpful**
-  Hostile                Less than 20                                                      20                                                   25                35             50
-  Unfriendly             Less than 5                                                       5                                                    15                25             40
-  Indifferent            ---                                                               Less than 1                                          1                 15             30
-  Friendly               ---                                                               ---                                                  Less than 1       1              20
-                                                                                                                                                                                 
-  Helpful                ---                                                               ---                                                  ---               Less than 1    1
-                                                                                                                                                                                 
-  **Attitude **          **Means **                                                        **Possible Actions**                                                                  
-                                                                                                                                                                                 
-  Hostile                Will take risks to hurt you                                       Attack, interfere, berate, flee                                                       
-  Unfriendly             Wishes you ill                                                    Mislead, gossip, avoid, watch suspiciously, insult                                    
-  Indifferent            Doesn't much care                                                 Socially expected interaction                                                         
-  Friendly               Wishes you well                                                   Chat, advise, offer limited help, advocate                                            
-                                                                                                                                                                                 
-  Helpful                Will take risks to help you                                       Protect, back up, heal, aid                                                           
-                                                                                                                                                                                 
-  ---------------------- ----------------------------------------------------------------- ---------------------------------------------------- ----------------- -------------- -------------
+1. ————— New Attitude (DC to achieve)—————
+
+| Attitude    | Means                       | Possible Actions
+| ----------- | --------------------------- | ----------------
+| Hostile     | Will take risks to hurt you | Attack, interfere, berate, flee
+| Unfriendly  | Wishes you ill              | Mislead, gossip, avoid, watch suspiciously, insult
+| Indifferent | Doesn’t much care           | Socially expected interaction 
+| Friendly    | Wishes you well             | Chat, advise, offer limited help, advocate
+| Helpful     | Will take risks to help you | Protect, back up, heal, aid
 
 ### DISABLE DEVICE (INT; TRAINED ONLY)
 
@@ -1038,38 +962,14 @@ You also can rig simple devices such as saddles or wagon wheels to work
 normally for a while and then fail or fall off some time later (usually
 after 1d4 rounds or minutes of use).
 
-+-----------------+------------+-----------------+-----------------+
-| **Device **     | ##### Time | **Disable       | **Example**     |
-|                 |            | Device DC^1^**  |                 |
-+-----------------+------------+-----------------+-----------------+
-|                 |            |                 |                 |
-+-----------------+------------+-----------------+-----------------+
-| Simple          | 1 round    | 10              | Jam a lock      |
-+-----------------+------------+-----------------+-----------------+
-| Tricky          | 1d4 rounds | 15              | Sabotage a      |
-|                 |            |                 | wagon wheel     |
-+-----------------+------------+-----------------+-----------------+
-| Difficult       | 2d4 rounds | 20              | Disarm a trap,  |
-|                 |            |                 | reset a trap    |
-+-----------------+------------+-----------------+-----------------+
-| Wicked          | 2d4 rounds | 25              | Disarm a        |
-|                 |            |                 | complex trap,   |
-|                 |            |                 | cleverly        |
-|                 |            |                 | sabotage a      |
-|                 |            |                 | clockwork       |
-|                 |            |                 | device          |
-+-----------------+------------+-----------------+-----------------+
-|                 |            |                 |                 |
-+-----------------+------------+-----------------+-----------------+
-| 1If you attempt |            |                 |                 |
-| to leave behind |            |                 |                 |
-| no trace of     |            |                 |                 |
-| your tampering, |            |                 |                 |
-| add 5 to the    |            |                 |                 |
-| DC.             |            |                 |                 |
-+-----------------+------------+-----------------+-----------------+
-|                 |            |                 |                 |
-+-----------------+------------+-----------------+-----------------+
+| Device    | Time       | Disable Device DC¹ | Example
+| --------- | ---------- | ------------------ | -------
+| Simple    | 1 round    | 10                 | Jam a lock
+| Tricky    | 1d4 rounds | 15                 | Sabotage a wagon wheel
+| Difficult | 2d4 rounds | 20                 | Disarm a trap, reset a trap
+| Wicked    | 2d4 rounds | 25                 | Disarm a complex trap, cleverly sabotage a clockwork device
+
+1. If you attempt to leave behind no trace of your tampering, add 5 to the DC.
 
 **Action:** The amount of time needed to make a Disable Device check
 depends on the task, as noted above. Disabling a simple device takes 1
@@ -1097,7 +997,7 @@ Disable Device check. *Spike growth* and *spike stones*, however, create
 magic traps against which Disable Device checks do not succeed. See the
 individual spell descriptions for details.
 
-OTHER WAYS TO BEAT A TRAP
+#### OTHER WAYS TO BEAT A TRAP
 
 It's possible to ruin many traps without making a Disable Device check.
 
@@ -1212,37 +1112,20 @@ your head does not fit through.
 grapple check to get out of a grapple or out of a pinned condition (so
 that you're only grappling).
 
-+-----------------------------------+---------------------------------+
-| **Restraint **                    | ###### Escape Artist DC         |
-+-----------------------------------+---------------------------------+
-|                                   |                                 |
-+-----------------------------------+---------------------------------+
-| Ropes Binder's                    | Use Rope check at +10           |
-+-----------------------------------+---------------------------------+
-| Net, *animate rope *spell,        | 20                              |
-| *command plants *spell, *control  |                                 |
-| plants *spell, or *entangle       |                                 |
-| *spell                            |                                 |
-+-----------------------------------+---------------------------------+
-| Snare spell                       | 23                              |
-+-----------------------------------+---------------------------------+
-| Manacles                          | 30                              |
-+-----------------------------------+---------------------------------+
-| Tight space                       | 30                              |
-+-----------------------------------+---------------------------------+
-| Masterwork manacles               | 35                              |
-+-----------------------------------+---------------------------------+
-|                                   |                                 |
-+-----------------------------------+---------------------------------+
-| Grappler                          | Grappler's grapple check result |
-+-----------------------------------+---------------------------------+
-|                                   |                                 |
-+-----------------------------------+---------------------------------+
+| Restraint                                                                              | Escape Artist DC
+| -------------------------------------------------------------------------------------- | ----------------
+| Ropes Binder’s                                                                         | Use Rope check at +10
+| Net, animate rope spell, command plants spell, control plants spell, or entangle spell | 20
+| Snare spell                                                                            | 23
+| Manacles                                                                               | 30
+| Tight space                                                                            | 30
+| Masterwork manacles                                                                    | 35
+| Grappler                                                                               | Grappler’s grapple check result
 
 **Action:** Making an Escape Artist check to escape from rope bindings,
 manacles, or other restraints (except a grappler) requires 1 minute of
-work. Escaping from a net or an *animate rope, command plants, control
-plants, *or *entangle *spell is a full-round action. Escaping from a
+work. Escaping from a net or an *animate rope*, *command plants*, *control
+plants*, or *entangle* spell is a full-round action. Escaping from a
 grapple or pin is a standard action. Squeezing through a tight space
 takes at least 1 minute, maybe longer, depending on how long the space
 is.
@@ -1281,19 +1164,15 @@ Forgery check of the person who examines the document to check its
 authenticity. The examiner gains modifiers on his or her check if any of
 the conditions on the table below exist.
 
-  ------------------------------------------- -------------------------------------
-  **Condition **                              **Reader's Forgery Check Modifier**
-                                              
-  Type of document unknown to reader          --2
-  Type of document somewhat known to reader   +0
-  Type of document well known to reader       +2
-  Handwriting not known to reader             --2
-  Handwriting somewhat known to reader        +0
-  Handwriting intimately known to reader      +2
-                                              
-  Reader only casually reviews the document   --2
-                                              
-  ------------------------------------------- -------------------------------------
+| Condition                                 | Reader’s Forgery Check Modifier
+|------------------------------------------ | -------------------------------
+| Type of document unknown to reader        | –2
+| Type of document somewhat known to reader | +0
+| Type of document well known to reader     | +2
+| Handwriting not known to reader           | –2
+| Handwriting somewhat known to reader      | +0
+| Handwriting intimately known to reader    | +2
+| Reader only casually reviews the document | –2
 
 A document that contradicts procedure, orders, or previous knowledge, or
 one that requires sacrifice on the part of the person checking the
@@ -1351,52 +1230,22 @@ Information checks.
 
 **Check:** The DC depends on what you are trying to do.
 
-+------------------+------------------+------------------+--------+
-| ## Task          | ##               |                  |        |
-|                  | Handle Animal DC |                  |        |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| Handle an animal | 10               |                  |        |
-+------------------+------------------+------------------+--------+
-| "Push" an animal | 25               |                  |        |
-+------------------+------------------+------------------+--------+
-| Teach an animal  | 15 or 20**^1^**  |                  |        |
-| a trick          |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| Train an animal  | 15 or 20**^1^**  |                  |        |
-| for a general    |                  |                  |        |
-| purpose          |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| Rear a wild      | 15 + HD of       |                  |        |
-| animal           | animal           |                  |        |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| ^1^See the       |                  |                  |        |
-| specific trick   |                  |                  |        |
-| or purpose       |                  |                  |        |
-| below.           |                  |                  |        |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| **General        | **DC **          | **General        | **DC** |
-| Purpose **       |                  | Purpose **       |        |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| Combat riding    | 20               | Hunting          | 20     |
-+------------------+------------------+------------------+--------+
-| Fighting         | 20               | Performance      | 15     |
-+------------------+------------------+------------------+--------+
-| Guarding         | 20               | Riding           | 15     |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
-| Heavy labor      | 15               |                  |        |
-+------------------+------------------+------------------+--------+
-|                  |                  |                  |        |
-+------------------+------------------+------------------+--------+
+| Task                                  | Handle Animal DC
+| ------------------------------------- | ----------------
+| Handle an animal                      | 10
+| “Push” an animal                      | 25
+| Teach an animal a trick               | 15 or 20¹
+| Train an animal for a general purpose | 15 or 20¹
+| Rear a wild animal                    | 15 + HD of animal
+
+1.See the specific trick or purpose below.
+
+| General Purpose | DC | General Purpose | DC
+| --------------- | -- | --------------- | --
+| Combat riding   | 20 | Hunting         | 20
+| Fighting        | 20 | Performance     | 15
+| Guarding        | 20 | Riding          | 15
+| Heavy labor     | 15
 
 *Handle an Animal:* This task involves commanding an animal to perform a
 task or trick that it knows. If the animal is wounded or has taken any
@@ -1404,7 +1253,7 @@ nonlethal damage or ability score damage, the DC increases by 2. If your
 check succeeds, the animal performs the task or trick on its next
 action.
 
-"*Push" an Animal:* To push an animal means to get it to perform a task
+*"Push" an Animal:* To push an animal means to get it to perform a task
 or trick that it doesn't know but is physically capable of performing.
 This category also covers making an animal perform a forced march or
 forcing it to hustle for more than 1 hour between sleep cycles. If the
@@ -1463,7 +1312,7 @@ requires the animal to have the scent ability)
 
 Work (DC 15): The animal pulls or pushes a medium or heavy load.
 
-*Train an Animal for a Purpose: *Rather than teaching an animal
+*Train an Animal for a Purpose:* Rather than teaching an animal
 individual tricks, you can simply train it for a general purpose.
 Essentially, an animal's purpose represents a preselected set of known
 tricks that fit into a common scheme, such as guarding or heavy labor.
@@ -1509,7 +1358,7 @@ takes five weeks.
 Riding (DC 15): An animal trained to bear a rider knows the tricks come,
 heel, and stay. Training an animal for riding takes three weeks.
 
-*Rear a Wild Animal: *To rear an animal means to raise a wild creature
+*Rear a Wild Animal:* To rear an animal means to raise a wild creature
 from infancy so that it becomes domesticated. A handler can rear as many
 as three creatures of the same kind at once.
 
