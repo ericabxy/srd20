@@ -28,7 +28,7 @@ The original System Reference Documents are reformatted from Rich Text to Markdo
 
 __Races:__ [Humans](Races#humans), [Dwarves](Races#dwarves), [Elves](Races#elves), [Gnomes](Races#gnomes), Goblins, [Half-elves](Races#half-elves), [Half-orcs](Races#half-orcs), [Halflings](Races#halflings), Kobolds, Orcs.
 
-__Psionic Races:__ Blues, [Dromites](PsionicRaces#dromites), [Duergar](PsionicRaces#duergar), [Elans](PsionicRaces#elans), [Half-giants](PsionicRaces#half-giants), [Maenads](PsionicRaces#maenads), [Xephs](PsionicRaces#xephs)
+__Psionic Races:__ [Blues](PsionicMonsters#blue), [Dromites](PsionicRaces#dromites), [Duergar](PsionicRaces#duergar), [Elans](PsionicRaces#elans), [Half-giants](PsionicRaces#half-giants), [Maenads](PsionicRaces#maenads), [Xephs](PsionicRaces#xephs)
 
 __Classes:__ [Barbarian](ClassesI#barbarian), [Bard](ClassesI#bard), [Cleric](ClassesI#cleric), [Druid](ClassesI#druid), [Fighter](ClassesI#fighter), [Monk](ClassesI#monk)
 
