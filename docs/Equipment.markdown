@@ -254,20 +254,20 @@ the results together.
 *Exception:* Extra damage over and above a weapon's normal damage is not
 multiplied when you score a critical hit.
 
-x*2: *The weapon deals double damage on a critical hit.
+x*2:* The weapon deals double damage on a critical hit.
 
-x*3: *The weapon deals triple damage on a critical hit.
+x*3:* The weapon deals triple damage on a critical hit.
 
-x*3/*x*4: *One head of this double weapon deals triple damage on a
+x*3/*x*4:* One head of this double weapon deals triple damage on a
 critical hit. The other head deals quadruple damage on a critical hit.
 
-x*4: *The weapon deals quadruple damage on a critical hit.
+x*4:* The weapon deals quadruple damage on a critical hit.
 
-*19--20/*x*2: *The weapon scores a threat on a natural roll of 19 or 20
+*19--20/*x*2:* The weapon scores a threat on a natural roll of 19 or 20
 (instead of just 20) and deals double damage on a critical hit. (The
 weapon has a threat range of 19--20.)
 
-*18--20/*x*2: *The weapon scores a threat on a natural roll of 18, 19,
+*18--20/*x*2:* The weapon scores a threat on a natural roll of 18, 19,
 or 20 (instead of just 20) and deals double damage on a critical hit.
 (The weapon has a threat range of 18--20.)
 
@@ -300,37 +300,37 @@ descriptions for details.
 ### WEAPON DESCRIPTIONS
 
 | Table: Weapons
-| Simple Weapons         | Cost  | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight1 | Type2
-| ---------------------- | ----- | ------- | ------- | -------- | --------------- | ------- | -----
+| Simple Weapons          | Cost  | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight¹ | Type²
+| ----------------------- | ----- | ------- | ------- | -------- | --------------- | ------- | -----
 | *Unarmed Attacks*
-| Gauntlet               | 2 gp  | 1d2     | 1d3     | x2       | —               | 1 lb.   | Bludgeoning
-| Unarmed strike         | —     | 1d23    | 1d33    | x2       | —               | —       | Bludgeoning
+| Gauntlet                | 2 gp  | 1d2     | 1d3     | x2       | —               | 1 lb.   | Bludgeoning
+| Unarmed strike          | —     | 1d23    | 1d33    | x2       | —               | —       | Bludgeoning
 | *Light Melee Weapons*
-| Dagger                 | 2 gp  | 1d3     | 1d4     | 19–20/x2 | 10 ft.          | 1 lb.   | Piercing or slashing
-| Dagger, punching       | 2 gp  | 1d3     | 1d4     | x3       | —               | 1 lb.   | Piercing
-| Gauntlet, spiked       | 5 gp  | 1d3     | 1d4     | x2       | —               | 1 lb.   | Piercing
-| Mace, light            | 5 gp  | 1d4     | 1d6     | x2       | —               | 4 lb.   | Bludgeoning
-| Sickle                 | 6 gp  | 1d4     | 1d6     | x2       | —               | 2 lb.   | Slashing
-| *One-Handed Melee Weapons
-| Club                   | —     | 1d4     | 1d6     | x2       | 10 ft.          | 3 lb.   | Bludgeoning
-| Mace, heavy            | 12 gp | 1d6     | 1d8     | x2       | —               | 8 lb.   | Bludgeoning
-| Morningstar            | 8 gp  | 1d6     | 1d8     | x2       | —               | 6 lb.   | Bludgeoning and piercing
-| Shortspear             | 1 gp  | 1d4     | 1d6     | x2       | 20 ft.          | 3 lb.   | Piercing
+| Dagger                  | 2 gp  | 1d3     | 1d4     | 19–20/x2 | 10 ft.          | 1 lb.   | Piercing or slashing
+| Dagger, punching        | 2 gp  | 1d3     | 1d4     | x3       | —               | 1 lb.   | Piercing
+| Gauntlet, spiked        | 5 gp  | 1d3     | 1d4     | x2       | —               | 1 lb.   | Piercing
+| Mace, light             | 5 gp  | 1d4     | 1d6     | x2       | —               | 4 lb.   | Bludgeoning
+| Sickle                  | 6 gp  | 1d4     | 1d6     | x2       | —               | 2 lb.   | Slashing
+| *One-Handed Melee Weapons*
+| Club                    | —     | 1d4     | 1d6     | x2       | 10 ft.          | 3 lb.   | Bludgeoning
+| Mace, heavy             | 12 gp | 1d6     | 1d8     | x2       | —               | 8 lb.   | Bludgeoning
+| Morningstar             | 8 gp  | 1d6     | 1d8     | x2       | —               | 6 lb.   | Bludgeoning and piercing
+| Shortspear              | 1 gp  | 1d4     | 1d6     | x2       | 20 ft.          | 3 lb.   | Piercing
 | *Two-Handed Melee Weapons*
-| Longspear4             | 5 gp  | 1d6     | 1d8     | x3       | —               | 9 lb.   | Piercing
-| Quarterstaff5          | —     | 1d4/1d4 | 1d6/1d6 | x2       | —               | 4 lb.   | Bludgeoning
-| Spear                  | 2 gp  | 1d6     | 1d8     | x3       | 20 ft.          | 6 lb.   | Piercing
+| Longspear⁴              | 5 gp  | 1d6     | 1d8     | x3       | —               | 9 lb.   | Piercing
+| Quarterstaff⁵           | —     | 1d4/1d4 | 1d6/1d6 | x2       | —               | 4 lb.   | Bludgeoning
+| Spear                   | 2 gp  | 1d6     | 1d8     | x3       | 20 ft.          | 6 lb.   | Piercing
 | *Ranged Weapons*
-| Crossbow, heavy        | 50 gp | 1d8     | 1d10    | 19–20/x2 | 120 ft.         | 8 lb.   | Piercing
-| ..Bolts, crossbow (10) | 1 gp  | —       | —       | —        | —               | 1 lb.   | —
-| Crossbow, light        | 35 gp | 1d6     | 1d8     | 19–20/x2 | 80 ft.          | 4 lb.   | Piercing
-| ..Bolts, crossbow (10) | 1 gp  | —       | —       | —        | —               | 1 lb.   | —
-| Dart                   | 5 sp  | 1d3     | 1d4     | x2       | 20 ft.          | 1/2 lb. | Piercing
-| Javelin                | 1 gp  | 1d4     | 1d6     | x2       | 30 ft.          | 2 lb.   | Piercing
-| Sling                  | —     | 1d3     | 1d4     | x2       | 50 ft.          | 0 lb.   | Bludgeoning
-| ..Bullets, sling (10)  | 1 sp  | —       | —       | —        | —               | 5 lb.   | —
+| Crossbow, heavy         | 50 gp | 1d8     | 1d10    | 19–20/x2 | 120 ft.         | 8 lb.   | Piercing
+| ...Bolts, crossbow (10) | 1 gp  | —       | —       | —        | —               | 1 lb.   | —
+| Crossbow, light         | 35 gp | 1d6     | 1d8     | 19–20/x2 | 80 ft.          | 4 lb.   | Piercing
+| ...Bolts, crossbow (10) | 1 gp  | —       | —       | —        | —               | 1 lb.   | —
+| Dart                    | 5 sp  | 1d3     | 1d4     | x2       | 20 ft.          | 1/2 lb. | Piercing
+| Javelin                 | 1 gp  | 1d4     | 1d6     | x2       | 30 ft.          | 2 lb.   | Piercing
+| Sling                   | —     | 1d3     | 1d4     | x2       | 50 ft.          | 0 lb.   | Bludgeoning
+| ...Bullets, sling (10)  | 1 sp  | —       | —       | —        | —               | 5 lb.   | —
 
-| Martial Weapons      | Cost    | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight1 | Type2
+| Martial Weapons      | Cost    | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight¹ | Type²
 | -------------------- | ------- | ------- | ------- | -------- | --------------- | ------- | -----
 | *Light Melee Weapons*
 | Axe, throwing        | 8 gp    | 1d4     | 1d6     | x2       | 10 ft.          | 2 lb.   | Slashing
@@ -356,27 +356,28 @@ descriptions for details.
 | Warhammer            | 12 gp   | 1d6     | 1d8     | x3       | —               | 5 lb.   | Bludgeoning
 | *Two-Handed Melee Weapons*
 | Falchion             | 75 gp   | 1d6  | 2d4  | 18–20/x2 | — | 8 lb.  | Slashing
-| Glaive4              | 8 gp    | 1d8  | 1d10 | x3       | — | 10 lb. | Slashing
+| Glaive⁴              | 8 gp    | 1d8  | 1d10 | x3       | — | 10 lb. | Slashing
 | Greataxe             | 20 gp   | 1d10 | 1d12 | x3       | — | 12 lb. | Slashing
 | Greatclub            | 5 gp    | 1d8  | 1d10 | x2       | — | 8 lb.  | Bludgeoning
 | Flail, heavy         | 15 gp   | 1d8  | 1d10 | 19–20/x2 | — | 10 lb. | Bludgeoning
 | Greatsword           | 50 gp   | 1d10 | 2d6  | 19–20/x2 | — | 8 lb.  | Slashing
-| Guisarme4            | 9 gp    | 1d6  | 2d4  | x3       | — | 12 lb. | Slashing
+| Guisarme⁴            | 9 gp    | 1d6  | 2d4  | x3       | — | 12 lb. | Slashing
 | Halberd              | 10 gp   | 1d8  | 1d10 | x3       | — | 12 lb. | Piercing or slashing
-| Lance4               | 10 gp   | 1d6  | 1d8  | x3       | — | 10 lb. | Piercing
-| Ranseur4             | 10 gp   | 1d6  | 2d4  | x3       | — | 12 lb. | Piercing
+| Lance⁴               | 10 gp   | 1d6  | 1d8  | x3       | — | 10 lb. | Piercing
+| Ranseur⁴             | 10 gp   | 1d6  | 2d4  | x3       | — | 12 lb. | Piercing
 | Scythe               | 18 gp   | 1d6  | 2d4  | x4       | — | 10 lb. | Piercing or slashing
 | *Ranged Weapons*
 | Longbow              | 75 gp   | 1d6 | 1d8 | x3 | 100 ft. | 3 lb. | Piercing
-| ..Arrows (20)        | 1 gp    | —   | —   | —  | —       | 3 lb. | —
+| ...Arrows (20)       | 1 gp    | —   | —   | —  | —       | 3 lb. | —
 | Longbow, composite   | 100 gp  | 1d6 | 1d8 | x3 | 110 ft. | 3 lb. | Piercing
-| ..Arrows (20)        | 1 gp    | —   | —   | —  | —       | 3 lb. | —
+| ...Arrows (20)       | 1 gp    | —   | —   | —  | —       | 3 lb. | —
 | Shortbow             | 30 gp   | 1d4 | 1d6 | x3 | 60 ft.  | 2 lb. | Piercing
-| ..Arrows (20)        | 1 gp    | —   | —   | —  | —       | 3 lb. | —
+| ...Arrows (20)       | 1 gp    | —   | —   | —  | —       | 3 lb. | —
 | Shortbow, composite  | 75 gp   | 1d4 | 1d6 | x3 | 70 ft.  | 2 lb. | Piercing
-| ..Arrows (20)        | 1 gp    | —   | —   | —  | —       | 3 lb. | —
+| ...Arrows (20)       | 1 gp    | —   | —   | —  | —       | 3 lb. | —
 
-| Exotic Weapons            | Cost   | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight1 | Type2
+| Exotic Weapons            | Cost   | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight¹ | Type²
+| ------------------------- | ------ | ------- | ------- | -------- | --------------- | ------- | ----
 | *Light Melee Weapons*
 | Kama                      | 2 gp   | 1d4     | 1d6     | x2       | —               | 2 lb.   | Slashing
 | Nunchaku                  | 2 gp   | 1d4     | 1d6     | x2       | —               | 2 lb.   | Bludgeoning
@@ -387,20 +388,20 @@ descriptions for details.
 | Waraxe, dwarven           | 30 gp  | 1d8     | 1d10    | x3       | —               | 8 lb.   | Slashing
 | Whip4                     | 1 gp   | 1d23    | 1d33    | x2       |                 | 2 lb.   | Slashing
 | *Two-Handed Melee Weapons*
-| Axe, orc double5          | 60 gp  | 1d6/1d6 | 1d8/1d8 | x3       | —               | 15 lb.  | Slashing
-| Chain, spiked4            | 25 gp  | 1d6     | 2d4     | x2       | —               | 10 lb.  | Piercing
-| Flail, dire5              | 90 gp  | 1d6/1d6 | 1d8/1d8 | x2       | —               | 10 lb.  | Bludgeoning
-| Hammer, gnome hooked5     | 20 gp  | 1d6/1d4 | 1d8/1d6 | x3/x4    | —               | 6 lb.   | Bludgeoning and piercing
-| Sword, two-bladed5        | 100 gp | 1d6/1d6 | 1d8/1d8 | 19–20/x2 | —               | 10 lb.  | Slashing
-| Urgrosh, dwarven5         | 50 gp  | 1d6/1d4 | 1d8/1d6 | x3       | —               | 12 lb.
+| Axe, orc double⁵          | 60 gp  | 1d6/1d6 | 1d8/1d8 | x3       | —               | 15 lb.  | Slashing
+| Chain, spiked⁴            | 25 gp  | 1d6     | 2d4     | x2       | —               | 10 lb.  | Piercing
+| Flail, dire⁵              | 90 gp  | 1d6/1d6 | 1d8/1d8 | x2       | —               | 10 lb.  | Bludgeoning
+| Hammer, gnome hooked⁵     | 20 gp  | 1d6/1d4 | 1d8/1d6 | x3/x4    | —               | 6 lb.   | Bludgeoning and piercing
+| Sword, two-bladed⁵        | 100 gp | 1d6/1d6 | 1d8/1d8 | 19–20/x2 | —               | 10 lb.  | Slashing
+| Urgrosh, dwarven⁵         | 50 gp  | 1d6/1d4 | 1d8/1d6 | x3       | —               | 12 lb.
 | *Ranged Weapons*
 | Bolas                     | 5 gp   | 1d33    | 1d43    | x2       | 10 ft.          | 2 lb.   | Bludgeoning
 | Crossbow, hand            | 100 gp | 1d3     | 1d4     | 19–20/x2 | 30 ft.          | 2 lb.   | Piercing
-| Bolts (10)                | 1 gp   | —       | —       | —        | —               | 1 lb.   | —
+| ...Bolts (10)             | 1 gp   | —       | —       | —        | —               | 1 lb.   | —
 | Crossbow, repeating heavy | 400 gp | 1d8     | 1d10    | 19–20/x2 | 120 ft.         | 12 lb.  | Piercing
-| Bolts (5)                 | 1 gp   | —       | —       | —        | 1 lb.           | —       |
+| ...Bolts (5)              | 1 gp   | —       | —       | —        | 1 lb.           | —       |
 | Crossbow, repeating light | 250 gp | 1d6     | 1d8     | 19–20/x2 | 80 ft.
-| Bolts (5)                 | 1 gp   | —       | —       | —        | 1 lb.           | —       |
+| ...Bolts (5)              | 1 gp   | —       | —       | —        | 1 lb.           | —       |
 | Net                       | 20 gp  | —       | —       | 10 ft.   | 6 lb.           | —       |
 | Shuriken (5)              | 1 gp   | 1       | 1d2     | x2       | 10 ft.          | 1/2 lb. | Piercing
 
@@ -927,7 +928,7 @@ for Large characters weighs twice as much.
 
 **Table: Armor and Shields**
 
-| Armor                | Cost     | Armor/Shield Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | (30 ft.) | (20 ft.)     | Weight1
+| Armor                | Cost     | Armor/Shield Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | (30 ft.) | (20 ft.)     | Weight¹
 | -------------------- | -------- | ------------------ | ----------------- | ------------------- | --------------------------- | -------- | ------------ | -----
 | Light armor
 | Padded               | 5 gp     | +1                 | +8                | 0                   | 5%                          | 30 ft.   | 20 ft.       | 10 lb.
@@ -1116,7 +1117,7 @@ the armor type in question.
 |                  | Humanoid | Humanoid | Nonhumanoid | Nonhumanoid
 | Size             | Cost | Weight | Cost | Weight
 | ---------------- | ---- | ------ | ---- | ------
-| Tiny or smaller1 | x1/2 | x1/10  | x1   | x1/10
+| Tiny or smaller¹ | x1/2 | x1/10  | x1   | x1/10
 | Small            | x1   | x1/2   | x2   | x1/2
 | Medium           | x1   | x1     | x2   | x1
 | Large            | x2   | x2     | x4   | x2
@@ -1148,9 +1149,9 @@ move action.
 | Armor Type                                                      | Don           | Don Hastily | Remove
 | --------------------------------------------------------------- | ------------- | ----------- | ------
 | Shield (any)                                                    | 1 move action | n/a         | 1 move action
-| Padded, leather, hide, studded leather, or chain shirt          | 1 minute      | 5 rounds    | 1 minute1
-| Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutes1    | 1 minute    | 1 minute1
-| Half-plate or full plate                                        | 4 minutes2    | 4 minutes1  | 1d4+1 minutes1
+| Padded, leather, hide, studded leather, or chain shirt          | 1 minute      | 5 rounds    | 1 minute¹
+| Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutes¹    | 1 minute    | 1 minute¹
+| Half-plate or full plate                                        | 4 minutes²    | 4 minutes¹  | 1d4+1 minutes¹
 
 1. If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can't help each other don armor at the same time.
 2. The wearer must have help to don this armor. Without help, it can be donned only hastily.
@@ -1161,12 +1162,12 @@ move action.
 
 | Item                     | Cost     | Weight
 | ------------------------ | -------- | ------
-| Backpack (empty)         | 2 gp     | 2 lb.1
+| Backpack (empty)         | 2 gp     | 2 lb.¹
 | Barrel (empty)           | 2 gp     | 30 lb.
 | Basket (empty)           | 4 sp     | 1 lb.
-| Bedroll                  | 1 sp     | 5 lb.1
+| Bedroll                  | 1 sp     | 5 lb.¹
 | Bell                     | 1 gp     | —
-| Blanket, winter          | 5 sp     | 3 lb.1
+| Blanket, winter          | 5 sp     | 3 lb.¹
 | Block and tackle         | 5 gp     | 5 lb.
 | Bottle, wine, glass      | 2 gp     | —
 | Bucket (empty)           | 5 sp     | 2 lb.
@@ -1209,12 +1210,12 @@ move action.
 | Piton                    | 1 sp     | 1/2 lb.
 | Pole, 10-foot            | 2 sp     | 8 lb.
 | Pot, iron                | 5 sp     | 10 lb.
-| Pouch, belt (empty)      | 1 gp     | 1/2 lb.1
+| Pouch, belt (empty)      | 1 gp     | 1/2 lb.¹
 | Ram, portable            | 10 gp    | 20 lb.
-| Rations, trail (per day) | 5 sp     | 1 lb.1
+| Rations, trail (per day) | 5 sp     | 1 lb.¹
 | Rope, hempen (50 ft.)    | 1 gp     | 10 lb.
 | Rope, silk (50 ft.)      | 10 gp    | 5 lb.
-| Sack (empty)             | 1 sp     | 1/2 lb.1
+| Sack (empty)             | 1 sp     | 1/2 lb.¹
 | Sealing wax              | 1 gp     | 1 lb.
 | Sewing needle            | 5 sp     | —
 | Signal whistle           | 8 sp     | —
@@ -1223,10 +1224,10 @@ move action.
 | Soap (per lb.)           | 5 sp     | 1 lb.
 | Spade or shovel          | 2 gp     | 8 lb.
 | Spyglass                 | 1,000 gp | 1 lb.
-| Tent                     | 10 gp    | 20 lb.1
+| Tent                     | 10 gp    | 20 lb.¹
 | Torch                    | 1 cp     | 1 lb.
 | Vial, ink or potion      | 1 gp     | 1/10 lb.
-| Waterskin                | 1 gp     | 4 lb.1
+| Waterskin                | 1 gp     | 4 lb.¹
 | Whetstone                | 2 cp     | 1 lb.
 
 **Special Substances and Items**
@@ -1251,16 +1252,16 @@ move action.
 | Alchemist’s lab                | 500 gp   | 40 lb.
 | Artisan’s tools                | 5 gp     | 5 lb.
 | Artisan’s tools, masterwork    | 55 gp    | 5 lb.
-| Climber’s kit                  | 80 gp    | 5 lb.1
-| Disguise kit                   | 50 gp    | 8 lb.1
+| Climber’s kit                  | 80 gp    | 5 lb.¹
+| Disguise kit                   | 50 gp    | 8 lb.¹
 | Healer’s kit                   | 50 gp    | 1 lb.
 | Holly and mistletoe            | —        | —
 | Holy symbol, wooden            | 1 gp     | —
 | Holy symbol, silver            | 25 gp    | 1 lb.
 | Hourglass                      | 25 gp    | 1 lb.
 | Magnifying glass               | 100 gp   | —
-| Musical instrument, common     | 5 gp     | 3 lb.1
-| Musical instrument, masterwork | 100 gp   | 3 lb.1
+| Musical instrument, common     | 5 gp     | 3 lb.¹
+| Musical instrument, masterwork | 100 gp   | 3 lb.¹
 | Scale, merchant’s              | 2 gp     | 1 lb.
 | Spell component pouch          | 5 gp     | 2 lb.
 | Spellbook, wizard’s (blank)    | 15 gp    | 3 lb.
@@ -1273,18 +1274,18 @@ move action.
 
 | Item                 | Cost   | Weight
 | -------------------- | ------ | ------
-| Artisan’s outfit     | 1 gp   | 4 lb.1
-| Cleric’s vestments   | 5 gp   | 6 lb.1
-| Cold weather outfit  | 8 gp   | 7 lb.1
-| Courtier’s outfit    | 30 gp  | 6 lb.1
-| Entertainer’s outfit | 3 gp   | 4 lb.1
-| Explorer’s outfit    | 10 gp  | 8 lb.1
-| Monk’s outfit        | 5 gp   | 2 lb.1
-| Noble’s outfit       | 75 gp  | 10 lb.1
-| Peasant’s outfit     | 1 sp   | 2 lb.1
-| Royal outfit         | 200 gp | 15 lb.1
-| Scholar’s outfit     | 5 gp   | 6 lb.1
-| Traveler’s outfit    | 1 gp   | 5 lb.1
+| Artisan’s outfit     | 1 gp   | 4 lb.¹
+| Cleric’s vestments   | 5 gp   | 6 lb.¹
+| Cold weather outfit  | 8 gp   | 7 lb.¹
+| Courtier’s outfit    | 30 gp  | 6 lb.¹
+| Entertainer’s outfit | 3 gp   | 4 lb.¹
+| Explorer’s outfit    | 10 gp  | 8 lb.¹
+| Monk’s outfit        | 5 gp   | 2 lb.¹
+| Noble’s outfit       | 75 gp  | 10 lb.¹
+| Peasant’s outfit     | 1 sp   | 2 lb.¹
+| Royal outfit         | 200 gp | 15 lb.¹
+| Scholar’s outfit     | 5 gp   | 6 lb.¹
+| Traveler’s outfit    | 1 gp   | 5 lb.¹
 
 **Food, Drink, and Lodging**
 
@@ -1365,18 +1366,18 @@ move action.
 | Messenger           | 2 cp per mile
 | Road or gate toll   | 1 cp
 | Ship’s passage      | 1 sp per mile
-| Spell, 0-level      | Caster level x5 gp2
-| Spell, 1st-level    | Caster level x10 gp2
-| Spell, 2nd-level    | Caster level x20 gp2
-| Spell, 3rd-level    | Caster level x30 gp2
-| Spell, 4th-level    | Caster level x40 gp2
-| Spell, 5th-level    | Caster level x50 gp2
-| Spell, 6th-level    | Caster level x60 gp2
-| Spell, 7th-level    | Caster level x70 gp2
-| Spell, 8th-level    | Caster level x80 gp2
-| Spell, 9th-level    | Caster level x90 gp2
+| Spell, 0-level      | Caster level x5 gp²
+| Spell, 1st-level    | Caster level x10 gp²
+| Spell, 2nd-level    | Caster level x20 gp²
+| Spell, 3rd-level    | Caster level x30 gp²
+| Spell, 4th-level    | Caster level x40 gp²
+| Spell, 5th-level    | Caster level x50 gp²
+| Spell, 6th-level    | Caster level x60 gp²
+| Spell, 7th-level    | Caster level x70 gp²
+| Spell, 8th-level    | Caster level x80 gp²
+| Spell, 9th-level    | Caster level x90 gp²
 
-— No weight, or no weight worth noting.
+--- No weight, or no weight worth noting.
 
 1. These items weigh one-quarter this amount when made for Small characters. Containers for Small characters also carry one-quarter the normal amount.
 2. See spell description for additional costs. If the additional costs put the spell’s total cost above 3,000 gp, that spell is not generally available.
@@ -1534,7 +1535,7 @@ smothers the fire.
 Fortitude saving throws against poison for 1 hour.
 
 **Everburning Torch:** This otherwise normal torch has a *continual
-flame *spell cast upon it. An everburning torch clearly illuminates a
+flame* spell cast upon it. An everburning torch clearly illuminates a
 20-foot radius and provides shadowy illumination out to a 40-foot
 radius.
 
@@ -1558,7 +1559,7 @@ Temples to good deities sell holy water at cost (making no profit).
 
 **Smokestick:** This alchemically treated wooden stick instantly creates
 thick, opaque smoke when ignited. The smoke fills a 10- foot cube (treat
-the effect as a *fog cloud *spell, except that a moderate or stronger
+the effect as a *fog cloud* spell, except that a moderate or stronger
 wind dissipates the smoke in 1 round). The stick is consumed after 1
 round, and the smoke dissipates naturally.
 
@@ -1685,7 +1686,7 @@ job. It grants a +2 circumstance bonus on a related skill check (if
 any). Bonuses provided by multiple masterwork items used toward the same
 skill check do not stack.
 
-**Water Clock: **This large, bulky contrivance gives the time accurate
+**Water Clock:** This large, bulky contrivance gives the time accurate
 to within half an hour per day since it was last set. It requires a
 source of water, and it must be kept still because it marks time by the
 regulated flow of droplets of water.

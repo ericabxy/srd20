@@ -8,9 +8,9 @@ Backgrounds
 Extraordinary Abilities
 -----------------------
 
-Barbarian❌, Bard✓, Cleric❌, Druid✓, Fighter✓, Ranger✓.
+Barbarian✓, Bard✓, Cleric✓, Druid✓, Fighter✓, Ranger✓.
 
-[Animal Companion](AnimalCompanion), Aura, [Camouflage](Camouflage), [Combat Style](CombatStyle), Damage Reduction, [Evasion](Evasion), [Fast Movement](FastMovement), [Favored Enemy](FavoredEnemy), [Hide in Plain Sight](HideInPlainSight), [Nature Sense](NatureSense), Rage, [Resist Nature's Lure](ResistNaturesLure), [Sneak Attack](SneakAttack), [Swift Tracker](SwiftTracker), [Timeless Body](TimelessBody), [Trackless Step](TracklessStep), [Trap Sense](TrapSense),[Trapfinding](Trapfinding), [Uncanny Dodge](UncannyDodge), [Venom Immunity](VenomImmunity), [Wild Empathy](WildEmpathy), [Woodland Stride](Woodland Stride).
+AC Bonus, [Animal Companion](AnimalCompanion), [Aura](Aura), [Camouflage](Camouflage), [Combat Style](CombatStyle), Crippling Strike, [Damage Reduction](DamageReduction), Defensive Roll, Diamond Soul, Divine Health, [Evasion](Evasion), [Fast Movement](FastMovement), [Favored Enemy](FavoredEnemy), Flurry of Blows, [Hide in Plain Sight](HideInPlainSight), [Nature Sense](NatureSense), Opportunist, Purity of Body, [Rage](Rage), [Resist Nature's Lure](ResistNaturesLure), Slippery Mind, Slow Fall, [Sneak Attack](SneakAttack), Still Mind, [Swift Tracker](SwiftTracker), [Timeless Body](TimelessBody), Tongue of the Sun and Moon, [Trackless Step](TracklessStep), [Trap Sense](TrapSense),[Trapfinding](Trapfinding), [Uncanny Dodge](UncannyDodge), [Venom Immunity](VenomImmunity), [Wild Empathy](WildEmpathy), [Woodland Stride](Woodland Stride).
 
 Supernatural Abilities
 ----------------------
@@ -42,8 +42,12 @@ __Classes:__ [Barbarian](ClassesI#barbarian), [Bard](ClassesI#bard), [Cleric](Cl
 
 Combat I & Combat II
 
+### Universal Creatures
+
+Frankenstein's Monster, [The Wolfman](MonstersK-L#lycanthrope-werewolf-lord), [The Mummy](#mummylord), [The Creature](#sahuagin), [Nosferatu](MonstersT-Z#vampire)
+
 ### Unearthed Arcana
 
-[Variant Races](VariantRaces)
+[Arctic Backgrounds](ArcticBackgrounds), [Aquatic Backgrounds](AquaticBackgrounds), [Desert Backgrounds](DesertBackgrounds), [Jungle Backgrounds](JungleBackgrounds)
 
 ### Modern System Reference Document

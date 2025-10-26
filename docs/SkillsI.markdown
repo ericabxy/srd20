@@ -130,7 +130,7 @@ the same, roll again to break the tie.
 | Steal a coin pouch         | Sleight of Hand (Dex) | Spot (Wis)
 | Tie a prisoner securely    | Use Rope (Dex)        | Escape Artist (Dex)
 
-1 An Intimidate check is opposed by the target's level check, not a skill check. See the Intimidate skill description for more information.
+1. An Intimidate check is opposed by the target's level check, not a skill check. See the Intimidate skill description for more information.
 
 ##### Trying Again
 
@@ -297,7 +297,7 @@ The skill name line includes (in addition to the name of the skill) the
 following information.
 
 **Key Ability:** The abbreviation of the ability whose modifier applies
-to the skill check. *Exception: *Speak Language has "None" as its key
+to the skill check. *Exception:* Speak Language has "None" as its key
 ability because the use of this skill does not require a check.
 
 **Trained Only:** If this notation is included in the skill name line,
@@ -740,13 +740,13 @@ item to be created. The DC, your check results, and the price of the
 item determine how long it takes to make a particular item. The item's
 finished price also determines the cost of raw materials.
 
-In some cases, the *fabricate *spell can be used to achieve the results
+In some cases, the *fabricate* spell can be used to achieve the results
 of a Craft check with no actual check involved. However, you must make
 an appropriate Craft check when using the spell to make articles
 requiring a high degree of craftsmanship.
 
 A successful Craft check related to woodworking in conjunction with the
-casting of the *ironwood *spell enables you to make wooden items that
+casting of the *ironwood* spell enables you to make wooden items that
 have the strength of steel.
 
 When casting the spell *minor creation*, you must succeed on an
@@ -796,7 +796,7 @@ separate item in addition to the standard item. The masterwork component
 has its own price (300 gp for a weapon or 150 gp for a suit of armor or
 a shield) and a Craft DC of 20. Once both the standard component and the
 masterwork component are completed, the masterwork item is finished.
-*Note: *The cost you pay for the masterwork component is one-third of
+*Note:* The cost you pay for the masterwork component is one-third of
 the given amount, just as it is for the cost in raw materials.
 
 *Repairing Items:* Generally, you can repair an item by making checks

@@ -75,12 +75,12 @@ need to know about if your character is a spellcaster.
 
 The modifier is the number you apply to the die roll when your character
 tries to do something related to
-
 that ability. You also use the modifier with some numbers that aren't
 die rolls. A positive modifier is called a bonus, and a negative
 modifier is called a penalty.
 
-| Table: Ability Modifiers and Bonus Spells
+**Table: Ability Modifiers and Bonus Spells (by Spell Level)**
+
 | Score | Modifier | 0¹ | 1st¹ | 2nd¹ | 3rd¹ | 4th¹ | 5th¹ | 6th¹ | 7th¹ | 8th¹ | 9th¹
 | ----- | --------
 | 1²    | –5
@@ -108,19 +108,8 @@ modifier is called a penalty.
 | 44–45 | +17      | — | 5   | 4   | 4   | 4   | 4   | 3   | 3   | 3   | 3
 | etc. . .
 
-
-
-
-
-
-
-
-
-
-
-
-1. ——————————— Bonus Spells (by Spell Level) ——–————————
-2. ——————————— Can’t cast spells tied to this ability —————————
+1. Bonus Spells (by Spell Level)
+2. Can’t cast spells tied to this ability
 
 ### ABILITIES AND SPELLCASTERS
 

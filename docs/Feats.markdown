@@ -118,8 +118,8 @@ is a full-round action for a sorcerer or bard. (This isn't the same as a
 For a spell with a longer casting time, it takes an extra full-round
 action to cast the spell.
 
-**Spontaneous Casting and Metamagic Feats: **A cleric spontaneously
-casting a *cure *or *inflict *spell can cast a metamagic version of it
+**Spontaneous Casting and Metamagic Feats:** A cleric spontaneously
+casting a *cure* or *inflict* spell can cast a metamagic version of it
 instead. Extra time is also required in this case. Casting a 1-action
 metamagic spell spontaneously is a full-round action, and a spell with a
 longer casting time takes an extra full-round action to cast.
@@ -179,7 +179,7 @@ In general, having a feat twice is the same as having it once.
 or restricted from doing. If not having the feat causes no particular
 drawback, this entry is absent.
 
-**Special: **Additional facts about the feat that may be helpful when
+**Special:** Additional facts about the feat that may be helpful when
 you decide whether to acquire the feat.
 
 ### ACROBATIC \[GENERAL\]
@@ -195,7 +195,7 @@ checks.
 
 **Benefit:** You get a +2 bonus on all Listen checks and Spot checks.
 
-**Special: **The master of a familiar gains the benefit of the Alertness
+**Special:** The master of a familiar gains the benefit of the Alertness
 feat whenever the familiar is within arm's reach.
 
 ### ANIMAL AFFINITY \[GENERAL\]
@@ -710,7 +710,7 @@ Choose one type of weapon for which you have already selected Weapon
 Specialization. You can also choose unarmed strike or grapple as your
 weapon for purposes of this feat.
 
-** Prerequisites:** Proficiency with selected weapon, Greater Weapon
+**Prerequisites:** Proficiency with selected weapon, Greater Weapon
 Focus with selected weapon, Weapon Focus with selected weapon, Weapon
 Specialization with selected weapon, fighter level 12th.
 
@@ -815,7 +815,7 @@ with an alignment up to one step away on each of the alignment axes
 | Quasit         | Chaotic evil   | 7th
 
 Improved familiars otherwise use the rules for regular
-familiars*, *[with two exceptions: If the
+familiars, with two exceptions: If the
 creature's type is something other than animal, its type does not
 change; and improved familiars do not gain the ability to speak with
 other creatures of their kind (although many of them already have the
@@ -830,21 +830,19 @@ shown below.
 
 | Familiar                   | Type/Subtype | Arcane Spellcaster Level
 | -------------------------- | ------------ | ---
-| Celestial hawk1            | Good         | 3rd
-| Fiendish Tiny viper snake2 | Evil         | 3rd
+| Celestial hawk¹            | Good         | 3rd
+| Fiendish Tiny viper snake² | Evil         | 3rd
 | Air elemental, Small       | Air          | 5th
 | Earth elemental, Small     | Earth        | 5th
 | Fire elemental, Small      | Fire         | 5th
 | Shocker lizard             | Electricity  | 5th
 | Water elemental, Small     | Water        | 5th
-| Homunculus3                | Undead       | 7th
+| Homunculus³                | Undead       | 7th
 | Ice mephit                 | Cold         | 7th
 
-1 Or other celestial animal from the standard familiar list.
-
-2 Or other fiendish animal from the standard familiar list.
-
-3 The master must first create the homunculus, substituting ichor or another part of the master’s body for blood if necessary.
+1. Or other celestial animal from the standard familiar list.
+2. Or other fiendish animal from the standard familiar list.
+3. The master must first create the homunculus, substituting ichor or another part of the master’s body for blood if necessary.
 
 ### IMPROVED FEINT \[GENERAL\]
 
@@ -859,7 +857,7 @@ action.
 A fighter may select Improved Feint as one of his fighter bonus
 feats.
 
-IMPROVED GRAPPLE \[GENERAL\]
+### IMPROVED GRAPPLE \[GENERAL\]
 
 **Prerequisites:** Dex 13, Improved Unarmed
 Strike.
@@ -1025,7 +1023,7 @@ on you.
 In addition, your unarmed strikes can deal lethal or nonlethal damage,
 at your option.
 
-**Normal: **[Without this feat, you are considered unarmed
+**Normal:** Without this feat, you are considered unarmed
 when attacking with an unarmed strike, and you can deal only nonlethal
 damage with such an attack.
 
@@ -1089,9 +1087,10 @@ apply.
 | Moves around a lot                                            | –1
 | Caused the death of other followers                           | –1.
 
-| Leadership Score | Cohort Level | ——  | \*  | \*  | \*  | \*  | ——
-| -----------------| -------------| ---
-|                  |              | 1st | 2nd | 3rd | 4th | 5th | 6th
+**—— Number of Followers by Level ——**
+
+| Leadership Score | Cohort Level | 1st | 2nd | 3rd | 4th | 5th | 6th
+| -----------------| -------------| --- | --- | --- | --- | --- | ---
 | 1 or lower       | —            | —   | —   | —   | —   | —   | —
 | 2                | 1st          | —   | —   | —   | —   | —   | —
 | 3                | 2nd          | —   | —   | —   | —   | —   | —
@@ -1117,8 +1116,6 @@ apply.
 | 23               | 16th         | 90  | 9   | 5   | 3   | 2   | 1
 | 24               | 17th         | 110 | 11  | 6   | 3   | 2   | 1
 | 25 or higher     | 17th         | 135 | 13  | 7   | 4   | 2   | 2
-
-\* —— Number of Followers by Level ——
 
 *Leadership Score:* A character's base Leadership score
 equals his level plus any Charisma modifier. In order to take into
@@ -1288,7 +1285,7 @@ of his fighter bonus feats.
 
 ### NATURAL SPELL \[GENERAL\]
 
-**Prerequisites: **[Wis 13, wild shape
+**Prerequisites:** Wis 13, wild shape
 ability.
 
 **Benefit:** You can complete the verbal and somatic
@@ -1370,7 +1367,7 @@ Sleight of Hand skill) as a move action.
 A character who has selected this feat may throw weapons at his full
 normal rate of attacks (much like a character with a bow).
 
-**Normal: **[Without this feat, you may draw a weapon as a
+**Normal:** Without this feat, you may draw a weapon as a
 move action, or (if your base attack bonus is +1 or higher) as a free
 action as part of movement. Without this feat, you can draw a hidden
 weapon as a standard action.
@@ -1730,7 +1727,7 @@ table below.
 | Condition                                           | Survival DC Modifier
 | --------------------------------------------------- | ---
 | Every three creatures in the group being tracked    | –1
-| Size of creature or creatures being tracked:<sup>1</sup>
+| Size of creature or creatures being tracked:¹
 | ...Fine                                             | +8
 | ...Diminutive                                       | +4
 | ...Tiny                                             | +2
@@ -1743,15 +1740,14 @@ table below.
 | Every 24 hours since the trail was made             | +1
 | Every hour of rain since the trail was made         | +1
 | Fresh snow cover since the trail was made           | +10
-| Poor visibility:<sup>2</sup>
+| Poor visibility:²
 | ...Overcast or moonless night                       | +6
 | ...Moonlight                                        | +3
 | ...Fog or precipitation                             | +3
 | Tracked party hides trail (and moves at half speed) | +5
 
-1 For a group of mixed sizes, apply only the modifier for the largest size category.
-
-2 Apply only the largest modifier from this category.
+1. For a group of mixed sizes, apply only the modifier for the largest size category.
+2. Apply only the largest modifier from this category.
 
 If you fail a Survival check, you can retry after 1 hour (outdoors) or
 10 minutes (indoors) of searching.
@@ -1898,7 +1894,7 @@ of his fighter bonus feats.
 
 **Benefit:** You can alter a burst, emanation, line, or
 spread shaped spell to increase its area. Any numeric measurements of
-the spell's area increase by 100%.A widened spell uses up a spell slot
+the spell's area increase by 100%. A widened spell uses up a spell slot
 three levels higher than the spell's actual level.
 
 Spells that do not have an area of one of these four sorts are not

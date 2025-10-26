@@ -2,7 +2,7 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
-title: CLASSES
+title: Classes I
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -508,7 +508,7 @@ weapon falls into that category.
 
 **Aura (Ex):** A cleric of a chaotic, evil, good, or lawful deity has a
 particularly powerful aura corresponding to the deity's alignment (see
-the *detect evil *spell for details). Clerics who don't worship a
+the *detect evil* spell for details). Clerics who don't worship a
 specific deity but choose the Chaotic, Evil, Good, or Lawful domain have
 a similarly powerful aura of the corresponding alignment.
 
@@ -561,8 +561,8 @@ his domain spell slot.
 **Spontaneous Casting:** A good cleric (or a neutral cleric of a good
 deity) can channel stored spell energy into healing spells that the
 cleric did not prepare ahead of time. The cleric can "lose" any prepared
-spell that is not a domain spell in order to cast any *cure *spell of
-the same spell level or lower (a *cure *spell is any spell with "cure"
+spell that is not a domain spell in order to cast any *cure* spell of
+the same spell level or lower (a *cure* spell is any spell with "cure"
 in its name).
 
 An evil cleric (or a neutral cleric of an evil deity), can't convert
@@ -589,7 +589,7 @@ worships an evil deity) instead rebukes or commands such creatures. A
 neutral cleric of a neutral deity must choose whether his turning
 ability functions as that of a good cleric or an evil cleric. Once this
 choice is made, it cannot be reversed. This decision also determines
-whether the cleric can cast spontaneous *cure *or *inflict *spells (see
+whether the cleric can cast spontaneous *cure* or *inflict* spells (see
 above).
 
 A cleric may attempt to turn undead a number of times per day equal to

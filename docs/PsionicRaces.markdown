@@ -2,8 +2,7 @@
 author: asmith
 company: Wizards of the Coast
 operator: asmith
-title: This material is Open Game Content, and is licensed for public
-  use under the terms of the Open Game License v1
+title: Psionic Races
 ---
 
 This material is Open Game Content, and is licensed for public use under
@@ -141,7 +140,7 @@ Draconic, Giant, Goblin, Orc, Terran.
 • --2 Charisma
 
 • Aberration: Elans are not subject to spells or effects that affect
-humanoids only, such as *charm person *or *dominate person*.
+humanoids only, such as *charm person* or *dominate person*.
 
 • Medium: As Medium creatures, elans have no special bonuses or
 penalties due to their size.
@@ -306,7 +305,7 @@ Gnoll, Goblin, Halfling, Sylvan.
 | Xeph       | 18 years  | +1d4 | +2d4 | +2d6
 
 | Table: Aging Effects
-| Race       | Middle Age1 | Old2      | Venerable3  | Maximum Age
+| Race       | Middle Age¹ | Old²      | Venerable³  | Maximum Age
 | ---------- | ----------- | --------- | ----------- | ---
 | Dromite    | 30 years    | 55 years  | 75 years    | +2d20 years
 | Duergar    | 125 years   | 188 years | 250 years   | +2d% years
