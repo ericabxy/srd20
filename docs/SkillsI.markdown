@@ -2,8 +2,7 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: asmith
-title: idda the rogue can walk quietly up to a door, put her ear to it,
-  and
+title: Skills I
 ---
 
 This material is Open Game Content, and is licensed for public use under
