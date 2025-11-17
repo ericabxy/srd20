@@ -19,10 +19,15 @@ the terms of the Open Game License v1.0a.
 **Class Skills**
 
 The barbarian's class skills (and the key ability for each skill) are
-Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump
-(Str), Listen (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
+[Craft (Int)](SkillsI#craft-int),
+[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Intimidate (Cha)](SkillsII#intimidate-cha),
+[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
+[Listen (Wis)](SkillsII#listen-wis), [Ride (Dex)](SkillsII#ride-dex),
+[Survival (Wis)](SkillsII#survival-wis), and [Swim (Str)](SkillsII#swim-str-armor-check-penalty).
 
-**Skill Points at 1st Level:** (4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) x4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
@@ -163,13 +168,31 @@ class (damage reduction, fast movement, trap sense, and uncanny dodge).
 ### Class Skills
 
 The bard's class skills (and the key ability for each skill) are
-Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration
-(Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise
-(Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump
-(Str), Knowledge (all skills, taken individually) (Int), Listen (Wis),
-Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive
-(Wis), Sleight of Hand (Dex), Speak Language (n/a), Spellcraft (Int),
-Swim (Str), Tumble (Dex), and Use Magic Device (Cha).
+[Appraise (Int)](SkillsI#appraise-int),
+[Balance (Dex)](SkillsI#balance-dex-armor-check-penalty),
+[Bluff (Cha)](SkillsI#bluff-cha),
+[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
+[Concentration (Con)](SkillsI#concentration-con),
+[Craft (Int)](SkillsI#craft-int),
+[Decipher Script (Int)](SkillsI#decipher-script-int-trained-only),
+[Diplomacy (Cha)](SkillsI#diplomacy-cha),
+[Disguise (Cha)](SkillsI#disguise-cha),
+[Escape Artist (Dex)](SkillsI#escape-artist-dex),
+[Gather Information (Cha)](SkillsI#gather-information-cha),
+[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
+[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
+[Knowledge (all skills, taken individually) (Int)](SkillsII#knowledge-int-trained-only),
+[Listen (Wis)](SkillsII#listen-wis),
+[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty),
+[Perform (Cha)](SkillsII#perform-cha),
+[Profession (Wis)](SkillsII#profession-wis-trained-only),
+[Sense Motive (Wis)](SkillsII#sense-motive-wis),
+[Sleight of Hand (Dex)](SkillsII#sleight-of-hand-dex-trained-only-armor-check-penalty),
+[Speak Language (n/a)](SkillsII#speak-language-none-trained-only),
+[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only),
+[Swim (Str)](SkillsII#swim-str-armor-check-penalty),
+[Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty), and
+[Use Magic Device (Cha)](SkillsII#use-magic-device-cha-trained-only).
 
 **Skill Points at 1st Level:** (6 + Int modifier) x4.
 
@@ -449,16 +472,24 @@ unless his deity's alignment is also neutral.
 ### Class Skills
 
 The cleric's class skills (and the key ability for each skill) are
-Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge
-(arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int),
-Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
+[Concentration (Con)](SkillsI#concentration-con),
+[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
+[Heal (Wis)](SkillsII#heal-wis),
+[Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
+[Knowledge (history) (Int)](SkillsII#knowledge-int-trained-only),
+[Knowledge (religion) (Int)](SkillsII#knowledge-int-trained-only),
+[Knowledge (the planes) (Int)](SkillsII#knowledge-int-trained-only),
+[Profession (Wis)](SkillsII#profession-wis-trained-only), and
+[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only).
 
 **Domains and Class Skills:** A cleric who chooses the Animal or Plant
 domain adds Knowledge (nature) (Int) to the cleric class skills listed
 above. A cleric who chooses the Knowledge domain adds all Knowledge
 (Int) skills to the list. A cleric who chooses the Travel domain adds
-Survival (Wis) to the list. A cleric who chooses the Trickery domain
-adds Bluff (Cha), Disguise (Cha), and Hide (Dex) to the list. See Deity,
+[Survival (Wis)](SkillsII#survival-wis) to the list. A cleric who chooses the
+Trickery domain adds [Bluff (Cha)](SkillsI#bluff-cha),
+[Disguise (Cha)](SkillsI#disguise-cha), and
+[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty) to the list. See Deity,
 Domains, and Domain Spells, below, for more information.
 
 **Skill Points at 1st Level:** (2 + Int modifier) x4.
@@ -619,10 +650,17 @@ or neutral evil.
 ### Class Skills
 
 The druid's class skills (and the key ability for each skill) are
-Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha),
-Heal (Wis), Knowledge (nature) (Int), Listen (Wis), Profession (Wis),
-Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim
-(Str).
+[Concentration (Con)](SkillsI#concentration-con),
+[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
+[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Heal (Wis)](SkillsII#heal-wis),
+[Knowledge (nature) (Int)](SkillsII#knowledge-int-trained-only),
+[Listen (Wis)](SkillsII#listen-wis),
+[Profession (Wis)](SkillsII#profession-wis-trained-only),
+[Ride (Dex)](SkillsII#ride-dex),
+[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only),
+[Spot (Wis)](SkillsII#spot-wis), [Survival (Wis)](SkillsII#survival-wis), and
+[Swim (Str)](SkillsII#swim-str-armor-check-penalty).
 
 **Skill Points at 1st Level:** (4 + Int modifier) x4.
 
@@ -1035,8 +1073,13 @@ Tyrannosaurus (dinosaur)
 ### Class Skills
 
 The fighter's class skills (and the key ability for each skill) are
-Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump
-(Str), Ride (Dex), and Swim (Str).
+[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
+[Craft (Int)](SkillsI#craft-int),
+[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Intimidate (Cha)](SkillsII#intimidate-cha),
+[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
+[Ride (Dex)](SkillsII#ride-dex), and
+[Swim (Str)](SkillsII#swim-str-armor-check-penalty).
 
 **Skill Points at 1st Level:** (2 + Int modifier) x4.
 
@@ -1096,12 +1139,23 @@ of fighter bonus feats when choosing these feats.
 
 ### Class Skills
 
-The monk's class skills (and the key ability for each skill) are Balance
-(Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha),
-Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int),
-Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform
-(Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), and
-Tumble (Dex).
+The monk's class skills (and the key ability for each skill) are
+[Balance (Dex)](SkillsI#balance-dex-armor-check-penalty),
+[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
+[Concentration (Con)](SkillsI#concentration-con),
+[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
+[Escape Artist (Dex)](SkillsI#escape-artist-dex),
+[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
+[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
+[Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
+[Knowledge (religion) (Int)](SkillsII#knowledge-int-trained-only),
+[Listen (Wis)](SkillsII#listen-wis),
+[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty), Perform
+(Cha), [Profession (Wis)](SkillsII#profession-wis-trained-only),
+[Sense Motive (Wis)](SkillsII#sense-motive-wis),
+[Spot (Wis)](SkillsII#spot-wis),
+[Swim (Str)](SkillsII#swim-str-armor-check-penalty), and
+[Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty).
 
 **Skill Points at 1st Level:** (4 + Int modifier) x4.
 
