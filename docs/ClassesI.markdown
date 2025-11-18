@@ -2,13 +2,10 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
-title: Classes I
+title: Character Classes I
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
-
-# CLASSES I
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 ## BARBARIAN
 
@@ -31,7 +28,8 @@ The barbarian's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-| Table: The Barbarian
+#### Table: The Barbarian
+
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
 | ----- | ----------------- | --------- | -------- | --------- | -------
 | 1st   | +1                | +2        | +0       | +0        | Fast movement, illiteracy, rage 1/day
@@ -194,11 +192,12 @@ The bard's class skills (and the key ability for each skill) are
 [Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty), and
 [Use Magic Device (Cha)](SkillsII#use-magic-device-cha-trained-only).
 
-**Skill Points at 1st Level:** (6 + Int modifier) x4.
+**Skill Points at 1st Level:** (6 + Int modifier) &times;4.
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
-| Table: The Bard
+#### Table: The Bard
+
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                    | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
 | ----- | ----------------- | --------- | -------- | --------- | -------                                                                    | - | --- | --- | --- | --- | --- | ---
 | 1st   | +0                | +0        | +2       | +2        | Bardic music, bardic knowledge, countersong, fascinate, inspire courage +1 | 2 | —   | —   | —   | —   | —   | —
@@ -222,7 +221,8 @@ The bard's class skills (and the key ability for each skill) are
 | 19th  | +14/+9/+4         | +6        | +11      | +11       |                                                                            | 4 | 4   | 4   | 4   | 4   | 4   | 3
 | 20th  | +15/+10/+5        | +6        | +12      | +12       | Inspire courage +4                                                         | 4 | 4   | 4   | 4   | 4   | 4   | 4
 
-| Table: Bard Spells Known
+#### Table: Bard Spells Known
+
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
 | ----- | - | --- | --- | --- | --- | --- | ---
 | 1st   | 4 | —   | —   | —   | —   | —   | —
@@ -496,30 +496,30 @@ Domains, and Domain Spells, below, for more information.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-**Table: The Cleric**
+#### Table: The Cleric
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
-| ----- | ----------------- | --------- | -------- | --------- | -------               | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| 1st   | +0                | +2        | +0       | +2        | Turn or rebuke undead | 3 | 1+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 2nd   | +1                | +3        | +0       | +3        |                       | 4 | 2+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 3rd   | +2                | +3        | +1       | +3        |                       | 4 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —
-| 4th   | +3                | +4        | +1       | +4        |                       | 5 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —
-| 5th   | +3                | +4        | +1       | +4        |                       | 5 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —
-| 6th   | +4                | +5        | +2       | +5        |                       | 5 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —
-| 7th   | +5                | +5        | +2       | +5        |                       | 6 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —
-| 8th   | +6/+1             | +6        | +2       | +6        |                       | 6 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —
-| 9th   | +6/+1             | +6        | +3       | +6        |                       | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —
-| 10th  | +7/+2             | +7        | +3       | +7        |                       | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —
-| 11th  | +8/+3             | +7        | +3       | +7        |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —
-| 12th  | +9/+4             | +8        | +4       | +8        |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —
-| 13th  | +9/+4             | +8        | +4       | +8        |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —
-| 14th  | +10/+5            | +9        | +4       | +9        |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —
-| 15th  | +11/+6/+1         | +9        | +5       | +9        |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —
-| 16th  | +12/+7/+2         | +10       | +5       | +10       |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —
-| 17th  | +12/+7/+2         | +10       | +5       | +10       |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1
-| 18th  | +13/+8/+3         | +11       | +6       | +11       |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1
-| 19th  | +14/+9/+4         | +11       | +6       | +11       |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1
-| 20th  | +15/+10/+5        | +12       | +6       | +12       |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1
+| Level | Attack Bonus | Fort | Ref | Will | Special               | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
+| ----- | ------------ | ---- | --- | ---- | -------               | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| 1st   | +0           | +2   | +0  | +2   | Turn or rebuke undead | 3 | 1+1 | —   | —   | —   | —   | —   | —   | —   | —
+| 2nd   | +1           | +3   | +0  | +3   |                       | 4 | 2+1 | —   | —   | —   | —   | —   | —   | —   | —
+| 3rd   | +2           | +3   | +1  | +3   |                       | 4 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —
+| 4th   | +3           | +4   | +1  | +4   |                       | 5 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —
+| 5th   | +3           | +4   | +1  | +4   |                       | 5 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —
+| 6th   | +4           | +5   | +2  | +5   |                       | 5 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —
+| 7th   | +5           | +5   | +2  | +5   |                       | 6 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —
+| 8th   | +6/+1        | +6   | +2  | +6   |                       | 6 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —
+| 9th   | +6/+1        | +6   | +3  | +6   |                       | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —
+| 10th  | +7/+2        | +7   | +3  | +7   |                       | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —
+| 11th  | +8/+3        | +7   | +3  | +7   |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —
+| 12th  | +9/+4        | +8   | +4  | +8   |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —
+| 13th  | +9/+4        | +8   | +4  | +8   |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —
+| 14th  | +10/+5       | +9   | +4  | +9   |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —
+| 15th  | +11/+6/+1    | +9   | +5  | +9   |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —
+| 16th  | +12/+7/+2    | +10  | +5  | +10  |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —
+| 17th  | +12/+7/+2    | +10  | +5  | +10  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1
+| 18th  | +13/+8/+3    | +11  | +6  | +11  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1
+| 19th  | +14/+9/+4    | +11  | +6  | +11  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1
+| 20th  | +15/+10/+5   | +12  | +6  | +12  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1
 
 1. In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.
 The “+1” in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.
@@ -666,7 +666,7 @@ The druid's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-**Table: The Druid**
+#### Table: The Druid
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                      | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
 | ----- | ----------------- | --------- | -------- | --------- | -------                                      | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -878,7 +878,7 @@ abilities (including her animal companion, but not including weapon,
 armor, and shield proficiencies). She cannot thereafter gain levels as a
 druid until she atones (see the *atonement* spell description).
 
-THE DRUID'S ANIMAL COMPANION
+#### THE DRUID'S ANIMAL COMPANION
 
 A druid's animal companion is different from a normal animal of its kind
 in many ways. A druid's animal companion is superior to a normal animal
@@ -963,7 +963,7 @@ allows a Reflex saving throw for half damage, an animal companion takes
 no damage if it makes a successful saving throw and only half damage if
 the saving throw fails.
 
-ALTERNATIVE ANIMAL COMPANIONS
+#### ALTERNATIVE ANIMAL COMPANIONS
 
 A druid of sufficiently high level can select her animal companion from
 one of the following lists, applying the indicated adjustment to the
@@ -1085,7 +1085,7 @@ The fighter's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-**Table: The Fighter**
+#### Table: The Fighter
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
 | ----- | ----------------- | --------- | -------- | --------- | -------
@@ -1161,30 +1161,30 @@ The monk's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-**Table: The Monk**
+#### Table: The Monk
 
-| Level   | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Flurry of Blows Attack Bonus | Unarmed Damage1 | AC Bonus | Unarmored Speed Bonus
-| ------- | ----------------- | --------- | -------- | --------- | -------                                     | ---------------------------- | --------------- | -------- | ---------------------
-| 1st     | +0                | +2        | +2       | +2        | Bonus feat, flurry of blows, unarmed strike | –2/–2                        | 1d6             | +0       | +0 ft.
-| 2nd     | +1                | +3        | +3       | +3        | Bonus feat, evasion                         | –1/–1                        | 1d6             | +0       | +0 ft.
-| 3rd     | +2                | +3        | +3       | +3        | Still mind                                  | +0/+0                        | 1d6             | +0       | +10 ft.
-| 4th     | +3                | +4        | +4       | +4        | Ki strike (magic), slow fall 20 ft.         | +1/+1                        | 1d8             | +0       | +10 ft.
-| 5th     | +3                | +4        | +4       | +4        | Purity of body                              | +2/+2                        | 1d8             | +1       | +10 ft.
-| 6th     | +4                | +5        | +5       | +5        | Bonus feat, slow fall 30 ft.                | +3/+3                        | 1d8             | +1       | +20 ft.
-| 7th     | +5                | +5        | +5       | +5        | Wholeness of body                           | +4/+4                        | 1d8             | +1       | +20 ft.
-| 8th     | +6/+1             | +6        | +6       | +6        | Slow fall 40 ft.                            | +5/+5/+0                     | 1d10            | +1       | +20 ft.
-| 9th     | +6/+1             | +6        | +6       | +6        | Improved evasion                            | +6/+6/+1                     | 1d10            | +1       | +30 ft.
-| 10th    | +7/+2             | +7        | +7       | +7        | Ki strike (lawful), slow fall 50 ft.        | +7/+7/+2                     | 1d10            | +2       | +30 ft.
-| 11th    | +8/+3             | +7        | +7       | +7        | Diamond body, greater flurry                | +8/+8/+8/+3                  | 1d10            | +2       | +30 ft.
-| 12th    | +9/+4             | +8        | +8       | +8        | Abundant step, slow fall 60 ft.             | +9/+9/+9/+4                  | 2d6             | +2       | +40 ft.
-| 13th    | +9/+4             | +8        | +8       | +8        | Diamond soul                                | +9/+9/+9/+4                  | 2d6             | +2       | +40 ft.
-| 14th    | +10/+5            | +9        | +9       | +9        | Slow fall 70 ft.                            | +10/+10/+10/+5               | 2d6             | +2       | +40 ft.
-| 15th    | +11/+6/+1         | +9        | +9       | +9        | Quivering palm                              | +11/+11/+11/+6/+1            | 2d6             | +3       | +50 ft.
-| 16th    | +12/+7/+2         | +10       | +10      | +10       | Ki strike (adamantine), slow fall 80 ft.    | +12/+12/+12/+7/+2            | 2d8             | +3       | +50 ft.
-| 17th    | +12/+7/+2         | +10       | +10      | +10       | Timeless body, tongue of the sun and moon   | +12/+12/+12/+7/+2            | 2d8             | +3       | +50 ft.
-| 18th    | +13/+8/+3         | +11       | +11      | +11       | Slow fall 90 ft.                            | +13/+13/+13/+8/+3            | 2d8             | +3       | +60 ft.
-| 19th    | +14/+9/+4         | +11       | +11      | +11       | Empty body                                  | +14/+14/+14/+9/+4            | 2d8             | +3       | +60 ft.
-| 20th    | +15/+10/+5        | +12       | +12      | +12       | Perfect self, slow fall any distance        | +15/+15/+15/+10/+5           | 2d10            | +4       | +60 ft.
+| Level | Attack Bonus | Fort | Ref | Will | Special                                     | Flurry of Blows    | Unarmed Damage¹ | AC Bonus | Unarmored Speed Bonus
+| ----- | ------------ | ---- | --- | ---- | -------                                     | ------------------ | --------------- | -------- | ---------------------
+| 1st   | +0           | +2   | +2  | +2   | Bonus feat, flurry of blows, unarmed strike | –2/–2              | 1d6             | +0       | +0 ft.
+| 2nd   | +1           | +3   | +3  | +3   | Bonus feat, evasion                         | –1/–1              | 1d6             | +0       | +0 ft.
+| 3rd   | +2           | +3   | +3  | +3   | Still mind                                  | +0/+0              | 1d6             | +0       | +10 ft.
+| 4th   | +3           | +4   | +4  | +4   | Ki strike (magic), slow fall 20 ft.         | +1/+1              | 1d8             | +0       | +10 ft.
+| 5th   | +3           | +4   | +4  | +4   | Purity of body                              | +2/+2              | 1d8             | +1       | +10 ft.
+| 6th   | +4           | +5   | +5  | +5   | Bonus feat, slow fall 30 ft.                | +3/+3              | 1d8             | +1       | +20 ft.
+| 7th   | +5           | +5   | +5  | +5   | Wholeness of body                           | +4/+4              | 1d8             | +1       | +20 ft.
+| 8th   | +6/+1        | +6   | +6  | +6   | Slow fall 40 ft.                            | +5/+5/+0           | 1d10            | +1       | +20 ft.
+| 9th   | +6/+1        | +6   | +6  | +6   | Improved evasion                            | +6/+6/+1           | 1d10            | +1       | +30 ft.
+| 10th  | +7/+2        | +7   | +7  | +7   | Ki strike (lawful), slow fall 50 ft.        | +7/+7/+2           | 1d10            | +2       | +30 ft.
+| 11th  | +8/+3        | +7   | +7  | +7   | Diamond body, greater flurry                | +8/+8/+8/+3        | 1d10            | +2       | +30 ft.
+| 12th  | +9/+4        | +8   | +8  | +8   | Abundant step, slow fall 60 ft.             | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
+| 13th  | +9/+4        | +8   | +8  | +8   | Diamond soul                                | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
+| 14th  | +10/+5       | +9   | +9  | +9   | Slow fall 70 ft.                            | +10/+10/+10/+5     | 2d6             | +2       | +40 ft.
+| 15th  | +11/+6/+1    | +9   | +9  | +9   | Quivering palm                              | +11/+11/+11/+6/+1  | 2d6             | +3       | +50 ft.
+| 16th  | +12/+7/+2    | +10  | +10 | +10  | Ki strike (adamantine), slow fall 80 ft.    | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
+| 17th  | +12/+7/+2    | +10  | +10 | +10  | Timeless body, tongue of the sun and moon   | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
+| 18th  | +13/+8/+3    | +11  | +11 | +11  | Slow fall 90 ft.                            | +13/+13/+13/+8/+3  | 2d8             | +3       | +60 ft.
+| 19th  | +14/+9/+4    | +11  | +11 | +11  | Empty body                                  | +14/+14/+14/+9/+4  | 2d8             | +3       | +60 ft.
+| 20th  | +15/+10/+5   | +12  | +12 | +12  | Perfect self, slow fall any distance        | +15/+15/+15/+10/+5 | 2d10            | +4       | +60 ft.
 
 1. The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.
 
@@ -1264,7 +1264,7 @@ The Monk is for Medium monks. A Small monk deals less damage than the
 amount given there with her unarmed attacks, while a Large monk deals
 more damage; see Table: Small or Large Monk Unarmed Damage.
 
-**Table: Small or Large Monk Unarmed Damage**
+#### Table: Small or Large Monk Unarmed Damage
 
 | Level      | Damage (Small Monk) | Damage (Large Monk)
 | ---------- | ------------------- | -------------------
@@ -1298,7 +1298,7 @@ saving throws against spells and effects from the school of enchantment.
 **_Ki_ Strike (Su):** At 4th level, a monk's unarmed attacks are
 empowered with *ki. *Her unarmed attacks are treated as magic weapons
 for the purpose of dealing damage to creatures with damage reduction.
-*Ki *strike improves with the character's monk level. At 10th level, her
+*Ki* strike improves with the character's monk level. At 10th level, her
 unarmed attacks are also treated as lawful weapons for the purpose of
 dealing damage to creatures with damage reduction. At 16th level, her
 unarmed attacks are treated as adamantine weapons for the purpose of

@@ -1,7 +1,8 @@
 Jungle Races
 ------------
 
-| Table: Jungle Backgrounds
+#### Table: Jungle Backgrounds
+
 | Background                | Ability Adjustments                                     | Favored Class
 | ------------------------- | ------------------------------------------------------- | -------------
 | Dwarf                     | +2 Constitution, --2 Charisma                           | Ranger

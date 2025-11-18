@@ -2,10 +2,10 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
-title: Classes II
+title: Character Classes II
 ---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 ## PALADIN
 
@@ -30,31 +30,32 @@ The paladin's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-**Table: The Paladin**
+#### Table: The Paladin
 
-|       |                   |           |          |           |                                             |  —Spells per Day—  ||||
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | 1st | 2nd | 3rd | 4th |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------- | :-: | :-: | :-: | :-: |
-| 1st   | +1                | +2        | +0       | +0        | Aura of good, detect evil, smite evil 1/day | --- | --- | --- | ---
-| 2nd   | +2                | +3        | +0       | +0        | Divine grace, lay on hands                  | --- | --- | --- | ---
-| 3rd   | +3                | +3        | +1       | +1        | Aura of courage, divine health              | --- | --- | --- | ---
-| 4th   | +4                | +4        | +1       | +1        | Turn undead                                 | 0   | --- | --- | ---
-| 5th   | +5                | +4        | +1       | +1        | Smite evil 2/day, special mount             | 0   | --- | --- | ---
-| 6th   | +6/+1             | +5        | +2       | +2        | Remove disease 1/week                       | 1   | --- | --- | ---
-| 7th   | +7/+2             | +5        | +2       | +2        |                                             | 1   | --- | --- | ---
-| 8th   | +8/+3             | +6        | +2       | +2        |                                             | 1   | 0   | --- | ---
-| 9th   | +9/+4             | +6        | +3       | +3        | Remove disease 2/week                       | 1   | 0   | --- | ---
-| 10th  | +10/+5            | +7        | +3       | +3        |                                             | 1   | 1   | --- | ---
-| 11th  | +11/+6/+1         | +7        | +3       | +3        |                                             | 1   | 1   | 0   | ---
-| 12th  | +12/+7/+2         | +8        | +4       | +4        | Remove disease 3/week                       | 1   | 1   | 1   | ---
-| 13th  | +13/+8/+3         | +8        | +4       | +4        |                                             | 1   | 1   | 1   | ---
-| 14th  | +14/+9/+4         | +9        | +4       | +4        |                                             | 2   | 1   | 1   | 0
-| 15th  | +15/+10/+5        | +9        | +5       | +5        | Remove disease 4/week, smite evil 4/day     | 2   | 1   | 1   | 1
-| 16th  | +16/+11/+6/+1     | +10       | +5       | +5        |                                             | 2   | 2   | 1   | 1
-| 17th  | +17/+12/+7/+2     | +10       | +5       | +5        |                                             | 2   | 2   | 2   | 1
-| 18th  | +18/+13/+8/+3     | +11       | +6       | +6        | Remove disease 5/week                       | 3   | 2   | 2   | 1
-| 19th  | +19/+14/+9/+4     | +11       | +6       | +6        |                                             | 3   | 3   | 3   | 2
-| 20th  | +20/+15/+10/+5    | +12       | +6       | +6        | Smite evil 5/day                            | 3   | 3   | 3   | 3
+#### Table: Paladin — Spells per Day —
+
+| Level | Attack Bonus   | Fort | Ref  | Will | Special                                     | 1st | 2nd | 3rd | 4th
+| ----- | -------------- | ---- | ---- | -----| ------------------------------------------- | :-: | :-: | :-: | :-:
+| 1st   | +1             | +2   | +0   | +0   | Aura of good, detect evil, smite evil 1/day | --- | --- | --- | ---
+| 2nd   | +2             | +3   | +0   | +0   | Divine grace, lay on hands                  | --- | --- | --- | ---
+| 3rd   | +3             | +3   | +1   | +1   | Aura of courage, divine health              | --- | --- | --- | ---
+| 4th   | +4             | +4   | +1   | +1   | Turn undead                                 | 0   | --- | --- | ---
+| 5th   | +5             | +4   | +1   | +1   | Smite evil 2/day, special mount             | 0   | --- | --- | ---
+| 6th   | +6/+1          | +5   | +2   | +2   | Remove disease 1/week                       | 1   | --- | --- | ---
+| 7th   | +7/+2          | +5   | +2   | +2   |                                             | 1   | --- | --- | ---
+| 8th   | +8/+3          | +6   | +2   | +2   |                                             | 1   | 0   | --- | ---
+| 9th   | +9/+4          | +6   | +3   | +3   | Remove disease 2/week                       | 1   | 0   | --- | ---
+| 10th  | +10/+5         | +7   | +3   | +3   |                                             | 1   | 1   | --- | ---
+| 11th  | +11/+6/+1      | +7   | +3   | +3   |                                             | 1   | 1   | 0   | ---
+| 12th  | +12/+7/+2      | +8   | +4   | +4   | Remove disease 3/week                       | 1   | 1   | 1   | ---
+| 13th  | +13/+8/+3      | +8   | +4   | +4   |                                             | 1   | 1   | 1   | ---
+| 14th  | +14/+9/+4      | +9   | +4   | +4   |                                             | 2   | 1   | 1   | 0
+| 15th  | +15/+10/+5     | +9   | +5   | +5   | Remove disease 4/week, smite evil 4/day     | 2   | 1   | 1   | 1
+| 16th  | +16/+11/+6/+1  | +10  | +5   | +5   |                                             | 2   | 2   | 1   | 1
+| 17th  | +17/+12/+7/+2  | +10  | +5   | +5   |                                             | 2   | 2   | 2   | 1
+| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Remove disease 5/week                       | 3   | 2   | 2   | 1
+| 19th  | +19/+14/+9/+4  | +11  | +6   | +6   |                                             | 3   | 3   | 3   | 2
+| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Smite evil 5/day                            | 3   | 3   | 3   | 3
 
 ### Class Features
 
@@ -319,30 +320,32 @@ The ranger's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
-|:Table: The Ranger                                                                                                    ||||||||||
-|       |                   |           |          |           |                                        |  —Spells per Day—  ||||
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | 1st | 2nd | 3rd | 4th |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------- | :-: | :-: | :-: | :-: |
-| 1st   | +1                | +2        | +2       | +0        | 1st favored enemy, Track, wild empathy | --- | --- | --- | ---
-| 2nd   | +2                | +3        | +3       | +0        | Combat style                           | --- | --- | --- | ---
-| 3rd   | +3                | +3        | +3       | +1        | Endurance                              | --- | --- | --- | ---
-| 4th   | +4                | +4        | +4       | +1        | Animal companion                       | 0   | --- | --- | ---
-| 5th   | +5                | +4        | +4       | +1        | 2nd favored enemy                      | 0   | --- | --- | ---
-| 6th   | +6/+1             | +5        | +5       | +2        | Improved combat style                  | 1   | --- | --- | ---
-| 7th   | +7/+2             | +5        | +5       | +2        | Woodland stride                        | 1   | --- | --- | ---
-| 8th   | +8/+3             | +6        | +6       | +2        | Swift tracker                          | 1   | 0   | --- | ---
-| 9th   | +9/+4             | +6        | +6       | +3        | Evasion                                | 1   | 0   | --- | ---
-| 10th  | +10/+5            | +7        | +7       | +3        | 3rd favored enemy                      | 1   | 1   | --- | ---
-| 11th  | +11/+6/+1         | +7        | +7       | +3        | Combat style mastery                   | 1   | 1   | 0   | ---
-| 12th  | +12/+7/+2         | +8        | +8       | +4        |                                        | 1   | 1   | 1   | ---
-| 13th  | +13/+8/+3         | +8        | +8       | +4        | Camouflage                             | 1   | 1   | 1   | ---
-| 14th  | +14/+9/+4         | +9        | +9       | +4        |                                        | 2   | 1   | 1   | 0
-| 15th  | +15/+10/+5        | +9        | +9       | +5        | 4th favored enemy                      | 2   | 1   | 1   | 1
-| 16th  | +16/+11/+6/+1     | +10       | +10      | +5        |                                        | 2   | 2   | 1   | 1
-| 17th  | +17/+12/+7/+2     | +10       | +10      | +5        | Hide in plain sight                    | 2   | 2   | 2   | 1
-| 18th  | +18/+13/+8/+3     | +11       | +11      | +6        |                                        | 3   | 2   | 2   | 1
-| 19th  | +19/+14/+9/+4     | +11       | +11      | +6        |                                        | 3   | 3   | 3   | 2
-| 20th  | +20/+15/+10/+5    | +12       | +12      | +6        | 5th favored enemy                      | 3   | 3   | 3   | 3
+#### Table: The Ranger
+
+#### Table: Ranger —Spells per Day—
+
+| Level | Attack Bonus   | Fort | Ref | Will | Special                                | 1st | 2nd | 3rd | 4th
+| ----- | -------------- | ---- | --- | ---- | -------------------------------------- | :-: | :-: | :-: | :-:
+| 1st   | +1             | +2   | +2  | +0   | 1st favored enemy, Track, wild empathy | --- | --- | --- | ---
+| 2nd   | +2             | +3   | +3  | +0   | Combat style                           | --- | --- | --- | ---
+| 3rd   | +3             | +3   | +3  | +1   | Endurance                              | --- | --- | --- | ---
+| 4th   | +4             | +4   | +4  | +1   | Animal companion                       | 0   | --- | --- | ---
+| 5th   | +5             | +4   | +4  | +1   | 2nd favored enemy                      | 0   | --- | --- | ---
+| 6th   | +6/+1          | +5   | +5  | +2   | Improved combat style                  | 1   | --- | --- | ---
+| 7th   | +7/+2          | +5   | +5  | +2   | Woodland stride                        | 1   | --- | --- | ---
+| 8th   | +8/+3          | +6   | +6  | +2   | Swift tracker                          | 1   | 0   | --- | ---
+| 9th   | +9/+4          | +6   | +6  | +3   | Evasion                                | 1   | 0   | --- | ---
+| 10th  | +10/+5         | +7   | +7  | +3   | 3rd favored enemy                      | 1   | 1   | --- | ---
+| 11th  | +11/+6/+1      | +7   | +7  | +3   | Combat style mastery                   | 1   | 1   | 0   | ---
+| 12th  | +12/+7/+2      | +8   | +8  | +4   |                                        | 1   | 1   | 1   | ---
+| 13th  | +13/+8/+3      | +8   | +8  | +4   | Camouflage                             | 1   | 1   | 1   | ---
+| 14th  | +14/+9/+4      | +9   | +9  | +4   |                                        | 2   | 1   | 1   | 0
+| 15th  | +15/+10/+5     | +9   | +9  | +5   | 4th favored enemy                      | 2   | 1   | 1   | 1
+| 16th  | +16/+11/+6/+1  | +10  | +10 | +5   |                                        | 2   | 2   | 1   | 1
+| 17th  | +17/+12/+7/+2  | +10  | +10 | +5   | Hide in plain sight                    | 2   | 2   | 2   | 1
+| 18th  | +18/+13/+8/+3  | +11  | +11 | +6   |                                        | 3   | 2   | 2   | 1
+| 19th  | +19/+14/+9/+4  | +11  | +11 | +6   |                                        | 3   | 3   | 3   | 2
+| 20th  | +20/+15/+10/+5 | +12  | +12 | +6   | 5th favored enemy                      | 3   | 3   | 3   | 3
 
 ### Class Features
 
@@ -353,7 +356,8 @@ and martial weapons, and with light armor and shields (except tower
 shields).
 
 **Favored Enemy (Ex):** At 1st level, a ranger may select a type of
-creature from among those given on Table: Ranger Favored Enemies. The
+creature from among those given on
+[Table: Ranger Favored Enemies](#table-ranger-favored-enemies). The
 ranger gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and
 Survival checks when using these skills against creatures of this type.
 Likewise, he gets a +2 bonus on weapon damage rolls against such
@@ -371,7 +375,8 @@ specific creature falls into more than one category of favored enemy,
 the ranger's bonuses do not stack; he simply uses whichever bonus is
 higher.
 
-| Table: Ranger Favored Enemies              ||
+#### Table: Ranger Favored Enemies
+
 | Type (Subtype)       | Type (Subtype)       |
 | -------------------- | -------------------- |
 | Aberration           | Humanoid (reptilian) |
@@ -456,8 +461,9 @@ modifier.
 
 Like other spellcasters, a ranger can cast only a certain number of
 spells of each spell level per day. His base daily spell allotment is
-given on Table: The Ranger. In addition, he receives bonus spells per
-day if he has a high Wisdom score. When Table: The Ranger indicates that
+given on [Table: The Ranger](#table-the-ranger). In addition, he receives
+bonus spells per day if he has a high Wisdom score. When
+[Table: The Ranger](#table-the-ranger) indicates that
 the ranger gets 0 spells per day of a given spell level, he gains only
 the bonus spells he would be entitled to based on his Wisdom score for
 that spell level. The ranger does not have access to any domain spells
@@ -570,29 +576,30 @@ The rogue's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 8 + Int modifier.
 
-| : Table: The Rogue                                                   ||||||
-| Level    | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|----------|------------|----------|----------|----------|----------|
-| 1st      | +0         | +0       | +2       | +0       | Sneak attack +1d6, trapfinding |
-| 2nd      | +1         | +0       | +3       | +0       | Evasion  |
-| 3rd      | +2         | +1       | +3       | +1       | Sneak attack +2d6, trap sense +1 |
-| 4th      | +3         | +1       | +4       | +1       | Uncanny dodge    |
-| 5th      | +3         | +1       | +4       | +1       | Sneak attack +3d6     |
-| 6th      | +4         | +2       | +5       | +2       | Trap sense +2 |
-| 7th      | +5         | +2       | +5       | +2       | Sneak attack +4d6     |
-| 8th      | +6/+1      | +2       | +6       | +2       | Improved uncanny dodge    |
-| 9th      | +6/+1      | +3       | +6       | +3       | Sneak attack +5d6, trap sense +3 |
-| 10th     | +7/+2      | +3       | +7       | +3       | Special ability  |
-| 11th     | +8/+3      | +3       | +7       | +3       | Sneak attack +6d6     |
-| 12th     | +9/+4      | +4       | +8       | +4       | Trap sense +4 |
-| 13th     | +9/+4      | +4       | +8       | +4       | Sneak attack +7d6, special ability  |
-| 14th     | +10/+5     | +4       | +9       | +4       | ---      |
-| 15th     | +11/+6/+1  | +5       | +9       | +5       | Sneak attack +8d6, trap sense +5 |
-| 16th     | +12/+7/+2  | +5       | +10      | +5       | Special ability  |
-| 17th     | +12/+7/+2  | +5       | +10      | +5       | Sneak attack +9d6     |
-| 18th     | +13/+8/+3  | +6       | +11      | +6       | Trap sense +6 |
-| 19th     | +14/+9/+4  | +6       | +11      | +6       | Sneak attack +10d6, special ability  |
-| 20th     | +15/+10/+5 | +6       | +12      | +6       | ---      |
+#### Table: The Rogue
+
+| Level    | Attack Bonus | Fort | Ref | Will | Special
+|----------|--------------|------|-----|------|---------
+| 1st      | +0           | +0   | +2  | +0   | Sneak attack +1d6, trapfinding
+| 2nd      | +1           | +0   | +3  | +0   | Evasion
+| 3rd      | +2           | +1   | +3  | +1   | Sneak attack +2d6, trap sense +1
+| 4th      | +3           | +1   | +4  | +1   | Uncanny dodge
+| 5th      | +3           | +1   | +4  | +1   | Sneak attack +3d6
+| 6th      | +4           | +2   | +5  | +2   | Trap sense +2
+| 7th      | +5           | +2   | +5  | +2   | Sneak attack +4d6
+| 8th      | +6/+1        | +2   | +6  | +2   | Improved uncanny dodge
+| 9th      | +6/+1        | +3   | +6  | +3   | Sneak attack +5d6, trap sense +3
+| 10th     | +7/+2        | +3   | +7  | +3   | Special ability
+| 11th     | +8/+3        | +3   | +7  | +3   | Sneak attack +6d6
+| 12th     | +9/+4        | +4   | +8  | +4   | Trap sense +4
+| 13th     | +9/+4        | +4   | +8  | +4   | Sneak attack +7d6, special ability
+| 14th     | +10/+5       | +4   | +9  | +4   | ---
+| 15th     | +11/+6/+1    | +5   | +9  | +5   | Sneak attack +8d6, trap sense +5
+| 16th     | +12/+7/+2    | +5   | +10 | +5   | Special ability
+| 17th     | +12/+7/+2    | +5   | +10 | +5   | Sneak attack +9d6
+| 18th     | +13/+8/+3    | +6   | +11 | +6   | Trap sense +6
+| 19th     | +14/+9/+4    | +6   | +11 | +6   | Sneak attack +10d6, special ability
+| 20th     | +15/+10/+5   | +6   | +12 | +6   | ---
 
 ### Class Features
 
@@ -756,403 +763,35 @@ The sorcerer's class skills (and the key ability for each skill) are
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="16"><strong>Table: The Sorcerer</strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <th colspan="10">——––———————Spells per Day—————————</th>
-    </tr>
-    <tr>
-      <th>Level</th>
-      <th>Base Attack Bonus</th>
-      <th>Fort Save</th>
-      <th>Ref Save</th>
-      <th>Will Save</th>
-      <th>Special</th>
-      <th>0</th>
-      <th>1st</th>
-      <th>2nd</th>
-      <th>3rd</th>
-      <th>4th</th>
-      <th>5th</th>
-      <th>6th</th>
-      <th>7th</th>
-      <th>8th</th>
-      <th>9th</th>
-    </tr>
-    <tr>
-      <td>1st</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+2</td>
-      <td>Summon familiar</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>2nd</td>
-      <td>+1</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+3</td>
-      <td></td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>3rd</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+3</td>
-      <td></td>
-      <td>6</td>
-      <td>5</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>4th</td>
-      <td>+2</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>5th</td>
-      <td>+2</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>6th</td>
-      <td>+3</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+5</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>7th</td>
-      <td>+3</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+5</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>8th</td>
-      <td>+4</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+6</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>9th</td>
-      <td>+4</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+6</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>10th</td>
-      <td>+5</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>11th</td>
-      <td>+5</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>12th</td>
-      <td>+6/+1</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>13th</td>
-      <td>+6/+1</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>14th</td>
-      <td>+7/+2</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+9</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>15th</td>
-      <td>+7/+2</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+9</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>16th</td>
-      <td>+8/+3</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+10</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>17th</td>
-      <td>+8/+3</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+10</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>18th</td>
-      <td>+9/+4</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+11</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>19th</td>
-      <td>+9/+4</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+11</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>20th</td>
-      <td>+10/+5</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+12</td>
-      <td></td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-    </tr>
-  </tbody>
-</table>
+#### Table: The Sorcerer
 
+#### Table: Sorceror ——––———————Spells per Day—————————
 
-| : Table: Sorcerer Spells Known                        |||||||||||
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ---   | ---               | ---       | ---      | ---       | ---             | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +0                | +0        | +0       | +2        | Summon familiar | 5   | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1                | +0        | +0       | +3        |                 | 6   | 4   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +1                | +1        | +1       | +3        |                 | 6   | 5   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2                | +1        | +1       | +4        |                 | 6   | 6   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +2                | +1        | +1       | +4        |                 | 6   | 6   | 4   | —   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3                | +2        | +2       | +5        |                 | 6   | 6   | 5   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3                | +2        | +2       | +5        |                 | 6   | 6   | 6   | 4   | —   | —   | —   | —   | —   | —   |
+| 8th   | +4                | +2        | +2       | +6        |                 | 6   | 6   | 6   | 5   | 3   | —   | —   | —   | —   | —   |
+| 9th   | +4                | +3        | +3       | +6        |                 | 6   | 6   | 6   | 6   | 4   | —   | —   | —   | —   | —   |
+| 10th  | +5                | +3        | +3       | +7        |                 | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   | —   | —   |
+| 11th  | +5                | +3        | +3       | +7        |                 | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   | —   | —   |
+| 12th  | +6/+1             | +4        | +4       | +8        |                 | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   | —   |
+| 13th  | +6/+1             | +4        | +4       | +8        |                 | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   | —   |
+| 14th  | +7/+2             | +4        | +4       | +9        |                 | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   |
+| 15th  | +7/+2             | +5        | +5       | +9        |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   |
+| 16th  | +8/+3             | +5        | +5       | +10       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   |
+| 17th  | +8/+3             | +5        | +5       | +10       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   |
+| 18th  | +9/+4             | +6        | +6       | +11       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   |
+| 19th  | +9/+4             | +6        | +6       | +11       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   |
+| 20th  | +10/+5            | +6        | +6       | +12       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   |
+
+#### Table: Sorcerer Spells Known
+
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | - | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | 4 | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
@@ -1269,400 +908,32 @@ Skills for skill descriptions.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-<table>
-  <caption>
-    <th colspan="16">Table: The Wizard</th>
-  </caption>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <th colspan="10">——–——————— Spells per Day —–———————</th>
-    </tr>
-    <tr>
-    <th>Level</th>
-    <th>Base Attack Bonus</th>
-    <th>Fort Save</th>
-    <th>Ref Save</th>
-    <th>Will Save</th>
-    <th>Special</th>
-    <th>0</th>
-    <th>1st</th>
-    <th>2nd</th>
-    <th>3rd</th>
-    <th>4th</th>
-    <th>5th</th>
-    <th>6th</th>
-    <th>7th</th>
-    <th>8th</th>
-    <th>9th</th>
-    </tr>
-    <tr>
-      <td>1st</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+2</td>
-      <td>Summon familiar, Scribe Scroll</td>
-      <td>3</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>2nd</td>
-      <td>+1</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td>+3</td>
-      <td></td>
-      <td>4</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>3rd</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+3</td>
-      <td></td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>4th</td>
-      <td>+2</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td></td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>5th</td>
-      <td>+2</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td>Bonus feat</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>6th</td>
-      <td>+3</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+5</td>
-      <td></td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>7th</td>
-      <td>+3</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+5</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>8th</td>
-      <td>+4</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td>+6</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>9th</td>
-      <td>+4</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+6</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>10th</td>
-      <td>+5</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td>Bonus feat</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>11th</td>
-      <td>+5</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>12th</td>
-      <td>+6/+1</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>13th</td>
-      <td>+6/+1</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>14th</td>
-      <td>+7/+2</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td>+9</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>15th</td>
-      <td>+7/+2</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+9</td>
-      <td>Bonus feat</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>16th</td>
-      <td>+8/+3</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+10</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>17th</td>
-      <td>+8/+3</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td>+10</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>18th</td>
-      <td>+9/+4</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+11</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>19th</td>
-      <td>+9/+4</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+11</td>
-      <td></td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>20th</td>
-      <td>+10/+5</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td>+12</td>
-      <td>Bonus feat</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-      <td>4</td>
-    </tr>
-  </tbody>
-</table>
+#### Table: The Wizard
+
+#### Table: Wizard ——–——————— Spells per Day —–———————
+
+| Level | Attack Bonus | Fort | Ref | Will | Special                        | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ------------ | ---- | --- | ---- | ------------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1st   | +0           | +0   | +0  | +2   | Summon familiar, Scribe Scroll | 3   | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +1           | +0   | +0  | +3   |                                | 4   | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +1           | +1   | +1  | +3   |                                | 4   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2           | +1   | +1  | +4   |                                | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +2           | +1   | +1  | +4   | Bonus feat                     | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3           | +2   | +2  | +5   |                                | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3           | +2   | +2  | +5   |                                | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +4           | +2   | +2  | +6   |                                | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4           | +3   | +3  | +6   |                                | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 10th  | +5           | +3   | +3  | +7   | Bonus feat                     | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +5           | +3   | +3  | +7   |                                | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +6/+1        | +4   | +4  | +8   |                                | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   |
+| 13th  | +6/+1        | +4   | +4  | +8   |                                | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   |
+| 14th  | +7/+2        | +4   | +4  | +9   |                                | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   |
+| 15th  | +7/+2        | +5   | +5  | +9   | Bonus feat                     | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
+| 16th  | +8/+3        | +5   | +5  | +10  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
+| 17th  | +8/+3        | +5   | +5  | +10  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |
+| 18th  | +9/+4        | +6   | +6  | +11  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
+| 19th  | +9/+4        | +6   | +6  | +11  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
+| 20th  | +10/+5       | +6   | +6  | +12  | Bonus feat                     | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
 
 ### Class Features
 

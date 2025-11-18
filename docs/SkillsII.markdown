@@ -1124,7 +1124,7 @@ below.
 |--------------------------------------------------------|---------|
 | Calm water                                             | 10      |
 | Rough water                                            | 15      |
-| Stormy water                                           | 20**1** |
+| Stormy water                                           | 20*1    |
 
 1. You can't take 10 on a Swim check in stormy water, even if you aren't otherwise being threatened or distracted.
 
@@ -1160,58 +1160,28 @@ You can also tumble to entertain an audience (as though using the
 Perform skill). The DCs for various tasks involving the Tumble skill are
 given on the table below.
 
-|--------------|------------------------------------------------------|
-| ## Tumble DC | ## Task                                              |
-|--------------|------------------------------------------------------|
-|              |                                                      |
-|--------------|------------------------------------------------------|
-| 15           | Treat a fall as if it were 10 feet shorter than it   |
-|              | really is when determining damage.                   |
-|--------------|------------------------------------------------------|
-| 15           | Tumble at one-half speed as part of normal movement, |
-|              | provoking no attacks of opportunity while doing so.  |
-|              | Failure means you provoke attacks of opportunity     |
-|              | normally. Check separately for each opponent you     |
-|              | move past, in the order in which you pass them       |
-|              | (player's choice of order in case of a tie).         |
-|              |                                                      |
-|              | Each additional enemy after the first adds +2 to the |
-|              | Tumble DC.                                           |
-|--------------|------------------------------------------------------|
-|              |                                                      |
-|--------------|------------------------------------------------------|
-| 25           | Tumble at one-half speed through an area occupied by |
-|              | an enemy (over, under, or around the opponent) as    |
-|              | part of normal movement, provoking no attacks of     |
-|              | opportunity while doing so. Failure means you stop   |
-|              | before entering the enemy-occupied area and provoke  |
-|              | an attack of opportunity from that enemy.            |
-|              |                                                      |
-|              | Check separately for each opponent. Each additional  |
-|              | enemy after the first adds +2 to the Tumble DC.      |
-|--------------|------------------------------------------------------|
-|              |                                                      |
-|--------------|------------------------------------------------------|
+| Tumble DC    | Task
+| :----------: |------------------------------------------------------|
+| 15           | Treat a fall as if it were 10 feet shorter than it really is when determining damage.
+| 15           | Tumble at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player's choice of order in case of a tie).<br/><br/>Each additional enemy after the first adds +2 to the Tumble DC.
+| 25           | Tumble at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area and provoke an attack of opportunity from that enemy.<br><br>Check separately for each opponent. Each additional enemy after the first adds +2 to the Tumble DC.
 
 Obstructed or otherwise treacherous surfaces, such as natural cavern
 floors or undergrowth, are tough to tumble through. The DC for any
 Tumble check made to tumble into such a square is modified as indicated
 below.
 
-  ----------------------------------------------------------------------------- -----------------
-  **Surface Is . . . **                                                         **DC Modifier**
-                                                                                
-  Lightly obstructed (scree, light rubble, shallow bog**^1^**, undergrowth)     +2
-  Severely obstructed (natural cavern floor, dense rubble, dense undergrowth)   +5
-  Lightly slippery (wet floor)                                                  +2
-  Severely slippery (ice sheet)                                                 +5
-  Sloped or angled                                                              +2
-                                                                                
-  1 Tumbling is impossible in a deep bog.                                       
-                                                                                
-  ----------------------------------------------------------------------------- -----------------
+| Surface Is . . .                                                            | DC Modifier
+| --------------------------------------------------------------------------- | :---------:
+| Lightly obstructed (scree, light rubble, shallow bog*1, undergrowth)        | +2
+| Severely obstructed (natural cavern floor, dense rubble, dense undergrowth) | +5
+| Lightly slippery (wet floor)                                                | +2
+| Severely slippery (ice sheet)                                               | +5
+| Sloped or angled                                                            | +2
+| =========================================================================== | ===========
+| *1. Tumbling is impossible in a deep bog.                                   |
 
-*Accelerated Tumbling: *You try to tumble past or through enemies more
+*Accelerated Tumbling:* You try to tumble past or through enemies more
 quickly than normal. By accepting a --10 penalty on your Tumble checks,
 you can move at your full speed instead of one-half your speed.
 
@@ -1259,31 +1229,16 @@ must know what you are trying to emulate when you make a Use Magic
 Device check for that purpose. The DCs for various tasks involving Use
 Magic Device checks are summarized on the table below.
 
-|--------------------------|------------------------|
-| ## Task                  | ## Use Magic Device DC |
-|--------------------------|------------------------|
-|                          |                        |
-|--------------------------|------------------------|
+| Task                     | Use Magic Device DC    |
+|--------------------------| :--------------------: |
 | Activate blindly         | 25                     |
-|--------------------------|------------------------|
 | Decipher a written spell | 25 + spell level       |
-|--------------------------|------------------------|
 | Use a scroll             | 20 + caster level      |
-|--------------------------|------------------------|
 | Use a wand               | 20                     |
-|--------------------------|------------------------|
 | Emulate a class feature  | 20                     |
-|--------------------------|------------------------|
 | Emulate an ability score | See text               |
-|--------------------------|------------------------|
 | Emulate a race           | 25                     |
-|--------------------------|------------------------|
-|                          |                        |
-|--------------------------|------------------------|
 | Emulate an alignment     | 30                     |
-|--------------------------|------------------------|
-|                          |                        |
-|--------------------------|------------------------|
 
 *Activate Blindly:* Some magic items are activated by special words,
 thoughts, or actions. You can activate such an item as if you were using
@@ -1375,39 +1330,21 @@ Use Magic Device checks related to scrolls.
 If you have 5 or more ranks in Use Magic Device, you get a +2 bonus to
 Spellcraft checks made to decipher spells on scrolls.
 
-USE ROPE (DEX)
+### USE ROPE (DEX)
 
 **Check:** Most tasks with a rope are relatively simple. The DCs for
 various tasks utilizing this skill are summarized on the table below.
 
-|----------------------------------|----------------------------------|
-| ###### Use Rope DC               | **Task**                         |
-|----------------------------------|----------------------------------|
-|                                  |                                  |
-|----------------------------------|----------------------------------|
-| 10                               | Tie a firm knot                  |
-|----------------------------------|----------------------------------|
-| 10**^1^**                        | Secure a grappling hook          |
-|----------------------------------|----------------------------------|
-| 15                               | Tie a special knot, such as one  |
-|                                  | that slips, slides slowly, or    |
-|                                  | loosens with a tug               |
-|----------------------------------|----------------------------------|
-| 15                               | Tie a rope around yourself       |
-|                                  | one-handed                       |
-|----------------------------------|----------------------------------|
-| 15                               | Splice two ropes together        |
-|----------------------------------|----------------------------------|
-| Varies                           | Bind a character                 |
-|----------------------------------|----------------------------------|
-|                                  |                                  |
-|----------------------------------|----------------------------------|
-| 1 Add 2 to the DC for every 10   |                                  |
-| feet the hook is thrown; see     |                                  |
-| below.                           |                                  |
-|----------------------------------|----------------------------------|
-|                                  |                                  |
-|----------------------------------|----------------------------------|
+| Use Rope DC | Task
+| :---------: | ---------------
+| 10          | Tie a firm knot
+| 10¹         | Secure a grappling hook
+| 15          | Tie a special knot, such as one that slips, slides slowly, or loosens with a tug
+| 15          | Tie a rope around yourself one-handed
+| 15          | Splice two ropes together
+| Varies      | Bind a character
+
+1. Add 2 to the DC for every 10 feet the hook is thrown; see below.
 
 *Secure a Grappling Hook:* Securing a grappling hook requires a Use Rope
 check (DC 10, +2 for every 10 feet of distance the grappling hook is
@@ -1433,7 +1370,7 @@ provokes an attack of opportunity. Splicing two ropes together takes 5
 minutes. Binding a character takes 1 minute.
 
 **Special:** A silk rope gives you a +2 circumstance bonus on Use Rope
-checks. If you cast an *animate rope *spell on a rope, you get a +2
+checks. If you cast an *animate rope* spell on a rope, you get a +2
 circumstance bonus on any Use Rope checks you make when using that rope.
 
 These bonuses stack.

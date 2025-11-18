@@ -5,12 +5,9 @@ subject: MSRD
 title: Feats
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-## FEATS
-
-# Feat Descriptions
+## Feat Descriptions
 
 Here is the format for feat descriptions.
 
@@ -36,14 +33,14 @@ possessing the feat, this entry is absent.
 
 ## Feats
 
-Acrobatic
+### Acrobatic
 
 **Benefit:** The character gets a +2 bonus on all Jump checks and Tumble
 checks.
 
 **Special:** Remember that the Tumble skill can't be used untrained.
 
-# Advanced Combat Martial Arts
+### Advanced Combat Martial Arts
 
 **Prerequisites:** Combat Martial Arts, Improved Combat Martial Arts,
 base attack bonus +8.
@@ -53,7 +50,7 @@ with an unarmed strike, the character deals triple damage.
 
 **Normal:** An unarmed strike critical hit deals double damage.
 
-# Advanced Firearms Proficiency
+### Advanced Firearms Proficiency
 
 **Prerequisite:** Personal Firearms Proficiency.
 
@@ -63,7 +60,7 @@ without penalty (provided, of course, that it has an auto­fire setting).
 **Normal:** Characters without this feat take a --4 penalty on attack
 rolls made with personal firearms set on auto­fire.
 
-# Advanced Two-Weapon Fighting
+### Advanced Two-Weapon Fighting
 
 **Prerequisites:** Dexterity 13, Two-Weapon Fighting, Im­proved
 Two-Weapon Fighting, base attack bonus +11.
@@ -72,7 +69,7 @@ Two-Weapon Fighting, base attack bonus +11.
 weapon, albeit at a --10 penalty. This feat also allows the character to
 use a melee weapon in one hand and a ranged weapon in the other.
 
-# Agile Riposte
+### Agile Riposte
 
 **Prerequisites:** Dexterity 13, Dodge.
 
@@ -87,7 +84,7 @@ Riposte feat more than once per round. This feat does not grant more
 attacks of opportunity than the character is normally allowed in a
 round.
 
-# Aircraft Operation
+### Aircraft Operation
 
 Select a class of aircraft (heavy aircraft, helicopters, jet fighters,
 or spacecraft). The character is proficient at operating that class of
@@ -113,12 +110,12 @@ character operates a general-purpose aircraft.
 the character takes the feat, the character selects a different class of
 aircraft.
 
-# Alertness
+### Alertness
 
 **Benefit:** The character gets a +2 bonus on all Listen checks and Spot
 checks.
 
-# Animal Affinity
+### Animal Affinity
 
 **Benefit:** The character gets a +2 bonus on all Handle Animal checks
 and Ride checks.
@@ -126,7 +123,7 @@ and Ride checks.
 **Special:** Remember that the Handle Animal skill can't be used
 untrained.
 
-# Archaic Weapons Proficiency
+### Archaic Weapons Proficiency
 
 **Benefit:** The character takes no penalty on attack rolls when using
 any kind of archaic weapon.
@@ -164,12 +161,12 @@ Armor Proficiency (medium)
 
 **Normal:** See Armor Proficiency (light).
 
-# Athletic
+### Athletic
 
 **Benefit:** The character gets a +2 bonus on all Climb checks and Swim
 checks.
 
-# Attentive
+### Attentive
 
 **Benefit:** The character gets a +2 bonus on all Investigate checks and
 Sense Motive checks.
@@ -177,7 +174,7 @@ Sense Motive checks.
 **Special:** Remember that the Investigate skill can't be used
 untrained.
 
-# Blind-Fight
+### Blind-Fight
 
 **Benefit:** In melee combat, every time the character misses because of
 concealment, the character can reroll the miss chance roll one time to
@@ -187,7 +184,7 @@ The character takes only half the usual penalty to speed for being
 unable to see. Darkness and poor visibility in general reduces the
 character's speed to three-quarters of normal, instead of one-half.
 
-# Brawl
+### Brawl
 
 **Benefit:** When making an unarmed attack, the character receives a +1
 competence bonus on attack rolls, and the character deals nonlethal
@@ -196,7 +193,7 @@ damage equal to 1d6 + his or her Strength modifier.
 **Normal:** Unarmed attacks normally deal nonlethal damage equal to
 1d3 + Strength modifier.
 
-# Builder
+### Builder
 
 **Benefit:** Pick two of the following skills: Craft (chemical), Craft
 (electronic), Craft (mechanical), and Craft (structural). The character
@@ -207,7 +204,7 @@ the character applies it to the two skills he or she didn't pick
 originally. Remember that Craft (chemical), Craft (electronic), and
 Craft (mechanical) cannot be used untrained.
 
-# Burst Fire
+### Burst Fire
 
 **Prerequisites:** Wisdom 13, Personal Firearms Proficiency, Advanced
 Firearms Proficiency.
@@ -229,7 +226,7 @@ counts as a normal attack and all the extra bullets are wasted.
 burst expends three bullets instead of five and can be used if the
 weapon has only three bullets in it.
 
-# Cautious
+### Cautious
 
 **Benefit:** The character gets a +2 bonus on all Demolitions checks and
 Disable Device checks.
@@ -237,7 +234,7 @@ Disable Device checks.
 **Special:** Remember that the Demolitions skill and the Disable Device
 skill can't be used untrained.
 
-# Cleave
+### Cleave
 
 **Prerequisites:** Strength 13, Power Attack.
 
@@ -250,7 +247,7 @@ making this extra attack. The extra attack is with the same weapon and
 at the same bonus as the attack that dropped the previous opponent. The
 character can use this ability once per round.
 
-# Combat Expertise
+### Combat Expertise
 
 **Prerequisite:** Intelligence 13.
 
@@ -267,7 +264,7 @@ have).
 defensively while using the attack or full attack action to take a --4
 penalty on attacks and gain a +2 dodge bonus to Defense.
 
-# Combat Martial Arts
+### Combat Martial Arts
 
 **Prerequisite:** Base attack bonus +1.
 
@@ -283,7 +280,7 @@ nonlethal damage. Unarmed attacks normally provoke attacks of
 opportunity, and unarmed combatants cannot normally make attacks of
 opportunity.
 
-# Combat Reflexes
+### Combat Reflexes
 
 **Benefit:** The maximum number of attacks of opportunity the character
 may make each round is equal to the character's Dexterity modifier + 1.
@@ -300,7 +297,7 @@ opportunity when flat-footed.
 **Special:** The Combat Reflexes feat doesn't allow a Fast hero with the
 opportunist talent to use that talent more than once per round.
 
-# Combat Throw
+### Combat Throw
 
 **Prerequisite:** Defensive Martial Arts.
 
@@ -309,12 +306,12 @@ Dexterity checks any time the character attempts trip or grapple
 attacks, or when the character trys to avoid a trip or grapple attack
 made against him or her.
 
-# Confident
+### Confident
 
 **Benefit:** The character gets a +2 bonus on all Gamble checks and
 Intimidate checks, and on level checks to resist intimidation.
 
-# Creative
+### Creative
 
 **Benefit:** Pick two of the following skills: Craft (visual art), Craft
 (writing), Perform (act), Perform (dance), Perform (keyboards), Perform
@@ -326,7 +323,7 @@ a +2 bonus on all checks with those two skills.
 Each time, the character selects two new skills from the choices given
 above.
 
-# Dead Aim
+### Dead Aim
 
 **Prerequisites:** Wisdom 13, Far Shot.
 
@@ -339,12 +336,12 @@ feat is lost. Likewise, if the character's concentration is disrupted or
 the character is attacked before his or her next action, the character
 loses the benefit of aiming.
 
-# Deceptive
+### Deceptive
 
 **Benefit:** The character gets a +2 bonus on all Bluff checks and
 Disguise checks.
 
-# Defensive Martial Arts
+### Defensive Martial Arts
 
 **Benefit:** The character gains a +1 dodge bonus to Defense against
 melee attacks.
@@ -353,7 +350,7 @@ melee attacks.
 Dexterity bonus to Defense also makes the character lose dodge bonuses.
 Also, dodge bonuses stack, unlike most other types of bonuses.
 
-# Dodge
+### Dodge
 
 **Prerequisite:** Dexterity 13.
 
@@ -367,7 +364,7 @@ Dexterity bonus to Defense also makes the character lose dodge bonuses.
 Also, dodge bonuses stack with each other, unlike most other types of
 bonuses.
 
-# Double Tap
+### Double Tap
 
 **Prerequisites:** Dexterity 13, Point Blank Shot.
 
@@ -378,7 +375,7 @@ attack, but deals +1 die of damage with a successful hit. Using this
 feat fires two bullets and can only be done if the weapon has two
 bullets in it.
 
-# Drive-By Attack
+### Drive-By Attack
 
 **Benefit:** The character takes no vehicle speed penalty when making an
 attack while in a moving vehicle. Also, if the character is the driver,
@@ -391,7 +388,7 @@ make an attack when their vehicle reaches a particular location, but the
 driver must make his or her attack action either before or after the
 vehicle's movement.
 
-# Educated
+### Educated
 
 **Benefit:** Pick two Knowledge skills. The character gets a +2 bonus on
 all checks with those skills.
@@ -399,7 +396,7 @@ all checks with those skills.
 **Special:** A character can select this feat as many as seven times.
 Each time, the character selects two new Knowledge skills.
 
-# Elusive Target
+### Elusive Target
 
 **Prerequisites:** Dexterity 13, Defensive Martial Arts.
 
@@ -412,7 +409,7 @@ penalty for firing into melee, making the penalty to target to character
 **Special:** An opponent with the Precise Shot feat has the penalty
 lessened to --4 when targeting the character.
 
-# Endurance
+### Endurance
 
 **Benefit:** The character gains a +4 bonus on the following checks and
 saves: hourly Swim checks to avoid becoming fatigued, Constitution
@@ -427,7 +424,7 @@ fatigued.
 **Normal:** A character without this feat who sleeps in armor is
 automatically fatigued the following day.
 
-# Exotic Firearms Proficiency
+### Exotic Firearms Proficiency
 
 Choose a weapon type from the following list: cannons, heavy machine
 guns, grenade launchers, and rocket launchers.
@@ -444,7 +441,7 @@ it takes a --4 penalty on attack rolls.
 time a character takes the feat, he or she selects a different weapon
 group.
 
-# Exotic Melee Weapon Proficiency
+### Exotic Melee Weapon Proficiency
 
 Choose one exotic melee weapon from. The character is proficient with
 that melee weapon in combat.
@@ -460,18 +457,18 @@ it takes a --4 penalty on attack rolls.
 the character takes the feat, he or she selects a different exotic melee
 weapon.
 
-# Far Shot
+### Far Shot
 
 **Benefit:** When the character uses a firearm or archaic ranged weapon,
 its range increment increases by one-half (multiply by 1.5). When the
 character throws a weapon, its range increment is doubled.
 
-# Focused
+### Focused
 
 **Benefit:** The character gets get a +2 bonus on all Balance checks and
 Concentration checks.
 
-# Force Stop
+### Force Stop
 
 **Prerequisites:** Drive 4 ranks, Vehicle Expert.
 
@@ -491,7 +488,7 @@ location, at stationary speed, and take their normal sideswipe damage.
 
 If the character fails the check, resolve the sideswipe normally.
 
-# Frightful Presence
+### Frightful Presence
 
 **Prerequisites:** Charisma 15, Intimidate 9 ranks.
 
@@ -510,7 +507,7 @@ creatures with an Intelligence of 3 or lower.
 If the character has the Renown feat, the Will saving throw's DC
 increases by 5.
 
-# Gearhead
+### Gearhead
 
 **Benefit:** The character gets a +2 bonus on all Computer Use checks
 and Repair checks.
@@ -518,7 +515,7 @@ and Repair checks.
 **Special:** Remember that the Computer Use skill and the Repair skill
 can only be used untrained in certain situations.
 
-# Great Cleave
+### Great Cleave
 
 **Prerequisites:** Strength 13, Power Attack, Cleave, base attack bonus
 +4.
@@ -526,17 +523,17 @@ can only be used untrained in certain situations.
 **Benefit:** As Cleave, except that the character has no limit to the
 number of times he or she can use it per round.
 
-# Great Fortitude
+### Great Fortitude
 
 **Benefit:** The character gets a +2 bonus on all Fortitude sav­ing
 throws.
 
-# Guide
+### Guide
 
 **Benefit:** The character gets a +2 bonus on all Navigate checks and
 Survival checks.
 
-# Heroic Surge
+### Heroic Surge
 
 **Benefit:** The character may take an extra move action or attack
 action in a round, either before or after the character's regular
@@ -552,7 +549,7 @@ than once per round.
 | 13th--16th      | 4
 | 17th--20th      | 5
 
-# Improved Brawl
+### Improved Brawl
 
 **Prerequisites:** Brawl, base attack bonus +3.
 
@@ -563,14 +560,14 @@ nonlethal damage equal to 1d8 + the character's Strength modifier.
 **Normal:** Unarmed attacks normally deal nonlethal damage equal to
 1d3 + Strength modifier.
 
-# Improved Bull Rush
+### Improved Bull Rush
 
 **Prerequisites:** Strength 13, Power Attack.
 
 **Benefit:** When the character performs a bull rush, the character does
 not provoke an attack of opportunity from the defender.
 
-# Improved Combat Martial Arts
+### Improved Combat Martial Arts
 
 **Prerequisites:** Combat Martial Arts, base attack bonus +4.
 
@@ -580,7 +577,7 @@ to 19--20.
 **Normal:** A character without this feat threatens a critical hit with
 an unarmed strike only on a 20.
 
-# Improved Combat Throw
+### Improved Combat Throw
 
 **Prerequisites:** Defensive Martial Arts, Combat Throw, base attack
 bonus +3.
@@ -594,7 +591,7 @@ does not provoke an attack of opportunity.
 **Special:** This feat doesn't grant the character more attacks of
 opportunity than he or she is normally allowed in a round.
 
-# Improved Damage Threshold
+### Improved Damage Threshold
 
 **Benefit:** The character increases his or her massive damage threshold
 by 3 points.
@@ -606,7 +603,7 @@ character's massive damage threshold is current Con +3.
 **Special:** A character may gain this feat multiple times. Its effects
 stack.
 
-# Improved Disarm
+### Improved Disarm
 
 **Prerequisites:** Intelligence 13, Combat Expertise.
 
@@ -614,7 +611,7 @@ stack.
 when the character attempts to disarm an opponent, nor does the opponent
 get a chance to disarm the character.
 
-# Improved Feint
+### Improved Feint
 
 **Prerequisites:** Intelligence 13, Brawl, Streetfighting.
 
@@ -624,12 +621,12 @@ in melee combat.
 
 **Normal:** Feinting in combat requires an attack action.
 
-# Improved Initiative
+### Improved Initiative
 
 **Benefit:** The character gets a +4 circumstance bonus on initiative
 checks.
 
-# Improved Knockout Punch
+### Improved Knockout Punch
 
 **Prerequisites:** Brawl, Knockout Punch, base attack bonus +6.
 
@@ -641,7 +638,7 @@ critical hit deals triple damage. The damage is nonlethal damage.
 damage as lethal damage, the damage from a knockout punch is always
 nonlethal.
 
-# Improved Trip
+### Improved Trip
 
 **Prerequisites:** Intelligence 13, Combat Expertise.
 
@@ -653,7 +650,7 @@ If the character trips an opponent in melee combat, the character
 immediately gets to make a melee attack against that opponent as if the
 character had not used his or her attack action for the trip attempt.
 
-# Improved Two-Weapon Fighting
+### Improved Two-Weapon Fighting
 
 **Prerequisites:** Dexterity 13, Two-Weapon Fighting, base attack bonus
 +6.
@@ -666,11 +663,11 @@ use a melee weapon in one hand and a ranged weapon in the other.
 attack with an off-hand weapon, and both weapons must be of the same
 type (either both ranged weapons or both melee weapons).
 
-# Iron Will
+### Iron Will
 
 **Benefit:** The character gets a +2 bonus on all Will saving throws.
 
-# Knockout Punch
+### Knockout Punch
 
 **Prerequisites:** Brawl, base attack bonus +3.
 
@@ -682,15 +679,15 @@ damage is nonlethal damage.
 damage as lethal damage, the damage from a knockout punch is always
 nonlethal.
 
-# Lightning Reflexes
+### Lightning Reflexes
 
 **Benefit:** The character gets a +2 bonus on all Reflex saving throws.
 
-# Low Profile
+### Low Profile
 
 **Benefit:** Reduce the character's Reputation bonus by 3 points.
 
-# Medical Expert
+### Medical Expert
 
 **Benefit:** The character gets a +2 bonus on all Craft (pharmaceutical)
 checks and Treat Injury checks.
@@ -698,12 +695,12 @@ checks and Treat Injury checks.
 **Special:** Remember that the Craft (pharmaceutical) skill can't be
 used untrained.
 
-# Meticulous
+### Meticulous
 
 **Benefit:** The character gets a +2 bonus on all Forgery checks and
 Search checks.
 
-# Mobility
+### Mobility
 
 **Prerequisites:** Dexterity 13, Dodge.
 
@@ -716,7 +713,7 @@ Dexterity bonus to Defense also makes the character lose dodge bonuses.
 Also, dodge bonuses stack with each other, unlike most other types of
 bonuses.
 
-# Nimble
+### Nimble
 
 **Benefit:** The character gets a +2 bonus on all Escape Artist checks
 and Sleight of Hand checks.
@@ -724,7 +721,7 @@ and Sleight of Hand checks.
 **Special:** Remember that the Sleight of Hand skill can't be used
 untrained.
 
-# Personal Firearms Proficiency
+### Personal Firearms Proficiency
 
 **Benefit:** The character can fire any personal firearm without
 penalty.
@@ -732,12 +729,12 @@ penalty.
 **Normal:** Characters without this feat take a --4 penalty on attack
 rolls made with personal firearms.
 
-# Point Blank Shot
+### Point Blank Shot
 
 **Benefit:** The character gets a +1 bonus on attack and damage rolls
 with ranged weapons against opponents within 30 feet.
 
-# Power Attack
+### Power Attack
 
 **Prerequisite:** Strength 13.
 
@@ -747,7 +744,7 @@ attack rolls and add the same number to all melee damage rolls. This
 number may not exceed the character's base attack bonus. The penalty on
 attacks and bonus on damage applies until the character's next action.
 
-# Precise Shot
+### Precise Shot
 
 **Prerequisite:** Point Blank Shot.
 
@@ -757,7 +754,7 @@ opponent engaged in melee without penalty.
 **Normal:** A character takes a --4 penalty when using a ranged weapon
 to attack an opponent who is engaged in melee combat.
 
-# Quick Draw
+### Quick Draw
 
 **Prerequisite:** Base attack bonus +1.
 
@@ -770,7 +767,7 @@ rate of attacks.
 character has a base attack bonus of +1 or higher, the character can
 draw a weapon as a free action when moving.
 
-# Quick Reload
+### Quick Reload
 
 **Prerequisite:** Base attack bonus +1.
 
@@ -784,11 +781,11 @@ speed loader is a move action. Reloading a revolver without a speed
 loader, or reloading any firearm with an internal magazine, is a
 full-round action.
 
-# Renown
+### Renown
 
 **Benefit:** The character's Reputation bonus increases by +3.
 
-# Run
+### Run
 
 **Benefit:** When running, the character moves a maximum of five times
 his or her normal speed instead of four times. If the character is in
@@ -796,7 +793,7 @@ heavy armor, the character can move four times his or her speed rather
 than three times. If the character makes a long jump, the character
 gains a +2 competence bonus on his or her Jump check.
 
-# Shot on the Run
+### Shot on the Run
 
 **Prerequisites:** Dexterity 13, Point Blank Shot, Dodge, Mobility.
 
@@ -804,7 +801,7 @@ gains a +2 competence bonus on his or her Jump check.
 character can move both before and after the attack, provided that the
 character's total distance moved is not greater than his or her speed.
 
-# Simple Weapons Proficiency
+### Simple Weapons Proficiency
 
 **Benefit:** The character makes attack rolls with simple weapons
 normally.
@@ -812,7 +809,7 @@ normally.
 **Normal:** A character without this feat takes the --4 nonproficient
 penalty when making attacks with simple weapons.
 
-# Skip Shot
+### Skip Shot
 
 **Prerequisites:** Point Blank Shot, Precise Shot.
 
@@ -827,7 +824,7 @@ between the character and the target. However, the character receives a
 a brick wall or an asphalt road can be used. The target can have no more
 than nine-tenths cover for A character to attempt a skip shot.
 
-# Spring Attack
+### Spring Attack
 
 **Prerequisites:** Dexterity 13, Dodge, Mobility, base attack bonus +4.
 
@@ -842,12 +839,12 @@ opportunity from others, as normal).
 A character can't use this feat if he or she is carrying a heavy load or
 wearing heavy armor.
 
-# Stealthy
+### Stealthy
 
 **Benefit:** The character gets a +2 bonus on all Hide checks and Move
 Silently checks.
 
-# Strafe
+### Strafe
 
 **Prerequisites:** Personal Firearms Proficiency, Advanced Firearms
 Proficiency.
@@ -859,7 +856,7 @@ squares in a straight line).
 **Normal:** A firearm on autofire normally affects a 10-foot-by-10-foot
 area.
 
-# Streetfighting
+### Streetfighting
 
 **Prerequisites:** Brawl, base attack bonus +2.
 
@@ -867,12 +864,12 @@ area.
 attack with an unarmed strike or a light weapon, the character deals an
 extra 1d4 points of damage.
 
-# Studious
+### Studious
 
 **Benefit:** The character gets a +2 bonus on all Decipher Script checks
 and Research checks.
 
-# Sunder
+### Sunder
 
 **Prerequisites:** Strength 13, Power Attack.
 
@@ -888,7 +885,7 @@ normal damage to objects, whether they are held or carried or not.
 opportunity when he or she strikes at an object held or carried by
 another character.
 
-# Surface Vehicle Operation
+### Surface Vehicle Operation
 
 Select a class of surface vehicle (heavy wheeled, powerboat, sailboat,
 ship, or tracked). The character is proficient at operating that class
@@ -917,7 +914,7 @@ when you operate a general-purpose surface vehicle.
 time the character takes the feat, he or she selects a different class
 of surface vehicle.
 
-# Surgery
+### Surgery
 
 **Prerequisite:** Treat Injury 4 ranks.
 
@@ -927,14 +924,14 @@ surgery without penalty. See the Treat Injury skill description.
 **Normal:** Characters without this feat take a --4 penalty on Treat
 Injury checks made to perform surgery.
 
-# Toughness
+### Toughness
 
 **Benefit:** The character gains +3 hit points.
 
 **Special:** A character may gain this feat multiple times. Its effects
 stack.
 
-# Track
+### Track
 
 **Benefit:** To find tracks or follow them for one mile requires a
 Survival check. The character must make another Survival check every
@@ -1000,12 +997,12 @@ cannot follow tracks using Search.
 1. For a group of mixed sizes, apply only the modifier for the largest size category represented.
 2. Apply only the largest modifier from this category.
 
-# Trustworthy
+### Trustworthy
 
 **Benefit:** The character gets a +2 bonus on all Diplomacy checks and
 Gather Information checks.
 
-# Two-Weapon Fighting
+### Two-Weapon Fighting
 
 **Prerequisite:** Dexterity 13.
 
@@ -1015,7 +1012,7 @@ lessened by 2 for the primary hand and 6 for the off hand.
 The weapons used must both be melee weapons or both be ranged weapons
 (the character can't mix the types).
 
-# Unbalance Opponent
+### Unbalance Opponent
 
 **Prerequisites:** Defensive Martial Arts, base attack bonus +6.
 
@@ -1029,7 +1026,7 @@ The opponent's Strength modifier applies to damage, as usual.
 
 The character can select a new opponent on any action.
 
-# Vehicle Dodge
+### Vehicle Dodge
 
 **Prerequisites:** Dexterity 13, Drive 6 ranks or Pilot 6 ranks, Vehicle
 Expert.
@@ -1040,12 +1037,12 @@ character's vehicle and everyone aboard it receive a +1 dodge bonus to
 Defense against attacks from that vehicle or opponent. The character can
 select a new vehicle or opponent on any action.
 
-# Vehicle Expert
+### Vehicle Expert
 
 **Benefit:** The character gets a +2 bonus on all Drive checks and Pilot
 checks.
 
-# Weapon Finesse
+### Weapon Finesse
 
 Choose one light melee weapon, a rapier (if the character can use it
 with one hand), or a chain. A character can choose unarmed strike or
@@ -1060,7 +1057,7 @@ attack rolls.
 **Special:** A character can gain this feat multiple times. Each time
 the character takes the feat, the character selects a ­different weapon.
 
-# Weapon Focus
+### Weapon Focus
 
 Choose a specific weapon. A character can choose unarmed strike or
 grapple for your weapon for purposes of this feat.
@@ -1074,7 +1071,7 @@ she makes using the selected weapon.
 the character takes the feat, the character must select a different
 weapon.
 
-# Whirlwind Attack
+### Whirlwind Attack
 
 **Prerequisites:** Dexterity 13, Intelligence 13, Dodge, Mobility,
 Spring Attack, Combat Expertise, base attack bonus +4.
@@ -1084,7 +1081,7 @@ character can give up his or her regular attacks and instead make one
 melee attack at the character's highest base attack bonus against each
 adjacent opponent.
 
-## Wild Talent
+#### Wild Talent
 
 **Benefit:** Select one 0-level psionic power. The character can
 manifest this power up to three times in a 24-hour period. There is no
@@ -1092,7 +1089,7 @@ power point cost for using this power. For effects that depends on
 manifester level the character is considered 1st level or his or her
 manifester level, whichever is higher.
 
-# Windfall
+### Windfall
 
 **Benefit:** The character's Wealth bonus increases by +3. Also, this
 feat provides a +1 bonus on all Profession checks.
