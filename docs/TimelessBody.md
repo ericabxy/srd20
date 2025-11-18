@@ -1,4 +1,8 @@
-Timeless Body (Ex)
+---
+category: extraordinary-ability
+---
+
+Timeless Body
 -------------
 
 You no longer take ability score penalties for aging and cannot be magically aged. Any penalties you may have already incurred, however, remain in place.

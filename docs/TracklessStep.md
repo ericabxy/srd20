@@ -1,4 +1,8 @@
-Trackless Step (Ex)
+---
+category: extraordinary-ability
+---
+
+Trackless Step
 --------------
 
 You leave no trail in natural surroundings and cannot be tracked. You may choose to leave a trail if so desired.

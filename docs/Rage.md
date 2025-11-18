@@ -1,5 +1,9 @@
-Rage (Ex)
----------
+---
+category: extraordinary-ability
+---
+
+Rage
+----
 
 You can fly into a rage a certain number of times per day.
 

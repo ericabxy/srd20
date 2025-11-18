@@ -2,8 +2,11 @@
 <tr>
 <th>Supernatural Abilities</th>
 <td>
-<a href='EnhanceArrow'>Enhance Arrow</a> &bull;
-Wild Shape
+{% for doc in site.pages %}
+  {% if doc.category == "supernatural-ability" %}
+    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+  {% endif %}
+{% endfor %}
 </td>
 </tr>
 </table>

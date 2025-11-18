@@ -1,7 +1,7 @@
 run: 
 	bundle exec jekyll serve
 
-setup:
+install:
 	bundle config set --local path 'vendor/bundle'
 	bundle install
 

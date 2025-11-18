@@ -1,5 +1,9 @@
-Camouflage (Ex)
----------------
+---
+category: extraordinary-ability
+---
+
+Camouflage
+----------
 
 As the [ranger](ClassesII#ranger) special ability.
 

@@ -5,17 +5,27 @@ permalink: /
 
 Welcome to SRD20, a free role-playing game documentation project.
 
+Backgrounds
+-----------
+
+<table>
+<tr>
+<th>Character Backgrounds</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "character-background" %}
+    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+</table>
+
 Special Abilities
 -----------------
 
 {% include extraordinary-abilities.html %}
 {% include supernatural-abilities.html %}
-
-Backgrounds
------------
-
-{% include legendary-backgrounds.html %}
-{% include planetary-backgrounds.html %}
 
 Open Game Content References
 ----------------------------

@@ -1,5 +1,9 @@
-Aura (Ex)
----------
+---
+category: extraordinary-ability
+---
+
+Aura
+----
 
 __Prerequisites:__ Chaotic, evil, good, or lawful deity.
 

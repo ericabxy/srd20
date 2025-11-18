@@ -1,3 +1,7 @@
+---
+category: supernatural-ability
+---
+
 Enhance Arrow
 -------------
 

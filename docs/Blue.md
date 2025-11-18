@@ -1,3 +1,7 @@
+---
+category: character-background
+---
+
 Blue
 ----
 

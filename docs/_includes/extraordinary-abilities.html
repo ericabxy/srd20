@@ -3,39 +3,22 @@
 <th>Extraordinary Abilities</th>
 <td>
 AC Bonus &bull;
-<a href='AnimalCompanion'>Animal Companion</a> &bull;
-<a href='Aura'>Aura</a> &bull;
-<a href='Camouflage'>Camouflage</a> &bull;
-<a href='CombatStyle'>Combat Style</a> &bull;
 Crippling Strike &bull;
-<a href='DamageReduction'>Damage Reduction</a> &bull;
 Defensive Roll &bull;
 Diamond Soul &bull;
 Divine Health &bull;
-<a href='Evasion'>Evasion</a> &bull;
-<a href='FastMovement'>Fast Movement</a> &bull;
-<a href='FavoredEnemy'>Favored Enemy</a> &bull;
 Flurry of Blows &bull;
-<a href='HideInPlainSight'>Hide in Plain Sight</a> &bull;
-<a href='NatureSense'>Nature Sense</a> &bull;
 Opportunist &bull;
 Purity of Body &bull;
-<a href='Rage'>Rage</a> &bull;
-<a href='ResistNaturesLure'>Resist Nature's Lure</a> &bull;
 Slippery Mind &bull;
 Slow Fall &bull;
-<a href='SneakAttack'>Sneak Attack</a> &bull;
 Still Mind &bull;
-<a href='SwiftTracker'>Swift Tracker</a> &bull;
-<a href='TimelessBody'>Timeless Body</a> &bull;
-Tongue of the Sun and Moon &bull;
-<a href='TracklessStep'>Trackless Step</a> &bull;
-<a href='TrapSense'>Trap Sense</a> &bull;
-<a href='Trapfinding'>Trapfinding</a> &bull;
-<a href='UncannyDodge'>Uncanny Dodge</a> &bull;
-<a href='VenomImmunity'>Venom Immunity</a> &bull;
-<a href='WildEmpathy'>Wild Empathy</a> &bull;
-<a href='WoodlandStride'>Woodland Stride</a>
+Tongue of the Sun and Moon
+{% for doc in site.pages %}
+  {% if doc.category == "extraordinary-ability" %}
+    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+  {% endif %}
+{% endfor %}
 </td>
 </tr>
 </table>

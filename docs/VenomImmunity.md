@@ -1,4 +1,8 @@
-Venom Immunity (Ex)
+---
+category: extraordinary-ability
+---
+
+Venom Immunity
 --------------
 
 __Prerequisites:__ Fort and Will saves +6.

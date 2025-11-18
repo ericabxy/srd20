@@ -1,5 +1,5 @@
 ---
-category: background
+category: character-background
 ---
 
 Dromite

@@ -1,4 +1,8 @@
-Resist Nature's Lure (Ex)
+---
+category: extraordinary-ability
+---
+
+Resist Nature's Lure
 --------------------
 
 __Prerequisite:__ Fort and Will saves +4.

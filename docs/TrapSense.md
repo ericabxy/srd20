@@ -1,4 +1,8 @@
-Trap Sense (Ex)
+---
+category: extraordinary-ability
+---
+
+Trap Sense
 ----------
 
 __Prerequisite:__ Character level 3rd.

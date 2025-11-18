@@ -1,3 +1,7 @@
+---
+category: character-background
+---
+
 Wild Elf
 --------
 
@@ -17,7 +21,7 @@ __Low-light vision:__ A wild elf can see twice as far as normal in starlight, mo
 
 __Weapon Proficiency:__ Wild elves are automatically proficient with the longsword, rapier, longbow, composite longbow, shortbow, and composite shortbow.
 
-__+2 racial bonus on Listen, Search, and Spot checks.__ An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
+__+2 racial bonus__ on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
 
 __Automatic Languages:__ Common, Elven. Bonus Languages: Draconic, Gnoll, Gnome, Goblin, Orc, Sylvan.
 

@@ -1,5 +1,9 @@
+---
+category: extraordinary-ability
+---
+
 Favored Enemy
-=============
+-------------
 
 __Prerequisite:__ Base attack bonus +1.
 

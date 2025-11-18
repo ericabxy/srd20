@@ -1,3 +1,7 @@
+---
+category: extraordinary-ability
+---
+
 Sneak Attack
 ------------
 

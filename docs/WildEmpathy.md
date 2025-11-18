@@ -1,4 +1,8 @@
-Wild Empathy (Ex)
+---
+category: extraordinary-ability
+---
+
+Wild Empathy
 ------------
 
 __Benefit:__ You can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person. You roll 1d20 and add your character level and your Charisma modifier to determine the wild empathy check result.

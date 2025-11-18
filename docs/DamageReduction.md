@@ -1,4 +1,8 @@
-Damage Reduction (Ex)
+---
+category: extraordinary-ability
+---
+
+Damage Reduction
 ----------------
 
 __Prerequisite:__ Fort save +5.

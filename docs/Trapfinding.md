@@ -1,2 +1,6 @@
+---
+category: extraordinary-ability
+---
+
 Trapfinding
 -----------

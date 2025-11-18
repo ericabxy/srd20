@@ -1,4 +1,8 @@
-Hide in Plain Sight (Ex)
+---
+category: extraordinary-ability
+---
+
+Hide in Plain Sight
 -------------------
 
 While in any sort of natural terrain, you can use the Hide skill even while being observed.
