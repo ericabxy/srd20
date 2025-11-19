@@ -12,6 +12,8 @@ Welcome to SRD20, a free role-playing game documentation project.
 Backgrounds
 -----------
 
+{% include character-backgrounds.html %}
+
 <table>
 <tr>
 <th>Character Backgrounds</th>
@@ -30,8 +32,6 @@ Open Game Content References
 ----------------------------
 
 {% include system-reference-document.html %}
-
-{% include standard-backgrounds.html %}
 
 {% include modern-system-reference-document.html %}
 

@@ -1,0 +1,75 @@
+<table>
+<tr>
+<th colspan='2'>Character Backgrounds</th>
+</tr>
+<tr>
+<th>Standard Backgrounds</th>
+<td>
+<a href='Races#humans'>Humans</a> &bull;
+<a href='Races#dwarves'>Dwarves</a> &bull;
+<a href='Races#elves'>Elves</a> &bull;
+<a href='Races#gnomes'>Gnomes</a> &bull;
+<a href='MonstersG#goblins-as-characters'>Goblins</a> &bull;
+<a href='Races#half-elves'>Half-elves</a> &bull;
+<a href='Races#half-orcs'>Half-orcs</a> &bull;
+<a href='Races#halflings'>Halflings</a> &bull;
+<a href='MonstersK-L#kobold-characters'>Kobolds</a> &bull;
+<a href='MonstersO-R#orcs-as-characters'>Orcs</a>
+</td>
+</tr>
+<tr>
+<th>Planetary Romance Backgrounds</th>
+<td>
+Blue &bull;
+Dromite &bull;
+Duergar &bull;
+Elan &bull;
+Gnoll &bull;
+Half-giant &bull;
+Maenad &bull;
+Rakshasa &bull;
+Saurian &bull;
+Xeph
+</td>
+</tr>
+<tr>
+<th>Legendary Forest Backgrounds I</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "legendary-forest-background-i" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+Half-elf &bull;
+Half-orc &bull;
+</td>
+</tr>
+<tr>
+<th>Legendary Forest Backgrounds II</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "legendary-forest-background-ii" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+Aasimar &bull;
+Hobgoblin &bull;
+Kobold &bull;
+Tiefling
+</td>
+</tr>
+<tr>
+<th>Legendary Forest Backgrounds III</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "legendary-forest-background-iii" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+Goblin &bull;
+</td>
+</tr>
+</table>
