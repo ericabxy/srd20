@@ -4,7 +4,7 @@ company: Wizards of the Coast
 operator: AKSmith
 title: Character Classes I
 category: srd-basic-rules-and-legal
-order: 5
+layout: default
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>

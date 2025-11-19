@@ -1,5 +1,4 @@
 title: Srd20 Project
-source: docs
 
 collections:
   arcana_unearthed:
@@ -11,5 +10,6 @@ collections:
   system_reference_document:
     output: true
     permalink: /:title
+    layout: default
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:title

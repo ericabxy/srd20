@@ -4,7 +4,7 @@ company: Wizards of the Coast
 operator: asmith
 title: Combat I
 category: srd-basic-rules-and-legal
-order: 12
+layout: default
 ---
 
 This material is Open Game Content, and is licensed for public use

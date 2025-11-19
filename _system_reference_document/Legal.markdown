@@ -4,7 +4,7 @@ company: Wizards of the Coast
 operator: asmith
 title: Legal Information
 category: srd-basic-rules-and-legal
-order: 1
+layout: default
 ---
 
 # LEGAL INFORMATION
