@@ -33,83 +33,9 @@ Open Game Content References
 
 {% include system-reference-document.html %}
 
-<table>
-<tr>
-<th colspan='2'>Modern System Reference Document</th>
-</tr>
-<tr>
-<th>Modern Basics</th>
-<td>
-{% for document in site.msrdocs %}
-  {% if document.category == "modern-basics" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th>Arcana</th>
-<td>
-{% for document in site.msrdocs %}
-  {% if document.category == "arcana" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th>Future</th>
-<td>
-{% for document in site.msrdocs %}
-  {% if document.category == "future" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th>Menaces</th>
-<td>
-{% for document in site.msrdocs %}
-  {% if document.category == "menaces" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-</table>
+{% include modern-system-reference-document.html %}
 
-<table>
-<tr>
-<th colspan='2'>Arcana Unearthed</th>
-</tr>
-<tr>
-<th>Before You Start</th>
-<td>
-{% for document in site.arcana_unearthed %}
-  {% if document.category == "before-you-start" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th>Racial Traits</th>
-<td>
-{% for document in site.arcana_unearthed %}
-  {% if document.category == "racial-traits" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-</table>
+{% include arcana-unearthed.html %}
 
 External Links
 --------------

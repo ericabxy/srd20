@@ -1,3 +1,8 @@
+---
+category: extraordinary-ability
+title: Combat Style
+---
+
 Combat Style (Ex)
 ------------
 

@@ -1,5 +1,6 @@
 ---
 category: spell-like-ability
+title: Remove Disease
 ---
 
 Remove Disease

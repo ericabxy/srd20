@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Woodland Stride
 ---
 
 Woodland Stride

@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Hide in Plain Sight
 ---
 
 Hide in Plain Sight

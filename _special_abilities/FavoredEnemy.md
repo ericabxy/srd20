@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Favored Enemy
 ---
 
 Favored Enemy

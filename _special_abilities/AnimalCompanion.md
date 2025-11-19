@@ -1,5 +1,6 @@
 ---
-category: extraordinary ability
+category: extraordinary-ability
+title: Animal Companion
 ---
 
 Animal Companion

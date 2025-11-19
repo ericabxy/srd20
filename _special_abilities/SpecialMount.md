@@ -1,5 +1,6 @@
 ---
 category: spell-like-ability
+title: Special Mount
 ---
 
 Special Mount

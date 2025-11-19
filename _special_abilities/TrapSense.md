@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Trap Sense
 ---
 
 Trap Sense

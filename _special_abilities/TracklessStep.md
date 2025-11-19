@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Trackless Step
 ---
 
 Trackless Step

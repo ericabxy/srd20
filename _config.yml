@@ -4,10 +4,13 @@ collections:
   arcana_unearthed:
     output: true
     permalink: /:title
-  msrdocs:
+  msrd:
     output: true
     permalink: /:title
-  srdocs:
+  special_abilities:
+    output: true
+    permalink: /:title
+  srd:
     output: true
     permalink: /:title
 
@@ -15,12 +18,24 @@ defaults:
   -
     scope:
       path: ''
-      type: 'srdocs'
+      type: 'arcana_unearthed'
     values:
       layout: 'default'
   -
     scope:
       path: ''
-      type: 'msrdocs'
+      type: 'srd'
+    values:
+      layout: 'default'
+  -
+    scope:
+      path: ''
+      type: 'special_abilities'
+    values:
+      layout: 'default'
+  -
+    scope:
+      path: ''
+      type: 'msrd'
     values:
       layout: 'default'

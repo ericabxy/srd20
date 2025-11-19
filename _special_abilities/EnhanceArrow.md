@@ -1,5 +1,6 @@
 ---
 category: supernatural-ability
+title: Enhance Arrow
 ---
 
 Enhance Arrow

@@ -1,5 +1,6 @@
 ---
 category: spell-like-ability
+title: Song of Freedom
 ---
 
 Song of Freedom

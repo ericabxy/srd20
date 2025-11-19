@@ -1,5 +1,6 @@
 ---
 category: spell-like-ability
+title: Mass Suggestion
 ---
 
 Mass Suggestion

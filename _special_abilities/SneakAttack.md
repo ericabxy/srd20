@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Sneak Attack
 ---
 
 Sneak Attack

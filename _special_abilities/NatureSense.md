@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Nature Sense
 ---
 
 Nature Sense

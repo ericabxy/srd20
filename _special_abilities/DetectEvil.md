@@ -1,5 +1,6 @@
 ---
 category: spell-like-ability
+title: Detect Evil
 ---
 
 Detect Evil

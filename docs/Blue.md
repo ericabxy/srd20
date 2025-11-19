@@ -1,6 +1,5 @@
 ---
 category: character-background
-permalink: /Blue
 ---
 
 Blue

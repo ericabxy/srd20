@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Damage Reduction
 ---
 
 Damage Reduction

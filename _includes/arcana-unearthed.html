@@ -1,8 +1,28 @@
+<table>
+<tr>
+<th colspan='2'>Arcana Unearthed</th>
+</tr>
+<tr>
+<th>Before You Start</th>
+<td>
 {% for document in site.arcana_unearthed %}
-  <h2>
-    <a href="{{ document.url }}">
-      {{ document.name }} - {{ document.position }}
-    </a>
-  </h2>
-  <p>{{ document.content | markdownify }}</p>
+  {% if document.category == "before-you-start" %}
+    <a href="{{ document.url }}">{{ document.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
 {% endfor %}
+</td>
+</tr>
+<tr>
+<th>Racial Traits</th>
+<td>
+{% for document in site.arcana_unearthed %}
+  {% if document.category == "racial-traits" %}
+    <a href="{{ document.url }}">{{ document.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+</table>
+

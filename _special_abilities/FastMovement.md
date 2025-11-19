@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Fast Movement
 ---
 
 Fast Movement

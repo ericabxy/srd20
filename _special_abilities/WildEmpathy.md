@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Wild Empathy
 ---
 
 Wild Empathy

@@ -1,5 +1,6 @@
 ---
 category: supernatural-ability
+title: Wild Shape
 ---
 
 Wild Shape

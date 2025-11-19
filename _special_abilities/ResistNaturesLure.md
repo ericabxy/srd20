@@ -1,5 +1,6 @@
 ---
 category: extraordinary-ability
+title: Resist Nature's Lure
 ---
 
 Resist Nature's Lure
