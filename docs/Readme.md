@@ -22,7 +22,7 @@ Backgrounds
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "character-background" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}/{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
