@@ -1,0 +1,27 @@
+<table>
+<tr>
+<th colspan='3'>Special Abilities</th>
+</tr>
+<tr>
+<th>Extraordinary Abilities</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "extraordinary-ability" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Supernatural Abilities</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "supernatural-ability" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+</table>

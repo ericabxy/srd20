@@ -4,6 +4,7 @@ company: Wizards of the Coast
 operator: AKSmith
 subject: MSRD
 title: Skills II
+order: 21
 ---
 
 This material is Open Game Content, and is licensed for public use under

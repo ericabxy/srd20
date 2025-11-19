@@ -29,4 +29,4 @@ __Favored Class:__ Rogue.
 
 ### Sources
 
-This background is based on the SRD doppelganger.
+This background is based on the [SRD doppelganger](MonstersDi-Do#doppelgangers-as-characters).

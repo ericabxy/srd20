@@ -1,0 +1,22 @@
+<table>
+<tr>
+<th colspan='2'>System Reference Document</th>
+</tr>
+<tr>
+<th>Basic Rules and Legal</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "srd-basic-rules-and-legal" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+{% include spells.html %}
+{% include magic-items.html %}
+{% include monsters.html %}
+{% include psionics.html %}
+{% include epic.html %}
+{% include divine.html %}
+</table>

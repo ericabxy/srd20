@@ -2,11 +2,12 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: asmith
-title: feat is a special feature that either gives your character a
+title: Feats
+category: srd-basic-rules-and-legal
+order: 9
 ---
 
-This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 # FEATS
 

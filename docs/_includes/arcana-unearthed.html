@@ -1,0 +1,8 @@
+{% for document in site.arcana_unearthed %}
+  <h2>
+    <a href="{{ document.url }}">
+      {{ document.name }} - {{ document.position }}
+    </a>
+  </h2>
+  <p>{{ document.content | markdownify }}</p>
+{% endfor %}

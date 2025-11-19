@@ -5,6 +5,10 @@ permalink: /
 
 Welcome to SRD20, a free role-playing game documentation project.
 
+{% include special-abilities.html %}
+
+{% include rules-variants.html %}
+
 Backgrounds
 -----------
 
@@ -14,29 +18,33 @@ Backgrounds
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "character-background" %}
-    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
 </td>
 </tr>
 </table>
 
-Special Abilities
------------------
-
-{% include extraordinary-abilities.html %}
-{% include supernatural-abilities.html %}
-
 Open Game Content References
 ----------------------------
 
-{% include system-reference-document.markdown %}
+{% include system-reference-document.html %}
 
 {% include standard-backgrounds.html %}
 
-{% include unearthed-arcana.html %}
-
 {% include modern-system-reference-document.html %}
+
+### Arcana Unearthed
+
+{% for document in site.arcana_unearthed %}
+  <h2>
+    <a href="{{ document.url }}">
+      document
+    </a>
+  </h2>
+  <p>{{ document.content | markdownify }}</p>
+{% endfor %}
 
 External Links
 --------------

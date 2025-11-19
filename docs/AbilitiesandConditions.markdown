@@ -1,5 +1,13 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+---
+author: AKSmith
+company: Wizards of the Coast
+operator: asmith
+title: Special Abilities and Conditions
+category: srd-basic-rules-and-legal
+order: 14
+---
+
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 # SPECIAL ABILITIES & CONDITIONS
 

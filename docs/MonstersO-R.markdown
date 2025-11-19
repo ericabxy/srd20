@@ -1423,11 +1423,9 @@ always choose to take 10 on a Swim check, even if distracted or
 endangered. It can use the run action while swimming, provided it swims
 in a straight line.
 
-RAKSHASA
+## RAKSHASA
 
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Medium Outsider (Native)
-                                           
+|                           | Medium Outsider (Native)
 | **Hit Dice:**             | 7d8+21 (52 hp)
 | **Initiative:**           | +2
 | **Speed:**                | 40 ft. (8 squares)
@@ -1448,11 +1446,8 @@ RAKSHASA
 | **Treasure:**             | Standard coins; double goods; standard items
 | **Alignment:**            | Always lawful evil
 | **Advancement:**          | By character class
-                                           
 | **Level Adjustment:**     | +7
                                            
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 A closer look at a rakshasa reveals that the palms of its hands are
 where the backs of the hands would be on a human.
 
@@ -1460,13 +1455,13 @@ A rakshasa is about the same height and weight as a human.
 
 Rakshasas speak Common, Infernal, and Undercommon.
 
-COMBAT
+### COMBAT
 
 In close combat, which a rakshasa disdains as ignoble, it employs its
 sharp claws and powerful bite. Whenever possible, it uses its other
 abilities to make such encounters unnecessary.
 
-**Detect Thoughts (Su): **A rakshasa can continuously use
+**Detect Thoughts (Su):** A rakshasa can continuously use
 detect thoughts as the spell (caster level 18th; Will DC 15 negates). It
 can suppress or resume this ability as a free action. The save DC is
 Charisma-based.
@@ -1474,14 +1469,14 @@ Charisma-based.
 **Spells:** A rakshasa casts spells as a 7th-level
 sorcerer. 
 
-*Typical Sorcerer Spells Known *(6/7/7/5; save DC 13 +
-spell level): 0---*detect magic, light, mage hand,
-message, read magic, resistance, touch of fatigue;
-*1st---*charm person, mage armor, magic
-missile, shield, silent image;
-*2nd---*bear['[s
-endurance, invisibility, acid arrow;
-*3rd---*haste, suggestion.*
+*Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 +
+spell level): 0---*detect magic*, *light*, *mage hand*,
+*message*, *read magic*, *resistance*, *touch of fatigue*;
+1st---*charm person*, *mage armor*, *magic
+missile*, *shield*, *silent image*;
+2nd---*bear's
+endurance*, *invisibility*, *acid arrow*;
+3rd---*haste*, *suggestion*.
 
 **Change Shape (Su):** A rakshasa can assume any humanoid
 form, or revert to its own form, as a standard action. In humanoid form,
@@ -1489,7 +1484,7 @@ a rakshasa loses its claw and bite attacks (although it often equips
 itself with weapons and armor instead). A rakshasa remains in one form
 until it chooses to assume a new one. A change in form cannot be
 dispelled, but the rakshasa reverts to its natural form when killed. A
-*true seeing *spell reveals its natural
+*true seeing* spell reveals its natural
 form.
 
 **Skills:** A rakshasa has a +4 racial bonus on Bluff and
@@ -1498,7 +1493,7 @@ additional +10 circumstance bonus on Disguise checks. If reading an
 opponent's mind, its circumstance bonus on Bluff and Disguise checks
 increases by a further +4.
 
-RAKSHASAS AS CHARACTERS
+### RAKSHASAS AS CHARACTERS
 
 Rakshasa characters possess the following racial traits.
 
@@ -1536,12 +1531,8 @@ modifier.
 If the character takes additional levels of sorcerer, these levels stack
 with the rakshasa's base spellcasting ability for spells known, spells
 per day, and other effects dependent on caster level. A rakshasa
-character likewise uses the sum of its
-
-racial spellcasting levels and class levels to determine the
-abilities
-
-of its familiar.
+character likewise uses the sum of its racial spellcasting levels and
+class levels to determine the abilities of its familiar.
 
 ---Special Qualities (see above): Change shape, damage reduction
 15/good and piercing, spell resistance equal to 27 + class

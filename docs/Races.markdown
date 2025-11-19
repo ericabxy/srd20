@@ -2,13 +2,14 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
-title: CHOOSING A RACE
+title: Races
+category: srd-basic-rules-and-legal
+order: 4
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-## RACES
+## CHOOSING A RACE
 
 ### FAVORED CLASS
 

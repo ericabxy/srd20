@@ -3,18 +3,15 @@ author: AKSmith
 company: Wizards of the Coast
 operator: asmith
 title: Monsters (G)
+order: 7
 ---
 
-This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.
+<small> This material is Open Game Content, and is licensed for public use
+under the terms of the Open Game License v1.0a.</small>
 
-MONSTERS (G)
+## GARGOYLE
 
-GARGOYLE
-
-  ---------------------------------------- --------------------------------------------------------------------------------------------
-                                          | Medium Monstrous Humanoid (Earth)
-                                           
+|                          | Medium Monstrous Humanoid (Earth)
 | **Hit Dice**             | 4d8+19 (37 hp)
 | **Initiative**           | +2
 | **Speed**                | 40 ft. (8 squares), fly 60 ft. (average)
@@ -35,11 +32,8 @@ GARGOYLE
 | **Treasure**             | Standard
 | **Alignment**            | Usually chaotic evil
 | **Advancement**          | 5--6 HD (Medium); 7--12 HD (Large)
-                                           
 | **Level Adjustment**     | +5
                                            
-  ---------------------------------------- --------------------------------------------------------------------------------------------
-
 Gargoyles often appear to be winged stone statues, for they can perch
 indefinitely without moving and use this disguise to surprise their
 foes. They require no food, water, or air, but often eat their fallen
@@ -47,7 +41,7 @@ foes out of fondness for inflicting pain.
 
 Gargoyles speak Common and Terran.
 
-COMBAT
+### COMBAT
 
 Gargoyles either remain still, then suddenly attack, or dive onto their
 prey.
@@ -63,13 +57,13 @@ Skills Gargoyles have a +2 racial bonus on Hide,
 Listen, and Spot checks. \*The Hide bonus increases by +8 when a
 gargoyle is concealed against a background of stone.
 
-KAPOACINTH
+### KAPOACINTH
 
 These cousins of the gargoyle have the aquatic subtype. They have a
 base land speed of 40 feet and a swim speed of 60 feet (no fly speed)
 and are found only in aquatic environments.
 
-GARGOYLES AS CHARACTERS
+### GARGOYLES AS CHARACTERS
 
 Gargoyle characters possess the following racial traits.
 
@@ -108,13 +102,13 @@ Gnome, Halfling, Giant, Terran.
 
 ---Level adjustment +5.
 
-GENIE
+## GENIE
 
 Genies are humanlike beings who dwell on the elemental planes. They are
 famous for their strength, guile, and skill with illusion
 magic.
 
-COMBAT
+### COMBAT
 
 Genies prefer to outmaneuver and outthink their foes. They are not too
 proud to flee if it means they'll live to fight another day. If trapped,
@@ -1669,11 +1663,9 @@ Skills A girallon has a +8 racial bonus on Climb
 checks and can always choose to take 10 on a Climb check, even if rushed
 or threatened.
 
-GNOLL
+## GNOLL
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Medium Humanoid (Gnoll)
-                                           
+|                          | Medium Humanoid (Gnoll)
 | **Hit Dice**             | 2d8+2 (11 hp)
 | **Initiative**           | +0
 | **Speed**                | 30 ft. (6 squares)
@@ -1694,18 +1686,15 @@ GNOLL
 | **Treasure**             | Standard
 | **Alignment**            | Usually chaotic evil
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | +1
                                            
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Gnolls are hyena-headed, evil humanoids that wander in loose tribes.
 Most gnolls have dirty yellow or reddish-brown fur. A gnoll is a
 nocturnal carnivore, preferring intelligent creatures for food because
 they scream more. A gnoll is about 7-1/2 feet tall and weighs 300
 pounds. Gnolls speak Gnoll.
 
-COMBAT
+### COMBAT
 
 Gnolls like to attack when they have the advantage of numbers, using
 horde tactics and their physical strength to overwhelm and knock down
@@ -1718,7 +1707,7 @@ always take special care to seek favorable conditions when laying
 ambushes (such as darkness, cover, or some other form of advantageous
 terrain).
 
-GNOLLS AS CHARACTERS
+### GNOLLS AS CHARACTERS
 
 Gnoll characters possess the following racial traits.
 
@@ -1751,19 +1740,17 @@ Elven, Goblin, Orc.
 
 ---Level adjustment +1.
 
-GNOME
+## GNOME
 
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                         | **Gnome, 1st-Level Warrior**                                                                                                                                                                                               | **Svirfneblin, 1st-Level Warrior**
-                                                                                                                                                                                                                                                                                      
-                                          | Small Humanoid (Gnome)                                                                                                                                                                                                      | Small Humanoid (Gnome)
+|                          | **Gnome, 1st-Level Warrior**                                                                                                                                                                                               | **Svirfneblin, 1st-Level Warrior**
+|                          | Small Humanoid (Gnome)                                                                                                                                                                                                      | Small Humanoid (Gnome)
 | **Hit Dice**             | 1d8+2 (6 hp)                                                                                                                                                                                                                | 1d8+4 (8 hp)
 | **Initiative**           | +0                                                                                                                                                                                                                          | +1
 | **Speed**                | 20 ft. (4 squares)                                                                                                                                                                                                          | 15 ft. in banded mail armor (3 squares); base speed 20 ft.
 | **Armor Class**          | 16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat-footed 16                                                                                                                                                     | 23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18
 | **Base Attack/Grapple**  | +1/--3                                                                                                                                                                                                                      | +1/--3
 | **Attack**               | Longsword +2 melee (1d6/19--20) or light crossbow +3 ranged (1d6/19--20)                                                                                                                                                    | Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19--20)
-| **Full Attack: **         | Longsword +2 melee (1d6/19--20) or light crossbow +3 ranged (1d6/19--20)                                                                                                                                                    | Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19--20)
+| **Full Attack:**         | Longsword +2 melee (1d6/19--20) or light crossbow +3 ranged (1d6/19--20)                                                                                                                                                    | Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19--20)
 | **Space/Reach**          | 5 ft./5 ft.                                                                                                                                                                                                                 | 5 ft./5 ft.
 | **Special Attacks**      | ---                                                                                                                                                                                                                         | Spell-like abilities
 | **Special Qualities**    | Gnome traits                                                                                                                                                                                                                | Gnome traits, svirfneblin traits, spell resistance 12
@@ -1777,10 +1764,7 @@ GNOME
 | **Treasure**             | Standard                                                                                                                                                                                                                    | Standard
 | **Alignment**            | Usually neutral good                                                                                                                                                                                                        | Usually neutral
 | **Advancement**          | By character class                                                                                                                                                                                                          | By character class
-                                                                                                                                                                                                                                                                                      
 | **Level Adjustment**     | +0                                                                                                                                                                                                                          | +3
-                                                                                                                                                                                                                                                                                      
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Gnomes stand 3 to 3-1/2 feet tall and weigh 40 to 45 pounds. Their skin
 color ranges from dark tan to woody brown, their hair is fair, and their
@@ -1798,7 +1782,7 @@ Most gnomes encountered outside their home are warriors; the
 information in the statistics block is for one of 1st
 level.
 
-COMBAT
+### COMBAT
 
 Gnomes prefer misdirection and deception over direct
 confrontation.
@@ -1809,7 +1793,7 @@ kobolds) than kill them.
 Gnomes make heavy use of illusion magic and carefully prepared ambushes
 and traps whenever they can.
 
-Gnome Traits (Ex) Gnomes possess the following
+__Gnome Traits (Ex):__ Gnomes possess the following
 racial traits.
 
 --- +2 Constitution, --2 Strength.
@@ -1844,10 +1828,10 @@ effects, such as the Spell Focus feat.
 ---Automatic Languages: Common, Gnome. Bonus Languages: Draconic,
 Dwarven, Elven, Giant, Goblin, Orc.
 
----Spell-Like Abilities: 1/day---*speak with animals *(burrowing mammal
+---Spell-Like Abilities: 1/day---*speak with animals* (burrowing mammal
 only, duration 1 minute). A gnome with a Charisma score of at least 10
-also has the following spell-like abilities: 1/day---*dancing lights,
-ghost sound, prestidigitation. *Caster level 1st; save DC 10 + gnome's
+also has the following spell-like abilities: 1/day---*dancing lights*,
+*ghost sound*, *prestidigitation*. Caster level 1st; save DC 10 + gnome's
 Cha modifier + spell level.
 
 ---Favored Class: Bard.
@@ -1855,14 +1839,14 @@ Cha modifier + spell level.
 The gnome warrior presented here had the following ability scores before
 racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
-SUBRACES
+### SUBRACES
 
 The information above is for rock gnomes, the most common variety.
 
 There are two other major gnome subraces, which differ from rock gnomes
 as follows.
 
-Svirfneblin
+#### Svirfneblin
 
 Also called deep gnomes, svirfneblin are said to dwell in great cities
 deep underground.
@@ -1933,7 +1917,7 @@ Challenge Rating: Svirfneblin with levels in NPC classes have a CR equal
 to their character level. Svirfneblin with levels in PC classes have a
 CR equal to their character level +1.
 
-Forest Gnome
+#### Forest Gnome
 
 They are the smallest of all the gnomes, averaging 2 to 2-1/2 feet in
 height, but look just like regular gnomes except with bark-colored or
@@ -1944,8 +1928,8 @@ very long-lived people, forest gnomes have an average life expectancy of
 **Forest Gnome Traits (Ex):** These traits are in addition to the rock
 gnome traits, except where noted.
 
----*Pass without Trace *(Su): A forest gnome has the innate ability to
-use *pass without trace *(self only, as a free action) as the spell cast
+---*Pass without Trace* (Su): A forest gnome has the innate ability to
+use *pass without trace* (self only, as a free action) as the spell cast
 by a druid of the forest gnome's class levels.
 
 --- +1 racial bonus on attack rolls against kobolds, goblinoids, orcs,
@@ -1953,7 +1937,7 @@ and reptilian humanoids.
 
 ---Automatic Languages: Gnome, Elven, Sylvan, and a simple language that
 enables them to communicate on a very basic level with forest animals
-(this replaces the rock gnome's *speak with animals *ability). Bonus
+(this replaces the rock gnome's *speak with animals* ability). Bonus
 Languages: Common, Draconic, Dwarven, Giant, Goblin, Orc. This trait
 replaces the rock gnome's automatic and bonus languages.
 

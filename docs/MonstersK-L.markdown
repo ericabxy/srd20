@@ -3,6 +3,7 @@ author: AKSmith
 company: Wizards of the Coast
 operator: asmith
 title: MONSTERS (K-L)
+order: 9
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>

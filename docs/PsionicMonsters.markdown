@@ -3,6 +3,7 @@ author: asmith
 company: Wizards of the Coast
 operator: asmith
 title: Psionic Monsters
+order: 11
 ---
 
 This material is Open Game Content, and is licensed for public use under

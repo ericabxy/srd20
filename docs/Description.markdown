@@ -2,11 +2,12 @@
 author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
-title: Description
+title: Alignment and Description
+category: srd-basic-rules-and-legal
+order: 3
 ---
 
-This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 # DESCRIPTION
 

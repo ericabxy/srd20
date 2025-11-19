@@ -25,4 +25,6 @@ __Low-Light Vision:__ A blue can see twice as far as a human in starlight, moonl
 
 +4 racial bonus on Jump checks: Blues are accomplished leapers.
 
+This background is based on the [jungle goblin](JungleBackgrounds#jungle-goblins).
+
 {% include planetary-backgrounds.html %}

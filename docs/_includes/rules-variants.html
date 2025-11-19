@@ -1,9 +1,9 @@
 <table>
 <tr>
-<th>Supernatural Abilities</th>
+<th>Rules Variants</th>
 <td>
 {% for doc in site.pages %}
-  {% if doc.category == "supernatural-ability" %}
+  {% if doc.category == "rules-variant" %}
     &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
   {% endif %}
 {% endfor %}
