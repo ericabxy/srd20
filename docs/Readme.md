@@ -1,7 +1,8 @@
 ---
 title: SRD20, the documentation project
-permalink: /
 ---
+
+{{ site.baseurl }}
 
 Welcome to SRD20, a free role-playing game documentation project.
 

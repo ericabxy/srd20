@@ -3,10 +3,8 @@ title: Srd20 Project
 collections:
   arcana_unearthed:
     output: true
-    permalink: /:title
   msrd:
     output: true
-    permalink: /:title
   special_abilities:
     output: true
     permalink: /:title
