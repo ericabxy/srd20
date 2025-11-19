@@ -1,3 +1,8 @@
+---
+title: Multiplying
+category: before-you-start
+---
+
 Multiplying
 -----------
 

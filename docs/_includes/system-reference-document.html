@@ -5,7 +5,7 @@
 <tr>
 <th>Basic Rules and Legal</th>
 <td>
-{% for doc in site.pages %}
+{% for doc in site.system_reference_document %}
   {% if doc.category == "srd-basic-rules-and-legal" %}
     <a href="{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
@@ -13,10 +13,70 @@
 {% endfor %}
 </td>
 </tr>
-{% include spells.html %}
-{% include magic-items.html %}
-{% include monsters.html %}
-{% include psionics.html %}
-{% include epic.html %}
-{% include divine.html %}
+<tr>
+<th>Spells</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-spells" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Magic Items</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-magic-items" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Monsters</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-monsters" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Psionics</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-psionics" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Epic</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-epic" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Divine</th>
+<td>
+{% for doc in site.system_reference_document %}
+  {% if doc.category == "srd-divine" %}
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
 </table>

@@ -3,6 +3,7 @@ author: AKSmith
 company: Wizards of the Coast
 operator: AKSmith
 title: Spells (A-B)
+category: srd-spells
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under

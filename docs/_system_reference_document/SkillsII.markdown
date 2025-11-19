@@ -4,7 +4,6 @@ company: Wizards of the Coast
 operator: AKSmith
 title: Skills II
 category: srd-basic-rules-and-legal
-order: 8
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>

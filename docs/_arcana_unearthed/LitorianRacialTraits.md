@@ -1,3 +1,8 @@
+---
+title: Litorian Racial Traits
+category: racial-traits
+---
+
 Litorian Racial Traits
 ----------------------
 

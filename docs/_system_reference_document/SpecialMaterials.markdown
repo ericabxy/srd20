@@ -4,7 +4,6 @@ company: Wizards of the Coast
 operator: AKSmith
 title: Special Materials
 category: srd-basic-rules-and-legal
-order: 11
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
@@ -49,25 +48,25 @@ from adamantine. Weapons, armor and shields normally made of steel that
 are made of adamantine have one-third more hit points than normal.
 Adamantine has 40 hit points per inch of thickness and hardness 20.
 
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | **Type of Adamantine Item** | # Item Cost Modifier |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 |                             |                      |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | Ammunition                  | +60 gp               |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | Light armor                 | +5,000 gp            |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | Medium armor                | +10,000 gp           |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | Heavy armor                 | +15,000 gp           |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 |                             |                      |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 | Weapon                      | +3,000 gp            |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 |                             |                      |
-+-----------------------------+----------------------+
+|-----------------------------+----------------------+
 
 **Darkwood:** This rare magic wood is as hard as normal wood but very
 light. Any wooden or mostly wooden item (such as a bow, an arrow, or a

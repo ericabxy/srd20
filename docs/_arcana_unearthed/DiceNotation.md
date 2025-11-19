@@ -1,3 +1,8 @@
+---
+title: Dice Notation
+category: before-you-start
+---
+
 Dice Notation
 -------------
 

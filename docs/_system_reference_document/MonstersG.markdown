@@ -3,7 +3,7 @@ author: AKSmith
 company: Wizards of the Coast
 operator: asmith
 title: Monsters (G)
-order: 7
+category: srd-monsters
 ---
 
 <small> This material is Open Game Content, and is licensed for public use

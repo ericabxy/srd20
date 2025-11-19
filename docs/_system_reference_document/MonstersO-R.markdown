@@ -3,6 +3,7 @@ author: AKSmith
 company: Wizards of the Coast
 operator: asmith
 title: Monsters (O-R)
+category: srd-monsters
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>

@@ -1,3 +1,8 @@
+---
+title: Giant Racial Traits
+category: racial-traits
+---
+
 Giant Racial Traits
 -------------------
 

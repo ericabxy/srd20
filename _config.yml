@@ -1,2 +1,15 @@
 title: Srd20 Project
 source: docs
+
+collections:
+  arcana_unearthed:
+    output: true
+    permalink: /:title
+  modern_system_reference_document:
+    output: true
+    permalink: /:title
+  system_reference_document:
+    output: true
+    permalink: /:title
+
+permalink: /:categories/:year/:month/:day/:title

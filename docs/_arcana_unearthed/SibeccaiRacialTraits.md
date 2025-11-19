@@ -1,3 +1,8 @@
+---
+title: Sibeccai Racial Traits
+category: racial-traits
+---
+
 ### Sibeccai Racial Traits
 
 * Sibeccai gain a +2 racial bonus to Constitution and a –2 racial penalty to Intelligence.

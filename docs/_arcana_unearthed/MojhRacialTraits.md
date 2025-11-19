@@ -1,3 +1,8 @@
+---
+title: Mojh Racial Traits
+category: racial-traits
+---
+
 ### Mojh Racial Traits
 
 * Mojh are very intelligent—their intellect is, in fact, magically enhanced during their transformation, giving them a +2 racial bonus to Intelligence. However, they are thinner and less sturdy than the humans they once were, imposing a –2 racial penalty to Constitution.

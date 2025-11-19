@@ -4,7 +4,6 @@ company: Wizards of the Coast
 operator: AKSmith
 title: Spells (P-R)
 category: srd-spells
-order: 10
 ---
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>

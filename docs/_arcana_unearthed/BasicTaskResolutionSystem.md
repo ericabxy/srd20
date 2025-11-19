@@ -1,3 +1,8 @@
+---
+title: Basic Task Resolution System
+category: before-you-start
+---
+
 Basic Task Resolution System
 ----------------------------
 

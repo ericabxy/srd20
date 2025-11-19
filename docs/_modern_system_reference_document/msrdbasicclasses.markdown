@@ -4,15 +4,14 @@ company: Wizards of the Coast
 operator: AKSmith
 subject: MSRD
 title: Basic Classes
-order: 14
+category: modern-basics
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-BASIC CHARACTER CLASSES
+## BASIC CHARACTER CLASSES
 
-Basic Class Descriptions
+## Basic Class Descriptions
 
 ### Ability
 

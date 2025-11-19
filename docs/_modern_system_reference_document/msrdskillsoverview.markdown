@@ -4,13 +4,12 @@ company: Wizards of the Coast
 operator: AKSmith
 subject: MSRD
 title: Skills Overview
-order: 19
+category: modern-basics
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-SKILL BASICS
+## SKILL BASICS
 
 # Getting Skills
 
