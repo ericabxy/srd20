@@ -275,18 +275,20 @@ Charisma modifier.
 
 Like other spellcasters, a bard can cast only a certain number of spells
 of each spell level per day. His base daily spell allotment is given on
-Table: The Bard. In addition, he receives bonus spells per day if he has
-a high Charisma score. When Table: Bard Spells Known indicates that the
+[Table: The Bard](#table-the-bard). In addition, he receives bonus
+spells per day if he has a high Charisma score. When
+[Table: Bard Spells Known](#table-bard-spells-known) indicates that the
 bard gets 0 spells per day of a given spell level, he gains only the
 bonus spells he would be entitled to based on his Charisma score for
 that spell level.
 
 The bard's selection of spells is extremely limited. A bard begins play
 knowing four 0-level spells of your choice. At most new bard levels, he
-gains one or more new spells, as indicated on Table: Bard Spells Known.
+gains one or more new spells, as indicated on
+[Table: Bard Spells Known](#table-bard-spells-known).
 (Unlike spells per day, the number of spells a bard knows is not
-affected by his Charisma score; the numbers on Table: Bard Spells Known
-are fixed.)
+affected by his Charisma score; the numbers on
+[Table: Bard Spells Known](#table-bard-spells-known) are fixed.)
 
 Upon reaching 5th level, and at every third bard level after that (8th,
 11th, and so on), a bard can choose to learn a new spell in place of one
@@ -558,11 +560,12 @@ modifier.
 
 Like other spellcasters, a cleric can cast only a certain number of
 spells of each spell level per day. His base daily spell allotment is
-given on Table: The Cleric. In addition, he receives bonus spells per
-day if he has a high Wisdom score. A cleric also gets one domain spell
-of each spell level he can cast, starting at 1st level. When a cleric
-prepares a spell in a domain spell slot, it must come from one of his
-two domains (see Deities, Domains, and Domain Spells, below).
+given on [Table: The Cleric](#table-the-cleric). In addition, he
+receives bonus spells per day if he has a high Wisdom score. A cleric
+also gets one domain spell of each spell level he can cast, starting
+at 1st level. When a cleric prepares a spell in a domain spell slot, it
+must come from one of his two domains (see Deities, Domains, and Domain
+Spells, below).
 
 Clerics meditate or pray for their spells. Each cleric must choose a
 time at which he must spend 1 hour each day in quiet contemplation or
@@ -706,8 +709,8 @@ shape (see below).
 Druids are proficient with light and medium armor but are prohibited
 from wearing metal armor; thus, they may wear only padded, leather, or
 hide armor. (A druid may also wear wooden armor that has been altered by
-the *ironwood *spell so that it functions as though it were steel. See
-the *ironwood *spell description) Druids are proficient with shields
+the *ironwood* spell so that it functions as though it were steel. See
+the *ironwood* spell description) Druids are proficient with shields
 (except tower shields) but must use only wooden ones.
 
 A druid who wears prohibited armor or carries a prohibited shield is
@@ -732,7 +735,7 @@ day if she has a high Wisdom score. She does not have access to any
 domain spells or granted powers, as a cleric does.
 
 A druid prepares and casts spells the way a cleric does, though she
-cannot lose a prepared spell to cast a *cure *spell in its place (but
+cannot lose a prepared spell to cast a *cure* spell in its place (but
 see Spontaneous Casting, below). A druid may prepare and cast any spell
 on the druid spell list, provided that she can cast spells of that
 level, but she must choose which spells to prepare during her daily
@@ -740,12 +743,13 @@ meditation.
 
 **Spontaneous Casting:** A druid can channel stored spell energy into
 summoning spells that she hasn't prepared ahead of time. She can "lose"
-a prepared spell in order to cast any *summon nature's ally *spell of
-the same level or lower.** Chaotic, Evil, Good, and Lawful Spells:** A
-druid can't cast spells of an alignment opposed to her own or her
-deity's (if she has one). Spells associated with particular alignments
-are indicated by the chaos, evil, good, and law descriptors in their
-spell descriptions.
+a prepared spell in order to cast any *summon nature's ally* spell of
+the same level or lower.
+
+**Chaotic, Evil, Good, and Lawful Spells:** A druid can't cast spells
+of an alignment opposed to her own or her deity's (if she has one).
+Spells associated with particular alignments are indicated by the
+chaos, evil, good, and law descriptors in their spell descriptions.
 
 **Bonus Languages:** A druid's bonus language options include Sylvan,
 the language of woodland creatures. This choice is in addition to the
