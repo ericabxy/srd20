@@ -3,7 +3,7 @@ title: SRD20, the documentation project
 permalink: /
 ---
 
-[Blue](/Blue)
+[Blue](Blue)
 
 Welcome to SRD20, a free role-playing game documentation project.
 
@@ -22,7 +22,7 @@ Backgrounds
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "character-background" %}
-    <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
