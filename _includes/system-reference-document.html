@@ -7,7 +7,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-basic-rules-and-legal" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -18,7 +18,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-spells" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -29,7 +29,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-magic-items" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-monsters" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -51,7 +51,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-psionics" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -62,7 +62,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-epic" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -73,7 +73,7 @@
 <td>
 {% for doc in site.srd %}
   {% if doc.category == "srd-divine" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}

@@ -5,9 +5,9 @@
 <tr>
 <th>Before You Start</th>
 <td>
-{% for document in site.arcana_unearthed %}
-  {% if document.category == "before-you-start" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.arcana_unearthed %}
+  {% if doc.category == "before-you-start" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -16,9 +16,9 @@
 <tr>
 <th>Racial Traits</th>
 <td>
-{% for document in site.arcana_unearthed %}
-  {% if document.category == "racial-traits" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.arcana_unearthed %}
+  {% if doc.category == "racial-traits" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}

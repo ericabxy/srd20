@@ -1,13 +1,13 @@
 <table>
 <tr>
-<th colspan='2'>Modern System Reference Document</th>
+<th colspan='2'>Modern System Reference doc</th>
 </tr>
 <tr>
 <th>Modern Basics</th>
 <td>
-{% for document in site.msrd %}
-  {% if document.category == "modern-basics" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.msrd %}
+  {% if doc.category == "modern-basics" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -16,9 +16,9 @@
 <tr>
 <th>Arcana</th>
 <td>
-{% for document in site.msrd %}
-  {% if document.category == "arcana" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.msrd %}
+  {% if doc.category == "arcana" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -27,9 +27,9 @@
 <tr>
 <th>Future</th>
 <td>
-{% for document in site.msrd %}
-  {% if document.category == "future" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.msrd %}
+  {% if doc.category == "future" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -38,9 +38,9 @@
 <tr>
 <th>Menaces</th>
 <td>
-{% for document in site.msrd %}
-  {% if document.category == "menaces" %}
-    <a href="{{ document.url }}">{{ document.title }}</a>
+{% for doc in site.msrd %}
+  {% if doc.category == "menaces" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}

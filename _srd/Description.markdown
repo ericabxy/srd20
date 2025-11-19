@@ -8,8 +8,6 @@ category: srd-basic-rules-and-legal
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-# DESCRIPTION
-
 ## ALIGNMENT
 
 A creature's general moral and personal attitudes are represented by its

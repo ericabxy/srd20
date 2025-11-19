@@ -37,7 +37,7 @@ Xeph
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "legendary-forest-background-i" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -50,7 +50,7 @@ Half-orc &bull;
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "legendary-forest-background-ii" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -65,7 +65,7 @@ Tiefling
 <td>
 {% for doc in site.pages %}
   {% if doc.category == "legendary-forest-background-iii" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}

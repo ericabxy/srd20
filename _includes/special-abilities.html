@@ -7,7 +7,7 @@
 <td>
 {% for doc in site.special_abilities %}
   {% if doc.category == "extraordinary-ability" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -18,7 +18,7 @@
 <td>
 {% for doc in site.special_abilities %}
   {% if doc.category == "spell-like-ability" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
@@ -29,7 +29,7 @@
 <td>
 {% for doc in site.special_abilities %}
   {% if doc.category == "supernatural-ability" %}
-    <a href="{{ doc.url }}">{{ doc.title }}</a>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
