@@ -4,7 +4,6 @@ company: Wizards of the Coast
 operator: asmith
 title: Prestige Classes
 category: srd-basic-rules-and-legal
-order: 16
 ---
 
 This material is Open Game Content, and is licensed for public use under

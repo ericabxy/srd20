@@ -4,12 +4,23 @@ collections:
   arcana_unearthed:
     output: true
     permalink: /:title
-  modern_system_reference_document:
+  msrdocs:
     output: true
     permalink: /:title
-  system_reference_document:
+  srdocs:
     output: true
     permalink: /:title
-    layout: default
 
-permalink: /:title
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'srdocs'
+    values:
+      layout: 'default'
+  -
+    scope:
+      path: ''
+      type: 'msrdocs'
+    values:
+      layout: 'default'

@@ -40,7 +40,7 @@ Open Game Content References
 <tr>
 <th>Modern Basics</th>
 <td>
-{% for document in site.modern_system_reference_document %}
+{% for document in site.msrdocs %}
   {% if document.category == "modern-basics" %}
     <a href="{{ document.url }}">{{ document.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
@@ -51,7 +51,7 @@ Open Game Content References
 <tr>
 <th>Arcana</th>
 <td>
-{% for document in site.modern_system_reference_document %}
+{% for document in site.msrdocs %}
   {% if document.category == "arcana" %}
     <a href="{{ document.url }}">{{ document.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
@@ -62,7 +62,7 @@ Open Game Content References
 <tr>
 <th>Future</th>
 <td>
-{% for document in site.modern_system_reference_document %}
+{% for document in site.msrdocs %}
   {% if document.category == "future" %}
     <a href="{{ document.url }}">{{ document.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
@@ -73,7 +73,7 @@ Open Game Content References
 <tr>
 <th>Menaces</th>
 <td>
-{% for document in site.modern_system_reference_document %}
+{% for document in site.msrdocs %}
   {% if document.category == "menaces" %}
     <a href="{{ document.url }}">{{ document.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
