@@ -10,4 +10,6 @@ You can produce a [*remove disease*](SpellsP-R#remove-disease) effect, as the sp
 Notes
 -----
 
+As the [paladin](ClassesII#paladin) ability. Also gained by hospitaler.
+
 Every three levels after 6th (twice per week at 9th, three times at 12th, and so forth).
