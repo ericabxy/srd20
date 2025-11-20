@@ -9,7 +9,7 @@ Rakshasa
 
 Rakshasa characters possess the following background traits.
 
-* +2 Dexterity, −2 Wisdom
+* +2 Dexterity, +2 Charisma, −2 Wisdom
 * Rakshasa base land speed is 30 feet.
 * __Medium:__ As Medium creatures, rakshasas have no special bonuses or penalties due to their size.
 * __Low-Light Vision.__ A rakshasa can see twice as far as normal in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.

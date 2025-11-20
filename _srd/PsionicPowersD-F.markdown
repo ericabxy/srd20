@@ -10,7 +10,7 @@ category: srd-psionics
 
 ## PSIONIC POWERS (D-F)
 
-# Danger Sense
+### Danger Sense
 
 Clairsentience
 
@@ -37,7 +37,7 @@ bonus to Armor Class against attacks by traps.
 gives you the uncanny dodge ability; if you spend 6 additional power
 points, this power gives you the improved uncanny dodge ability as well.
 
-# Darkvision, Psionic
+### Darkvision, Psionic
 
 Clairsentience
 
@@ -55,9 +55,9 @@ Clairsentience
 
 **Power Points:** Psion/wilder 5, psychic warrior 3
 
-As the *darkvision *spell, except as noted here.
+As the *darkvision* spell, except as noted here.
 
-# Daze, Psionic
+### Daze, Psionic
 
 Telepathy (Compulsion) \[Mind-Affecting\]
 
@@ -79,12 +79,12 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 
 **Power Points:** 1
 
-As the *daze *spell, except as noted here.
+As the *daze* spell, except as noted here.
 
 **Augment:** For every additional power point you spend, this power can
 affect a target that has Hit Dice equal to 4 + the additional points.
 
-# Death Urge
+### Death Urge
 
 Telepathy (Compulsion) \[Mind-Affecting\]
 
@@ -125,7 +125,7 @@ fire instead of striking itself with a weapon.
 **Augment:** For every 4 additional power points you spend, this power's
 save DC increases by 2 and its duration increases by 1 round.
 
-# Deceleration
+### Deceleration
 
 Psychoportation
 
@@ -149,13 +149,13 @@ Psychoportation
 
 You warp space around an individual, hindering the subject's ability to
 move. The subject's speed (in any movement mode it possesses) is halved.
-A subsequent manifestation of *deceleration *on the subject does not
+A subsequent manifestation of *deceleration* on the subject does not
 further decrease its speed.
 
 **Augment:** For every 2 additional power points you spend, this power
 can affect a target one size category larger.
 
-# Decerebrate
+### Decerebrate
 
 Psychoportation \[Teleportation\]
 
@@ -177,14 +177,14 @@ Psychoportation \[Teleportation\]
 
 **Power Points:** 13
 
-With *decerebrate, *you selectively remove a portion of the subject's
+With *decerebrate*, you selectively remove a portion of the subject's
 brain stem. The creature loses all cerebral function, vision, hearing,
 and other sensory abilities, and all voluntary motor activity. The
 subject becomes limp and unresponsive. Without extreme measures, such as
-*greater restoration *or some other suitable effect of 7th level or
+*greater restoration* or some other suitable effect of 7th level or
 higher, the creature perishes in 1d4 days.
 
-# Déjà Vu
+### Déjà Vu
 
 Telepathy \[Mind-Affecting\]
 
@@ -217,7 +217,7 @@ stands still.
 **Augment:** For every 2 additional power points you spend, this power's
 save DC increases by 1.
 
-# Demoralize
+### Demoralize
 
 Telepathy \[Mind-Affecting\]
 
@@ -2342,7 +2342,7 @@ This power's subtype is the same as the type of energy you manifest.
 damage increases by one die (d6). For each extra two dice of damage,
 this power's save DC increases by 1.
 
-# Entangling Ectoplasm
+### Entangling Ectoplasm
 
 Metacreativity (Creation)
 
@@ -2372,7 +2372,7 @@ entangled. The goo evaporates at the end of the power's duration.
 **Augment:** For every 2 additional power points you spend, this power
 can affect a target one size category larger.
 
-# Eradicate Invisibility
+### Eradicate Invisibility
 
 Psychokinesis
 
@@ -2408,7 +2408,7 @@ next turn) and do not have total concealment during this period.
 range and the radius of the burst in which it functions both increase by
 5 feet.
 
-# Escape Detection
+### Escape Detection
 
 Clairsentience
 
@@ -2434,7 +2434,7 @@ must succeed on a manifester level check (1d20 + manifester level, or
 caster level if the opponent is not a manifester) against a DC of 13 +
 your manifester level (maximum +10).
 
-# Ethereal Jaunt, Psionic
+### Ethereal Jaunt, Psionic
 
 Psychoportation
 
@@ -2452,9 +2452,9 @@ Psychoportation
 
 **Power Points:** 13
 
-As the *ethereal jaunt *spell, except as noted here.
+As the *ethereal jaunt* spell, except as noted here.
 
-# Etherealness, Psionic
+### Etherealness, Psionic
 
 Psychoportation
 
@@ -2475,9 +2475,9 @@ all targets must be joined by linked hands
 
 **Power Points:** 17
 
-As the *etherealness *spell, except as noted here.
+As the *etherealness* spell, except as noted here.
 
-# Evade Burst
+### Evade Burst
 
 Psychometabolism
 
@@ -2510,7 +2510,7 @@ isn't your turn.
 **Augment:** If you spend 4 additional power points, you take only half
 damage on a failed Reflex save.
 
-# Exhalation of the Black Dragon
+### Exhalation of the Black Dragon
 
 Psychometabolism \[Acid\]
 
@@ -2539,7 +2539,7 @@ points of acid damage.
 **Augment:** For every 2 additional power points you spend, this power's
 damage increases by 1d6 points.
 
-# Expansion
+### Expansion
 
 Psychometabolism
 
@@ -2600,7 +2600,7 @@ as a swift action instead of a standard action.
 3\. If you spend 2 additional power points, this power's duration is 1
 minute per level rather than 1 round per level.
 
-# Fabricate, Psionic
+### Fabricate, Psionic
 
 Metacreativity (Creation)
 
@@ -2622,9 +2622,9 @@ Metacreativity (Creation)
 
 **Power Points:** 7
 
-As the *fabricate *spell, except as noted here.
+As the *fabricate* spell, except as noted here.
 
-# Fabricate, Greater Psionic
+### Fabricate, Greater Psionic
 
 Metacreativity (Creation)
 
@@ -2637,7 +2637,7 @@ Metacreativity (Creation)
 As *psionic fabricate*, except ten times as much material is affected by
 the power.
 
-# False Sensory Input
+### False Sensory Input
 
 Telepathy \[Mind-Affecting\]
 
@@ -2679,7 +2679,7 @@ attempting to use his powers, the enemy must make a Concentration check
 as if being grappling or pinned.
 
 Because you override a victim's senses, you can fool a victim who is
-using *true seeing *or some other method of gathering information,
+using *true seeing* or some other method of gathering information,
 assuming you know that the victim is actively using such an effect and
 you can maintain concentration.
 
@@ -2687,7 +2687,7 @@ you can maintain concentration.
 can affect an additional target. Any additional target cannot be more
 than 15 feet from another target of the power.
 
-# Far Hand
+### Far Hand
 
 Psychokinesis
 
