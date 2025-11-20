@@ -20,29 +20,23 @@
 <tr>
 <th>Planetary Romance Backgrounds</th>
 <td>
-Blue &bull;
-Dromite &bull;
-Duergar &bull;
-Elan &bull;
-Gnoll &bull;
-Half-giant &bull;
-Maenad &bull;
-Rakshasa &bull;
-Saurian &bull;
-Xeph
+{% for doc in site.character_backgrounds %}
+  {% if doc.category == "planetary-romance-background" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
 </td>
 </tr>
 <tr>
 <th>Legendary Forest Backgrounds I</th>
 <td>
-{% for doc in site.pages %}
+{% for doc in site.character_backgrounds %}
   {% if doc.category == "legendary-forest-background-i" %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
-Half-elf &bull;
-Half-orc &bull;
 </td>
 </tr>
 <tr>

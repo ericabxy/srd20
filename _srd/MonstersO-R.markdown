@@ -666,7 +666,7 @@ Charisma.
 ---Darkvision out to 60 feet.
 
 ---Light Sensitivity: Orcs are dazzled in bright sunlight or within the
-radius of a *daylight *spell.
+radius of a *daylight* spell.
 
 ---Automatic Languages: Common, Orc. Bonus Languages: Dwarven, Giant,
 Gnoll, Goblin, Undercommon.

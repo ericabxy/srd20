@@ -6,8 +6,7 @@ title: Psionic Monsters
 category: srd-psionics
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 ## PSIONIC MONSTERS
 
@@ -791,36 +790,31 @@ Elven, Giant, Gnoll, Orc.
 
 ---Level Adjustment: +1.
 
-BRAIN MOLE
+## BRAIN MOLE
 
-  -------------------------- ------------------------------------------------
-                             Tiny Magical Beast (Psionic)
+|                          | Tiny Magical Beast (Psionic)
+| **Hit Dice:**            | 1d10--2 (3 hp)
+| **Initiative:**          | +2
+| **Speed:**               | 15 ft. (3 squares), burrow 15 ft.
+| **Armor Class:**         | 14 (+2 size, +2 Dex), touch 14, flat-footed 12
+| **Base Attack/Grapple:** | +1/--11
+| **Attack:**              | Bite +5 melee (1d3--4)
+| **Full Attack:**         | Bite +5 melee (1d3--4)
+| **Space/Reach:**         | 2-1/2 ft./0 ft.
+| **Special Attacks:**     | Cascade flu, psi-like abilities
+| **Special Qualities:**   | Low-light vision, power conversion, scent
+| **Saves:**               | Fort +0, Ref +4, Will +2
+| **Abilities:**           | Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11
+| **Skills:**              | Hide +15, Move Silently +7, Listen +6, Spot +2
+| **Feats:**               | Alertness, Weapon Finesse^B^
+| **Environment:**         | Temperate forest
+| **Organization:**        | Nest (3--8)
+| **Challenge Rating:**    | 1/2
+| **Treasure:**            | None
+| **Alignment:**           | Always neutral
+| **Advancement:**         | ---
+| **Level Adjustment:**    | ---
                              
-| **Hit Dice:**              1d10--2 (3 hp)
-| **Initiative:**            +2
-| **Speed:**                 15 ft. (3 squares), burrow 15 ft.
-| **Armor Class:**           14 (+2 size, +2 Dex), touch 14, flat-footed 12
-| **Base Attack/Grapple:**   +1/--11
-| **Attack:**                Bite +5 melee (1d3--4)
-| **Full Attack:**           Bite +5 melee (1d3--4)
-| **Space/Reach:**           2-1/2 ft./0 ft.
-| **Special Attacks:**       Cascade flu, psi-like abilities
-| **Special Qualities:**     Low-light vision, power conversion, scent
-| **Saves:**                 Fort +0, Ref +4, Will +2
-| **Abilities:**             Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11
-| **Skills:**                Hide +15, Move Silently +7, Listen +6, Spot +2
-| **Feats:**                 Alertness, Weapon Finesse^B^
-| **Environment:**           Temperate forest
-| **Organization:**          Nest (3--8)
-| **Challenge Rating:**      1/2
-| **Treasure:**              None
-| **Alignment:**             Always neutral
-| **Advancement:**           ---
-                             
-| **Level Adjustment:**      ---
-                             
-  -------------------------- ------------------------------------------------
-
 Brain moles are burrowing animals that use psionic powers to overcome
 large psionic prey. Small, furry, and nearly blind, brain moles are
 almost indistinguishable from their common animal cousins.
@@ -843,19 +837,19 @@ manifests a power, she must make a DC 16 Concentration check; on a
 failed check, a psionic cascade is triggered \[see Psionic Maladies\]).
 The save DC is Constitution-based.
 
-**Psi-Like Abilities:** At will---*detect psionics, power leech *(ML
-5th, DC 14)*; *3/day---*aversion *(DC 12)*, mind thrust *(DC 11)*.
-*Manifester level 1st. The save DCs are Charisma-based.
+**Psi-Like Abilities:** At will---*detect psionics*, *power leech* 
+(ML 5th, DC 14); 3/day---*aversion* (DC 12), *mind thrust* (DC 11).
+Manifester level 1st. The save DCs are Charisma-based.
 
-**Hide Mind (Su): **A brain mole cannot be identified as psionic by
+**Hide Mind (Su):** A brain mole cannot be identified as psionic by
 divination spells or clairsentience powers.
 
 **Power Conversion (Su):** When a brain mole drains a power point by
-means of its *power leech *power, it immediately heals 1 hit point. If
+means of its *power leech* power, it immediately heals 1 hit point. If
 it is already at full normal hit points, it instead gains psionic
 sustenance sufficient to supply its need for nourishment for 24 hours.
 
-**Skills: **Brain moles have a +4 racial bonus on Hide and Move Silently
+**Skills:** Brain moles have a +4 racial bonus on Hide and Move Silently
 checks and a --2 racial penalty on Spot checks.
 
 CALLER IN DARKNESS

@@ -7,8 +7,7 @@ title: Ability Scores
 category: modern-basics
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
 ## ABILITY SCORES
 
@@ -28,10 +27,10 @@ Charisma (CHA)
 
 The Score of these Abilities ranges from 0 to infinity. A limit, if any,
 will be specified in the rules. The normal human range is 3 to 18. It is
-possible for a creature to have a score of \"none\". A score of \"none\"
-is not the same as a score of \"0\". A score of \"none\" means that the
+possible for a creature to have a score of "none". A score of "none"
+is not the same as a score of "0". A score of "none" means that the
 creature does not possess the ability at all. The modifier for a score
-of \"none\" is +0.
+of "none" is +0.
 
 A character with a CON of 0 is dead. A 0 in any other score means the
 character is helpless and cannot move.

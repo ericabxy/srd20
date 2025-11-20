@@ -6,7 +6,7 @@ title: Special Mount
 Special Mount
 -------------
 
-__Prerequisites:__ Base attack bonus +5, ability to cast divine spells.
+__Prerequisites:__ Base attack bonus +5, ability to cast divine spells, and you must dedicate your life to a righteous crusade against evil.
 
 You gain the service of an unusually intelligent, strong, and loyal steed to serve you on a holy crusade. This mount is usually a heavy warhorse (for a Medium character) or a warpony (for a Small character).
 

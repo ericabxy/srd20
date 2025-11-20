@@ -1,3 +1,7 @@
+---
+permalink: DesertBackgrounds
+---
+
 Desert Races
 ------------
 

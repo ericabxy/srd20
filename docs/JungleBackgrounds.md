@@ -1,3 +1,7 @@
+---
+permalink: JungleBackgrounds
+---
+
 Jungle Races
 ------------
 
@@ -89,7 +93,7 @@ The following traits are in addition to the [gnome](Races#gnomes) traits, except
 
 ### Jungle Goblins
 
-The following traits are in addition to the goblin traits, except where noted.
+The following traits are in addition to the [goblin traits](MonstersG#goblins-as-characters), except where noted.
 
 • A jungle goblin has a climb speed of 20 feet. Jungle goblins 
   are natural climbers, able to scramble up trees with ease. A jungle 
