@@ -18,6 +18,39 @@
 </td>
 </tr>
 <tr>
+<th>The Five Main "Humanoid" Backgrounds</th>
+<td>
+<a href='MonstersO-R#orcs-as-characters'>Orcs</a> &bull;
+<a href='MonstersG#goblins-as-characters'>Goblins</a> &bull;
+<a href='MonstersK-L#kobold-characters'>Kobolds</a> &bull;
+<a href='MonstersG#gnolls-as-characters'>Gnolls</a> &bull;
+<a href='MonstersT-Z#trolls-as-characters'>Trolls</a>
+</td>
+</tr>
+<tr>
+<th>Exotic Backgrounds</th>
+<td>
+<a href='MonstersO-R#aasimar-as-characters'>Aasimar</a> &bull;
+<a href='MonstersH-J#half-dragon'>Half-dragon</a> &bull;
+<a href='MonstersG#jann-as-charaters'>Janni</a> &bull;
+<a href='MonstersO-R#tieflings-as-characters'>Tiefling</a>
+</td>
+</tr>
+<tr>
+<th>Giant Backgrounds</th>
+<td>
+<a href='MonstersG#hill-giants-as-characters'>Hill Giant</a> &bull;
+<a href='MonstersG#stone-giants-as-characters'>Stone Giant</a> &bull;
+<a href='MonstersO-R#ogres-as-characters'>Ogre</a> &bull;
+{% for doc in site.character_backgrounds %}
+  {% if doc.category == "giant-background" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
 <th>Planetary Romance Backgrounds</th>
 <td>
 {% for doc in site.character_backgrounds %}
@@ -40,6 +73,17 @@
 </td>
 </tr>
 <tr>
+<th>Legendary Forest of Titan</th>
+<td>
+{% for doc in site.character_backgrounds %}
+  {% if doc.category == "legendary-forest-of-titan-background" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
 <th>Legendary Forest Backgrounds II</th>
 <td>
 {% for doc in site.pages %}
@@ -48,10 +92,6 @@
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
-Aasimar &bull;
-Hobgoblin &bull;
-Kobold &bull;
-Tiefling
 </td>
 </tr>
 <tr>
@@ -63,7 +103,17 @@ Tiefling
     {% unless forloop.last %}&bull;{% endunless %}
   {% endif %}
 {% endfor %}
-Goblin &bull;
+</td>
+</tr>
+<tr>
+<th>Other Backgrounds</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "other-background" %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endif %}
+{% endfor %}
 </td>
 </tr>
 </table>

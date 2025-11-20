@@ -34,8 +34,6 @@ KOBOLD
 | **Alignment:**            | Usually lawful evil
 | **Advancement:**          | By character class
 | **Level Adjustment:**     | +0
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Kobolds are short, reptilian humanoids with cowardly and sadistic
 tendencies.
@@ -823,9 +821,7 @@ checks.
 
 ## LIZARDFOLK
 
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           Medium Humanoid (Reptilian)
-                                           
+|                           | Medium Humanoid (Reptilian)
 | **Hit Dice:**             | 2d8+2 (11 hp)
 | **Initiative:**           | +0
 | **Speed:**                | 30 ft. (6 squares)
@@ -846,10 +842,7 @@ checks.
 | **Treasure:**             | 50% coins; 50% goods; 50% items
 | **Alignment:**            | Usually neutral
 | **Advancement:**          | By character class
-                                           
 | **Level Adjustment:**     | +1
-                                           
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A lizardfolk is usually 6 to 7 feet tall with green, gray, or brown
 scales. Its tail is used for balance and is 3 to 4 feet long. A
@@ -857,7 +850,7 @@ lizardfolk can weigh from 200 to 250 pounds.
 
 Lizardfolk speak Draconic.
 
-COMBAT
+### COMBAT
 
 Lizardfolk fight as unorganized individuals. They prefer frontal
 assaults and massed rushes, sometimes trying to force foes into the
@@ -875,7 +868,7 @@ racial bonus on Jump, Swim, and Balance checks. The skill modifiers
 given in the statistics block include a --2 armor check penalty (--4 on
 Swim checks) for carrying a heavy shield.
 
-LIZARDFOLK AS CHARACTERS
+### LIZARDFOLK AS CHARACTERS
 
 Lizardfolk characters possess the following racial traits.
 
@@ -890,7 +883,7 @@ which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving
 throw bonuses of Fort +0, Ref +3, and Will +0.
 
 ---Racial Skills: A lizardfolk's humanoid levels give it skill points
-equal to 5 x (2 + Int modifier, minimum 1). Its class skills are
+equal to 5 x (2 + Int modifier, minimum 1). Its class skills are
 Balance, Jump, and Swim. Lizardfolk have a +4 racial bonus on Balance,
 Jump, and Swim checks.
 
@@ -912,11 +905,9 @@ Goblin, Gnoll, Orc.
 
 ---Level adjustment +1.
 
-LOCATHAH
+## LOCATHAH
 
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Medium Humanoid (Aquatic)
-                                           
+|                           | Medium Humanoid (Aquatic)
 | **Hit Dice:**             | 2d8 (9 hp)
 | **Initiative:**           | +1
 | **Speed:**                | 10 ft. (2 squares), swim 60 ft.
@@ -937,10 +928,7 @@ LOCATHAH
 | **Treasure:**             | Standard
 | **Alignment:**            | Usually neutral
 | **Advancement:**          | By character class
-                                           
 | **Level Adjustment:**     | +1
-                                           
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Although humanoid in shape, locathahs are clearly more fish than human.
 The average locathah stands 5 feet tall and weighs 175 pounds. Females
@@ -949,7 +937,7 @@ the two ochre stripes marking their egg sacs.
 
 Locathahs speak Aquan.
 
-COMBAT
+### COMBAT
 
 Any battle with locathahs usually begins with the creatures loosing
 volleys of bolts from their crossbows; underwater, their crossbows have
@@ -988,7 +976,7 @@ lycanthropy after being wounded by a lycanthrope. Such a creature is
 called an afflicted lycanthrope. Other lycanthropes are born as
 lycanthropes, and are known as natural lycanthropes.
 
-Combat
+#### Combat
 
 A lycanthrope in its humanoid (or giant) form uses whatever tactics and
 weapons are favored by others of its kind, though it tends to be
@@ -1010,7 +998,7 @@ weapons, but it can also attack with its teeth and claws. A hybrid can
 spread lycanthropy with its bite, and it has the same damage reduction
 that its animal form possesses.
 
-WEREBEAR
+### WEREBEAR
 
 |                           | **Werebear, Human Form**                                                                                     | **Werebear, Bear Form**                                                            | **Werebear, Hybrid Form**
 |                           | Medium Humanoid (Human, Shapechanger)                                                                        | Large Humanoid (Human, Shapechanger)                                               | Large Humanoid (Human, Shapechanger)
@@ -1042,7 +1030,7 @@ reddish, blond, ivory, or black hair, matching the color of the ursine
 form. They dress in simple cloth and leather garments that are easy to
 remove, repair, or replace
 
-Combat
+#### Combat
 
 Werebears fight just as brown bears do in animal form. In humanoid or
 hybrid form, they favor large, heavy weapons such as greataxes or
@@ -1072,42 +1060,37 @@ The werebear presented here is a 1st-level human warrior and natural
 lycanthrope, using the following base ability scores: Str 13, Dex 11,
 Con 12, Int 10, Wis 9, Cha 8.
 
-WEREBOAR
+### WEREBOAR
 
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------
-                                         | **Wereboar, Human Form**                                                                                                        | **Wereboar, Boar Form**                                                                     | **Wereboar, Hybrid Form**
-                                                                                                                                                                                                                                                                                                       
-                                          | Medium Humanoid (Human, Shapechanger)                                                                                            | Medium Humanoid (Human, Shapechanger)                                                        | Medium Humanoid (Human, Shapechanger)
-| **Hit Dice:**             | 1d8+4 plus 3d8+12 (34 hp)                                                                                                        | 1d8+4 plus 3d8+12 (34 hp)                                                                    | 1d8+4 plus 3d8+12 (34 hp)
-| **Initiative:**           | +0                                                                                                                               | +0                                                                                           | +0
-| **Speed:**                | 20 ft. in scale mail (4 squares); base speed 30 ft.                                                                              | 40 ft. (8 squares)                                                                           | 30 ft. (6 squares)
-| **Armor Class:**          | 18 (+2 natural, +4 scale mail, +2 heavy shield) touch 10, flat-footed 18                                                         | 18 (+8 natural) touch 10, flat- footed 18                                                    | 18 (+8 natural) touch 10, flat-footed 18
-| **Base Attack/Grapple:**  | +3/+4                                                                                                                            | +3/+6                                                                                        | +3/+6
-| **Attack:**               | Battleaxe +4 melee (1d8+1/x3) or javelin +3 ranged (1d6+1)                                                                       | Gore +6 melee (1d8+4)                                                                        | Battleaxe +6 melee (1d8+4/x3) or claw +6 melee (1d4+3)
-| **Full Attack:**          | Battleaxe +4 melee (1d8+1/x3) or javelin +3 ranged (1d6+1)                                                                       | Gore +6 melee (1d8+4)                                                                        | Battleaxe +6 melee (1d8+4/x3) and gore +1 melee (1d6+1); or 2 claws +6 melee (1d4+3) and gore +1 melee (1d6+1)
-| **Space/Reach:**          | 5 ft./5 ft.                                                                                                                      | 5 ft./5 ft.                                                                                  | 5 ft./5 ft.
-| **Special Attacks:**      | ---                                                                                                                              | Curse of lycanthropy                                                                         | Curse of lycanthropy
-| **Special Qualities:**    | Alternate form, boar empathy, ferocity, low-light vision, scent                                                                  | Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent  | Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent
-| **Saves:**                | Fort +6, Ref +3, Will +3                                                                                                         | Fort +9, Ref +3, Will +3                                                                     | Fort +9, Ref +3, Will +3
-| **Abilities:**            | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8                                                                                    | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8                                                | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8
-| **Skills:**               | Handle Animal +3, Intimidate +3, Listen +5, Spot +4                                                                              | Handle Animal +3, Intimidate +3, Listen +5, Spot +4                                          | Handle Animal +3, Intimidate +3, Listen +5, Spot +4
+|                           | **Wereboar, Human Form**                                                     | **Wereboar, Boar Form**                                                                      | **Wereboar, Hybrid Form**
+|                           | Medium Humanoid (Human, Shapechanger)                                        | Medium Humanoid (Human, Shapechanger)                                                        | Medium Humanoid (Human, Shapechanger)
+| **Hit Dice:**             | 1d8+4 plus 3d8+12 (34 hp)                                                    | 1d8+4 plus 3d8+12 (34 hp)                                                                    | 1d8+4 plus 3d8+12 (34 hp)
+| **Initiative:**           | +0                                                                           | +0                                                                                           | +0
+| **Speed:**                | 20 ft. in scale mail (4 squares); base speed 30 ft.                          | 40 ft. (8 squares)                                                                           | 30 ft. (6 squares)
+| **Armor Class:**          | 18 (+2 natural, +4 scale mail, +2 heavy shield) touch 10, flat-footed 18     | 18 (+8 natural) touch 10, flat- footed 18                                                    | 18 (+8 natural) touch 10, flat-footed 18
+| **Base Attack/Grapple:**  | +3/+4                                                                        | +3/+6                                                                                        | +3/+6
+| **Attack:**               | Battleaxe +4 melee (1d8+1/x3) or javelin +3 ranged (1d6+1)                   | Gore +6 melee (1d8+4)                                                                        | Battleaxe +6 melee (1d8+4/x3) or claw +6 melee (1d4+3)
+| **Full Attack:**          | Battleaxe +4 melee (1d8+1/x3) or javelin +3 ranged (1d6+1)                   | Gore +6 melee (1d8+4)                                                                        | Battleaxe +6 melee (1d8+4/x3) and gore +1 melee (1d6+1); or 2 claws +6 melee (1d4+3) and gore +1 melee (1d6+1)
+| **Space/Reach:**          | 5 ft./5 ft.                                                                  | 5 ft./5 ft.                                                                                  | 5 ft./5 ft.
+| **Special Attacks:**      | ---                                                                          | Curse of lycanthropy                                                                         | Curse of lycanthropy
+| **Special Qualities:**    | Alternate form, boar empathy, ferocity, low-light vision, scent              | Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent  | Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent
+| **Saves:**                | Fort +6, Ref +3, Will +3                                                     | Fort +9, Ref +3, Will +3                                                                     | Fort +9, Ref +3, Will +3
+| **Abilities:**            | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8                                | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8                                                | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8
+| **Skills:**               | Handle Animal +3, Intimidate +3, Listen +5, Spot +4                          | Handle Animal +3, Intimidate +3, Listen +5, Spot +4                                          | Handle Animal +3, Intimidate +3, Listen +5, Spot +4
 | **Feats:**                | Alertness^[B^[, Improved Bull Rush, Iron Will^[B^[, Power Attack, Toughness  | (same as human form)                                                                         | (same as human form)
-| **Environment:**          | Temperate forests                                                                                                                | Temperate forests                                                                            | Temperate forests
-| **Organization:**         | Solitary, pair, brood (3--4), or troupe (2--4 plus 1--4 boars)                                                                   | (same as human form)                                                                         | (same as human form)
-| **Challenge Rating:**     | 4                                                                                                                                | 4                                                                                            | 4
-| **Treasure:**             | Standard                                                                                                                         | Standard                                                                                     | Standard
-| **Alignment:**            | Always neutral                                                                                                                   | Always neutral                                                                               | Always neutral
-| **Advancement:**          | By character class                                                                                                               | By character class                                                                           | By character class
-                                                                                                                                                                                                                                                                                                       
-| **Level Adjustment:**     | +3                                                                                                                               | +3                                                                                           | +3
-                                                                                                                                                                                                                                                                                                       
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------
+| **Environment:**          | Temperate forests                                                            | Temperate forests                                                                            | Temperate forests
+| **Organization:**         | Solitary, pair, brood (3--4), or troupe (2--4 plus 1--4 boars)               | (same as human form)                                                                         | (same as human form)
+| **Challenge Rating:**     | 4                                                                            | 4                                                                                            | 4
+| **Treasure:**             | Standard                                                                     | Standard                                                                                     | Standard
+| **Alignment:**            | Always neutral                                                               | Always neutral                                                                               | Always neutral
+| **Advancement:**          | By character class                                                           | By character class                                                                           | By character class
+| **Level Adjustment:**     | +3                                                                           | +3                                                                                           | +3
 
 A wereboar in humanoid form tends to be a stocky, muscular individual
 of average height. It dresses in simple garments that are easy to
 remove, repair, or replace.
 
-Combat
+#### Combat
 
 In any form, wereboars are as ferocious as normal boars. When in hybrid
 form, they fight with a weapon and their dangerous gore
@@ -1132,7 +1115,7 @@ The wereboar presented here is a 1st-level human warrior and natural
 lycanthrope, using the following base ability scores: Str 13, Dex 11,
 Con 12, Int 10, Wis 9, Cha 8.
 
-WERERAT
+### WERERAT
 
   ---------------------------------------- ----------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------
                                          | **Wererat, Human Form**                                                                     | **Wererat, Dire Rat Form**                                                           | **Wererat, Hybrid Form**

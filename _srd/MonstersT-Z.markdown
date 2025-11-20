@@ -625,21 +625,21 @@ to a troll. If a troll loses a limb or body part, the lost portion
 regrows in 3d6 minutes. The creature can reattach the severed member
 instantly by holding it to the stump.
 
-SCRAG
+### SCRAG
 
 These cousins of the troll have the aquatic subtype. They dwell in any
 body of water in any climate. They have a base land speed of 20 feet and
 a swim speed of 40 feet and are found only in aquatic environments. They
 regenerate only if mostly immersed in water. 
 
-TROLL HUNTER
+### TROLL HUNTER
 
 Some trolls, more cunning than most, are not satisfied with merely
 eating civilized beings but train to hunt them relentlessly. These troll
 hunters are fearsome rangers who focus on slaying and devouring humanoid
 prey.
 
-COMBAT
+### COMBAT
 
 A troll hunter makes full use of its scent ability to track its favored
 enemies and generally prefers to hunt in darkness.
@@ -650,7 +650,7 @@ from damaging forms of energy and to immobilize enemies.
 *Typical Ranger Spells Prepared* (2; save DC 12 + spell level):
 1st---*entangle, resist energy.*
 
-TROLLS AS CHARACTERS
+### TROLLS AS CHARACTERS
 
 Troll characters possess the following racial traits.
 

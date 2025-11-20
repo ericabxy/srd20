@@ -1,5 +1,5 @@
 ---
-category: legendary-forest-background-i
+category: giant-background
 ---
 
 Jotun
