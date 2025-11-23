@@ -345,7 +345,7 @@ that the skill functions normally for untrained characters (if it can be
 used untrained) or that an untrained character can't attempt checks with
 this skill (for skills that are designated as "Trained Only").
 
-### APPRAISE (INT)
+### APPRAISE (INT) {#appraise}
 
 **Check:** You can appraise common or well-known objects with a DC 12
 Appraise check. Failure means that you estimate the value at 50% to 150%
@@ -384,7 +384,7 @@ on Appraise checks related to items made with that Craft skill.
 estimate. For rare items, success means an estimate of 50% to 150%
 (2d6+3 times 10%).
 
-### BALANCE (DEX; ARMOR CHECK PENALTY)
+### BALANCE (DEX; ARMOR CHECK PENALTY) {#balance}
 
 **Check:** You can walk on a precarious surface. A successful check lets
 you move at half your speed along the surface for 1 round. A failure by
@@ -396,11 +396,10 @@ you fall. The difficulty varies with the surface, as follows:
 | 7--12 inches wide       | 10            | Uneven flagstone       | 10<sup>2</sup>
 | 2--6 inches wide        | 15            | Hewn stone floor       | 10<sup>2</sup>
 | Less than 2 inches wide | 20            | Sloped or angled floor | 10<sup>2</sup>
-                                                                                                                                                                               
-1 Add modifiers from Narrow Surface Modifiers, below, as appropriate.
-                                                                                                                                                                               
-2 Only if running or charging. Failure by 4 or less means the character can't run or charge, but may otherwise act normally.
-                                                                                                                                                                               
+
+1. Add modifiers from Narrow Surface Modifiers, below, as appropriate.
+2. Only if running or charging. Failure by 4 or less means the character can't run or charge, but may otherwise act normally.
+
 | Narrow Surface Modifiers
 | Surface             | DC Modifier¹
 | ------------------- | ---
@@ -409,9 +408,9 @@ you fall. The difficulty varies with the surface, as follows:
 | Lightly slippery    | +2
 | Severely slippery   | +5
 | Sloped or angled    | +2
-                                                                                                                                                                               
+
 1 Add the appropriate modifier to the Balance DC of a narrow surface.
-                                                                                                                                                                               
+
 These modifiers stack.
 
 *Being Attacked while Balancing:* You are considered flat-footed while
@@ -438,7 +437,7 @@ checks.
 **Synergy:** If you have 5 or more ranks in Tumble, you get a +2 bonus
 on Balance checks.
 
-### BLUFF (CHA)
+### BLUFF (CHA) {#bluff}
 
 **Check:** A Bluff check is opposed by the target's Sense Motive check.
 See the accompanying table for examples of different kinds of bluffs and
@@ -533,7 +532,7 @@ act in character.
 | The bluff is hard to believe or puts the target at significant risk.   | +10
 | The bluff is way out there, almost too incredible to consider.         | +20
 
-### CLIMB (STR; ARMOR CHECK PENALTY)
+### CLIMB (STR; ARMOR CHECK PENALTY) {#climb}
 
 **Check:** With a successful Climb check, you can advance up, down, or
 across a slope, a wall, or some other steep incline (or even a ceiling
@@ -640,7 +639,7 @@ climbing.
 on Climb checks made to climb a rope, a knotted rope, or a rope-and-wall
 combination.
 
-### CONCENTRATION (CON)
+### CONCENTRATION (CON) {#concentration}
 
 **Check:** You must make a Concentration check whenever you might
 potentially be distracted (by taking damage, by harsh weather, and so
@@ -714,7 +713,7 @@ A character with the Combat Casting feat gets a +4 bonus on
 Concentration checks made to cast a spell or use a spell-like ability
 while on the defensive or while grappling or pinned.
 
-### CRAFT (INT)
+### CRAFT (INT) {#craft}
 
 Like Knowledge, Perform, and Profession, Craft is actually a number of
 separate skills. You could have several Craft skills, each with its own
@@ -858,7 +857,7 @@ made using the skill.
 **Synergy:** If you have 5 ranks in a Craft skill, you get a +2 bonus on
 Appraise checks related to items made with that Craft skill.
 
-### DECIPHER SCRIPT (INT; TRAINED ONLY)
+### DECIPHER SCRIPT (INT; TRAINED ONLY) {#decipher-script}
 
 **Check:** You can decipher writing in an unfamiliar language or a
 message written in an incomplete or archaic form. The base DC is 20 for
@@ -886,7 +885,7 @@ Decipher Script checks.
 **Synergy:** If you have 5 or more ranks in Decipher Script, you get a
 +2 bonus on Use Magic Device checks involving scrolls.
 
-### DIPLOMACY (CHA)
+### DIPLOMACY (CHA) {#diplomacy}
 
 **Check:** You can change the attitudes of others (nonplayer characters)
 with a successful Diplomacy check; see the Influencing NPC Attitudes
@@ -929,7 +928,7 @@ animal or magical beast.
 | Indifferent      | —             | Less than 1  | 1            | 15           | 30
 | Friendly         | —             | —            | Less than 1  | 1            | 20
 | Helpful          | —             | —            | —            | Less than 1  | 1
-                                                                                                                                                                                 
+
 1. ————— New Attitude (DC to achieve)—————
 
 | Attitude    | Means                       | Possible Actions
@@ -940,7 +939,7 @@ animal or magical beast.
 | Friendly    | Wishes you well             | Chat, advise, offer limited help, advocate
 | Helpful     | Will take risks to help you | Protect, back up, heal, aid
 
-### DISABLE DEVICE (INT; TRAINED ONLY)
+### DISABLE DEVICE (INT; TRAINED ONLY) {#disable-device}
 
 **Check:** The Disable Device check is made secretly, so that you don't
 necessarily know whether you've succeeded.
@@ -1022,7 +1021,7 @@ caster level check against the level of the trap's creator suppresses
 the trap for 1d4 rounds. This works only with a targeted *dispel magic*,
 not the area version (see the spell description).
 
-### DISGUISE (CHA)
+### DISGUISE (CHA) {#disguise}
 
 **Check:** Your Disguise check result determines how good the disguise
 is, and it is opposed by others' Spot check results. If you don't draw
@@ -1088,7 +1087,7 @@ If you have the Deceitful feat, you get a +2 bonus on Disguise checks.
 Disguise checks when you know that you're being observed and you try to
 act in character.
 
-### ESCAPE ARTIST (DEX; ARMOR CHECK PENALTY)
+### ESCAPE ARTIST (DEX; ARMOR CHECK PENALTY) {#escape-artist}
 
 **Check:** The table below gives the DCs to escape various forms of
 restraints.
@@ -1141,7 +1140,7 @@ bonus on Use Rope checks to bind someone.
 If you have 5 or more ranks in Use Rope, you get a +2 bonus on Escape
 Artist checks when escaping from rope bonds.
 
-### FORGERY (INT)
+### FORGERY (INT) {#forgery}
 
 **Check:** Forgery requires writing materials appropriate to the
 document being forged, enough light or sufficient visual acuity to see
@@ -1196,7 +1195,7 @@ and detect forgeries, you must be able to read and write the language in
 question. A barbarian can't learn the Forgery skill unless he has
 learned to read and write.
 
-### GATHER INFORMATION (CHA)
+### GATHER INFORMATION (CHA) {#gather-information}
 
 **Check:** An evening's time, a few gold pieces for buying drinks and
 making friends, and a DC 10 Gather Information check get you a general
@@ -1223,7 +1222,7 @@ Information checks.
 **Synergy:** If you have 5 or more ranks in Knowledge (local), you get a
 +2 bonus on Gather Information checks.
 
-### HANDLE ANIMAL (CHA; TRAINED ONLY)
+### HANDLE ANIMAL (CHA; TRAINED ONLY) {#handle-animal}
 
 **Check:** The DC depends on what you are trying to do.
 

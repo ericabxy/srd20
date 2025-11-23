@@ -17,9 +17,7 @@ category: srd-basic-rules-and-legal
 **Class Skills**
 
 The barbarian's class skills (and the key ability for each skill) are
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Craft (Int)](SkillsI#craft-int),
-[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Climb (Str)][4], [Craft (Int)][6], [Handle Animal (Cha)][14],
 [Intimidate (Cha)](SkillsII#intimidate-cha),
 [Jump (Str)](SkillsII#jump-str-armor-check-penalty),
 [Listen (Wis)](SkillsII#listen-wis), [Ride (Dex)](SkillsII#ride-dex),
@@ -167,17 +165,10 @@ class (damage reduction, fast movement, trap sense, and uncanny dodge).
 ### Class Skills
 
 The bard's class skills (and the key ability for each skill) are
-[Appraise (Int)](SkillsI#appraise-int),
-[Balance (Dex)](SkillsI#balance-dex-armor-check-penalty),
-[Bluff (Cha)](SkillsI#bluff-cha),
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int),
-[Decipher Script (Int)](SkillsI#decipher-script-int-trained-only),
-[Diplomacy (Cha)](SkillsI#diplomacy-cha),
-[Disguise (Cha)](SkillsI#disguise-cha),
-[Escape Artist (Dex)](SkillsI#escape-artist-dex),
-[Gather Information (Cha)](SkillsI#gather-information-cha),
+[Appraise (Int)][1], [Balance (Dex)][2], [Bluff (Cha)][3], [Climb (Str)][4],
+[Concentration (Con)][5], [Craft (Int)][6], [Decipher Script (Int)][7],
+[Diplomacy (Cha)][8], [Disguise (Cha)][10], [Escape Artist (Dex)][11],
+[Gather Information (Cha)][13],
 [Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
 [Jump (Str)](SkillsII#jump-str-armor-check-penalty),
 [Knowledge (all skills, taken individually) (Int)](SkillsII#knowledge-int-trained-only),
@@ -475,8 +466,8 @@ unless his deity's alignment is also neutral.
 ### Class Skills
 
 The cleric's class skills (and the key ability for each skill) are
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
+[Concentration (Con)][5],
+[Craft (Int)][6], [Diplomacy (Cha)][8],
 [Heal (Wis)](SkillsII#heal-wis),
 [Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
 [Knowledge (history) (Int)](SkillsII#knowledge-int-trained-only),
@@ -490,8 +481,8 @@ domain adds Knowledge (nature) (Int) to the cleric class skills listed
 above. A cleric who chooses the Knowledge domain adds all Knowledge
 (Int) skills to the list. A cleric who chooses the Travel domain adds
 [Survival (Wis)](SkillsII#survival-wis) to the list. A cleric who chooses the
-Trickery domain adds [Bluff (Cha)](SkillsI#bluff-cha),
-[Disguise (Cha)](SkillsI#disguise-cha), and
+Trickery domain adds [Bluff (Cha)][3],
+[Disguise (Cha)][10], and
 [Hide (Dex)](SkillsII#hide-dex-armor-check-penalty) to the list. See Deity,
 Domains, and Domain Spells, below, for more information.
 
@@ -654,9 +645,9 @@ or neutral evil.
 ### Class Skills
 
 The druid's class skills (and the key ability for each skill) are
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
-[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Concentration (Con)][5],
+[Craft (Int)][6], [Diplomacy (Cha)][8],
+[Handle Animal (Cha)][14],
 [Heal (Wis)](SkillsII#heal-wis),
 [Knowledge (nature) (Int)](SkillsII#knowledge-int-trained-only),
 [Listen (Wis)](SkillsII#listen-wis),
@@ -1078,9 +1069,9 @@ Tyrannosaurus (dinosaur)
 ### Class Skills
 
 The fighter's class skills (and the key ability for each skill) are
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Craft (Int)](SkillsI#craft-int),
-[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
+[Climb (Str)][4],
+[Craft (Int)][6],
+[Handle Animal (Cha)][14],
 [Intimidate (Cha)](SkillsII#intimidate-cha),
 [Jump (Str)](SkillsII#jump-str-armor-check-penalty),
 [Ride (Dex)](SkillsII#ride-dex), and
@@ -1145,11 +1136,11 @@ of fighter bonus feats when choosing these feats.
 ### Class Skills
 
 The monk's class skills (and the key ability for each skill) are
-[Balance (Dex)](SkillsI#balance-dex-armor-check-penalty),
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
-[Escape Artist (Dex)](SkillsI#escape-artist-dex),
+[Balance (Dex)][2],
+[Climb (Str)][4],
+[Concentration (Con)][5],
+[Craft (Int)][6], [Diplomacy (Cha)][8],
+[Escape Artist (Dex)][11],
 [Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
 [Jump (Str)](SkillsII#jump-str-armor-check-penalty),
 [Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
@@ -1395,3 +1386,18 @@ but multiclass monks face a special restriction. A monk who gains a new
 class or (if already multiclass) raises another class by a level may
 never again raise her monk level, though she retains all her monk
 abilities.
+
+[1]: SkillsI#appraise
+[2]: SkillsI#balance
+[3]: SkillsI#bluff
+[4]: SkillsI#climb
+[5]: SkillsI#concentration
+[6]: SkillsI#craft
+[7]: SkillsI#decipher-script
+[8]: SkillsI#diplomacy
+[9]: SkillsI#disable-device
+[10]: SkillsI#disguise
+[11]: SkillsI#escape-artist
+[12]: SkillsI#forgery
+[13]: SkillsI#gather-information
+[14]: SkillsI#handle-animal
