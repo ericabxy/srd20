@@ -6,7 +6,7 @@ title: Half-giant
 Half-giant
 ----------
 
-Half-giants typically stand from 7 feet to nearly 8 feet tall and weigh from 250 to 400 pounds, with men noticeably taller and heavier than women.
+Often called simply "giants" due to their stature, half-giants typically stand from 7 feet to nearly 8 feet tall and weigh from 250 to 400 pounds, with men noticeably taller and heavier than women. They are known throughout the system as philosophers, leaders, diplomats, and artists. Legend has it that many humanoid species are actually descended from giant ancestors thousands of years ago.
 
 Half-giants are traditionally craftsmen, specializing in anything from tools to buildings. Their culture is home to hundreds of traditional folk songs passed down through generations, making some of them excellent bards.
 
@@ -20,7 +20,7 @@ Half-giants are traditionally craftsmen, specializing in anything from tools to 
 * +2 racial bonus on Diplomacy and Sense Motive checks.
 * +2 racial bonus on Craft (any) checks.
 
-#### Powerful Build
+### Powerful Build
 
 Whenever a half-giant is subject to a size modifier or special size modifier for an opposed check (such as during grapple checks, bull rush attempts, and trip attempts), the half-giant is treated as one size larger if doing so is advantageous to him.
 

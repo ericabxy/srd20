@@ -1,4 +1,5 @@
 ---
+title: Wild Elf
 category: legendary-forest-background-i
 ---
 
