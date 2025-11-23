@@ -43,3 +43,9 @@ defaults:
       type: 'msrd'
     values:
       layout: 'modern-system-reference-document'
+  -
+    scope:
+      path: ''
+      type: 'character_backgrounds'
+    values:
+      layout: 'character-backgrounds'
