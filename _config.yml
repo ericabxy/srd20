@@ -1,5 +1,6 @@
 title: Srd20 Project
-source: docs
+
+collections_dir: docs
 
 collections:
   srd:
@@ -30,3 +31,15 @@ defaults:
       type: 'special_abilities'
     values:
       layout: 'special-ability'
+  -
+    scope:
+      path: ''
+      type: 'srd'
+    values:
+      layout: 'system-reference-document'
+  -
+    scope:
+      path: ''
+      type: 'msrd'
+    values:
+      layout: 'modern-system-reference-document'
