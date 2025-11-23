@@ -8,8 +8,6 @@ category: srd-basic-rules-and-legal
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-# SPECIAL ABILITIES & CONDITIONS
-
 ## SPECIAL ABILITIES
 
 A special ability is either extraordinary, spell-like, or supernatural
@@ -33,16 +31,21 @@ negated (such as an *antimagic field*). A supernatural ability's effect
 cannot be dispelled and is not subject to counterspells. See the table
 below for a summary of the types of special abilities.
 
-| **Table: Special Ability Types**
-|                                                                                                                     | **Extraordinary**   | **Spell-Like**   | **Supernatural**
-| Dispel                                                                                                              | No                  | Yes              | No
-| Spell resistance                                                                                                    | No                  | Yes              | No
-| Antimagic field                                                                                                     | No                  | Yes              | Yes
-| Attack of opportunity                                                                                               | No                  | Yes              | No
-| *Dispel:* Can *dispel magic* and similar spells dispel the effects of abilities of that type?
-| *Spell Resistance:* Does spell resistance protect a creature from these abilities?
-| *Antimagic Field:* Does an *antimagic field* or similar magic suppress the ability?
-| *Attack of Opportunity:* Does using the ability provoke attacks of opportunity the way that casting a spell does?
+#### Table: Special Ability Types
+
+|                       | **Extraordinary**   | **Spell-Like**   | **Supernatural**
+| Dispel                | No                  | Yes              | No
+| Spell resistance      | No                  | Yes              | No
+| Antimagic field       | No                  | Yes              | Yes
+| Attack of opportunity | No                  | Yes              | No
+
+*Dispel:* Can *dispel magic* and similar spells dispel the effects of abilities of that type?
+
+*Spell Resistance:* Does spell resistance protect a creature from these abilities?
+
+*Antimagic Field:* Does an *antimagic field* or similar magic suppress the ability?
+
+*Attack of Opportunity:* Does using the ability provoke attacks of opportunity the way that casting a spell does?
 
 ### ABILITY SCORE LOSS
 
@@ -232,7 +235,7 @@ as he would in a fight between two actual friends).
 his master in order to resist instructions or commands that would make
 him do something he wouldn't normally do even for a close friend. If he
 succeeds, he decides not to go along with that order but remains
-*charmed.*
+*charmed*.
 
 • A *charmed* character never obeys a command that is obviously suicidal
 or grievously harmful to her.
@@ -314,7 +317,7 @@ still invisible, and illusions are still visible as what they seem to
 be. Likewise, darkvision subjects a creature to gaze attacks normally.
 The presence of light does not spoil darkvision.
 
-DEATH ATTACKS
+### DEATH ATTACKS
 
 In most cases, a death attack allows the victim a Fortitude save to
 avoid the affect, but if the save fails, the character dies instantly.
@@ -393,22 +396,24 @@ the character to recover (though they do prevent damage normally).
 *Slimy Doom:* Victim turns into infectious goo from the inside out. Can
 cause permanent ability drain.
 
-| **Table: Diseases**                                                                                                              |                    |                  | 
-| **Disease**                                                                                                                      | **Infection DC**   | **Incubation**   | **Damage**
-| Blinding sickness                                                                                                                | Ingested 16        | 1d3 days         | 1d4 Str**^1^**
-| Cackle fever                                                                                                                     | Inhaled 16         | 1 day            | 1d6 Wis
-| *Demon fever*                                                                                                                    | Injury 18          | 1 day            | 1d6 Con**^2^**
-| *Devil chills***^3^**                                                                                                            | Injury 14          | 1d4 days         | 1d4 Str
-| Filth fever                                                                                                                      | Injury 12          | 1d3 days         | 1d3 Dex, 1d3 Con
-| Mindfire                                                                                                                         | Inhaled 12         | 1 day            | 1d4 Int
-| *Mummy rot***^4^**                                                                                                               | Contact 20         | 1 day            | 1d6 Con
-| Red ache                                                                                                                         | Injury 15          | 1d3 days         | 1d6 Str
-| Shakes                                                                                                                           | Contact 13         | 1 day            | 1d8 Dex
-| Slimy doom                                                                                                                       | Contact 14         | 1 day            | 1d4 Con**^2^**
-| 1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.
-| 2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.
-| 3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills.
-| 4 Successful saves do not allow the character to recover. Only magical healing can save the character.
+#### Table: Diseases 
+
+| **Disease**       | **Infection DC**   | **Incubation**   | **Damage**
+| Blinding sickness | Ingested 16        | 1d3 days         | 1d4 Str¹
+| Cackle fever      | Inhaled 16         | 1 day            | 1d6 Wis
+| *Demon fever*     | Injury 18          | 1 day            | 1d6 Con²
+| *Devil chills*³   | Injury 14          | 1d4 days         | 1d4 Str
+| Filth fever       | Injury 12          | 1d3 days         | 1d3 Dex, 1d3 Con
+| Mindfire          | Inhaled 12         | 1 day            | 1d4 Int
+| *Mummy rot*⁴      | Contact 20         | 1 day            | 1d6 Con
+| Red ache          | Injury 15          | 1d3 days         | 1d6 Str
+| Shakes            | Contact 13         | 1 day            | 1d8 Dex
+| Slimy doom        | Contact 14         | 1 day            | 1d4 Con²
+
+1. Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.
+2. When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.
+3. The victim must make three successful Fortitude saving throws in a row to recover from devil chills.
+4. Successful saves do not allow the character to recover. Only magical healing can save the character.
 
 #### Healing a Disease
 
@@ -692,7 +697,7 @@ acids.
 
 Even when struck by magic or magic weapons, an incorporeal creature has
 a 50% chance to ignore any damage from a corporeal source---except for a
-force effect* *or damage dealt by a ghost touch weapon.
+force effect or damage dealt by a ghost touch weapon.
 
 Incorporeal creatures are immune to critical hits, extra damage from
 being favored enemies, and from sneak attacks. They move in any
@@ -969,37 +974,39 @@ plants, and certain kinds of outsiders are also immune to poison,
 although conceivably special poisons could be concocted specifically to
 harm them.
 
-| **Table: Poisons**                                                                                                                   |
-| **Poison**                                 | **Type**         | **Initial Damage**   | **Secondary Damage**            | **Price**   |
-| Nitharit                                   | Contact DC 13    | 0                    | 3d6 Con                         | 650 gp      |
-| Sassone leaf residue                       | Contact DC 16    | 2d12 hp              | 1d6 Con                         | 300 gp      |
-| Malyss root paste                          | Contact DC 16    | 1 Dex                | 2d4 Dex                         | 500 gp      |
-| Terinav root                               | Contact DC 16    | 1d6 Dex              | 2d6 Dex                         | 750 gp      |
-| Black lotus extract                        | Contact DC 20    | 3d6 Con              | 3d6 Con                         | 4,500 gp    |
-| Dragon bile                                | Contact DC 26    | 3d6 Str              | 0                               | 1,500 gp    |
-| Striped toadstool                          | Ingested DC 11   | 1 Wis                | 2d6 Wis + 1d4 Int               | 180 gp      |
-| Arsenic                                    | Ingested DC 13   | 1 Con                | 1d8 Con                         | 120 gp      |
-| Id moss                                    | Ingested DC 14   | 1d4 Int              | 2d6 Int                         | 125 gp      |
-| Oil of taggit                              | Ingested DC 15   | 0                    | Unconsciousness                 | 90 gp       |
-| Lich dust                                  | Ingested DC 17   | 2d6 Str              | 1d6 Str                         | 250 gp      |
-| Dark reaver powder                         | Ingested DC 18   | 2d6 Con              | 1d6 Con + 1d6 Str               | 300 gp      |
-| Ungol dust                                 | Inhaled DC 15    | 1 Cha                | 1d6 Cha + 1 Cha\*               | 1,000 gp    |
-| Insanity mist                              | Inhaled DC 15    | 1d4 Wis              | 2d6 Wis                         | 1,500 gp    |
-| Burnt othur fumes                          | Inhaled DC 18    | 1 Con\*              | 3d6 Con                         | 2,100 gp    |
-| Black adder venom                          | Injury DC 11     | 1d6 Con              | 1d6 Con                         | 120 gp      |
-| Small centipede poison                     | Injury DC 11     | 1d2 Dex              | 1d2 Dex                         | 90 gp       |
-| Bloodroot                                  | Injury DC 12     | 0                    | 1d4 Con + 1d3 Wis               | 100 gp      |
-| Drow poison                                | Injury DC 13     | Unconsciousness      | Unconsciousness for 2d4 hours   | 75gp        |
-| Greenblood oil                             | Injury DC 13     | 1 Con                | 1d2 Con                         | 100 gp      |
-| Blue whinnis                               | Injury DC 14     | 1 Con                | Unconsciousness                 | 120 gp      |
-| Medium spider venom                        | Injury DC 14     | 1d4 Str              | 1d4 Str                         | 150 gp      |
-| Shadow essence                             | Injury DC 17     | 1 Str\*              | 2d6 Str                         | 250 gp      |
-| Wyvern poison                              | Injury DC 17     | 2d6 Con              | 2d6 Con                         | 3,000 gp    |
-| Large scorpion venom                       | Injury DC 18     | 1d6 Str              | 1d6 Str                         | 200 gp      |
-| Giant wasp poison                          | Injury DC 18     | 1d6 Dex              | 1d6 Dex                         | 210 gp      |
-| Deathblade                                 | Injury DC 20     | 1d6 Con              | 2d6 Con                         | 1,800 gp    |
-| Purple worm poison                         | Injury DC 24     | 1d6 Str              | 2d6 Str                         | 700 gp      |
-| \*Permanent drain, not temporary damage.   |                                                                                         |
+#### Table: Poisons
+
+| **Poison**             | **Type**         | **Initial Damage**   | **Secondary Damage**            | **Price**   |
+| Nitharit               | Contact DC 13    | 0                    | 3d6 Con                         | 650 gp      |
+| Sassone leaf residue   | Contact DC 16    | 2d12 hp              | 1d6 Con                         | 300 gp      |
+| Malyss root paste      | Contact DC 16    | 1 Dex                | 2d4 Dex                         | 500 gp      |
+| Terinav root           | Contact DC 16    | 1d6 Dex              | 2d6 Dex                         | 750 gp      |
+| Black lotus extract    | Contact DC 20    | 3d6 Con              | 3d6 Con                         | 4,500 gp    |
+| Dragon bile            | Contact DC 26    | 3d6 Str              | 0                               | 1,500 gp    |
+| Striped toadstool      | Ingested DC 11   | 1 Wis                | 2d6 Wis + 1d4 Int               | 180 gp      |
+| Arsenic                | Ingested DC 13   | 1 Con                | 1d8 Con                         | 120 gp      |
+| Id moss                | Ingested DC 14   | 1d4 Int              | 2d6 Int                         | 125 gp      |
+| Oil of taggit          | Ingested DC 15   | 0                    | Unconsciousness                 | 90 gp       |
+| Lich dust              | Ingested DC 17   | 2d6 Str              | 1d6 Str                         | 250 gp      |
+| Dark reaver powder     | Ingested DC 18   | 2d6 Con              | 1d6 Con + 1d6 Str               | 300 gp      |
+| Ungol dust             | Inhaled DC 15    | 1 Cha                | 1d6 Cha + 1 Cha\*               | 1,000 gp    |
+| Insanity mist          | Inhaled DC 15    | 1d4 Wis              | 2d6 Wis                         | 1,500 gp    |
+| Burnt othur fumes      | Inhaled DC 18    | 1 Con\*              | 3d6 Con                         | 2,100 gp    |
+| Black adder venom      | Injury DC 11     | 1d6 Con              | 1d6 Con                         | 120 gp      |
+| Small centipede poison | Injury DC 11     | 1d2 Dex              | 1d2 Dex                         | 90 gp       |
+| Bloodroot              | Injury DC 12     | 0                    | 1d4 Con + 1d3 Wis               | 100 gp      |
+| Drow poison            | Injury DC 13     | Unconsciousness      | Unconsciousness for 2d4 hours   | 75gp        |
+| Greenblood oil         | Injury DC 13     | 1 Con                | 1d2 Con                         | 100 gp      |
+| Blue whinnis           | Injury DC 14     | 1 Con                | Unconsciousness                 | 120 gp      |
+| Medium spider venom    | Injury DC 14     | 1d4 Str              | 1d4 Str                         | 150 gp      |
+| Shadow essence         | Injury DC 17     | 1 Str\*              | 2d6 Str                         | 250 gp      |
+| Wyvern poison          | Injury DC 17     | 2d6 Con              | 2d6 Con                         | 3,000 gp    |
+| Large scorpion venom   | Injury DC 18     | 1d6 Str              | 1d6 Str                         | 200 gp      |
+| Giant wasp poison      | Injury DC 18     | 1d6 Dex              | 1d6 Dex                         | 210 gp      |
+| Deathblade             | Injury DC 20     | 1d6 Con              | 2d6 Con                         | 1,800 gp    |
+| Purple worm poison     | Injury DC 24     | 1d6 Str              | 2d6 Str                         | 700 gp      |
+
+\*Permanent drain, not temporary damage.
 
 ### POLYMORPH
 
@@ -1086,7 +1093,7 @@ damage has a mundane or magical source.
 
 When resistance completely negates the damage from an energy attack, the
 attack does not disrupt a spell. This resistance does not stack with the
-resistance that a spell* *might provide.
+resistance that a spell might provide.
 
 ### SCENT
 
@@ -1182,7 +1189,7 @@ affecting the spell itself.
 **Effect Spells:** Most effect spells summon or create something and are
 not subject to spell resistance. Sometimes, however, spell resistance
 applies to effect spells, usually to those that act upon a creature more
-or less directly, such as *web.*
+or less directly, such as *web*.
 
 Spell resistance can protect a creature from a spell that's already been
 cast. Check spell resistance when the creature is first affected by the
@@ -1238,7 +1245,7 @@ are typically subject to spell resistance.
 has a direct effect. If the spell damages something else, it has an
 indirect effect.
 
-**Illusion: **These spells are almost never subject to spell resistance.
+**Illusion:** These spells are almost never subject to spell resistance.
 Illusions that entail a direct attack are exceptions.
 
 **Necromancy:** Most of these spells alter the target creature's life
@@ -1254,7 +1261,7 @@ such as *magic stone*. Even these spells are not generally subject to
 spell resistance because they affect the objects, not the creatures
 against which the objects are used. Spell resistance works against
 *magic stone *only if the creature with spell resistance is holding the
-stones when the cleric casts *magic stone *on them.
+stones when the cleric casts *magic stone* on them.
 
 **Successful Spell Resistance**
 

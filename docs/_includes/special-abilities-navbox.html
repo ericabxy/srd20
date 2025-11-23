@@ -1,0 +1,41 @@
+<table>
+  <tr>
+    <th colspan='3'>
+      <small style='float:left;font-variant:small-caps;'>category</small>
+      <a href='{{ site.url }}{{ site.baseurl }}/AbilitiesandConditions#special-abilities'>Special Abilities</a>
+    </th>
+  </tr>
+  <tr>
+    <th>Extraordinary Abilities</th>
+    <td>
+      {% for doc in site.special_abilities %}
+        {% if doc.category == "extraordinary-ability" %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Spell-Like Abilities</th>
+    <td>
+      {% for doc in site.special_abilities %}
+        {% if doc.category == "spell-like-ability" %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Supernatural Abilities</th>
+    <td>
+      {% for doc in site.special_abilities %}
+        {% if doc.category == "supernatural-ability" %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

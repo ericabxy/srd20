@@ -1,4 +1,5 @@
 ---
+title: Energy Ray
 category: spell-like-ability
 ---
 

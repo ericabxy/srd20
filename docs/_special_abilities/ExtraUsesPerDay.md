@@ -1,5 +1,10 @@
-Extra Uses Per Day (Sp)
------------------------
+---
+title: Extra Uses Per Day
+category: spell-like-ability
+---
+
+Extra Uses Per Day
+------------------
 
 You can use your spell-like abilities more often than usual.
 

@@ -5,7 +5,7 @@ permalink: /
 
 Welcome to SRD20, a free role-playing game documentation project.
 
-{% include special-abilities.html %}
+{% include special-abilities-navbox.html %}
 
 {% include rules-variants.html %}
 
@@ -31,9 +31,9 @@ Backgrounds
 Open Game Content References
 ----------------------------
 
-{% include system-reference-document.html %}
+{% include system-reference-document-navbox.html %}
 
-{% include modern-system-reference-document.html %}
+{% include modern-system-reference-document-navbox.html %}
 
 {% include arcana-unearthed.html %}
 
