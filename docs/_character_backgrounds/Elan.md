@@ -30,5 +30,3 @@ References
 ----------
 
 This background is based on the [SRD elan](PsionicRaces#elans).
-
-{% include character-backgrounds.html %}

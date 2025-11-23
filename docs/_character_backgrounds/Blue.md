@@ -36,5 +36,3 @@ References
 ----------
 
 This background is based on the [jungle goblin](JungleBackgrounds#jungle-goblins) and the [psionic goblin](PsionicMonsters#blues-as-characters).
-
-{% include character-backgrounds.html %}

@@ -44,5 +44,3 @@ References
 ----------
 
 This background is based on the [desert dwarves](DesertBackgrounds#desert-dwarves) variant and the [psionic duergar](PsionicRaces#duergar).
-
-{% include character-backgrounds.html %}

@@ -28,5 +28,3 @@ __Favored Class:__ Sorcerer.
 ### Sources
 
 This background is based on the SRD [pixie (sprite)](MonstersS#pixies-as-characters).
-
-{% include character-backgrounds.html %}

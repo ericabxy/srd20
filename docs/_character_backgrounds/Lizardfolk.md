@@ -29,5 +29,3 @@ Breath weapon once per day or hold breath ability.
 ### References
 
 This background is based on the SRD [kobold](MonstersK-L#kobold-characters), [lizardfolk](MonstersK-L#lizardfolk-as-characters), and [half-dragon](MonstersH-J#half-dragon), and the _Arcana Unleashed_ [mojh](MojhRacialTraits).
-
-{% include character-backgrounds.html %}

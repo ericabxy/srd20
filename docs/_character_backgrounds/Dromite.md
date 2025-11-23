@@ -45,5 +45,3 @@ References
 ----------
 
 This background is based on the [SRD dromite](PsionicRaces#dromites) and [*energy ray*](PsionicPowersD-F#energy-ray).
-
-{% include character-backgrounds.html %}

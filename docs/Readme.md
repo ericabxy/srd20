@@ -12,7 +12,7 @@ Welcome to SRD20, a free role-playing game documentation project.
 Backgrounds
 -----------
 
-{% include character-backgrounds.html %}
+{% include character-backgrounds-navbox.html %}
 
 <table>
 <tr>

@@ -27,5 +27,3 @@ References
 ----------
 
 This background is based on the [SRD xeph](PsionicRaces#xephs).
-
-{% include character-backgrounds.html %}

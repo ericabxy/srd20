@@ -50,5 +50,3 @@ _Sonic Ray (Sp):_ Once per day as a standard action, a maenad can create a ray o
 ### Sources
 
 This background is based on the [SRD maenad](PsionicRaces#maenads) and [*energy ray*](PsionicPowersD-F#energy-ray).
-
-{% include character-backgrounds.html %}

@@ -18,7 +18,3 @@ Gnolls are hyena-headed humanoids descended from a tribal society. Most gnolls h
 * __Favored Class:__ Ranger.
 
 This background is based on the [SRD Gnoll](MonstersG#gnolls-as-characters), the _Arcana Unearthed_ [sibeccai](SibeccaiRacialTraits), and the [desert half-orc](DesertBackgrounds#desert-half-orc).
-
-{% include character-backgrounds.html %}
-
-*[Gather Information]: <SkillsI#gather-information-cha>

@@ -24,5 +24,3 @@ References
 ----------
 
 This background is based on the [SRD rakshasa](MonstersO-R#rakshasa) and the [litorian](LitorianRacialTraits) from _Arcana Unleashed_.
-
-{% include character-backgrounds.html %}

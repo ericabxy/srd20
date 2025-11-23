@@ -29,4 +29,4 @@ __Favored Class:__ Rogue.
 
 ### Sources
 
-This background is based on the SRD tallfellow (halfling).
+This background is based on the SRD [tallfellow (halfling)](MonstersH-I#tallfellow).

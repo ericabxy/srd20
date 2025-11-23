@@ -37,5 +37,3 @@ References
 ----------
 
 This background is based on the [SRD half-giant](PsionicRaces#half-giants) and the [arcana unleashed giant](GiantRacialTraits).
-
-{% include character-backgrounds.html %}

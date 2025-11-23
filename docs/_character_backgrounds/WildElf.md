@@ -29,4 +29,4 @@ __Favored Class:__ Sorcerer.
 
 ### Sources
 
-This background is based on the SRD wild elf (elf).
+This background is based on the SRD [wild elf (elf)](MonstersE-F#wild-elf).

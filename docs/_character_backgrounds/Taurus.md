@@ -33,4 +33,4 @@ __Favored Class:__ Barbarian.
 
 ### Sources
 
-This background is based on the SRD minotaur.
+This background is based on the SRD [minotaur](MonstersM-N#minotaurs-as-characters).

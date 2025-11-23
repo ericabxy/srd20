@@ -23,5 +23,3 @@ Jotun characters possess the following background traits.
 ### References
 
 This background is based on the SRD [half-giant](PsionicRaces#half-giants), the [frost giant](MonstersG#frost-giant), the [arctic racial variant](ArcticBackgrounds).
-
-{% include character-backgrounds.html %}
