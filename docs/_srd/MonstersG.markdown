@@ -6,7 +6,7 @@ title: Monsters (G)
 category: srd-monsters
 ---
 
-<small> This material is Open Game Content, and is licensed for public use
+<small>This material is Open Game Content, and is licensed for public use
 under the terms of the Open Game License v1.0a.</small>
 
 ## GARGOYLE
@@ -115,17 +115,15 @@ proud to flee if it means they'll live to fight another day. If trapped,
 they bargain, offering treasure or favors in return for their lives and
 freedom.
 
-*Plane Shift *[(Sp): A genie can enter
-any of the elemental planes, the Astral Plane, or the Material Plane.
-This ability transports the genie and up to eight other creatures,
-provided they all link hands with the genie. It is otherwise similar to
-the spell of the same name (caster level 13th).
+*Plane Shift* (Sp): A genie can enter any of the elemental planes, the
+Astral Plane, or the Material Plane. This ability transports the genie
+and up to eight other creatures, provided they all link hands with the
+genie. It is otherwise similar to the spell of the same name (caster
+level 13th).
 
-DJINNI
+### DJINNI
 
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Outsider (Air, Extraplanar)
-                                           
+|                          | Large Outsider (Air, Extraplanar)
 | **Hit Dice**             | 7d8+14 (45 hp)
 | **Initiative**           | +8
 | **Speed**                | 20 ft. (4 squares), fly 60 ft. (perfect)
@@ -146,19 +144,15 @@ DJINNI
 | **Treasure**             | Standard
 | **Alignment**            | Always chaotic good
 | **Advancement**          | 8--10 HD (Large); 11--21 (Huge)
-                                           
 | **Level Adjustment**     | +6
-                                           
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The djinn (singular djinni) are genies from the Elemental Plane of Air.
-
 
 A djinni is about 10-1/2 feet tall and weighs about 1,000 pounds.
 
 Djinn speak Auran, Celestial, Common, and Ignan.
 
-Combat
+#### Combat
 
 Djinn disdain physical combat, preferring to use their magical powers
 and aerial abilities against foes. A djinni overmatched in combat
@@ -167,14 +161,14 @@ usually takes flight and becomes a whirlwind to harass those who follow.
 **Air Mastery (Ex):** Airborne creatures take a --1 penalty on attack
 and damage rolls against a djinni.
 
-**Spell-Like Abilities: **At will---*invisibility *(self only); 1/day---
+**Spell-Like Abilities:** At will---*invisibility *(self only); 1/day---
 *create food and water, create wine *(as *create water, *but wine
 instead), *major creation *(created vegetable matter is permanent),
 *persistent image *(DC 17), *wind walk. *Once per day, a djinni can
 assume *gaseous form *(as the spell) for up to 1 hour. Caster level
 20th. The save DCs are Charisma-based.
 
-**Whirlwind (Su): **A djinni can transform itself into a whirlwind once
+**Whirlwind (Su):** A djinni can transform itself into a whirlwind once
 every 10 minutes and remain in that form for up to 7 rounds. In this
 form, it can move through the air or along a surface at its fly speed.
 
@@ -222,7 +216,7 @@ spell level) to cast a spell.
 A djinni in whirlwind form cannot make melee attacks and does not
 threaten the area around it.
 
-#| Noble Djinn
+#### Noble Djinn
 
 Some djinn (1% of the total population) are noble. A noble djinni can
 grant three *wishes *to any being (nongenies only) who captures it.
@@ -230,11 +224,9 @@ Noble djinn perform no other services and, upon granting the third
 *wish, *are free of their servitude. Noble djinn are as strong as efreet
 (see below), with 10 Hit Dice.
 
-EFREETI
+### EFREETI
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Outsider (Extraplanar, Fire)
-                                           
+|                          | Large Outsider (Extraplanar, Fire)
 | **Hit Dice**             | 10d8+20 (65 hp)
 | **Initiative**           | +7
 | **Speed**                | 20 ft. (4 squares), fly 40 ft. (perfect)
@@ -243,22 +235,19 @@ EFREETI
 | **Attack**               | Slam +15 melee (1d8+6 plus 1d6 fire)
 | **Full Attack**          | 2 slams +15 melee (1d8+6 plus 1d6 fire)
 | **Space/Reach**          | 10 ft./ 10 ft.
-| **Special Attacks**       *[Change size*[, heat, spell-like abilities
-| **Special Qualities**    | Darkvision 60 ft., immunity to fire, *[plane shift*[, telepathy 100 ft., vulnerability to cold 
+| **Special Attacks**      | *Change size*, heat, spell-like abilities
+| **Special Qualities**    | Darkvision 60 ft., immunity to fire, *plane shift*, telepathy 100 ft., vulnerability to cold 
 | **Saves**                | Fort +9, Ref +10, Will +9
 | **Abilities**            | Str 23, Dex 17, Con 14, Int 12, Wis 15, Cha 15
 | **Skills**               | Bluff +15, Craft (any one) +14, Concentration +15, Diplomacy +6, Disguise +2 (+4 acting), Intimidate +17, Listen +15, Move Silently +16, Sense Motive +15, Spellcraft +14, Spot +15
-| **Feats**                | Combat Casting, Combat Reflexes, Dodge, Improved Initiative^[B^[, Quicken Spell-Like Ability (*[scorching ray*[)
+| **Feats**                | Combat Casting, Combat Reflexes, Dodge, Improved Initiative[^B], Quicken Spell-Like Ability (*scorching ray*)
 | **Environment**          | Elemental Plane of Fire
 | **Organization**         | Solitary, company (2--4), or band (6--15)
 | **Challenge Rating**     | 8
 | **Treasure**             | Standard coins; double goods; standard items
 | **Alignment**            | Always lawful evil
 | **Advancement**          | 11--15 HD (Large); 16--30 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The efreet (singular efreeti) are genies from the Elemental Plane of
 Fire. 
@@ -268,15 +257,15 @@ pounds.
 
 Efreet speak Auran, Common, Ignan, and Infernal.
 
-Combat
+#### Combat
 
 Efreet love to mislead, befuddle, and confuse their foes. They do so
 for enjoyment as well as a battle tactic.
 
-*Change Size *[(Sp): Twice per day, an
+*Change Size* (Sp): Twice per day, an
 efreeti can magically change a creature's size. This works just like an
-*[enlarge person *[or *[reduce
-person *[spell (the efreeti chooses when using the
+*enlarge person* or *reduce
+person* spell (the efreeti chooses when using the
 ability), except that the ability can work on the efreeti. A DC 13
 Fortitude save negates the effect. The save DC is Charisma-based. This
 is the equivalent of a 2nd-level spell.
@@ -285,20 +274,16 @@ Heat (Ex) An efreeti's red-hot body deals 1d6 points
 of extra fire damage whenever it hits in melee, or in each round it
 maintains a hold when grappling.
 
-Spell-Like Abilities: At will---*[detect
-magic, produce flame, pyrotechnics *[(DC 14),
-*[scorching ray *[(1 ray only);
-3/day---*[invisibility, wall of fire *[(DC
-16); 1/day---grant up to three *[wishes *[(to
-nongenies only), *[gaseous form, permanent image
-*[(DC 18), *[polymorph *[(self
-only). Caster level 12th. The save DCs are Charisma-based.
+Spell-Like Abilities: At will---*detect magic*, *produce flame*,
+*pyrotechnics* (DC 14), *scorching ray* (1 ray only);
+3/day---*invisibility*, *wall of fire* (DC 16); 1/day---grant up to
+three *wishes* (to nongenies only), *gaseous form*, *permanent image*
+(DC 18), *polymorph* (self only). Caster level 12th. The save DCs are
+Charisma-based.
 
-JANNI
+### JANNI
 
-  ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Medium Outsider (Native)
-                                           
+|                          | Medium Outsider (Native)
 | **Hit Dice**             | 6d8+6 (33 hp)
 | **Initiative**           | +6
 | **Speed**                | 20 ft. (4 squares), fly 15 ft. (perfect) in chainmail; base land speed 30 ft., base fly speed 20 ft. (perfect)
@@ -307,22 +292,19 @@ JANNI
 | **Attack**               | Scimitar +9 melee (1d6+4/18--20) or longbow +8 ranged (1d8/x3)
 | **Full Attack**          | Scimitar +9/+4 melee (1d6+4/18--20) or longbow +8/+3 ranged (1d8/x3)
 | **Space/Reach**          | 5 ft./5 ft.
-| **Special Attacks**       *[Change size*[, spell-like abilities
-| **Special Qualities**    | Darkvision 60 ft., elemental endurance, *[plane shift, *[resistance to fire 10, telepathy 100 ft.
+| **Special Attacks**      | *Change size*, spell-like abilities
+| **Special Qualities**    | Darkvision 60 ft., elemental endurance, *plane shift*, resistance to fire 10, telepathy 100 ft.
 | **Saves**                | Fort +6, Ref +7, Will +7
 | **Abilities**            | Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13
 | **Skills**               | Appraise +11, Concentration +10, Craft (any two) +11, Diplomacy +3, Escape Artist +6, Listen +11, Move Silently +6, Ride +11, Sense Motive +11, Spot +11, Use Rope +2 (+4 with bindings)
-| **Feats**                | Combat Reflexes, Dodge, Improved Initiative^[B^[, Mobility
+| **Feats**                | Combat Reflexes, Dodge, Improved Initiative[^B], Mobility
 | **Environment**          | Warm deserts
 | **Organization**         | Solitary, company (2--4), or band (6--15)
 | **Challenge Rating**     | 4
 | **Treasure**             | Standard
 | **Alignment**            | Usually neutral
 | **Advancement**          | 7--9 HD (Medium); 10--18 HD (Large)
-                                           
 | **Level Adjustment**     | +5
-                                           
-  ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The jann (singular janni) are the weakest of the genies. Jann are
 formed out of all four elements and must therefore spend most of their
@@ -332,37 +314,32 @@ Jann speak Common, one elemental language (Aquan, Auran, Ignan, or
 Terran) and one alignment language (Abyssal, Celestial, or
 Infernal).
 
-Combat
+#### Combat
 
 Jann are physically strong and courageous, and do not take kindly to
 insult or injury. If they meet a foe they cannot defeat in a standup
-fight, they use flight and *[invisibility *[to
+fight, they use flight and *invisibility* to
 regroup and maneuver to a more advantageous position.
 
-*Change Size *[(Sp): Twice per day, a
-janni can magically change a creature's size. This works just like an
-*[enlarge person *[or *[reduce
-person *[spell (the janni chooses when using the ability),
-except that the ability can work on the janni. A DC 13 Fortitude save
-negates the effect. The save DC is Charisma-based. This is the
-equivalent of a 2nd-level spell.
+*Change Size* (Sp): Twice per day, a janni can magically change a
+creature's size. This works just like an *enlarge person* or *reduce
+person* spell (the janni chooses when using the ability), except that
+the ability can work on the janni. A DC 13 Fortitude save negates the
+effect. The save DC is Charisma-based. This is the equivalent of a
+2nd-level spell.
 
-Spell-Like Abilities
-3/day---*[invisibility *[(self only),
-*[speak with animals. *[Caster level 12th.
-Once per day a janni can *[create food and water
-*[(caster level 7th) and can use *[ethereal
-jaunt *[(caster level 12th) for 1 hour. The save DCs are
-Charisma-based.
+Spell-Like Abilities 3/day---*invisibility* (self only), *speak with
+animals*. Caster level 12th. Once per day a janni can *create food
+and water* (caster level 7th) and can use *ethereal jaunt* (caster
+level 12th) for 1 hour. The save DCs are Charisma-based.
 
-Elemental Endurance (Ex) Jann can survive on the
-Elemental Planes of Air, Earth, Fire, or Water for up to 48 hours.
-Failure to return to the Material Plane before that time expires causes
-a janni to take 1 point of damage per additional hour spent on the
-elemental plane, until it dies or returns to the Material
-Plane.
+Elemental Endurance (Ex) Jann can survive on the Elemental Planes of
+Air, Earth, Fire, or Water for up to 48 hours. Failure to return to
+the Material Plane before that time expires causes a janni to take 1
+point of damage per additional hour spent on the elemental plane,
+until it dies or returns to the Material Plane.
 
-#| Jann as Characters
+#### Jann as Characters
 
 Janni characters possess the following racial traits.
 
@@ -390,10 +367,10 @@ receives Improved Initiative as a bonus feat.
 
 --- +1 natural armor bonus.
 
----Special Attacks (see above): *Change size, *spell-like abilities.
+---Special Attacks (see above): *Change size*, spell-like abilities.
 
----Special Qualities (see above): Elemental endurance, *plane shift,
-*resistance to fire 10, telepathy. 100 ft.
+---Special Qualities (see above): Elemental endurance, *plane shift*,
+resistance to fire 10, telepathy. 100 ft.
 
 ---Automatic Languages: Common. Bonus Languages: Abyssal, Aquan, Auran,
 Celestial, Ignan, Infernal, Terran.
@@ -402,7 +379,7 @@ Celestial, Ignan, Infernal, Terran.
 
 ---Level adjustment +5.
 
-GHAELE
+## GHAELE
 
 +----------------------------------+----------------------------------+
 |                                  || Medium Outsider (Chaotic,       |
@@ -503,16 +480,15 @@ A ghaele can take the form of an incorporeal globe of eldritch colors,
 pounds.
 
 Ghaeles speak Celestial, Infernal, and Draconic, but can communicate
-with almost any creature, thanks to their *[tongues
-*[ability.
+with almost any creature, thanks to their *tongues* ability.
 
-Combat
+#### Combat
 
 Ghaeles who enter combat prefer direct confrontation and damaging
 attacks to more subtle or insidious methods. They usually fight in their
-humanoid form, wielding incandescent *[+4 holy greatswords.
-*[If a ghaele desires mobility, it assumes its globe form
-and blasts the enemy with light rays.
+humanoid form, wielding incandescent *+4 holy greatswords*. If a ghaele
+desires mobility, it assumes its globe form and blasts the enemy with
+light rays.
 
 A ghaele's natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and good-aligned for the purpose of
@@ -576,31 +552,26 @@ cannot fly or use its light rays, but it can use its gaze attack and
 spell-like abilities, make physical attacks, and cast spells. In globe
 form, it can fly, use its light rays, and use spell-like abilities, but
 it cannot cast spells or use its gaze attack. The globe form is
-incorporeal, and the ghaele has no Strength score while in that
-form.
+incorporeal, and the ghaele has no Strength score while in that form.
 
 A ghaele remains in one form until it chooses to assume a new one. A
 change in form cannot be dispelled, nor does the ghaele revert to any
-particular form when killed. A *[true seeing
-*[spell or ability, however, reveals both forms
-simultaneously.
+particular form when killed. A *true seeing* spell or ability, however,
+reveals both forms simultaneously.
 
-Protective Aura (Su) Against attacks made or effects
-created by evil creatures, *[t*[his ability
-provides a +4 deflection bonus to AC and a +4 resistance bonus on saving
-throws to anyone within 20 feet of the ghaele. Otherwise, it functions
-as a *[magic circle against evil *[effect and
-a *[lesser globe of invulnerability, *[both
-with a radius of 20 feet (caster level equals ghaele's HD). (The
-defensive benefits from the circle are not included in a ghaele's
-statistics block.)
+Protective Aura (Su) Against attacks made or effects created by evil
+creatures, this ability provides a +4 deflection bonus to AC and a +4
+resistance bonus on saving throws to anyone within 20 feet of the
+ghaele. Otherwise, it functions as a *magic circle against evil* effect
+and a *lesser globe of invulnerability*, both with a radius of 20 feet
+(caster level equals ghaele's HD). (The defensive benefits from the
+circle are not included in a ghaele's statistics block.)
 
-Tongues (Su) Ghaeles can speak with any creature
-that has a language, as though using a *[tongues
-*[spell (caster level 14th). This ability is always
-active.
+Tongues (Su) Ghaeles can speak with any creature that has a language, as
+though using a *tongues* spell (caster level 14th). This ability is
+always active.
 
-GHOST
+## GHOST
 
 Ghosts are the spectral remnants of intelligent beings who, for one
 reason or another, cannot rest easily in their graves.
@@ -608,7 +579,7 @@ reason or another, cannot rest easily in their graves.
 A ghost greatly resembles its corporeal form in life, but in some cases
 the spiritual form is somewhat altered. 
 
-CREATING A GHOST
+### CREATING A GHOST
 
 "Ghost" is an acquired template that can be added to any aberration,
 animal, dragon, giant, humanoid, magical beast, monstrous humanoid, or
@@ -652,40 +623,40 @@ one to three other special attacks as described below. The save DC
 against a special attack is equal to 10 + 1/2 ghost's HD + ghost's Cha
 modifier unless otherwise noted.
 
-*Corrupting Gaze (Su): *A ghost can blast living beings with a glance,
+*Corrupting Gaze (Su):* A ghost can blast living beings with a glance,
 at a range of up to 30 feet. Creatures that meet the ghost's gaze must
 succeed on a Fortitude save or take 2d10 points of damage and 1d4 points
 of Charisma damage.
 
-*Corrupting Touch (Su): *A ghost that hits a living target with its
+*Corrupting Touch (Su):* A ghost that hits a living target with its
 incorporeal touch attack deals 1d6 points of damage. Against ethereal
 opponents, it adds its Strength modifier to attack and damage rolls.
 Against nonethereal opponents, it adds its Dexterity modifier to attack
 rolls only.
 
-*Draining Touch (Su): *A ghost that hits a living target with its
+*Draining Touch (Su):* A ghost that hits a living target with its
 incorporeal touch attack drains 1d4 points from any one ability score it
 selects. On each such successful attack, the ghost heals 5 points of
 damage to itself. Against ethereal opponents, it adds its Strength
 modifier to attack rolls only. Against nonethereal opponents, it adds
 its Dexterity modifier to attack rolls only.
 
-*Frightful Moan (Su): *A ghost can emit a frightful moan as a standard
+*Frightful Moan (Su):* A ghost can emit a frightful moan as a standard
 action. All living creatures within a 30-foot spread must succeed on a
 Will save or become panicked for 2d4 rounds. This is a sonic necromantic
 mind-affecting fear effect. A creature that successfully saves against
 the moan cannot be affected by the same ghost's moan for 24 hours.
 
-*Horrific Appearance (Su): *Any living creature within 60 feet that
+*Horrific Appearance (Su):* Any living creature within 60 feet that
 views a ghost must succeed on a Fortitude save or immediately take 1d4
 points of Strength damage, 1d4 points of Dexterity damage, and 1d4
 points of Constitution damage. A creature that successfully saves
 against this effect cannot be affected by the same ghost's horrific
 appearance for 24 hours.
 
-*Malevolence (Su): *Once per round, an ethereal ghost can merge its body
+*Malevolence (Su):* Once per round, an ethereal ghost can merge its body
 with a creature on the Material Plane. This ability is similar to a
-*magic jar *spell (caster level 10th or the ghost's Hit Dice, whichever
+*magic jar* spell (caster level 10th or the ghost's Hit Dice, whichever
 is higher), except that it does not require a receptacle. To use this
 ability, the ghost must be manifested and it must try move into the
 target's space; moving into the target's space to use the malevolence
@@ -695,7 +666,7 @@ creature that successfully saves is immune to that same ghost's
 malevolence for 24 hours, and the ghost cannot enter the target's space.
 If the save fails, the ghost vanishes into the target's body.
 
-*Manifestation (Su): *Every ghost has this ability. A ghost dwells on
+*Manifestation (Su):* Every ghost has this ability. A ghost dwells on
 the Ethereal Plane and, as an ethereal creature, it cannot affect or be
 affected by anything in the material world. When a ghost manifests, it
 partly enters the Material Plane and becomes visible but incorporeal on
@@ -721,7 +692,7 @@ A manifested ghost's touch spells don't work on nonethereal targets.
 A ghost has two home planes, the Material Plane and the Ethereal Plane.
 It is not considered extraplanar when on either of these planes.
 
-*Telekinesis (Su): *A ghost can use *telekinesis *as a standard action
+*Telekinesis (Su):* A ghost can use *telekinesis* as a standard action
 (caster level 12th or equal to the ghost's HD, whichever is higher).
 When a ghost uses this power, it must wait 1d4 rounds before using it
 again.
@@ -729,7 +700,7 @@ again.
 **Special Qualities:** A ghost has all the special qualities of the base
 creature as well as those described below.
 
-*Rejuvenation (Su): *In most cases, it's difficult to destroy a ghost
+*Rejuvenation (Su):* In most cases, it's difficult to destroy a ghost
 through simple combat: The "destroyed" spirit will often restore itself
 in 2d4 days. Even the most powerful spells are usually only temporary
 solutions. A ghost that would otherwise be destroyed returns to its old
@@ -739,7 +710,7 @@ the reason for its existence and set right whatever prevents it from
 resting in peace. The exact means varies with each spirit and may
 require a good deal of research.
 
-*Turn Resistance (Ex): *A ghost has +4 turn resistance.
+*Turn Resistance (Ex):* A ghost has +4 turn resistance.
 
 **Abilities:** Same as the base creature, except that the ghost has no
 Constitution score, and its Charisma score increases by +4.
@@ -747,19 +718,19 @@ Constitution score, and its Charisma score increases by +4.
 **Skills:** Ghosts have a +8 racial bonus on Hide, Listen, Search, and
 Spot checks. Otherwise same as the base creature.
 
-**Environment: **Any, often as base creature.
+**Environment:** Any, often as base creature.
 
 **Organization:** Solitary, gang (2--4), or mob (7--12).
 
-**Challenge Rating: **Same as the base creature +2.
+**Challenge Rating:** Same as the base creature +2.
 
-**Treasure: **None.
+**Treasure:** None.
 
-**Alignment: **Any.
+**Alignment:** Any.
 
-**Level Adjustment: **Same as the base creature +5.
+**Level Adjustment:** Same as the base creature +5.
 
-Ghostly Equipment
+#### Ghostly Equipment
 
 When a ghost forms, all its equipment and carried items usually become
 ethereal along with it. In addition, the ghost retains 2d4 items that it
@@ -776,7 +747,7 @@ remains do. If another creature seizes the original, the ethereal copy
 fades away. This loss invariably angers the ghost, who stops at nothing
 to return the item to its original resting place.
 
-GHOUL
+## GHOUL
 
 +----------------------+----------------------+----------------------+
 |                      |                   |                   |
@@ -883,10 +854,9 @@ GHOUL
 |                      |                      |                      |
 +----------------------+----------------------+----------------------+
 
-Ghouls speak the languages they spoke in life (usually
-Common).
+Ghouls speak the languages they spoke in life (usually Common).
 
-COMBAT
+### COMBAT
 
 Ghouls try to attack with surprise whenever possible. They strike from
 behind tombstones and burst from shallow graves.
@@ -907,19 +877,19 @@ attack must succeed on a DC 12 Fortitude save or be paralyzed for 1d4+1
 rounds. Elves have immunity to this paralysis. The save DC is
 Charisma-based.
 
-LACEDON
+### LACEDON
 
 These cousins of the ghoul have the aquatic subtype. They lurk near
 hidden reefs or other places where ships are likely to meet their end.
 They have a base land speed of 30 feet and a swim speed of 30 feet and
 are found only in aquatic environments.
 
-GHAST
+### GHAST
 
 Although these creatures look just like their lesser kin, they are far
 more deadly and cunning.
 
-Combat
+#### Combat
 
 Ghoul Fever (Su) Disease---bite, Fortitude DC 15,
 incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is
@@ -936,19 +906,18 @@ creatures
 
 within 10 feet must succeed on a DC 15 Fortitude save or be sickened
 for 1d6+4 minutes. A creature that successfully saves cannot be affected
-again by the same ghast's stench for 24 hours. A *[delay
-poison *[or *[neutralize poison
-*[spell removes the effect from a sickened creature.
+again by the same ghast's stench for 24 hours. A *delay poison* or
+*neutralize poison* spell removes the effect from a sickened creature.
 Creatures with immunity to poison are unaffected, and creatures
 resistant to poison receive their normal bonus on their saving throws.
 The save DC is Charisma-based.
 
-GIANT
+## GIANT
 
 All giants speak Giant. Those with Intelligence scores of 10 or higher
 also speak Common.
 
-COMBAT
+### COMBAT
 
 Giants relish melee combat. They favor massive two-handed weapons and
 wield them with impressive skill. They have enough cunning to soften up
@@ -960,9 +929,7 @@ rock throwers and receive a +1 racial bonus on attack rolls when
 throwing rocks. A giant of at least Large size can hurl rocks weighing
 40 to 50 pounds each (Small objects) up to five range increments. The
 size of the range increment varies with the giant's variety. A Huge
-giant can
-
-hurl rocks of 60 to 80 pounds (Medium objects). 
+giant can hurl rocks of 60 to 80 pounds (Medium objects). 
 
 Rock Catching (Ex) A giant of at least Large size
 can catch Small, Medium, or Large rocks (or projectiles of similar
@@ -975,11 +942,9 @@ a magical bonus on attack rolls, the DC increases by that amount.) The
 giant must be ready for and aware of the attack in order to make a rock
 catching attempt.
 
-CLOUD GIANT
+### CLOUD GIANT
 
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Huge Giant (Air)
-                                           
+|                          | Huge Giant (Air)
 | **Hit Dice**             | 17d8+102 (178 hp)
 | **Initiative**           | +1
 | **Speed**                | 50 ft. (10 squares)
@@ -1000,10 +965,7 @@ CLOUD GIANT
 | **Treasure**             | Standard coins; double goods; standard items
 | **Alignment**            | Usually neutral good or neutral evil
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cloud giants' skin ranges in color from milky white to light sky blue.
 Their hair is silvery white or brass, and their eyes are iridescent
@@ -1017,7 +979,7 @@ finer the jewelry, the more important the wearer. They also appreciate
 music, and most can play one or more instruments (the harp is a
 favorite).
 
-COMBAT
+### COMBAT
 
 Cloud giants fight in well-organized units, using carefully developed
 battle plans. They prefer to fight from a position above their
@@ -1032,12 +994,10 @@ Oversized Weapon (Ex) A cloud giant wields a great,
 two-handed morningstar (big enough for Gargantuan creatures) without
 penalty.
 
-Spell-Like Abilities 3/day---*[levitate
-*[(self plus 2,000 pounds), *[obscuring
-mist*[; 1/day---*[fog cloud*[.
-Caster level 15th.
+Spell-Like Abilities 3/day---*levitate* (self plus 2,000 pounds),
+*obscuring mist*; 1/day---*fog cloud*. Caster level 15th.
 
-CLOUD GIANT CHARACTERS
+### CLOUD GIANT CHARACTERS
 
 Most cloud giant groups include a sorcerer or a cleric.
 
@@ -1045,11 +1005,9 @@ Good-aligned clerics have access to two of the following domains: Good,
 Healing, Strength, or Sun. Evil-aligned clerics have access to two of
 the following domains: Death, Evil, or Trickery.
 
-FIRE GIANT
+### FIRE GIANT
 
-  ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Giant (Fire)
-                                           
+|                          | Large Giant (Fire)
 | **Hit Dice**             | 15d8+75 (142 hp)
 | **Initiative**           | --1
 | **Speed**                | 30 ft. in half-plate armor (6 squares); base speed 40 ft.
@@ -1070,44 +1028,36 @@ FIRE GIANT
 | **Treasure**             | Standard
 | **Alignment**            | Often lawful evil
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | +4
-                                           
-  ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Some fire giants have bright orange hair.. An adult male is 12 feet
-tall, has a chest that measures 9 feet
+tall, has a chest that measures 9 feet around, and weighs about 7,000 pounds.
+Females are slightly shorter and lighter. Fire giants can live to be 350 years
+old.
 
-around, and weighs about 7,000 pounds. Females are slightly shorter and
-lighter. Fire giants can live to be 350 years old.
+Fire giants wear sturdy cloth or leather garments colored red, orange, yellow,
+or black. Warriors wear helmets and half-plate armor of blackened steel.
 
-Fire giants wear sturdy cloth or leather garments colored red, orange,
-yellow, or black. Warriors wear helmets
-
-and half-plate armor of blackened steel.
-
-COMBAT
+### COMBAT
 
 Fire giants heat their rocks in a nearby fire, geyser, or lava pools,
 so that they deal extra fire damage. They favor magic flaming swords in
 melee (when they can get them). They are also fond of grabbing smaller
 opponents and tossing them somewhere very hot.
 
-Rock Throwing (Ex) The range increment is 120 feet
-for a fire giant's thrown rocks.
+Rock Throwing (Ex) The range increment is 120 feet for a fire giant's thrown
+rocks.
 
-Fire Giant Characters
+#### Fire Giant Characters
 
 Most groups of fire giants include clerics. A fire giant cleric has
 access to two of the following domains: Evil, Law, Trickery, or War
 (most choose Trickery or War, some choose both).
 
-FROST GIANT
+### FROST GIANT
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                         | **Frost Giant**                                                                                                                                                                                                                                                                                                                                                                            | **Frost Giant Jarl, 8th-Level Blackguard**
-                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                          | Large Giant (Cold)                                                                                                                                                                                                                                                                                                                                                                          | Large Giant (Cold)
+|                          | **Frost Giant**                                                                                                                                                                                                                                                                                                                                                                            | **Frost Giant Jarl, 8th-Level Blackguard**
+|                          | Large Giant (Cold)                                                                                                                                                                                                                                                                                                                                                                          | Large Giant (Cold)
 | **Hit Dice**             | 14d8+70 (133 hp)                                                                                                                                                                                                                                                                                                                                                                            | 14d8+84 plus 8d10+48 (231 hp)
 | **Initiative**           | --1                                                                                                                                                                                                                                                                                                                                                                                         | +5
 | **Speed**                | 40 ft. (8 squares)                                                                                                                                                                                                                                                                                                                                                                          | 30 ft. in *[+2 full plate armor *[(6 squares); base speed 40 ft.
@@ -1115,7 +1065,7 @@ FROST GIANT
 | **Base Attack/Grapple**  | +10/+23                                                                                                                                                                                                                                                                                                                                                                                     | +18/+33
 | **Attack**               | Greataxe +18 melee (3d6+13/x3) or slam +18 melee (1d4+9) or rock +9 ranged (2d6+9)                                                                                                                                                                                                                                                                                                           *[+2 frost greataxe *[+30 melee (3d6+18/×3 plus 1d6 cold) or slam +28 melee (1d4+11) or rock +18 ranged (2d6+11)
 | **Full Attack**          | Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9)                                                                                                                                                                                                                                                                                               *[+2 frost greataxe *[+30/+25/+20/+15 melee (3d6+18/×3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)
-| **Space/Reach: **         | 10 ft./10 ft.                                                                                                                                                                                                                                                                                                                                                                               | 10 ft./10 ft.
+| **Space/Reach:**         | 10 ft./10 ft.                                                                                                                                                                                                                                                                                                                                                                               | 10 ft./10 ft.
 | **Special Attacks**      | Rock throwing                                                                                                                                                                                                                                                                                                                                                                               | Rock throwing, smite good, sneak attack +2d6 
 | **Special Qualities**    | Immunity to cold, low-light vision, rock catching, vulnerability to fire                                                                                                                                                                                                                                                                                                                    | Aura of despair, aura of evil, command undead, dark blessing, *[detect good, *[immunity to cold, low-light vision, poison use, resistance to fire 10, rock catching, vulnerability to fire 
 | **Saves**                | Fort +14, Ref +3, Will +6                                                                                                                                                                                                                                                                                                                                                                   | Fort +25, Ref +13, Will +13
@@ -1128,10 +1078,7 @@ FROST GIANT
 | **Treasure**             | Standard                                                                                                                                                                                                                                                                                                                                                                                    | Standard
 | **Alignment**            | Often chaotic evil                                                                                                                                                                                                                                                                                                                                                                          | Always chaotic evil
 | **Advancement**          | By character class                                                                                                                                                                                                                                                                                                                                                                          | By character class
-                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 | **Level Adjustment**     | +4                                                                                                                                                                                                                                                                                                                                                                                          | ---
-                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A frost giant's hair can be light blue or dirty yellow, and its eyes
 usually match its hair color. Frost giants dress in skins and pelts,
@@ -1142,7 +1089,7 @@ An adult male is about 15 feet tall and weighs about 2,800 pounds.
 Females are slightly shorter and lighter, but otherwise identical with
 males. Frost giants can live to be 250 years old.
 
-COMBAT
+### COMBAT
 
 Frost giants usually start combat at a distance, throwing rocks until
 they run out of ammunition or the opponent closes, then wading in with
@@ -1155,7 +1102,7 @@ reaching them.
 Rock Throwing (Ex): The range increment is 120 feet
 for a frost giant's thrown rocks.
 
-FROST GIANT JARL
+### FROST GIANT JARL
 
 A frost giant leader is often a barbarian, cleric, fighter, or
 sorcerer, but some of the most evil and ruthless frost giants become
@@ -1191,24 +1138,22 @@ attack roll and deals 8 points of extra damage (1 per blackguard level)
 if the attack hits. If he accidentally smites a creature that is not
 good, the smite has no effect but it is still used up for that day.
 
-*Typical Blackguard Spells Prepared *(3/1; save DC 11 + spell level):
-1st---*cause fear, doom, magic weapon; *2nd---*bull's strength.*
+*Typical Blackguard Spells Prepared* (3/1; save DC 11 + spell level):
+1st---*cause fear*, *doom*, *magic weapon*; 2nd---*bull's strength*.
 
 *Possessions: +2 frost greataxe, +2 full plate armor, cloak of Charisma
-+2, ring of minor energy resistance (fire), *2 doses of bloodroot
++2, ring of minor energy resistance (fire)*, 2 doses of bloodroot
 poison. (Benefits of these items are included in the statistics block.)
 
-FROST GIANT CHARACTERS
+### FROST GIANT CHARACTERS
 
 Many groups of frost giants include clerics. A frost giant cleric has
 access to two of the following domains: Chaos, Destruction, Evil, or War
 (most choose Destruction or War, some choose both).
 
-HILL GIANT
+### HILL GIANT
 
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Giant
-                                           
+|                          | Large Giant
 | **Hit Dice**             | 12d8+48 (102 hp)
 | **Initiative**           | --1
 | **Speed**                | 30 ft. in hide armor (6 squares); base speed 40 ft.
@@ -1229,10 +1174,7 @@ HILL GIANT
 | **Treasure**             | Standard
 | **Alignment**            | Often chaotic evil
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | +4
-                                           
-  ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Skin color among hill giants ranges from light tan to deep ruddy brown.
 Their hair is brown or black, with eyes the same color. Hill giants wear
@@ -1243,7 +1185,7 @@ old ones wear out.
 Adults are about 10-1/2 feet tall and weigh about 1,100 pounds. Hill
 giants can live to be 200 years old.
 
-COMBAT
+### COMBAT
 
 Hill giants prefer to fight from high, rocky outcroppings, where they
 can pelt opponents with rocks and boulders while limiting the risk to
@@ -1256,7 +1198,7 @@ their massive clubs.
 Rock Throwing (Ex) The range increment is 120 feet
 for a hill giant's thrown rocks.
 
-HILL GIANTS AS CHARACTERS
+### HILL GIANTS AS CHARACTERS
 
 Reckless brutes of incredible strength but little wit, hill giant
 characters are never truly accepted into society. Yet they do well on
@@ -1287,13 +1229,10 @@ which provide 12d8 Hit Dice, a base attack bonus of +8, and base saving
 throw bonuses of Fort +8, Ref +4, and Will +4.
 
 ---Racial Skills: A hill giant's giant levels give it skill
-points
-
-equal to 15 x (2 + Int modifier). Its class skills are Climb, Jump,
+points equal to 15 x (2 + Int modifier). Its class skills are Climb, Jump,
 Listen, and Spot.
 
----Racial Feats: A hill giant's giant levels give it five
-feats.
+---Racial Feats: A hill giant's giant levels give it five feats.
 
 --- +9 natural armor bonus.
 
@@ -1312,11 +1251,9 @@ Elven, Goblin, Orc.
 
 ---Level adjustment +4.
 
-STONE GIANT
+### STONE GIANT
 
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Giant (Earth)
-                                           
+|                          | Large Giant (Earth)
 | **Hit Dice**             | 14d8+56 (119 hp)
 | **Initiative**           | +2
 | **Speed**                | 30 ft. in hide armor (6 squares); base speed 40 ft.
@@ -1337,17 +1274,14 @@ STONE GIANT
 | **Treasure**             | Standard
 | **Alignment**            | Usually neutral
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | +4 (elder +6)
-                                           
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Stone giants prefer thick leather garments, dyed in shades of brown and
 gray to match the stone around them. Adults are about 12 feet tall and
 weigh about 1,500 pounds. Stone giants can live to be 800 years
 old.
 
-COMBAT
+### COMBAT
 
 Stone giants fight from a distance whenever possible, but if they can't
 avoid melee, they use gigantic clubs chiseled out of stone. A favorite
@@ -1366,18 +1300,16 @@ rock.
 Skills \*A stone giant gains a +8 racial bonus on
 Hide checks in rocky terrain.
 
-STONE GIANT ELDERS
+### STONE GIANT ELDERS
 
 Some stone giants develop special abilities related to their
 environment. These giant elders have Charisma scores of at least 15 and
 spell-like abilities, which they use as 10th-level sorcerers. Once per
-day they can use *[stone shape, stone tell,
-*[and either *[transmute rock to mud
-*[or *[transmute mud to rock
-*[(DC 17). The save DC is Charisma-based. One in ten elders
-is a sorcerer, usually of 3rd to 6th level.
+day they can use *stone shape*, *stone tell*, and either *transmute rock
+to mud* or *transmute mud to rock* (DC 17). The save DC is Charisma-based.
+One in ten elders is a sorcerer, usually of 3rd to 6th level.
 
-STONE GIANTS AS CHARACTERS
+### STONE GIANTS AS CHARACTERS
 
 Strong, silent loners, stone giant characters are a rare sight in human
 lands.
@@ -1407,8 +1339,7 @@ equal to 17 x(2 + Int modifier). Its class skills are Climb, Hide,
 Listen, and Spot. A stone giant has a +8 racial bonus on Hide checks in
 rocky terrain.
 
----Racial Feats: A stone giant's giant levels give it five
-feats.
+---Racial Feats: A stone giant's giant levels give it five feats.
 
 --- +11 natural armor bonus.
 
@@ -1423,11 +1354,9 @@ Elven, Goblin, Orc.
 
 ---Level adjustment +4.
 
-STORM GIANT
+### STORM GIANT
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Huge Giant
-                                           
+|                          | Huge Giant
 | **Hit Dice**             | 19d8+114 (199 hp)
 | **Initiative**           | +2
 | **Speed**                | 35 ft. (7 squares), swim 30 ft. (6 squares) in breastplate; base speed 50 ft., swim 40 ft.
@@ -1448,10 +1377,7 @@ STORM GIANT
 | **Treasure**             | Standard coins; double goods; standard items
 | **Alignment**            | Often chaotic good
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Very rarely, storm giants have violet skin. Violet-skinned storm giants
 have deep violet or blue-black hair with silvery gray or purple eyes.
@@ -1464,17 +1390,15 @@ common. They live quiet, reflective lives and spend their time musing
 about the world, composing and playing music, and tilling their land or
 gathering food.
 
-Combat
+#### Combat
 
 Storm giants use weapons and spell-like abilities instead of throwing
 rocks. Their composite longbows have a range increment of 180
 feet.
 
-Spell-Like Abilities 1/day---*[call
-lightning *[(DC 15), *[chain lightning
-*[(DC 18). Caster level 15th.
-2/day---*[control weather*[,
-*[levitate. *[Caster level 20th. The save DCs
+Spell-Like Abilities 1/day---*call lightning* (DC 15), *chain lightning*
+(DC 18). Caster level 15th.
+2/day---*control weather*, *levitate*. Caster level 20th. The save DCs
 are Charisma-based.
 
 Freedom of Movement (Su) Storm giants have a
@@ -1493,17 +1417,15 @@ endangered. It can use the run action while swimming, provided it swims
 in a straight line. \*Storm giants ignore all weight penalties for gear
 carried when swimming.
 
-Storm Giant Characters
+#### Storm Giant Characters
 
 About 20% of adult storm giants are sorcerers or clerics. A storm giant
 cleric has access to two of the following domains: Chaos, Good,
 Protection, or War.
 
-GIBBERING MOUTHER
+## GIBBERING MOUTHER
 
-  ---------------------------------------- -------------------------------------------------------------------------------------------
-                                          | Medium Aberration
-                                           
+|                          | Medium Aberration
 | **Hit Dice**             | 4d8+24 (42 hp)
 | **Initiative**           | +1
 | **Speed**                | 10 ft. (2 squares), swim 20 ft.
@@ -1524,10 +1446,7 @@ GIBBERING MOUTHER
 | **Treasure**             | None
 | **Alignment**            | Usually neutral
 | **Advancement**          | 5--12 HD (Large)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- -------------------------------------------------------------------------------------------
 
 A gibbering mouther is a horrible creature seemingly drawn from a
 lunatic's nightmares. Although not evil, it thirsts after bodily fluids
@@ -1539,7 +1458,7 @@ weighs about 200 pounds.
 Gibbering mouthers can speak Common, but seldom say anything other than
 gibberish.
 
-COMBAT
+### COMBAT
 
 A gibbering mouther attacks by shooting out strings of protoplasmic
 flesh, each ending in one or more eyes and a mouth that bites at the
@@ -1549,11 +1468,10 @@ round.
 Gibbering (Su) As soon as a mouther spots something
 edible, it begins a constant gibbering as a free action. All creatures
 (other than mouthers) within a 60-foot spread must succeed on a DC 13
-Will save or be affected as though by a *[confusion
-*[spell for 1d2 rounds. This is a sonic mind-affecting
-compulsion effect. A creature that successfully saves cannot be affected
-by the same gibbering mouther's gibbering for 24 hours. The save DC is
-Charisma-based.
+Will save or be affected as though by a *confusion* spell for 1d2 rounds.
+This is a sonic mind-affecting compulsion effect. A creature that
+successfully saves cannot be affected by the same gibbering mouther's
+gibbering for 24 hours. The save DC is Charisma-based.
 
 Spittle (Ex) As a free action every round, a
 gibbering mouther fires a stream of spittle at one opponent within 30
@@ -1609,11 +1527,9 @@ on a Swim check, even if distracted or endangered. It can use the run
 action while swimming, provided it swims in a straight
 line.
 
-GIRALLON
+## GIRALLON
 
-  ---------------------------------------- ---------------------------------------------------------------------------
-                                          | Large Magical Beast
-                                           
+|                          | Large Magical Beast
 | **Hit Dice**             | 7d10+20 (58 hp)
 | **Initiative**           | +3
 | **Speed**                | 40 ft. (8 squares), climb 40 ft.
@@ -1634,17 +1550,14 @@ GIRALLON
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 8--10 HD (Large); 11--21 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------
 
 Girallons are savage, magical cousins of the gorilla. When moving on
 the ground, a girallon walks on its legs and lower arms. An adult
 girallon is about 8 feet tall, broad-chested, and covered in thick, pure
 white fur. It weighs about 800 pounds.
 
-COMBAT
+### COMBAT
 
 A solitary girallon usually conceals itself in the branches of a tree
 or under a pile of leaves and brush, with only its nose showing. When it
@@ -1725,7 +1638,7 @@ provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw
 bonuses of Fort +3, Ref +0, and Will +0.
 
 ---Racial Skills: A gnoll's humanoid levels give it skill points equal
-to 5 x(2 + Int modifier). Its class skills are Listen and
+to 5 x (2 + Int modifier). Its class skills are Listen and
 Spot.
 
 ---Racial Feats: A gnoll's humanoid levels give it one
@@ -2084,18 +1997,16 @@ item (caster level, prerequisite feats and spells, market price, cost to
 create) are given in summary form at the end of each golem's
 description.
 
-*[Note: *[The market price of an advanced golem (a golem
+*Note:* The market price of an advanced golem (a golem
 with more Hit Dice than the typical golem described in each entry) is
 increased by 5,000 gp for each additional Hit Die, and increased by an
 additional 50,000 gp if the golem's size increases. The XP cost for
 creating an advanced golem is equal to 1/25 the advanced golem's market
 price minus the cost of the special materials required.
 
-CLAY GOLEM
+### CLAY GOLEM
 
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Construct
-                                           
+|                          | Large Construct
 | **Hit Dice**             | 11d10+30 (90 hp)
 | **Initiative**           | --1
 | **Speed**                | 20 ft. (4 squares)
@@ -2116,11 +2027,8 @@ CLAY GOLEM
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 12--18 HD (Large); 19--33 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
                                            
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------
-
 This golem has a humanoid body made from clay. A clay golem wears no
 clothing except for a metal or stiff leather garment around its
 hips.
@@ -2129,7 +2037,7 @@ A clay golem golem cannot speak or make any vocal noise. It walks and
 moves with a slow, clumsy gait. It weighs around 600
 pounds.
 
-Combat
+#### Combat
 
 Berserk (Ex) When a clay golem enters combat, there
 is a cumulative 1% chance each round that its elemental spirit breaks
@@ -2150,14 +2058,13 @@ spell or spell-like ability that allows spell resistance. In addition,
 certain spells and effects function differently against the creature, as
 noted below.
 
-A *[move earth *[spell drives the golem back
-120 feet and deals 3d12 points of damage to it.
+A *move earth* spell drives the golem back 120 feet and deals 3d12 points
+of damage to it.
 
-A *[disintegrate *[spell slows the golem (as
-the *[slow *[spell) for 1d6 rounds and deals
-1d12 points of damage.
+A *disintegrate* spell slows the golem (as the *slow* spell) for 1d6
+rounds and deals 1d12 points of damage.
 
-An *[earthquake *[spell cast directly at a
+An *earthquake* spell cast directly at a
 clay golem stops it from moving on its next turn and deals 5d10 points
 of damage. The golem gets no saving throw against any of these
 effects.
@@ -2175,8 +2082,7 @@ Haste (Su) After it has engaged in at least 1 round
 of combat, a clay golem can haste itself once per day as a free action.
 The effect lasts 3 rounds and is otherwise the same as the spell.
 
-
-Construction
+#### Construction
 
 A clay golem's body must be sculpted from a single block of clay
 weighing at least 1,000 pounds, treated with rare oils and powders worth
@@ -2188,11 +2094,9 @@ resurrection*[, caster must be at least 11th
 level*[; *[Price 40,000 gp; Cost 21,500 gp +
 1,540 XP.
 
-FLESH GOLEM
+### FLESH GOLEM
 
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------
-                                          | Large Construct
-                                           
+|                          | Large Construct
 | **Hit Dice**             | 9d10+30 (79 hp)
 | **Initiative**           | --1
 | **Speed**                | 30 ft. (6 squares)
@@ -2213,10 +2117,7 @@ FLESH GOLEM
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 10--18 HD (Large); 19--27 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------
 
 A flesh golem is a ghoulish collection of stolen humanoid body parts,
 stitched together into a single composite form. No natural animal
@@ -2229,7 +2130,7 @@ A flesh golem golem cannot speak, although it can emit a hoarse roar of
 sorts. It walks and moves with a stiff-jointed gait, as if not in
 complete control of its body.
 
-Combat
+#### Combat
 
 Berserk (Ex) When a flesh golem enters combat, there
 is a cumulative 1% chance each round that its elemental spirit breaks
@@ -2247,20 +2148,19 @@ addition, certain spells and effects function differently against the
 creature, as noted below.
 
 A magical attack that deals cold or fire damage slows a flesh golem (as
-the *[slow *[spell) for 2d6 rounds, with no
-saving throw.
+the *slow* spell) for 2d6 rounds, with no saving throw.
 
 A magical attack that deals electricity damage breaks any
-*[slow *[effect on the golem and heals 1 point
+*slow* effect on the golem and heals 1 point
 of damage for every 3 points of damage the attack would otherwise deal.
 If the amount of healing would cause the golem to exceed its full normal
 hit points, it gains any excess as temporary hit points. For example, a
-flesh golem hit by a *[lightning bolt *[heals
+flesh golem hit by a *lightning bolt* heals
 3 points of damage if the attack would have dealt 11 points of damage. A
 flesh golem golem gets no saving throw against attacks that deal
 electricity damage.
 
-Construction
+#### Construction
 
 The pieces of a flesh golem must come from normal human corpses that
 have not decayed significantly. Assembly requires a minimum of six
@@ -2272,16 +2172,13 @@ golem requires casting a spell with the evil descriptor.
 Assembling the body requires a DC 13 Craft (leatherworking) check or a
 DC 13 Heal check. 
 
-CL 8th; Craft Construct, *[animate dead,
-bull['[s strength, geas/quest, limited
-wish*[, caster must be at least 8th level*[;
-*[Price 20,000 gp; Cost 10,500 gp + 780 XP.
+CL 8th; Craft Construct, *animate dead, *bull's strength*, *geas/quest*,
+*limitedwish*, caster must be at least 8th level;
+Price 20,000 gp; Cost 10,500 gp + 780 XP.
 
-IRON GOLEM
+### IRON GOLEM
 
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------
-                                          | Large Construct
-                                           
+|                          | Large Construct
 | **Hit Dice**             | 18d10+30 (129 hp)
 | **Initiative**           | --1
 | **Speed**                | 20 ft. (4 squares)
@@ -2302,10 +2199,7 @@ IRON GOLEM
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 19--24 HD (Large); 25--54 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------
 
 This golem has a humanoid body made from iron. An iron golem can be
 fashioned in any manner, just like a stone golem (see below), although
@@ -2317,7 +2211,7 @@ does it have any distinguishable odor. It moves with a ponderous but
 smooth gait. Each step causes the floor to tremble unless it is on a
 thick, solid foundation.
 
-Combat
+#### Combat
 
 Breath Weapon (Su) 10-foot cube, cloud of poisonous
 gas lasting 1 round, free action once every 1d4+1 rounds; initial damage
@@ -2330,40 +2224,36 @@ addition, certain spells and effects function differently against the
 creature, as noted below.
 
 A magical attack that deals electricity damage slows an iron golem (as
-the *[slow *[spell) for 3 rounds, with no
+the *slow* spell) for 3 rounds, with no
 saving throw.
 
-A magical attack that deals fire damage breaks any *[slow
-*[effect on the golem and heals 1 point of damage for each
+A magical attack that deals fire damage breaks any *slow*
+effect on the golem and heals 1 point of damage for each
 3 points of damage the attack would otherwise deal. If the amount of
 healing would cause the golem to exceed its full normal hit points, it
 gains any excess as temporary hit points. For example, an iron golem hit
-by a *[fireball *[gains back 6 hit points if
+by a *fireball* gains back 6 hit points if
 the damage total is 18 points. An iron golem gets no saving throw
 against fire effects.
 
 An iron golem is affected normally by rust attacks, such as that of a
-rust monster or a *[rusting grasp
-*[spell.
+rust monster or a *rusting grasp* spell.
 
-Construction
+#### Construction
 
 An iron golem's body is sculpted from 5,000 pounds of pure iron,
 smelted with rare tinctures and admixtures costing at least 10,000 gp.
 Assembling the body requires a DC 20 Craft (armorsmithing) check or a DC
 20 Craft (weaponsmithing) check.
 
-CL 16th; Craft Construct, *[cloudkill, geas/quest, limited
-wish, polymorph any object*[, caster must be at least 16th
-level*[; *[Price 150,000 gp; Cost 80,000 gp +
-5,600 XP.
+CL 16th; Craft Construct, *cloudkill*, *geas/quest*, *limited
+wish*, *polymorph any object*, caster must be at least 16th
+level; Price 150,000 gp; Cost 80,000 gp + 5,600 XP.
 
-STONE GOLEM
+### STONE GOLEM
 
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------
-                                         | **Stone Golem**                                                                                          | **Greater Stone Golem**
-                                                                                                                                                                    
-                                          | Large Construct                                                                                           | Huge Construct
+|                          | **Stone Golem**                                                                                          | **Greater Stone Golem**
+|                          | Large Construct                                                                                           | Huge Construct
 | **Hit Dice**             | 14d10+30 (107 hp)                                                                                         | 42d10+40 (271 hp)
 | **Initiative**           | --1                                                                                                       | --2
 | **Speed**                | 20 ft. (4 squares)                                                                                        | 20 ft. (4 squares)
@@ -2384,10 +2274,7 @@ STONE GOLEM
 | **Treasure**             | None                                                                                                      | None
 | **Alignment**            | Always neutral                                                                                            | Always neutral
 | **Advancement**          | 15--21 HD (Large); 22--42 (Huge)                                                                          | ---
-                                                                                                                                                                    
 | **Level Adjustment**     | ---                                                                                                       | ---
-                                                                                                                                                                    
-  ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------
 
 This golem has a humanoid body made from stone. A stone golem is 9 feet
 tall and weighs around 2,000 pounds. Its body is frequently stylized to
@@ -2395,7 +2282,7 @@ suit its creator. For example, it might look like it is wearing armor,
 with a particular symbol carved on the breastplate, or have designs
 worked into the stone of its limbs.
 
-COMBAT
+### COMBAT
 
 Stone golems are formidable opponents, being physically powerful and
 difficult to harm.
@@ -2410,16 +2297,15 @@ any spell or spell-like ability that allows spell resistance. In
 addition, certain spells and effects function differently against the
 creature, as noted below.
 
-A *[transmute rock to mud *[spell slows a
-stone golem (as the *[slow *[spell) for 2d6
-rounds, with no saving throw, while *[transmute mud to rock
-*[heals all of its lost hit points.
+A *transmute rock to mud* spell slows a stone golem (as the *slow* spell)
+for 2d6 rounds, with no saving throw, while *transmute mud to rock*
+heals all of its lost hit points.
 
-A *[stone to flesh *[spell does not actually
+A *stone to flesh* spell does not actually
 change the golem's structure but negates its damage reduction and
 immunity to magic for 1 full round.
 
-CONSTRUCTION
+### CONSTRUCTION
 
 A stone golem's body is chiseled from a single block of hard stone,
 such as granite, weighing at least 3,000 pounds. The stone must be of
@@ -2427,23 +2313,21 @@ exceptional quality, and costs 5,000 gp. Assembling the body requires a
 DC 17 Craft (sculpting) check or a DC 17 Craft (stonemasonry)
 check.
 
-CL 14th; Craft Construct, *antimagic field, geas/quest, symbol of
-stunning*, caster must be at least 14th level*; *Price 90,000 gp; Cost
+CL 14th; Craft Construct, *antimagic field*, *geas/quest*, *symbol of
+stunning*, caster must be at least 14th level; Price 90,000 gp; Cost
 50,000 gp + 3,400 XP.
 
-GREATER STONE GOLEM
+### GREATER STONE GOLEM
 
 A greater stone golem is 18 feet tall and weighs around 32,000 pounds.
 It resembles a typical stone golem in all respects, except that the Will
 save DC is 31 against its slow ability. CL 14th; Craft Construct,
-*antimagic field, geas/quest, symbol of stunning*, caster must be at
-least 14th level*; *Price 196,000 gp; Cost 105,000 gp + 7,640 XP.
+*antimagic field*, *geas/quest*, *symbol of stunning*, caster must be at
+least 14th level; Price 196,000 gp; Cost 105,000 gp + 7,640 XP.
 
-GORGON
+## GORGON
 
-  ---------------------------------------- -------------------------------------------------------------------
-                                          | Large Magical Beast
-                                           
+|                          | Large Magical Beast
 | **Hit Dice**             | 8d10+40 (85 hp)
 | **Initiative**           | +4
 | **Speed**                | 30 ft. (6 squares)
@@ -2464,10 +2348,7 @@ GORGON
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 9--15 HD (Large); 16--24 HD (Huge)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- -------------------------------------------------------------------
 
 A typical gorgon stands over 6 feet tall at the shoulder and measures 8
 feet from snout to tail. It weighs about 4,000 pounds.
@@ -2477,7 +2358,7 @@ attempting to trample, gore, or petrify them. There is no way to calm
 these furious creatures, and they are impossible to
 domesticate.
 
-COMBAT
+### COMBAT
 
 Whenever possible, a gorgon begins an encounter by charging at its
 opponents.
@@ -2486,15 +2367,12 @@ Breath Weapon (Su) 60-foot cone, once every 1d4
 rounds (but no more than five times per day), turn to stone permanently,
 Fortitude DC 19 negates. The save DC is Constitution-based.
 
-
 Trample (Ex) Reflex DC 19 half. The save DC is
 Strength-based.
 
-GRAY RENDER
+## GRAY RENDER
 
-  ---------------------------------------- -------------------------------------------------------------------
-                                          | Large Magical Beast
-                                           
+|                          | Large Magical Beast
 | **Hit Dice**             | 10d10+70 (125 hp)
 | **Initiative**           | +0
 | **Speed**                | 30 ft. (6 squares)
@@ -2515,10 +2393,7 @@ GRAY RENDER
 | **Treasure**             | None
 | **Alignment**            | Usually neutral
 | **Advancement**          | 11--15 HD (Large); 16--30 HD (Huge)
-                                           
 | **Level Adjustment**     | +5 (cohort)
-                                           
-  ---------------------------------------- -------------------------------------------------------------------
 
 A gray render stands about 9 feet tall in spite of its hunched posture
 and is about 4 feet wide. It weighs about 4,000 pounds. 
@@ -2534,7 +2409,7 @@ to remain fairly close, watching over its adopted charge(s) and daily
 bringing an offering of meat. It never willingly harms adopted creatures
 and retreats if they attack it.
 
-COMBAT
+### COMBAT
 
 A gray render attacks to kill, whether to bring down prey or to protect
 itself or those it has adopted. When hunting, it sometimes attempts to
@@ -2553,11 +2428,9 @@ opponent's body and tearing the flesh. This attack automatically deals
 Skills Gray renders have a +4 racial bonus on Spot
 checks due to their six keen eyes.
 
-GRICK
+## GRICK
 
-  ---------------------------------------- --------------------------------------------------------------------
-                                          | Medium Aberration
-                                           
+|                          | Medium Aberration
 | **Hit Dice**             | 2d8 (9 hp)
 | **Initiative**           | +2
 | **Speed**                | 30 ft. (6 squares), climb 20 ft.
@@ -2578,16 +2451,13 @@ GRICK
 | **Treasure**             | 1/10 coins; 50% goods; 50% items
 | **Alignment**            | Usually neutral
 | **Advancement**          | 3--4 HD (Medium); 5--6 HD (Large)
-                                           
 | **Level Adjustment**     | ---
-                                           
-  ---------------------------------------- --------------------------------------------------------------------
 
 An adult grick is about 8 feet long from the tips of its tentacles to
 the end of its body and weighs some 200 pounds. Its body coloration is
 uniformly dark, with a pale underbelly.
 
-COMBAT
+### COMBAT
 
 Gricks attack when hungry or threatened. They hunt by holing up near
 high-traffic areas, using their natural coloration to blend into
@@ -2612,11 +2482,9 @@ threatened.
 \*Their coloration affords gricks a +8 racial bonus on Hide checks when
 in natural rocky areas.
 
-GRIFFON
+## GRIFFON
 
-  ---------------------------------------- ---------------------------------------------------------------------------
-                                          | Large Magical Beast
-                                           
+|                          | Large Magical Beast
 | **Hit Dice**             | 7d10+21 (59 hp)
 | **Initiative**           | +2
 | **Speed**                | 30 ft. (6 squares), fly 80 ft. (average)
@@ -2637,10 +2505,7 @@ GRIFFON
 | **Treasure**             | None
 | **Alignment**            | Always neutral
 | **Advancement**          | 8--10 HD (Large); 11--21 HD (Huge)
-                                           
 | **Level Adjustment**     | +3 (cohort)
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------
 
 Griffons are powerful, majestic creatures with the characteristics of
 both lions and eagles. From nose to tail, an adult griffon can measure
@@ -2650,7 +2515,7 @@ feet or more. A griffon weighs about 500 pounds.
 
 A griffon cannot speak, but understands Common.
 
-COMBAT
+### COMBAT
 
 Griffons prefer to pounce on their prey, either diving to the attack or
 leaping from above.
@@ -2660,11 +2525,10 @@ foe, it can make a full attack, including two rake attacks.
 
 Rake (Ex): Attack bonus +8 melee, damage 1d6+2.
 
-
 Skills: Griffons have a +4 racial bonus on Jump and
 Spot checks.
 
-TRAINING A GRIFFON
+### TRAINING A GRIFFON
 
 Although intelligent, a griffon requires training before it can bear a
 rider in combat. To be trained, a griffon must have a friendly attitude
@@ -2682,11 +2546,9 @@ Carrying Capacity: A light load for a griffon is up to 300 pounds; a
 medium load, 301--600 pounds; and a heavy load, 601--900
 pounds.
 
-GRIMLOCK
+## GRIMLOCK
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------
-                                          | Medium Monstrous Humanoid
-                                           
+|                          | Medium Monstrous Humanoid
 | **Hit Dice**             | 2d8+2 (11 hp)
 | **Initiative**           | +1
 | **Speed**                | 30 ft. (6 squares)
@@ -2707,12 +2569,9 @@ GRIMLOCK
 | **Treasure**             | Standard coins; standard goods (gems only); standard items
 | **Alignment**            | Often neutral evil
 | **Advancement**          | By character class
-                                           
 | **Level Adjustment**     | +2
-                                           
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------
 
-COMBAT
+### COMBAT
 
 Grimlocks are blind, but their exceptional senses of smell and hearing
 allow them to notice foes nearby. As a result, they usually shun ranged
@@ -2725,12 +2584,10 @@ targets as having total concealment.
 
 Grimlocks are susceptible to sound- and scent-based attacks, however,
 and are affected normally by loud noises and sonic spells (such as
-*[ghost sound *[or
-*[silence*[) and overpowering odors (such as
-*[stinking cloud *[or incense-heavy air).
-Negating a grimlock's sense of smell or hearing reduces this ability to
-normal Blind-Fight (as the feat). If both these senses are negated, a
-grimlock is effectively blinded. 
+*ghost sound* or *silence*) and overpowering odors (such as *stinking
+cloud* or incense-heavy air). Negating a grimlock's sense of smell or
+hearing reduces this ability to normal Blind-Fight (as the feat). If
+both these senses are negated, a grimlock is effectively blinded. 
 
 Immunities: Grimlocks are immune to gaze attacks,
 visual effects, illusions, and other attack forms that rely on
@@ -2740,7 +2597,7 @@ Skills \*A grimlock's dull gray skin helps it hide
 in its native terrain, conferring a +10 racial bonus on Hide checks when
 in mountains or underground.
 
-GRIMLOCKS AS CHARACTERS
+### GRIMLOCKS AS CHARACTERS
 
 Grimlock characters possess the following racial traits.
 
