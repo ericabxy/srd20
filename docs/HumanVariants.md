@@ -74,7 +74,8 @@ Due to generations of selective breeding and gene therapy, some humans are born 
 
 * Medium-size: No special bonuses or penalties due to size.
 * Base land speed is 30 feet.
-* Hold Breath: Waterborn can hold their breath for a number of rounds equal to 3 x their Constitution score; about half as long as some ocean mammals.
+* Low-light Vision
+* Hold Breath: Waterborn can hold their breath for a number of rounds equal to 4 x their Constitution score; about half as long as some ocean mammals.
 * +4 genetic bonus on Swim checks and can take 10 on swim checks even if distracted or endangered.
 * Automatic Languages: Anglic. Bonus Languages: Any.
 * Favored Class: Any.

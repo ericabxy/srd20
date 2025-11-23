@@ -51,24 +51,19 @@ chooses which ability score to improve. For multiclass characters, feats
 and ability increases are gained according to character level, not class
 level.
 
-**Table: Epic Save and Epic Attack Bonuses **
+#### Table: Epic Save and Epic Attack Bonuses
 
-  --------------------- --------------------- -----------------------
-  **Character Level**   **Epic Save Bonus**   **Epic Attack Bonus**
-                                              
-  21st                  +0                    +1
-  22nd                  +1                    +1
-  23rd                  +1                    +2
-  24th                  +2                    +2
-  25th                  +2                    +3
-  26th                  +3                    +3
-  27th                  +3                    +4
-  28th                  +4                    +4
-  29th                  +4                    +5
-                                              
-  30th                  +5                    +5
-                                              
-  --------------------- --------------------- -----------------------
+| **Character Level** | **Epic Save Bonus**   **Epic Attack Bonus**
+| 21st                | +0                  | +1
+| 22nd                | +1                  | +1
+| 23rd                | +1                  | +2
+| 24th                | +2                  | +2
+| 25th                | +2                  | +3
+| 26th                | +3                  | +3
+| 27th                | +3                  | +4
+| 28th                | +4                  | +4
+| 29th                | +4                  | +5
+| 30th                | +5                  | +5
 
 Although most of the tables only show information up to a certain level
 (often 30th), that level is by no means the limit of a character's
