@@ -84,31 +84,9 @@
 </td>
 </tr>
 <tr>
-<th>Legendary Forest Backgrounds II</th>
-<td>
-{% for doc in site.pages %}
-  {% if doc.category == "legendary-forest-background-ii" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th>Legendary Forest Backgrounds III</th>
-<td>
-{% for doc in site.pages %}
-  {% if doc.category == "legendary-forest-background-iii" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-<tr>
 <th>Other Backgrounds</th>
 <td>
-{% for doc in site.pages %}
+{% for doc in site.character_backgrounds %}
   {% if doc.category == "other-background" %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     {% unless forloop.last %}&bull;{% endunless %}

@@ -8,6 +8,7 @@ collections:
   srd:
     output: true
     permalink: /:title
+    sort_by: order
   msrd:
     output: true
     permalink: /:title

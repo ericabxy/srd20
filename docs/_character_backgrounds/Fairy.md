@@ -5,6 +5,8 @@ category: legendary-forest-of-titan-background
 Fairy
 -----
 
+### Fairy Traits
+
 Fairy characters possess the following racial traits.
 
 __--4 Str, +4 Dex, +2 Int, +2 Cha__.

@@ -63,25 +63,3 @@ Olympians hail from a region/city with an athletic and team sport culture. Their
 * +1 cultural bonus on attack rolls with thrown weapons and slings.
 * Automatic Languages: Anglic. Bonus Languages: Any.
 * Favored Class: Any.
-
-
-Waterborn
----------
-
-Due to generations of selective breeding and gene therapy, some humans are born with genetic traits that allow them spend more time underwater and act with less restriction while swimming.
-
-### Waterborn Traits
-
-* Medium-size: No special bonuses or penalties due to size.
-* Base land speed is 30 feet.
-* Low-light Vision
-* Hold Breath: Waterborn can hold their breath for a number of rounds equal to 4 x their Constitution score; about half as long as some ocean mammals.
-* +4 genetic bonus on Swim checks and can take 10 on swim checks even if distracted or endangered.
-* Automatic Languages: Anglic. Bonus Languages: Any.
-* Favored Class: Any.
-
-
-References
-----------
-
-- [Physiology of underwater diving - Wikipedia](https://en.wikipedia.org/wiki/Physiology_of_underwater_diving#Range_of_performance)

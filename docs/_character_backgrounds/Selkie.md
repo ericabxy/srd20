@@ -1,5 +1,5 @@
 ---
-category: legendary-forest-background-iii
+category: other-background
 ---
 
 Selkie
@@ -7,12 +7,13 @@ Selkie
 
 A selkie is a semiaquatic medium humanoid with the shapechanger subtype. Its natural form resembles that of a seal with a human upper-body.
 
+### Selkie Traits
+
 Selkie characters possess the following racial traits.
 
 __Medium:__ No special bonuses or penalties due to their size.
 
-__Shapechanger Subtype:__ A selkie has the ability to transform into a
-human with a land speed of 30 feet.
+__Shapechanger Subtype:__ A selkie has the ability to transform into a human with a land speed of 30 feet.
 
 __Speed:__ A selkie’s base land speed is 5 feet. Swim speed 50 feet.
 
@@ -26,6 +27,6 @@ __Automatic Languages:__ Common, Aquan. Bonus Languages: Draconic, Elven, Gnoll,
 
 __Favored Class:__ Bard.
 
-### Sources
+### References
 
-This background is based on the SRD merfolk.
+This background is based on the SRD [merfolk](MonstersM-N#merfolk) and [porpoise](MonstersAnimals#porpoise).
