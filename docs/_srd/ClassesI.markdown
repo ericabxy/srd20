@@ -18,10 +18,10 @@ category: srd-basic-rules-and-legal
 
 The barbarian's class skills (and the key ability for each skill) are
 [Climb (Str)][4], [Craft (Int)][6], [Handle Animal (Cha)][14],
-[Intimidate (Cha)](SkillsII#intimidate-cha),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Listen (Wis)](SkillsII#listen-wis), [Ride (Dex)](SkillsII#ride-dex),
-[Survival (Wis)](SkillsII#survival-wis), and [Swim (Str)](SkillsII#swim-str-armor-check-penalty).
+[Intimidate (Cha)][17],
+[Jump (Str)][18],
+[Listen (Wis)][20], [Ride (Dex)][25],
+[Survival (Wis)][32], and [Swim (Str)][33].
 
 **Skill Points at 1st Level:** (4 + Int modifier) x4.
 
@@ -29,28 +29,32 @@ The barbarian's class skills (and the key ability for each skill) are
 
 #### Table: The Barbarian
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
-| ----- | ----------------- | --------- | -------- | --------- | -------
-| 1st   | +1                | +2        | +0       | +0        | Fast movement, illiteracy, rage 1/day
-| 2nd   | +2                | +3        | +0       | +0        | Uncanny dodge
-| 3rd   | +3                | +3        | +1       | +1        | Trap sense +1
-| 4th   | +4                | +4        | +1       | +1        | Rage 2/day
-| 5th   | +5                | +4        | +1       | +1        | Improved uncanny dodge
-| 6th   | +6/+1             | +5        | +2       | +2        | Trap sense +2
-| 7th   | +7/+2             | +5        | +2       | +2        | Damage reduction 1/—
-| 8th   | +8/+3             | +6        | +2       | +2        | Rage 3/day
-| 9th   | +9/+4             | +6        | +3       | +3        | Trap sense +3
-| 10th  | +10/+5            | +7        | +3       | +3        | Damage reduction 2/—
-| 11th  | +11/+6/+1         | +7        | +3       | +3        | Greater rage
-| 12th  | +12/+7/+2         | +8        | +4       | +4        | Rage 4/day, trap sense +4
-| 13th  | +13/+8/+3         | +8        | +4       | +4        | Damage reduction 3/—
-| 14th  | +14/+9/+4         | +9        | +4       | +4        | Indomitable will
-| 15th  | +15/+10/+5        | +9        | +5       | +5        | Trap sense +5
-| 16th  | +16/+11/+6/+1     | +10       | +5       | +5        | Damage reduction 4/—, rage 5/day
-| 17th  | +17/+12/+7/+2     | +10       | +5       | +5        | Tireless rage
-| 18th  | +18/+13/+8/+3     | +11       | +6       | +6        | Trap sense +6
-| 19th  | +19/+14/+9/+4     | +11       | +6       | +6        | Damage reduction 5/—
-| 20th  | +20/+15/+10/+5    | +12       | +6       | +6        | Mighty rage, rage 6/day
+|       | Base           | Fort | Ref  | Will \
+| Level | Attack Bonus   | Save | Save | Save | Special
+| ----- | -------------- | -----| -----| -----| -------
+| 1st   | +1             | +2   | +0   | +0   | Fast movement, illiteracy, \
+|       |                |      |      |      | rage 1/day
+| 2nd   | +2             | +3   | +0   | +0   | Uncanny dodge
+| 3rd   | +3             | +3   | +1   | +1   | Trap sense +1
+| 4th   | +4             | +4   | +1   | +1   | Rage 2/day
+| 5th   | +5             | +4   | +1   | +1   | Improved uncanny dodge
+| 6th   | +6/+1          | +5   | +2   | +2   | Trap sense +2
+| 7th   | +7/+2          | +5   | +2   | +2   | Damage reduction 1/—
+| 8th   | +8/+3          | +6   | +2   | +2   | Rage 3/day
+| 9th   | +9/+4          | +6   | +3   | +3   | Trap sense +3
+| 10th  | +10/+5         | +7   | +3   | +3   | Damage reduction 2/—
+| 11th  | +11/+6/+1      | +7   | +3   | +3   | Greater rage
+| 12th  | +12/+7/+2      | +8   | +4   | +4   | Rage 4/day, trap sense +4
+| 13th  | +13/+8/+3      | +8   | +4   | +4   | Damage reduction 3/—
+| 14th  | +14/+9/+4      | +9   | +4   | +4   | Indomitable will
+| 15th  | +15/+10/+5     | +9   | +5   | +5   | Trap sense +5
+| 16th  | +16/+11/+6/+1  | +10  | +5   | +5   | Damage reduction 4/—, \
+|       |                |      |      |      | rage 5/day
+| 17th  | +17/+12/+7/+2  | +10  | +5   | +5   | Tireless rage
+| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Trap sense +6
+| 19th  | +19/+14/+9/+4  | +11  | +6   | +6   | Damage reduction 5/—
+| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Mighty rage, rage 6/day
+{:aria-labelledby='table-the-barbarian'}
 
 ### Class Features
 
@@ -168,50 +172,69 @@ The bard's class skills (and the key ability for each skill) are
 [Appraise (Int)][1], [Balance (Dex)][2], [Bluff (Cha)][3], [Climb (Str)][4],
 [Concentration (Con)][5], [Craft (Int)][6], [Decipher Script (Int)][7],
 [Diplomacy (Cha)][8], [Disguise (Cha)][10], [Escape Artist (Dex)][11],
-[Gather Information (Cha)][13],
-[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Knowledge (all skills, taken individually) (Int)](SkillsII#knowledge-int-trained-only),
-[Listen (Wis)](SkillsII#listen-wis),
-[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty),
-[Perform (Cha)](SkillsII#perform-cha),
-[Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Sense Motive (Wis)](SkillsII#sense-motive-wis),
-[Sleight of Hand (Dex)](SkillsII#sleight-of-hand-dex-trained-only-armor-check-penalty),
-[Speak Language (n/a)](SkillsII#speak-language-none-trained-only),
-[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only),
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty),
-[Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty), and
-[Use Magic Device (Cha)](SkillsII#use-magic-device-cha-trained-only).
+[Gather Information (Cha)][13], [Hide (Dex)][15], [Jump (Str)][18],
+[Knowledge (all skills, taken individually) (Int)][19], [Listen (Wis)][20],
+[Move Silently (Dex)][21], [Perform (Cha)][23], [Profession (Wis)][24],
+[Sense Motive (Wis)][27], [Sleight of Hand (Dex)][28],
+[Speak Language (n/a)][29], [Spellcraft (Int)][30], [Swim (Str)][33],
+[Tumble (Dex)][34], and [Use Magic Device (Cha)][35].
 
-**Skill Points at 1st Level:** (6 + Int modifier) &times;4.
+**Skill Points at 1st Level:** (6 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
 #### Table: The Bard
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                    | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
-| ----- | ----------------- | --------- | -------- | --------- | -------                                                                    | - | --- | --- | --- | --- | --- | ---
-| 1st   | +0                | +0        | +2       | +2        | Bardic music, bardic knowledge, countersong, fascinate, inspire courage +1 | 2 | —   | —   | —   | —   | —   | —
-| 2nd   | +1                | +0        | +3       | +3        |                                                                            | 3 | 0   | —   | —   | —   | —   | —
-| 3rd   | +2                | +1        | +3       | +3        | Inspire competence                                                         | 3 | 1   | —   | —   | —   | —   | —
-| 4th   | +3                | +1        | +4       | +4        |                                                                            | 3 | 2   | 0   | —   | —   | —   | —
-| 5th   | +3                | +1        | +4       | +4        |                                                                            | 3 | 3   | 1   | —   | —   | —   | —
-| 6th   | +4                | +2        | +5       | +5        | Suggestion                                                                 | 3 | 3   | 2   | —   | —   | —   | —
-| 7th   | +5                | +2        | +5       | +5        |                                                                            | 3 | 3   | 2   | 0   | —   | —   | —
-| 8th   | +6/+1             | +2        | +6       | +6        | Inspire courage +2                                                         | 3 | 3   | 3   | 1   | —   | —   | —
-| 9th   | +6/+1             | +3        | +6       | +6        | Inspire greatness                                                          | 3 | 3   | 3   | 2   | —   | —   | —
-| 10th  | +7/+2             | +3        | +7       | +7        |                                                                            | 3 | 3   | 3   | 2   | 0   | —   | —
-| 11th  | +8/+3             | +3        | +7       | +7        |                                                                            | 3 | 3   | 3   | 3   | 1   | —   | —
-| 12th  | +9/+4             | +4        | +8       | +8        | Song of freedom                                                            | 3 | 3   | 3   | 3   | 2   | —   | —
-| 13th  | +9/+4             | +4        | +8       | +8        |                                                                            | 3 | 3   | 3   | 3   | 2   | 0   | —
-| 14th  | +10/+5            | +4        | +9       | +9        | Inspire courage +3                                                         | 4 | 3   | 3   | 3   | 3   | 1   | —
-| 15th  | +11/+6/+1         | +5        | +9       | +9        | Inspire heroics                                                            | 4 | 4   | 3   | 3   | 3   | 2   | —
-| 16th  | +12/+7/+2         | +5        | +10      | +10       |                                                                            | 4 | 4   | 4   | 3   | 3   | 2   | 0
-| 17th  | +12/+7/+2         | +5        | +10      | +10       |                                                                            | 4 | 4   | 4   | 4   | 3   | 3   | 1
-| 18th  | +13/+8/+3         | +6        | +11      | +11       | Mass suggestion                                                            | 4 | 4   | 4   | 4   | 4   | 3   | 2
-| 19th  | +14/+9/+4         | +6        | +11      | +11       |                                                                            | 4 | 4   | 4   | 4   | 4   | 4   | 3
-| 20th  | +15/+10/+5        | +6        | +12      | +12       | Inspire courage +4                                                         | 4 | 4   | 4   | 4   | 4   | 4   | 4
+|       | Base         | Fort | Ref  | Will \
+| Level | Attack Bonus | Save | Save | Save | Special
+| ----- | ------------ | -----| ---- | -----| -------
+| 1st   | +0           | +0   | +2   | +2   | Bardic music, bardic knowledge, \
+|       |              |      |      |      | countersong, fascinate, \
+|       |              |      |      |      | inspire courage +1
+| 2nd   | +1           | +0   | +3   | +3   |
+| 3rd   | +2           | +1   | +3   | +3   | Inspire competence
+| 4th   | +3           | +1   | +4   | +4   |
+| 5th   | +3           | +1   | +4   | +4   |
+| 6th   | +4           | +2   | +5   | +5   | Suggestion
+| 7th   | +5           | +2   | +5   | +5   |
+| 8th   | +6/+1        | +2   | +6   | +6   | Inspire courage +2
+| 9th   | +6/+1        | +3   | +6   | +6   | Inspire greatness
+| 10th  | +7/+2        | +3   | +7   | +7   |
+| 11th  | +8/+3        | +3   | +7   | +7   |
+| 12th  | +9/+4        | +4   | +8   | +8   | Song of freedom
+| 13th  | +9/+4        | +4   | +8   | +8   |
+| 14th  | +10/+5       | +4   | +9   | +9   | Inspire courage +3
+| 15th  | +11/+6/+1    | +5   | +9   | +9   | Inspire heroics
+| 16th  | +12/+7/+2    | +5   | +10  | +10  |
+| 17th  | +12/+7/+2    | +5   | +10  | +10  |
+| 18th  | +13/+8/+3    | +6   | +11  | +11  | Mass suggestion
+| 19th  | +14/+9/+4    | +6   | +11  | +11  |
+| 20th  | +15/+10/+5   | +6   | +12  | +12  | Inspire courage +4
+
+#### Table: Bard Spells Per Day
+
+| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
+| ----- | - | --- | --- | --- | --- | --- | ---
+| 1st   | 2 | —   | —   | —   | —   | —   | —
+| 2nd   | 3 | 0   | —   | —   | —   | —   | —
+| 3rd   | 3 | 1   | —   | —   | —   | —   | —
+| 4th   | 3 | 2   | 0   | —   | —   | —   | —
+| 5th   | 3 | 3   | 1   | —   | —   | —   | —
+| 6th   | 3 | 3   | 2   | —   | —   | —   | —
+| 7th   | 3 | 3   | 2   | 0   | —   | —   | —
+| 8th   | 3 | 3   | 3   | 1   | —   | —   | —
+| 9th   | 3 | 3   | 3   | 2   | —   | —   | —
+| 10th  | 3 | 3   | 3   | 2   | 0   | —   | —
+| 11th  | 3 | 3   | 3   | 3   | 1   | —   | —
+| 12th  | 3 | 3   | 3   | 3   | 2   | —   | —
+| 13th  | 3 | 3   | 3   | 3   | 2   | 0   | —
+| 14th  | 4 | 3   | 3   | 3   | 3   | 1   | —
+| 15th  | 4 | 4   | 3   | 3   | 3   | 2   | —
+| 16th  | 4 | 4   | 4   | 3   | 3   | 2   | 0
+| 17th  | 4 | 4   | 4   | 4   | 3   | 3   | 1
+| 18th  | 4 | 4   | 4   | 4   | 4   | 3   | 2
+| 19th  | 4 | 4   | 4   | 4   | 4   | 4   | 3
+| 20th  | 4 | 4   | 4   | 4   | 4   | 4   | 4
 
 #### Table: Bard Spells Known
 
@@ -406,8 +429,8 @@ allow a second saving throw against the *fascinate* effect.
 Making a *suggestion* doesn't count against a bard's daily limit on
 bardic music performances. A Will saving throw (DC 10 + 1/2 bard's
 level + bard's Cha modifier) negates the effect. This ability affects
-only a single creature (but see *mass suggestion*, below). *Suggestion* is an enchantment (compulsion), mind-affecting, language dependent
-ability.
+only a single creature (but see *mass suggestion*, below). *Suggestion*
+is an enchantment (compulsion), mind-affecting, language dependent ability.
 
 *Inspire Greatness (Su):* A bard of 9th level or higher with 12 or more
 ranks in a Perform skill can use music or poetics to inspire greatness
@@ -446,8 +469,8 @@ ability.
 *Mass Suggestion (Sp):* This ability functions like *suggestion*, above,
 except that a bard of 18th level or higher with 21 or more ranks in a
 Perform skill can make the *suggestion* simultaneously to any number of
-creatures that he has already fascinated (see above). *Mass suggestion* is an enchantment (compulsion), mind-affecting, language-dependent
-ability.
+creatures that he has already fascinated (see above). *Mass suggestion*
+is an enchantment (compulsion), mind-affecting, language-dependent ability.
 
 ### Ex-Bards
 
@@ -466,27 +489,22 @@ unless his deity's alignment is also neutral.
 ### Class Skills
 
 The cleric's class skills (and the key ability for each skill) are
-[Concentration (Con)][5],
-[Craft (Int)][6], [Diplomacy (Cha)][8],
-[Heal (Wis)](SkillsII#heal-wis),
-[Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (history) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (religion) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (the planes) (Int)](SkillsII#knowledge-int-trained-only),
-[Profession (Wis)](SkillsII#profession-wis-trained-only), and
-[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only).
+[Concentration (Con)][5], [Craft (Int)][6], [Diplomacy (Cha)][8],
+[Heal (Wis)][15], [Knowledge (arcana) (Int)][19], Knowledge (history) (Int),
+Knowledge (religion) (Int), Knowledge (the planes) (Int),
+[Profession (Wis)][24], and [Spellcraft (Int)][30].
 
 **Domains and Class Skills:** A cleric who chooses the Animal or Plant
 domain adds Knowledge (nature) (Int) to the cleric class skills listed
 above. A cleric who chooses the Knowledge domain adds all Knowledge
 (Int) skills to the list. A cleric who chooses the Travel domain adds
-[Survival (Wis)](SkillsII#survival-wis) to the list. A cleric who chooses the
+[Survival (Wis)][32] to the list. A cleric who chooses the
 Trickery domain adds [Bluff (Cha)][3],
 [Disguise (Cha)][10], and
-[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty) to the list. See Deity,
+[Hide (Dex)][15] to the list. See Deity,
 Domains, and Domain Spells, below, for more information.
 
-**Skill Points at 1st Level:** (2 + Int modifier) x4.
+**Skill Points at 1st Level:** (2 + Int modifier)×4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
@@ -554,8 +572,8 @@ given on [Table: The Cleric](#table-the-cleric). In addition, he
 receives bonus spells per day if he has a high Wisdom score. A cleric
 also gets one domain spell of each spell level he can cast, starting
 at 1st level. When a cleric prepares a spell in a domain spell slot, it
-must come from one of his two domains (see Deities, Domains, and Domain
-Spells, below).
+must come from one of his two domains (see [Deities, Domains, and Domain
+Spells](#deities-domains-and-domain-spells), below).
 
 Clerics meditate or pray for their spells. Each cleric must choose a
 time at which he must spend 1 hour each day in quiet contemplation or
@@ -592,7 +610,8 @@ the same spell level or lower (a *cure* spell is any spell with "cure"
 in its name).
 
 An evil cleric (or a neutral cleric of an evil deity), can't convert
-prepared spells to *cure* spells but can convert them to *inflict* spells (an *inflict* spell is one with "inflict" in its name).
+prepared spells to *cure* spells but can convert them to *inflict* spells
+(an *inflict* spell is one with "inflict" in its name).
 
 A cleric who is neither good nor evil and whose deity is neither good
 nor evil can convert spells to either *cure* spells or *inflict* spells
@@ -645,46 +664,65 @@ or neutral evil.
 ### Class Skills
 
 The druid's class skills (and the key ability for each skill) are
-[Concentration (Con)][5],
-[Craft (Int)][6], [Diplomacy (Cha)][8],
-[Handle Animal (Cha)][14],
-[Heal (Wis)](SkillsII#heal-wis),
-[Knowledge (nature) (Int)](SkillsII#knowledge-int-trained-only),
-[Listen (Wis)](SkillsII#listen-wis),
-[Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Ride (Dex)](SkillsII#ride-dex),
-[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only),
-[Spot (Wis)](SkillsII#spot-wis), [Survival (Wis)](SkillsII#survival-wis), and
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty).
+[Concentration (Con)][5], [Craft (Int)][6], [Diplomacy (Cha)][8],
+[Handle Animal (Cha)][14], [Heal (Wis)][15], [Knowledge (nature) (Int)][19],
+[Listen (Wis)][20], [Profession (Wis)][24], [Ride (Dex)][25],
+[Spellcraft (Int)][30], [Spot (Wis)][31], [Survival (Wis)][32], and
+[Swim (Str)][33].
 
-**Skill Points at 1st Level:** (4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier)×4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
 #### Table: The Druid
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                      | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
-| ----- | ----------------- | --------- | -------- | --------- | -------                                      | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| 1st   | +0                | +2        | +0       | +2        | Animal companion, nature sense, wild empathy | 3 | 1   | —   | —   | —   | —   | —   | —   | —   | —
-| 2nd   | +1                | +3        | +0       | +3        | Woodland stride                              | 4 | 2   | —   | —   | —   | —   | —   | —   | —   | —
-| 3rd   | +2                | +3        | +1       | +3        | Trackless step                               | 4 | 2   | 1   | —   | —   | —   | —   | —   | —   | —
-| 4th   | +3                | +4        | +1       | +4        | Resist nature’s lure                         | 5 | 3   | 2   | —   | —   | —   | —   | —   | —   | —
-| 5th   | +3                | +4        | +1       | +4        | Wild shape (1/day)                           | 5 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —
-| 6th   | +4                | +5        | +2       | +5        | Wild shape (2/day)                           | 5 | 3   | 3   | 2   | —   | —   | —   | —   | —   | —
-| 7th   | +5                | +5        | +2       | +5        | Wild shape (3/day)                           | 6 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —
-| 8th   | +6/+1             | +6        | +2       | +6        | Wild shape (Large)                           | 6 | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —
-| 9th   | +6/+1             | +6        | +3       | +6        | Venom immunity                               | 6 | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —
-| 10th  | +7/+2             | +7        | +3       | +7        | Wild shape (4/day)                           | 6 | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —
-| 11th  | +8/+3             | +7        | +3       | +7        | Wild shape (Tiny)                            | 6 | 5   | 4   | 4   | 3   | 2   | 1   | —   | —   | —
-| 12th  | +9/+4             | +8        | +4       | +8        | Wild shape (plant)                           | 6 | 5   | 4   | 4   | 3   | 3   | 2   | —   | —   | —
-| 13th  | +9/+4             | +8        | +4       | +8        | A thousand faces                             | 6 | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —   | —
-| 14th  | +10/+5            | +9        | +4       | +9        | Wild shape (5/day)                           | 6 | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —   | —
-| 15th  | +11/+6/+1         | +9        | +5       | +9        | Timeless body, wild shape (Huge)             | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —
-| 16th  | +12/+7/+2         | +10       | +5       | +10       | Wild shape (elemental 1/day)                 | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —
-| 17th  | +12/+7/+2         | +10       | +5       | +10       |                                              | 6 | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1
-| 18th  | +13/+8/+3         | +11       | +6       | +11       | Wild shape (6/day, elemental 2/day)          | 6 | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 3   | 2
-| 19th  | +14/+9/+4         | +11       | +6       | +11       |                                              | 6 | 5   | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 3
-| 20th  | +15/+10/+5        | +12       | +6       | +12       | Wild shape (elemental 3/day, Huge elemental) | 6 | 5   | 5   | 5   | 5   | 5   | 4   | 4   | 4   | 4
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
+| ----- | ----------------- | --------- | -------- | --------- | -------
+| 1st   | +0                | +2        | +0       | +2        | Animal companion, nature sense, wild empathy
+| 2nd   | +1                | +3        | +0       | +3        | Woodland stride
+| 3rd   | +2                | +3        | +1       | +3        | Trackless step
+| 4th   | +3                | +4        | +1       | +4        | Resist nature’s lure
+| 5th   | +3                | +4        | +1       | +4        | Wild shape (1/day)
+| 6th   | +4                | +5        | +2       | +5        | Wild shape (2/day)
+| 7th   | +5                | +5        | +2       | +5        | Wild shape (3/day)
+| 8th   | +6/+1             | +6        | +2       | +6        | Wild shape (Large)
+| 9th   | +6/+1             | +6        | +3       | +6        | Venom immunity
+| 10th  | +7/+2             | +7        | +3       | +7        | Wild shape (4/day)
+| 11th  | +8/+3             | +7        | +3       | +7        | Wild shape (Tiny
+| 12th  | +9/+4             | +8        | +4       | +8        | Wild shape (plant)
+| 13th  | +9/+4             | +8        | +4       | +8        | A thousand faces
+| 14th  | +10/+5            | +9        | +4       | +9        | Wild shape (5/day)
+| 15th  | +11/+6/+1         | +9        | +5       | +9        | Timeless body, wild shape (Huge)
+| 16th  | +12/+7/+2         | +10       | +5       | +10       | Wild shape (elemental 1/day)
+| 17th  | +12/+7/+2         | +10       | +5       | +10
+| 18th  | +13/+8/+3         | +11       | +6       | +11       | Wild shape (6/day, elemental 2/day)
+| 19th  | +14/+9/+4         | +11       | +6       | +11
+| 20th  | +15/+10/+5        | +12       | +6       | +12       | Wild shape (elemental 3/day, Huge elemental)
+
+#### Table: Druid Spells Per Day
+
+| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
+| ----- | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| 1st   | 3 | 1   | —   | —   | —   | —   | —   | —   | —   | —
+| 2nd   | 4 | 2   | —   | —   | —   | —   | —   | —   | —   | —
+| 3rd   | 4 | 2   | 1   | —   | —   | —   | —   | —   | —   | —
+| 4th   | 5 | 3   | 2   | —   | —   | —   | —   | —   | —   | —
+| 5th   | 5 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —
+| 6th   | 5 | 3   | 3   | 2   | —   | —   | —   | —   | —   | —
+| 7th   | 6 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —
+| 8th   | 6 | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —
+| 9th   | 6 | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —
+| 10th  | 6 | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —
+| 11th  | 6 | 5   | 4   | 4   | 3   | 2   | 1   | —   | —   | —
+| 12th  | 6 | 5   | 4   | 4   | 3   | 3   | 2   | —   | —   | —
+| 13th  | 6 | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —   | —
+| 14th  | 6 | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —   | —
+| 15th  | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —
+| 16th  | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —
+| 17th  | 6 | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1
+| 18th  | 6 | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 3   | 2
+| 19th  | 6 | 5   | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 3
+| 20th  | 6 | 5   | 5   | 5   | 5   | 5   | 4   | 4   | 4   | 4
 
 ### Class Features
 
@@ -1069,15 +1107,11 @@ Tyrannosaurus (dinosaur)
 ### Class Skills
 
 The fighter's class skills (and the key ability for each skill) are
-[Climb (Str)][4],
-[Craft (Int)][6],
-[Handle Animal (Cha)][14],
-[Intimidate (Cha)](SkillsII#intimidate-cha),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Ride (Dex)](SkillsII#ride-dex), and
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty).
+[Climb (Str)][4], [Craft (Int)][6], [Handle Animal (Cha)][14],
+[Intimidate (Cha)][17], [Jump (Str)][18], [Ride (Dex)][25], and
+[Swim (Str)][33].
 
-**Skill Points at 1st Level:** (2 + Int modifier) x4.
+**Skill Points at 1st Level:** (2 + Int modifier)×4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
@@ -1136,53 +1170,68 @@ of fighter bonus feats when choosing these feats.
 ### Class Skills
 
 The monk's class skills (and the key ability for each skill) are
-[Balance (Dex)][2],
-[Climb (Str)][4],
-[Concentration (Con)][5],
-[Craft (Int)][6], [Diplomacy (Cha)][8],
-[Escape Artist (Dex)][11],
-[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (religion) (Int)](SkillsII#knowledge-int-trained-only),
-[Listen (Wis)](SkillsII#listen-wis),
-[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty), Perform
-(Cha), [Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Sense Motive (Wis)](SkillsII#sense-motive-wis),
-[Spot (Wis)](SkillsII#spot-wis),
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty), and
-[Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty).
+[Balance (Dex)][2], [Climb (Str)][4], [Concentration (Con)][5],
+[Craft (Int)][6], [Diplomacy (Cha)][8], [Escape Artist (Dex)][11],
+[Hide (Dex)][15], [Jump (Str)][18], [Knowledge (arcana) (Int)][19],
+[Knowledge (religion) (Int)][19], [Listen (Wis)][20], [Move Silently (Dex)][21],
+[Perform (Cha)][23], [Profession (Wis)][24], [Sense Motive (Wis)][27],
+[Spot (Wis)][31], [Swim (Str)][33], and [Tumble (Dex)][34].
 
-**Skill Points at 1st Level:** (4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier)×4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
 #### Table: The Monk
 
-| Level | Attack Bonus | Fort | Ref | Will | Special                                     | Flurry of Blows    | Unarmed Damage¹ | AC Bonus | Unarmored Speed Bonus
-| ----- | ------------ | ---- | --- | ---- | -------                                     | ------------------ | --------------- | -------- | ---------------------
-| 1st   | +0           | +2   | +2  | +2   | Bonus feat, flurry of blows, unarmed strike | –2/–2              | 1d6             | +0       | +0 ft.
-| 2nd   | +1           | +3   | +3  | +3   | Bonus feat, evasion                         | –1/–1              | 1d6             | +0       | +0 ft.
-| 3rd   | +2           | +3   | +3  | +3   | Still mind                                  | +0/+0              | 1d6             | +0       | +10 ft.
-| 4th   | +3           | +4   | +4  | +4   | Ki strike (magic), slow fall 20 ft.         | +1/+1              | 1d8             | +0       | +10 ft.
-| 5th   | +3           | +4   | +4  | +4   | Purity of body                              | +2/+2              | 1d8             | +1       | +10 ft.
-| 6th   | +4           | +5   | +5  | +5   | Bonus feat, slow fall 30 ft.                | +3/+3              | 1d8             | +1       | +20 ft.
-| 7th   | +5           | +5   | +5  | +5   | Wholeness of body                           | +4/+4              | 1d8             | +1       | +20 ft.
-| 8th   | +6/+1        | +6   | +6  | +6   | Slow fall 40 ft.                            | +5/+5/+0           | 1d10            | +1       | +20 ft.
-| 9th   | +6/+1        | +6   | +6  | +6   | Improved evasion                            | +6/+6/+1           | 1d10            | +1       | +30 ft.
-| 10th  | +7/+2        | +7   | +7  | +7   | Ki strike (lawful), slow fall 50 ft.        | +7/+7/+2           | 1d10            | +2       | +30 ft.
-| 11th  | +8/+3        | +7   | +7  | +7   | Diamond body, greater flurry                | +8/+8/+8/+3        | 1d10            | +2       | +30 ft.
-| 12th  | +9/+4        | +8   | +8  | +8   | Abundant step, slow fall 60 ft.             | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
-| 13th  | +9/+4        | +8   | +8  | +8   | Diamond soul                                | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
-| 14th  | +10/+5       | +9   | +9  | +9   | Slow fall 70 ft.                            | +10/+10/+10/+5     | 2d6             | +2       | +40 ft.
-| 15th  | +11/+6/+1    | +9   | +9  | +9   | Quivering palm                              | +11/+11/+11/+6/+1  | 2d6             | +3       | +50 ft.
-| 16th  | +12/+7/+2    | +10  | +10 | +10  | Ki strike (adamantine), slow fall 80 ft.    | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
-| 17th  | +12/+7/+2    | +10  | +10 | +10  | Timeless body, tongue of the sun and moon   | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
-| 18th  | +13/+8/+3    | +11  | +11 | +11  | Slow fall 90 ft.                            | +13/+13/+13/+8/+3  | 2d8             | +3       | +60 ft.
-| 19th  | +14/+9/+4    | +11  | +11 | +11  | Empty body                                  | +14/+14/+14/+9/+4  | 2d8             | +3       | +60 ft.
-| 20th  | +15/+10/+5   | +12  | +12 | +12  | Perfect self, slow fall any distance        | +15/+15/+15/+10/+5 | 2d10            | +4       | +60 ft.
+| Level | Attack Bonus | Fort | Ref | Will | Special
+| ----- | ------------ | ---- | --- | ---- | -------
+| 1st   | +0           | +2   | +2  | +2   | Bonus feat, flurry of blows, unarmed strike
+| 2nd   | +1           | +3   | +3  | +3   | Bonus feat, evasion
+| 3rd   | +2           | +3   | +3  | +3   | Still mind
+| 4th   | +3           | +4   | +4  | +4   | Ki strike (magic), slow fall 20 ft.
+| 5th   | +3           | +4   | +4  | +4   | Purity of body
+| 6th   | +4           | +5   | +5  | +5   | Bonus feat, slow fall 30 ft.
+| 7th   | +5           | +5   | +5  | +5   | Wholeness of body
+| 8th   | +6/+1        | +6   | +6  | +6   | Slow fall 40 ft.
+| 9th   | +6/+1        | +6   | +6  | +6   | Improved evasion
+| 10th  | +7/+2        | +7   | +7  | +7   | Ki strike (lawful), slow fall 50 ft.
+| 11th  | +8/+3        | +7   | +7  | +7   | Diamond body, greater flurry
+| 12th  | +9/+4        | +8   | +8  | +8   | Abundant step, slow fall 60 ft.
+| 13th  | +9/+4        | +8   | +8  | +8   | Diamond soul
+| 14th  | +10/+5       | +9   | +9  | +9   | Slow fall 70 ft.
+| 15th  | +11/+6/+1    | +9   | +9  | +9   | Quivering palm
+| 16th  | +12/+7/+2    | +10  | +10 | +10  | Ki strike (adamantine), slow fall 80 ft.
+| 17th  | +12/+7/+2    | +10  | +10 | +10  | Timeless body, tongue of the sun and moon
+| 18th  | +13/+8/+3    | +11  | +11 | +11  | Slow fall 90 ft.
+| 19th  | +14/+9/+4    | +11  | +11 | +11  | Empty body
+| 20th  | +15/+10/+5   | +12  | +12 | +12  | Perfect self, slow fall any distance
 
 1. The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.
+
+#### Table: The Monk Continued
+
+| Level | Flurry of Blows    | Unarmed Damage¹ | AC Bonus | Unarmored Speed Bonus
+| ----- | ------------------ | --------------- | -------- | ---------------------
+| 1st   | –2/–2              | 1d6             | +0       | +0 ft.
+| 2nd   | –1/–1              | 1d6             | +0       | +0 ft.
+| 3rd   | +0/+0              | 1d6             | +0       | +10 ft.
+| 4th   | +1/+1              | 1d8             | +0       | +10 ft.
+| 5th   | +2/+2              | 1d8             | +1       | +10 ft.
+| 6th   | +3/+3              | 1d8             | +1       | +20 ft.
+| 7th   | +4/+4              | 1d8             | +1       | +20 ft.
+| 8th   | +5/+5/+0           | 1d10            | +1       | +20 ft.
+| 9th   | +6/+6/+1           | 1d10            | +1       | +30 ft.
+| 10th  | +7/+7/+2           | 1d10            | +2       | +30 ft.
+| 11th  | +8/+8/+8/+3        | 1d10            | +2       | +30 ft.
+| 12th  | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
+| 13th  | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
+| 14th  | +10/+10/+10/+5     | 2d6             | +2       | +40 ft.
+| 15th  | +11/+11/+11/+6/+1  | 2d6             | +3       | +50 ft.
+| 16th  | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
+| 17th  | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
+| 18th  | +13/+13/+13/+8/+3  | 2d8             | +3       | +60 ft.
+| 19th  | +14/+14/+14/+9/+4  | 2d8             | +3       | +60 ft.
+| 20th  | +15/+15/+15/+10/+5 | 2d10            | +4       | +60 ft.
 
 ### Class Features
 
@@ -1401,3 +1450,25 @@ abilities.
 [12]: SkillsI#forgery
 [13]: SkillsI#gather-information
 [14]: SkillsI#handle-animal
+[15]: SkillsII#heal
+[16]: SkillsII#hide
+[17]: SkillsII#intimidate
+[18]: SkillsII#jump
+[19]: SkillsII#knowledge
+[20]: SkillsII#listen
+[21]: SkillsII#move-silently
+[22]: SkillsII#open-lock
+[23]: SkillsII#perform
+[24]: SkillsII#profession
+[25]: SkillsII#ride
+[26]: SkillsII#search
+[27]: SkillsII#sense-motive
+[28]: SkillsII#sleight-of-hand
+[29]: SkillsII#speak-language
+[30]: SkillsII#spellcraft
+[31]: SkillsII#spot
+[32]: SkillsII#survival
+[33]: SkillsII#swim
+[34]: SkillsII#tumble
+[35]: SkillsII#use-magic-device
+[36]: SkillsII#use-rope

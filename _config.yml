@@ -1,7 +1,9 @@
 title: Srd20 Project
 
-collections_dir: docs
+plugins:
+  - jekyll-spaceship
 
+collections_dir: docs
 collections:
   srd:
     output: true

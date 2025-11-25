@@ -8,7 +8,7 @@ category: srd-basic-rules-and-legal
 
 <small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
 
-### HEAL (WIS)
+### HEAL (WIS) {#heal}
 
 **Check:** The DC and effect depend on the task you attempt.
 
@@ -75,7 +75,7 @@ on Heal checks.
 
 A healer's kit gives you a +2 circumstance bonus on Heal checks.
 
-### HIDE (DEX; ARMOR CHECK PENALTY)
+### HIDE (DEX; ARMOR CHECK PENALTY) {#hide}
 
 **Check:** Your Hide check is opposed by the Spot check of anyone who
 might see you. You can move up to one-half your normal speed and hide at
@@ -124,7 +124,7 @@ A 13th-level ranger can attempt a Hide check in any sort of natural
 terrain, even if it doesn't grant cover or concealment. A 17thlevel
 ranger can do this even while being observed.
 
-### INTIMIDATE (CHA)
+### INTIMIDATE (CHA) {#intimidate}
 
 **Check:** You can change another's behavior with a successful check.
 Your Intimidate check is opposed by the target's modified level check
@@ -172,7 +172,7 @@ checks.
 **Synergy:** If you have 5 or more ranks in Bluff, you get a +2 bonus on
 Intimidate checks.
 
-### JUMP (STR; ARMOR CHECK PENALTY)
+### JUMP (STR; ARMOR CHECK PENALTY) {#jump}
 
 **Check:** The DC and the distance you can cover vary according to the
 type of jump you are attempting (see below).
@@ -299,7 +299,7 @@ on Jump checks.
 If you have 5 or more ranks in Jump, you get a +2 bonus on Tumble
 checks.
 
-### KNOWLEDGE (INT; TRAINED ONLY)
+### KNOWLEDGE (INT; TRAINED ONLY) {#knowledge}
 
 Like the Craft and Profession skills, Knowledge actually encompasses a
 number of unrelated skills. Knowledge represents a study of some body of
@@ -449,7 +449,7 @@ A half-elf has a +1 racial bonus on Listen checks..
 A sleeping character may make Listen checks at a --10 penalty. A
 successful check awakens the sleeper.
 
-### MOVE SILENTLY (DEX; ARMOR CHECK PENALTY)
+### MOVE SILENTLY (DEX; ARMOR CHECK PENALTY) {#move-silently}
 
 **Check:** Your Move Silently check is opposed by the Listen check of
 anyone who might hear you. You can move up to one-half your normal speed
@@ -477,7 +477,7 @@ A halfling has a +2 racial bonus on Move Silently checks.
 If you have the Stealthy feat, you get a +2 bonus on Move Silently
 checks.
 
-### OPEN LOCK (DEX; TRAINED ONLY)
+### OPEN LOCK (DEX; TRAINED ONLY) {#open-lock}
 
 Attempting an Open Lock check without a set of thieves' tools imposes a
 --2 circumstance penalty on the check, even if a simple tool is
@@ -502,7 +502,7 @@ Open Lock checks.
 **Untrained:** You cannot pick locks untrained, but you might
 successfully force them open.
 
-### PERFORM (CHA)
+### PERFORM (CHA) {#perform}
 
 Like Craft, Knowledge, and Profession, Perform is actually a number of
 separate skills.
@@ -567,7 +567,7 @@ In addition to using the Perform skill, you can entertain people with
 sleight of hand, tumbling, tightrope walking, and spells (especially
 illusions).
 
-### PROFESSION (WIS; TRAINED ONLY)
+### PROFESSION (WIS; TRAINED ONLY) {#profession}
 
 Like Craft, Knowledge, and Perform, Profession is actually a number of
 separate skills. You could have several Profession skills, each with its
@@ -595,7 +595,7 @@ accomplish some specific task can usually be retried.
 without any ranks in Profession) earn an average of 1 silver piece per
 day.
 
-### RIDE (DEX)
+### RIDE (DEX) {#ride}
 
 If you attempt to ride a creature that is ill suited as a mount, you
 take a --5 penalty on your Ride checks.
@@ -684,7 +684,7 @@ If you have the Animal Affinity feat, you get a +2 bonus on Ride checks.
 **Synergy:** If you have 5 or more ranks in Handle Animal, you get a +2
 bonus on Ride checks.
 
-### SEARCH (INT)
+### SEARCH (INT) {#search}
 
 **Check:** You generally must be within 10 feet of the object or surface
 to be searched. The table below gives DCs for typical tasks involving
@@ -744,7 +744,7 @@ difficult trap (one with a DC higher than 20) if the trap is built into
 or out of stone. He gains a +2 racial bonus on the Search check from his
 stonecunning ability.
 
-### SENSE MOTIVE (WIS)
+### SENSE MOTIVE (WIS) {#sense-motive}
 
 **Check:** A successful check lets you avoid being bluffed (see the
 Bluff skill). You can also use this skill to determine when "something
@@ -796,7 +796,7 @@ checks.
 **Synergy:** If you have 5 or more ranks in Sense Motive, you get a +2
 bonus on Diplomacy checks.
 
-### SLEIGHT OF HAND (DEX; TRAINED ONLY; ARMOR CHECK PENALTY)
+### SLEIGHT OF HAND (DEX; TRAINED ONLY; ARMOR CHECK PENALTY) {#sleight-of-hand}
 
 **Check:** A DC 10 Sleight of Hand check lets you palm a coin-sized,
 unattended object. Performing a minor feat of legerdemain, such as
@@ -858,7 +858,7 @@ check. Without actual training, you can't succeed on any Sleight of Hand
 check with a DC higher than 10, except for hiding an object on your
 body.
 
-### SPEAK LANGUAGE (NONE; TRAINED ONLY)
+### SPEAK LANGUAGE (NONE; TRAINED ONLY) {#speak-language}
 
 **Common Languages and Their Alphabets**
 
@@ -909,7 +909,7 @@ points to become literate) can read and write any language she speaks.
 Each language has an alphabet, though sometimes several spoken languages
 share a single alphabet.
 
-### SPELLCRAFT (INT; TRAINED ONLY)
+### SPELLCRAFT (INT; TRAINED ONLY) {#spellcraft}
 
 Use this skill to identify spells as they are cast or spells already in
 place.
@@ -960,7 +960,7 @@ Additionally, certain spells allow you to gain information about magic,
 provided that you make a successful Spellcraft check as detailed in the
 spell description.
 
-### SPOT (WIS)
+### SPOT (WIS) {#spot}
 
 **Check:** The Spot skill is used primarily to detect characters or
 creatures who are hiding. Typically, your Spot check is opposed by the
@@ -1028,7 +1028,7 @@ daylight or other lighted areas.
 The master of an owl familiar gains a +3 bonus on Spot checks in shadowy
 or other darkened areas.
 
-### SURVIVAL (WIS)
+### SURVIVAL (WIS) {#survival}
 
 **Check:** You can keep yourself and others safe and fed in the wild.
 The table below gives the DCs for various tasks that require Survival
@@ -1097,7 +1097,7 @@ bonus on Survival checks made while on other planes.
 If you have 5 or more ranks in Search, you get a +2 bonus on Survival
 checks to find or follow tracks.
 
-### SWIM (STR; ARMOR CHECK PENALTY)
+### SWIM (STR; ARMOR CHECK PENALTY) {#swim}
 
 **Check:** Make a Swim check once per round while you are in the water.
 Success means you may swim at up to one-half your speed (as a full-round
@@ -1151,7 +1151,7 @@ can choose to take 10 on a Swim check, even if distracted or endangered
 when swimming. Such a creature can use the run action while swimming,
 provided that it swims in a straight line.
 
-### TUMBLE (DEX; TRAINED ONLY; ARMOR CHECK PENALTY)
+### TUMBLE (DEX; TRAINED ONLY; ARMOR CHECK PENALTY) {#tumble}
 
 You can't use this skill if your speed has been reduced by armor, excess
 equipment, or loot.
@@ -1211,7 +1211,7 @@ on Balance and Jump checks.
 If you have 5 or more ranks in Jump, you get a +2 bonus on Tumble
 checks.
 
-### USE MAGIC DEVICE (CHA; TRAINED ONLY)
+### USE MAGIC DEVICE (CHA; TRAINED ONLY) {#use-magic-device}
 
 Use this skill to activate magic
 
@@ -1331,7 +1331,7 @@ Use Magic Device checks related to scrolls.
 If you have 5 or more ranks in Use Magic Device, you get a +2 bonus to
 Spellcraft checks made to decipher spells on scrolls.
 
-### USE ROPE (DEX)
+### USE ROPE (DEX) {#use-rope}
 
 **Check:** Most tasks with a rope are relatively simple. The DCs for
 various tasks utilizing this skill are summarized on the table below.
