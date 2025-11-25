@@ -4,6 +4,7 @@ company: Wizards of the Coast
 operator: asmith
 title: Monsters (Intro-A)
 category: srd-monsters
+order: 35
 ---
 
 <small>This material is Open Game Content, and is licensed for public use

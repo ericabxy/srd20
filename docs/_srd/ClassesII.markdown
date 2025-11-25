@@ -17,15 +17,10 @@ category: srd-basic-rules-and-legal
 ### Class Skills
 
 The paladin's class skills (and the key ability for each skill) are
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int), [Diplomacy (Cha)](SkillsI#diplomacy-cha),
-[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
-[Heal (Wis)](SkillsII#heal-wis),
-[Knowledge (nobility and royalty) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (religion) (Int)](SkillsII#knowledge-int-trained-only),
-[Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Ride (Dex)](SkillsII#ride-dex), and
-[Sense Motive (Wis)](SkillsII#sense-motive-wis).
+[Concentration (Con)][5], [Craft (Int)][6], [Diplomacy (Cha)][8],
+[Handle Animal (Cha)][14], [Heal (Wis)][15],
+[Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int)][19],
+[Profession (Wis)][24], [Ride (Dex)][25], and [Sense Motive (Wis)][27].
 
 **Skill Points at 1st Level:** (2 + Int modifier) &times;4.
 
@@ -33,30 +28,55 @@ The paladin's class skills (and the key ability for each skill) are
 
 #### Table: The Paladin
 
-#### Table: Paladin — Spells per Day —
+| Level | Attack Bonus   | Fort | Ref  | Will | Special
+| ----- | -------------- | ---- | ---- | -----| -------
+| 1st   | +1             | +2   | +0   | +0   | Aura of good, detect evil, smite evil 1/day
+| 2nd   | +2             | +3   | +0   | +0   | Divine grace, lay on hands
+| 3rd   | +3             | +3   | +1   | +1   | Aura of courage, divine health
+| 4th   | +4             | +4   | +1   | +1   | Turn undead
+| 5th   | +5             | +4   | +1   | +1   | Smite evil 2/day, special mount
+| 6th   | +6/+1          | +5   | +2   | +2   | Remove disease 1/week
+| 7th   | +7/+2          | +5   | +2   | +2
+| 8th   | +8/+3          | +6   | +2   | +2
+| 9th   | +9/+4          | +6   | +3   | +3   | Remove disease 2/week
+| 10th  | +10/+5         | +7   | +3   | +3   | Smite evil 3/day
+| 11th  | +11/+6/+1      | +7   | +3   | +3
+| 12th  | +12/+7/+2      | +8   | +4   | +4   | Remove disease 3/week
+| 13th  | +13/+8/+3      | +8   | +4   | +4
+| 14th  | +14/+9/+4      | +9   | +4   | +4
+| 15th  | +15/+10/+5     | +9   | +5   | +5   | Remove disease 4/week, smite evil 4/day
+| 16th  | +16/+11/+6/+1  | +10  | +5   | +5
+| 17th  | +17/+12/+7/+2  | +10  | +5   | +5
+| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Remove disease 5/week
+| 19th  | +19/+14/+9/+4  | +11  | +6   | +6
+| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Smite evil 5/day
 
-| Level | Attack Bonus   | Fort | Ref  | Will | Special                                     | 1st | 2nd | 3rd | 4th
-| ----- | -------------- | ---- | ---- | -----| ------------------------------------------- | :-: | :-: | :-: | :-:
-| 1st   | +1             | +2   | +0   | +0   | Aura of good, detect evil, smite evil 1/day | --- | --- | --- | ---
-| 2nd   | +2             | +3   | +0   | +0   | Divine grace, lay on hands                  | --- | --- | --- | ---
-| 3rd   | +3             | +3   | +1   | +1   | Aura of courage, divine health              | --- | --- | --- | ---
-| 4th   | +4             | +4   | +1   | +1   | Turn undead                                 | 0   | --- | --- | ---
-| 5th   | +5             | +4   | +1   | +1   | Smite evil 2/day, special mount             | 0   | --- | --- | ---
-| 6th   | +6/+1          | +5   | +2   | +2   | Remove disease 1/week                       | 1   | --- | --- | ---
-| 7th   | +7/+2          | +5   | +2   | +2   |                                             | 1   | --- | --- | ---
-| 8th   | +8/+3          | +6   | +2   | +2   |                                             | 1   | 0   | --- | ---
-| 9th   | +9/+4          | +6   | +3   | +3   | Remove disease 2/week                       | 1   | 0   | --- | ---
-| 10th  | +10/+5         | +7   | +3   | +3   | Smite evil 3/day                            | 1   | 1   | --- | ---
-| 11th  | +11/+6/+1      | +7   | +3   | +3   |                                             | 1   | 1   | 0   | ---
-| 12th  | +12/+7/+2      | +8   | +4   | +4   | Remove disease 3/week                       | 1   | 1   | 1   | ---
-| 13th  | +13/+8/+3      | +8   | +4   | +4   |                                             | 1   | 1   | 1   | ---
-| 14th  | +14/+9/+4      | +9   | +4   | +4   |                                             | 2   | 1   | 1   | 0
-| 15th  | +15/+10/+5     | +9   | +5   | +5   | Remove disease 4/week, smite evil 4/day     | 2   | 1   | 1   | 1
-| 16th  | +16/+11/+6/+1  | +10  | +5   | +5   |                                             | 2   | 2   | 1   | 1
-| 17th  | +17/+12/+7/+2  | +10  | +5   | +5   |                                             | 2   | 2   | 2   | 1
-| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Remove disease 5/week                       | 3   | 2   | 2   | 1
-| 19th  | +19/+14/+9/+4  | +11  | +6   | +6   |                                             | 3   | 3   | 3   | 2
-| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Smite evil 5/day                            | 3   | 3   | 3   | 3
+#### Table: Paladin Spells per Day
+
+|  ---  | — Spells per Day — ||||
+| Level | 1st | 2nd | 3rd | 4th |
+| ----- | :-: | :-: | :-: | :-: |
+| 1st   | --- | --- | --- | --- |
+| 2nd   | --- | --- | --- | --- |
+| 3rd   | --- | --- | --- | --- |
+| 4th   | 0   | --- | --- | --- |
+| 5th   | 0   | --- | --- | --- |
+| 6th   | 1   | --- | --- | --- |
+| 7th   | 1   | --- | --- | --- |
+| 8th   | 1   | 0   | --- | --- |
+| 9th   | 1   | 0   | --- | --- |
+| 10th  | 1   | 1   | --- | --- |
+| 11th  | 1   | 1   | 0   | --- |
+| 12th  | 1   | 1   | 1   | --- |
+| 13th  | 1   | 1   | 1   | --- |
+| 14th  | 2   | 1   | 1   | 0   |
+| 15th  | 2   | 1   | 1   | 1   |
+| 16th  | 2   | 2   | 1   | 1   |
+| 17th  | 2   | 2   | 2   | 1   |
+| 18th  | 3   | 2   | 2   | 1   |
+| 19th  | 3   | 3   | 3   | 2   |
+| 20th  | 3   | 3   | 3   | 3   |
+{:aria-labelledby='table-paladin-spells-per-day'}
 
 ### Class Features
 
@@ -299,23 +319,13 @@ or exceeds the mount's spell resistance.
 ### Class Skills
 
 The ranger's class skills (and the key ability for each skill) are
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int),
-[Handle Animal (Cha)](SkillsI#handle-animal-cha-trained-only),
-[Heal (Wis)](SkillsII#heal-wis),
-[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Knowledge (dungeoneering) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (geography) (Int)](SkillsII#knowledge-int-trained-only),
-[Knowledge (nature) (Int)](SkillsII#knowledge-int-trained-only),
-[Listen (Wis)](SkillsII#listen-wis),
-[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty),
-[Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Ride (Dex)](SkillsII#ride-dex), [Search (Int)](SkillsII#search-int),
-[Spot (Wis)](SkillsII#spot-wis), [Survival (Wis)](SkillsII#survival-wis),
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty), and
-[Use Rope (Dex)](SkillsII#use-rope-dex).
+[Climb (Str)][4],[Concentration (Con)][5], [Craft (Int)][6],
+[Handle Animal (Cha)][14], [Heal (Wis)][15], [Hide (Dex)][16],
+[Jump (Str)][18], [Knowledge (dungeoneering) (Int),
+Knowledge (geography) (Int), Knowledge (nature) (Int)][19],
+[Listen (Wis)][20], [Move Silently (Dex)][21], [Profession (Wis)][24],
+[Ride (Dex)][25], [Search (Int)][26], [Spot (Wis)][31], [Survival (Wis)][32],
+[Swim (Str)][33], and [Use Rope (Dex)][36].
 
 **Skill Points at 1st Level:** (6 + Int modifier) ×4.
 
@@ -543,35 +553,16 @@ observed.
 ### Class Skills
 
 The rogue's class skills (and the key ability for each skill) are
-[Appraise (Int)](SkillsI#appraise-int),
-[Balance (Dex)](SkillsI#balance-dex-armor-check-penalty),
-[Bluff (Cha)](SkillsI#bluff-cha),
-[Climb (Str)](SkillsI#climb-str-armor-check-penalty),
-[Craft (Int)](SkillsI#craft-int),
-[Decipher Script (Int)](SkillsI#decipher-script-int-trained-only),
-[Diplomacy (Cha)](SkillsI#diplomacy-cha),
-[Disable Device (Int)](SkillsI#disable-device-int-trained-only),
-[Disguise (Cha)](SkillsI#disguise-cha),
-[Escape Artist (Dex)](SkillsI#escape-artist-dex),
-[Forgery (Int)](SkillsI#forgery-int),
-[Gather Information (Cha)](SkillsI#gather-information-cha),
-[Hide (Dex)](SkillsII#hide-dex-armor-check-penalty),
-[Intimidate (Cha)](SkillsII#intimidate-cha),
-[Jump (Str)](SkillsII#jump-str-armor-check-penalty),
-[Knowledge (local) (Int)](SkillsII#knowledge-int-trained-only),
-[Listen (Wis)](SkillsII#listen-wis),
-[Move Silently (Dex)](SkillsII#move-silently-dex-armor-check-penalty),
-[Open Lock (Dex)](SkillsII#open-lock-dex-trained-only),
-[Perform (Cha)](SkillsII#perform-cha),
-[Profession (Wis)](SkillsII#profession-wis-trained-only),
-[Search (Int)](SkillsII#search-int),
-[Sense Motive (Wis)](SkillsII#sense-motive-wis),
-[Sleight of Hand (Dex)](SkillsII#sleight-of-hand-dex-trained-only-armor-check-penalty),
-[Spot (Wis)](SkillsII#spot-wis),
-[Swim (Str)](SkillsII#swim-str-armor-check-penalty),
-[Tumble (Dex)](SkillsII#tumble-dex-trained-only-armor-check-penalty),
-[Use Magic Device (Cha)](SkillsII#use-magic-device-cha-trained-only), and
-[Use Rope (Dex)](SkillsII#use-rope-dex).
+[Appraise (Int)][1], [Balance (Dex)][2], [Bluff (Cha)][3], [Climb (Str)][4],
+[Craft (Int)][6], [Decipher Script (Int)][7], [Diplomacy (Cha)][8],
+[Disable Device (Int)][9], [Disguise (Cha)][10], [Escape Artist (Dex)][11],
+[Forgery (Int)][12], [Gather Information (Cha)][13], [Hide (Dex)][16],
+[Intimidate (Cha)][17], [Jump (Str)][18], [Knowledge (local) (Int)][19],
+[Listen (Wis)][20], [Move Silently (Dex)][21], [Open Lock (Dex)][22],
+[Perform (Cha)][23], [Profession (Wis)][24], [Search (Int)][26],
+[Sense Motive (Wis)][27], [Sleight of Hand (Dex)][28], [Spot (Wis)][31],
+[Swim (Str)][33], [Tumble (Dex)][34], [Use Magic Device (Cha)][35], and
+[Use Rope (Dex)][36].
 
 **Skill Points at 1st Level:** (8 + Int modifier) &times;4.
 
@@ -753,20 +744,15 @@ her saving throw.
 ### Class Skills
 
 The sorcerer's class skills (and the key ability for each skill) are
-[Bluff (Cha)](SkillsI#bluff-cha),
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int),
-[Knowledge (arcana) (Int)](SkillsII#knowledge-int-trained-only),
-[Profession (Wis)](SkillsII#profession-wis-trained-only), and
-[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only).
+[Bluff (Cha)][3], [Concentration (Con)][5], [Craft (Int)][6],
+[Knowledge (arcana) (Int)][19], [Profession (Wis)][24], and
+[Spellcraft (Int)][30].
 
 **Skill Points at 1st Level:** (2 + Int modifier) x 4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
 #### Table: The Sorcerer
-
-#### Table: Sorceror ——––———————Spells per Day—————————
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ---   | ---               | ---       | ---      | ---       | ---             | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -790,6 +776,34 @@ The sorcerer's class skills (and the key ability for each skill) are
 | 18th  | +9/+4             | +6        | +6       | +11       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   |
 | 19th  | +9/+4             | +6        | +6       | +11       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   |
 | 20th  | +10/+5            | +6        | +6       | +12       |                 | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   |
+{:aria-labelledby='table-sorcerer'}
+
+#### Table: Sorcerer Spells Per Day
+
+| ...   |       ——––———————Spells per Day—————————         ||||||||||
+| Level | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1st   |  5  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 2nd   |  6  |  4  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 3rd   |  6  |  5  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 4th   |  6  |  6  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 5th   |  6  |  6  |  4  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 6th   |  6  |  6  |  5  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 7th   |  6  |  6  |  6  |  4  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 8th   |  6  |  6  |  6  |  5  |  3  |  —  |  —  |  —  |  —  |  —  |
+| 9th   |  6  |  6  |  6  |  6  |  4  |  —  |  —  |  —  |  —  |  —  |
+| 10th  |  6  |  6  |  6  |  6  |  5  |  3  |  —  |  —  |  —  |  —  |
+| 11th  |  6  |  6  |  6  |  6  |  6  |  4  |  —  |  —  |  —  |  —  |
+| 12th  |  6  |  6  |  6  |  6  |  6  |  5  |  3  |  —  |  —  |  —  |
+| 13th  |  6  |  6  |  6  |  6  |  6  |  6  |  4  |  —  |  —  |  —  |
+| 14th  |  6  |  6  |  6  |  6  |  6  |  6  |  5  |  3  |  —  |  —  |
+| 15th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  4  |  —  |  —  |
+| 16th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  5  |  3  |  —  |
+| 17th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  4  |  —  |
+| 18th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  5  |  3  |
+| 19th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  4  |
+| 20th  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |  6  |
+{:aria-labelledby='table-sorcerer-spells-per-day'}
 
 #### Table: Sorcerer Spells Known
 
@@ -837,8 +851,9 @@ Charisma modifier.
 
 Like other spellcasters, a sorcerer can cast only a certain number of
 spells of each spell level per day. His base daily spell allotment is
-given on Table: The Sorcerer. In addition, he receives bonus spells per
-day if he has a high Charisma score.
+given on [Table: The Sorcerer](#table-the-sorcerer-spells-per-day). In
+addition, he receives bonus spells per day if he has a high Charisma
+score.
 
 A sorcerer's selection of spells is extremely limited. A sorcerer begins
 play knowing four 0-level spells and two 1st-level spells of your
@@ -897,13 +912,9 @@ only one familiar at a time.
 ### Class Skills
 
 The wizard's class skills (and the key ability for each skill) are
-[Concentration (Con)](SkillsI#concentration-con),
-[Craft (Int)](SkillsI#craft-int),
-[Decipher Script (Int)](SkillsI#decipher-script-int-trained-only),
-[Knowledge (all skills, taken individually) (Int)](SkillsII#knowledge-int-trained-only),
-[Profession (Wis)](SkillsII#profession-wis), and
-[Spellcraft (Int)](SkillsII#spellcraft-int-trained-only). See Chapter 4:
-Skills for skill descriptions.
+[Concentration (Con)][5], [Craft (Int)][6], [Decipher Script (Int)][7],
+[Knowledge (all skills, taken individually) (Int)][19],
+[Profession (Wis)][24], and [Spellcraft (Int)][30].
 
 **Skill Points at 1st Level:** (2 + Int modifier) &times;4.
 
@@ -911,30 +922,56 @@ Skills for skill descriptions.
 
 #### Table: The Wizard
 
-#### Table: Wizard ——–——————— Spells per Day —–———————
+| Level | Attack Bonus | Fort | Ref | Will | Special
+| ----- | ------------ | ---- | --- | ---- | -------
+| 1st   | +0           | +0   | +0  | +2   | Summon familiar, \
+|       |              |      |     |      | Scribe Scroll
+| 2nd   | +1           | +0   | +0  | +3   |
+| 3rd   | +1           | +1   | +1  | +3   |
+| 4th   | +2           | +1   | +1  | +4   |
+| 5th   | +2           | +1   | +1  | +4   | Bonus feat
+| 6th   | +3           | +2   | +2  | +5   |
+| 7th   | +3           | +2   | +2  | +5   |
+| 8th   | +4           | +2   | +2  | +6   |
+| 9th   | +4           | +3   | +3  | +6   |
+| 10th  | +5           | +3   | +3  | +7   | Bonus feat
+| 11th  | +5           | +3   | +3  | +7   |
+| 12th  | +6/+1        | +4   | +4  | +8   |
+| 13th  | +6/+1        | +4   | +4  | +8   |
+| 14th  | +7/+2        | +4   | +4  | +9   |
+| 15th  | +7/+2        | +5   | +5  | +9   | Bonus feat
+| 16th  | +8/+3        | +5   | +5  | +10  |
+| 17th  | +8/+3        | +5   | +5  | +10  |
+| 18th  | +9/+4        | +6   | +6  | +11  |
+| 19th  | +9/+4        | +6   | +6  | +11  |
+| 20th  | +10/+5       | +6   | +6  | +12  | Bonus feat
 
-| Level | Attack Bonus | Fort | Ref | Will | Special                        | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ------------ | ---- | --- | ---- | ------------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1st   | +0           | +0   | +0  | +2   | Summon familiar, Scribe Scroll | 3   | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2nd   | +1           | +0   | +0  | +3   |                                | 4   | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3rd   | +1           | +1   | +1  | +3   |                                | 4   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4th   | +2           | +1   | +1  | +4   |                                | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5th   | +2           | +1   | +1  | +4   | Bonus feat                     | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6th   | +3           | +2   | +2  | +5   |                                | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 7th   | +3           | +2   | +2  | +5   |                                | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8th   | +4           | +2   | +2  | +6   |                                | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9th   | +4           | +3   | +3  | +6   |                                | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 10th  | +5           | +3   | +3  | +7   | Bonus feat                     | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11th  | +5           | +3   | +3  | +7   |                                | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   |
-| 12th  | +6/+1        | +4   | +4  | +8   |                                | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   | —   |
-| 13th  | +6/+1        | +4   | +4  | +8   |                                | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   |
-| 14th  | +7/+2        | +4   | +4  | +9   |                                | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   | —   |
-| 15th  | +7/+2        | +5   | +5  | +9   | Bonus feat                     | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
-| 16th  | +8/+3        | +5   | +5  | +10  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
-| 17th  | +8/+3        | +5   | +5  | +10  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |
-| 18th  | +9/+4        | +6   | +6  | +11  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
-| 19th  | +9/+4        | +6   | +6  | +11  |                                | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
-| 20th  | +10/+5       | +6   | +6  | +12  | Bonus feat                     | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
+#### Table: Wizard Spells per Day
+
+| ...   |      ——–——————— Spells per Day —–———————         ||||||||||
+| Level | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1st   | 3   | 1   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 2nd   | 4   | 2   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 3rd   | 4   | 2   | 1   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 4th   | 4   | 3   | 2   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+| 5th   | 4   | 3   | 2   | 1   |  —  |  —  |  —  |  —  |  —  |  —  |
+| 6th   | 4   | 3   | 3   | 2   |  —  |  —  |  —  |  —  |  —  |  —  |
+| 7th   | 4   | 4   | 3   | 2   | 1   |  —  |  —  |  —  |  —  |  —  |
+| 8th   | 4   | 4   | 3   | 3   | 2   |  —  |  —  |  —  |  —  |  —  |
+| 9th   | 4   | 4   | 4   | 3   | 2   | 1   |  —  |  —  |  —  |  —  |
+| 10th  | 4   | 4   | 4   | 3   | 3   | 2   |  —  |  —  |  —  |  —  |
+| 11th  | 4   | 4   | 4   | 4   | 3   | 2   | 1   |  —  |  —  |  —  |
+| 12th  | 4   | 4   | 4   | 4   | 3   | 3   | 2   |  —  |  —  |  —  |
+| 13th  | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |  —  |  —  |
+| 14th  | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |  —  |  —  |
+| 15th  | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |  —  |
+| 16th  | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |  —  |
+| 17th  | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 2   | 1   |
+| 18th  | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
+| 19th  | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
+| 20th  | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
+{:aria-labelledby='table-wizard-spells-per-day'}
 
 ### Class Features
 
@@ -1080,17 +1117,18 @@ Levels of different classes that are entitled to familiars stack for the
 purpose of determining any familiar abilities that depend on the
 master's level.
 
-| **Familiar** | **Special**
-| Bat          | Master gains a +3 bonus on Listen checks
-| Cat          | Master gains a +3 bonus on Move Silently checks
-| Hawk         | Master gains a +3 bonus on Spot checks in bright light
-| Lizard       | Master gains a +3 bonus on Climb checks
-| Owl          | Master gains a +3 bonus on Spot checks in shadows
-| Rat          | Master gains a +2 bonus on Fortitude saves
-| Raven¹       | Master gains a +3 bonus on Appraise checks
-| Snake²       | Master gains a +3 bonus on Bluff checks
-| Toad         | Master gains +3 hit points
-| Weasel       | Master gains a +2 bonus on Reflex saves
+| Familiar | Special
+| -------- | -------
+| Bat      | Master gains a +3 bonus on Listen checks
+| Cat      | Master gains a +3 bonus on Move Silently checks
+| Hawk     | Master gains a +3 bonus on Spot checks in bright light
+| Lizard   | Master gains a +3 bonus on Climb checks
+| Owl      | Master gains a +3 bonus on Spot checks in shadows
+| Rat      | Master gains a +2 bonus on Fortitude saves
+| Raven¹   | Master gains a +3 bonus on Appraise checks
+| Snake²   | Master gains a +3 bonus on Bluff checks
+| Toad     | Master gains +3 hit points
+| Weasel   | Master gains a +2 bonus on Reflex saves
                                                                                                   
 1. A raven familiar can speak one language of its master's choice as a supernatural ability.
 2. Tiny viper.
@@ -1199,17 +1237,22 @@ familiar's spell resistance.
 *Scry on Familiar (Sp):* If the master is 13th level or higher, he may
 scry on his familiar (as if casting the *scrying* spell) once per day.
 
-| **Master Class Level** | **Natural Armor Adj.** | **Int** | **Special**
-| 1st--2nd               | +1                     | 6       | Alertness, improved evasion, share spells, empathic link
-| 3rd--4th               | +2                     | 7       | Deliver touch spells
-| 5th--6th               | +3                     | 8       | Speak with master
-| 7th--8th               | +4                     | 9       | Speak with animals of its kind
-| 9th--10th              | +5                     | 10      | ---
-| 11th--12th             | +6                     | 11      | Spell resistance
-| 13th--14th             | +7                     | 12      | *Scry* on familiar
-| 15th--16th             | +8                     | 13      | ---
-| 17th--18th             | +9                     | 14      | ---
-| 19th--20th             | +10                    | 15      | ---
+| Master Class Level | Natural Armor Adj. | Int | Special
+| ------------------ | ------------------ | --- | -------
+| 1st--2nd           | +1                 | 6   | Alertness, \
+|                    |                    |     | improved evasion,\
+|                    |                    |     | share spells, \
+|                    |                    |     | empathic link
+| 3rd--4th           | +2                 | 7   | Deliver touch spells
+| 5th--6th           | +3                 | 8   | Speak with master
+| 7th--8th           | +4                 | 9   | Speak with animals \
+|                    |                    |     | of its kind
+| 9th--10th          | +5                 | 10  | ---
+| 11th--12th         | +6                 | 11  | Spell resistance
+| 13th--14th         | +7                 | 12  | *Scry* on familiar
+| 15th--16th         | +8                 | 13  | ---
+| 17th--18th         | +9                 | 14  | ---
+| 19th--20th         | +10                | 15  | ---
 
 #### ARCANE SPELLS AND ARMOR
 
@@ -1315,3 +1358,42 @@ spellcasting classes and keeps a separate spell list for each class. If
 a spell's effect is based on the class level of the caster, the player
 must keep track of which class's spell list the character is casting the
 spell from.
+
+
+
+[1]: SkillsI#appraise
+[2]: SkillsI#balance
+[3]: SkillsI#bluff
+[4]: SkillsI#climb
+[5]: SkillsI#concentration
+[6]: SkillsI#craft
+[7]: SkillsI#decipher-script
+[8]: SkillsI#diplomacy
+[9]: SkillsI#disable-device
+[10]: SkillsI#disguise
+[11]: SkillsI#escape-artist
+[12]: SkillsI#forgery
+[13]: SkillsI#gather-information
+[14]: SkillsI#handle-animal
+[15]: SkillsII#heal
+[16]: SkillsII#hide
+[17]: SkillsII#intimidate
+[18]: SkillsII#jump
+[19]: SkillsII#knowledge
+[20]: SkillsII#listen
+[21]: SkillsII#move-silently
+[22]: SkillsII#open-lock
+[23]: SkillsII#perform
+[24]: SkillsII#profession
+[25]: SkillsII#ride
+[26]: SkillsII#search
+[27]: SkillsII#sense-motive
+[28]: SkillsII#sleight-of-hand
+[29]: SkillsII#speak-language
+[30]: SkillsII#spellcraft
+[31]: SkillsII#spot
+[32]: SkillsII#survival
+[33]: SkillsII#swim
+[34]: SkillsII#tumble
+[35]: SkillsII#use-magic-device
+[36]: SkillsII#use-rope
