@@ -1,4 +1,5 @@
 ---
+title: Wood Gnoll
 category: other-background
 ---
 
@@ -6,6 +7,8 @@ Wood Gnoll
 ----------
 
 A forest-dwelling offshoot of the plains-dwelling gnoll.
+
+### Wood Gnoll Traits
 
 Wood gnoll characters possess the following racial traits.
 
