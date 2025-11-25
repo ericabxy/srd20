@@ -510,31 +510,56 @@ Domains, and Domain Spells, below, for more information.
 
 #### Table: The Cleric
 
-| Level | Attack Bonus | Fort | Ref | Will | Special               | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
-| ----- | ------------ | ---- | --- | ---- | -------               | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| 1st   | +0           | +2   | +0  | +2   | Turn or rebuke undead | 3 | 1+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 2nd   | +1           | +3   | +0  | +3   |                       | 4 | 2+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 3rd   | +2           | +3   | +1  | +3   |                       | 4 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —
-| 4th   | +3           | +4   | +1  | +4   |                       | 5 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —
-| 5th   | +3           | +4   | +1  | +4   |                       | 5 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —
-| 6th   | +4           | +5   | +2  | +5   |                       | 5 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —
-| 7th   | +5           | +5   | +2  | +5   |                       | 6 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —
-| 8th   | +6/+1        | +6   | +2  | +6   |                       | 6 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —
-| 9th   | +6/+1        | +6   | +3  | +6   |                       | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —
-| 10th  | +7/+2        | +7   | +3  | +7   |                       | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —
-| 11th  | +8/+3        | +7   | +3  | +7   |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —
-| 12th  | +9/+4        | +8   | +4  | +8   |                       | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —
-| 13th  | +9/+4        | +8   | +4  | +8   |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —
-| 14th  | +10/+5       | +9   | +4  | +9   |                       | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —
-| 15th  | +11/+6/+1    | +9   | +5  | +9   |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —
-| 16th  | +12/+7/+2    | +10  | +5  | +10  |                       | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —
-| 17th  | +12/+7/+2    | +10  | +5  | +10  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1
-| 18th  | +13/+8/+3    | +11  | +6  | +11  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1
-| 19th  | +14/+9/+4    | +11  | +6  | +11  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1
-| 20th  | +15/+10/+5   | +12  | +6  | +12  |                       | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1
+|       | Base         | Fort | Ref  | Will |                       \
+| Level | Attack Bonus | Save | Save | Save | Special               |
+| ----- | ------------ | ---- | ---- | ---- | --------------------- |
+| 1st   | +0           | +2   | +0   | +2   | Turn or rebuke undead |
+| 2nd   | +1           | +3   | +0   | +3   |                       |
+| 3rd   | +2           | +3   | +1   | +3   |                       |
+| 4th   | +3           | +4   | +1   | +4   |                       |
+| 5th   | +3           | +4   | +1   | +4   |                       |
+| 6th   | +4           | +5   | +2   | +5   |                       |
+| 7th   | +5           | +5   | +2   | +5   |                       |
+| 8th   | +6/+1        | +6   | +2   | +6   |                       |
+| 9th   | +6/+1        | +6   | +3   | +6   |                       |
+| 10th  | +7/+2        | +7   | +3   | +7   |                       |
+| 11th  | +8/+3        | +7   | +3   | +7   |                       |
+| 12th  | +9/+4        | +8   | +4   | +8   |                       |
+| 13th  | +9/+4        | +8   | +4   | +8   |                       |
+| 14th  | +10/+5       | +9   | +4   | +9   |                       |
+| 15th  | +11/+6/+1    | +9   | +5   | +9   |                       |
+| 16th  | +12/+7/+2    | +10  | +5   | +10  |                       |
+| 17th  | +12/+7/+2    | +10  | +5   | +10  |                       |
+| 18th  | +13/+8/+3    | +11  | +6   | +11  |                       |
+| 19th  | +14/+9/+4    | +11  | +6   | +11  |                       |
+| 20th  | +15/+10/+5   | +12  | +6   | +12  |                       |
 
-1. In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.
-The “+1” in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.
+1. In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st. The “+1” in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.
+
+#### Table: Cleric Spells Known
+
+| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
+| ----- | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| 1st   | 3 | 1+1 | —   | —   | —   | —   | —   | —   | —   | —
+| 2nd   | 4 | 2+1 | —   | —   | —   | —   | —   | —   | —   | —
+| 3rd   | 4 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —
+| 4th   | 5 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —
+| 5th   | 5 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —
+| 6th   | 5 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —
+| 7th   | 6 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —
+| 8th   | 6 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —
+| 9th   | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —
+| 10th  | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —
+| 11th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —
+| 12th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —
+| 13th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —
+| 14th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —
+| 15th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —
+| 16th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —
+| 17th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1
+| 18th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1
+| 19th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1
+| 20th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1
 
 ### Class Features
 
@@ -676,28 +701,32 @@ The druid's class skills (and the key ability for each skill) are
 
 #### Table: The Druid
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
-| ----- | ----------------- | --------- | -------- | --------- | -------
-| 1st   | +0                | +2        | +0       | +2        | Animal companion, nature sense, wild empathy
-| 2nd   | +1                | +3        | +0       | +3        | Woodland stride
-| 3rd   | +2                | +3        | +1       | +3        | Trackless step
-| 4th   | +3                | +4        | +1       | +4        | Resist nature’s lure
-| 5th   | +3                | +4        | +1       | +4        | Wild shape (1/day)
-| 6th   | +4                | +5        | +2       | +5        | Wild shape (2/day)
-| 7th   | +5                | +5        | +2       | +5        | Wild shape (3/day)
-| 8th   | +6/+1             | +6        | +2       | +6        | Wild shape (Large)
-| 9th   | +6/+1             | +6        | +3       | +6        | Venom immunity
-| 10th  | +7/+2             | +7        | +3       | +7        | Wild shape (4/day)
-| 11th  | +8/+3             | +7        | +3       | +7        | Wild shape (Tiny
-| 12th  | +9/+4             | +8        | +4       | +8        | Wild shape (plant)
-| 13th  | +9/+4             | +8        | +4       | +8        | A thousand faces
-| 14th  | +10/+5            | +9        | +4       | +9        | Wild shape (5/day)
-| 15th  | +11/+6/+1         | +9        | +5       | +9        | Timeless body, wild shape (Huge)
-| 16th  | +12/+7/+2         | +10       | +5       | +10       | Wild shape (elemental 1/day)
-| 17th  | +12/+7/+2         | +10       | +5       | +10
-| 18th  | +13/+8/+3         | +11       | +6       | +11       | Wild shape (6/day, elemental 2/day)
-| 19th  | +14/+9/+4         | +11       | +6       | +11
-| 20th  | +15/+10/+5        | +12       | +6       | +12       | Wild shape (elemental 3/day, Huge elemental)
+|       | Base         | Fort | Ref  | Will |                                 \
+| Level | Attack Bonus | Save | Save | Save | Special                         |
+| ----- | -------------| ---- | ---- | ---- | ------------------------------- |
+| 1st   | +0           | +2   | +0   | +2   | Animal companion, nature sense, \
+|       |              |      |      |      | wild empathy                    |
+| 2nd   | +1           | +3   | +0   | +3   | Woodland stride                 |
+| 3rd   | +2           | +3   | +1   | +3   | Trackless step                  |
+| 4th   | +3           | +4   | +1   | +4   | Resist nature’s lure            |
+| 5th   | +3           | +4   | +1   | +4   | Wild shape (1/day)              |
+| 6th   | +4           | +5   | +2   | +5   | Wild shape (2/day)              |
+| 7th   | +5           | +5   | +2   | +5   | Wild shape (3/day)              |
+| 8th   | +6/+1        | +6   | +2   | +6   | Wild shape (Large)              |
+| 9th   | +6/+1        | +6   | +3   | +6   | Venom immunity                  |
+| 10th  | +7/+2        | +7   | +3   | +7   | Wild shape (4/day)              |
+| 11th  | +8/+3        | +7   | +3   | +7   | Wild shape (Tiny)               |
+| 12th  | +9/+4        | +8   | +4   | +8   | Wild shape (plant)              |
+| 13th  | +9/+4        | +8   | +4   | +8   | A thousand faces                |
+| 14th  | +10/+5       | +9   | +4   | +9   | Wild shape (5/day)              |
+| 15th  | +11/+6/+1    | +9   | +5   | +9   | Timeless body, wild shape (Huge)|
+| 16th  | +12/+7/+2    | +10  | +5   | +10  | Wild shape (elemental 1/day)    |
+| 17th  | +12/+7/+2    | +10  | +5   | +10  |                                 |
+| 18th  | +13/+8/+3    | +11  | +6   | +11  | Wild shape (6/day, elemental    \
+|       |              |      |      |      | 2/day)                          |
+| 19th  | +14/+9/+4    | +11  | +6   | +11  |                                 |
+| 20th  | +15/+10/+5   | +12  | +6   | +12  | Wild shape (elemental 3/day,    \
+|       |              |      |      |      | Huge elemental)                 |
 
 #### Table: Druid Spells Per Day
 
@@ -918,15 +947,16 @@ A druid's animal companion is different from a normal animal of its kind
 in many ways. A druid's animal companion is superior to a normal animal
 of its kind and has special powers, as described below.
 
-| Class Level | Bonus HD | Natural Armor Adj. | Str/Dex Adj. | Bonus Tricks | Special
-| ----------- | -------- | ------------------ | ------------ | ------------ | -------
-| 1st–2nd     | +0       | +0                 | +0           | 1            | Link, share spells
-| 3rd–5th     | +2       | +2                 | +1           | 2            | Evasion
-| 6th–8th     | +4       | +4                 | +2           | 3            | Devotion
-| 9th–11th    | +6       | +6                 | +3           | 4            | Multiattack
-| 12th–14th   | +8       | +8                 | +4           | 5            |
-| 15th–17th   | +10      | +10                | +5           | 6            | Improved evasion
-| 18th–20th   | +12      | +12                | +6           | 7            |
+|   Class   | Bonus | Natural    | Str/Dex | Bonus  |                    \
+|   Level   | HD    | Armor Adj. |   Adj.  | Tricks | Special            |
+| --------- | ----- | ---------- | ------- | ------ | ------------------ |
+| 1st–2nd   | +0    | +0         | +0      | 1      | Link, share spells |
+| 3rd–5th   | +2    | +2         | +1      | 2      | Evasion            |
+| 6th–8th   | +4    | +4         | +2      | 3      | Devotion           |
+| 9th–11th  | +6    | +6         | +3      | 4      | Multiattack        |
+| 12th–14th | +8    | +8         | +4      | 5      |                    |
+| 15th–17th | +10   | +10        | +5      | 6      | Improved evasion   |
+| 18th–20th | +12   | +12        | +6      | 7      |                    |
 
 **Animal Companion Basics:** Use the base statistics for a creature of
 the companion's kind, but make the following changes.
@@ -1183,55 +1213,67 @@ The monk's class skills (and the key ability for each skill) are
 
 #### Table: The Monk
 
-| Level | Attack Bonus | Fort | Ref | Will | Special
-| ----- | ------------ | ---- | --- | ---- | -------
-| 1st   | +0           | +2   | +2  | +2   | Bonus feat, flurry of blows, unarmed strike
-| 2nd   | +1           | +3   | +3  | +3   | Bonus feat, evasion
-| 3rd   | +2           | +3   | +3  | +3   | Still mind
-| 4th   | +3           | +4   | +4  | +4   | Ki strike (magic), slow fall 20 ft.
-| 5th   | +3           | +4   | +4  | +4   | Purity of body
-| 6th   | +4           | +5   | +5  | +5   | Bonus feat, slow fall 30 ft.
-| 7th   | +5           | +5   | +5  | +5   | Wholeness of body
-| 8th   | +6/+1        | +6   | +6  | +6   | Slow fall 40 ft.
-| 9th   | +6/+1        | +6   | +6  | +6   | Improved evasion
-| 10th  | +7/+2        | +7   | +7  | +7   | Ki strike (lawful), slow fall 50 ft.
-| 11th  | +8/+3        | +7   | +7  | +7   | Diamond body, greater flurry
-| 12th  | +9/+4        | +8   | +8  | +8   | Abundant step, slow fall 60 ft.
-| 13th  | +9/+4        | +8   | +8  | +8   | Diamond soul
-| 14th  | +10/+5       | +9   | +9  | +9   | Slow fall 70 ft.
-| 15th  | +11/+6/+1    | +9   | +9  | +9   | Quivering palm
-| 16th  | +12/+7/+2    | +10  | +10 | +10  | Ki strike (adamantine), slow fall 80 ft.
-| 17th  | +12/+7/+2    | +10  | +10 | +10  | Timeless body, tongue of the sun and moon
-| 18th  | +13/+8/+3    | +11  | +11 | +11  | Slow fall 90 ft.
-| 19th  | +14/+9/+4    | +11  | +11 | +11  | Empty body
-| 20th  | +15/+10/+5   | +12  | +12 | +12  | Perfect self, slow fall any distance
+|       | Base         | Fort | Ref  | Will |                            \
+| Level | Attack Bonus | Save | Save | Save | Special                    |
+| ----- | ------------ | ---- | ---- | ---- | -------------------------- |
+| 1st   | +0           | +2   | +2   | +2   | Bonus feat,                \
+|       |              |      |      |      | flurry of blows,           \
+|       |              |      |      |      | unarmed strike             |
+| 2nd   | +1           | +3   | +3   | +3   | Bonus feat, evasion        |
+| 3rd   | +2           | +3   | +3   | +3   | Still mind                 |
+| 4th   | +3           | +4   | +4   | +4   | Ki strike (magic),         \
+|       |              |      |      |      | slow fall 20 ft.           |
+| 5th   | +3           | +4   | +4   | +4   | Purity of body             |
+| 6th   | +4           | +5   | +5   | +5   | Bonus feat,                \
+|       |              |      |      |      | slow fall 30 ft.           |
+| 7th   | +5           | +5   | +5   | +5   | Wholeness of body          |
+| 8th   | +6/+1        | +6   | +6   | +6   | Slow fall 40 ft.           |
+| 9th   | +6/+1        | +6   | +6   | +6   | Improved evasion           |
+| 10th  | +7/+2        | +7   | +7   | +7   | Ki strike (lawful),        \
+|       |              |      |      |      | slow fall 50 ft.           |
+| 11th  | +8/+3        | +7   | +7   | +7   | Diamond body,              \
+|       |              |      |      |      | greater flurry             |
+| 12th  | +9/+4        | +8   | +8   | +8   | Abundant step,             \
+|       |              |      |      |      | slow fall 60 ft.           |
+| 13th  | +9/+4        | +8   | +8   | +8   | Diamond soul               |
+| 14th  | +10/+5       | +9   | +9   | +9   | Slow fall 70 ft.           |
+| 15th  | +11/+6/+1    | +9   | +9   | +9   | Quivering palm             |
+| 16th  | +12/+7/+2    | +10  | +10  | +10  | Ki strike (adamantine),    \
+|       |              |      |      |      | slow fall 80 ft.           |
+| 17th  | +12/+7/+2    | +10  | +10  | +10  | Timeless body,             \
+|       |              |      |      |      | tongue of the sun and moon |
+| 18th  | +13/+8/+3    | +11  | +11  | +11  | Slow fall 90 ft.           |
+| 19th  | +14/+9/+4    | +11  | +11  | +11  | Empty body                 |
+| 20th  | +15/+10/+5   | +12  | +12  | +12  | Perfect self,              \
+|       |              |      |      |      | slow fall any distance     |
 
 1. The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.
 
 #### Table: The Monk Continued
 
-| Level | Flurry of Blows    | Unarmed Damage¹ | AC Bonus | Unarmored Speed Bonus
-| ----- | ------------------ | --------------- | -------- | ---------------------
-| 1st   | –2/–2              | 1d6             | +0       | +0 ft.
-| 2nd   | –1/–1              | 1d6             | +0       | +0 ft.
-| 3rd   | +0/+0              | 1d6             | +0       | +10 ft.
-| 4th   | +1/+1              | 1d8             | +0       | +10 ft.
-| 5th   | +2/+2              | 1d8             | +1       | +10 ft.
-| 6th   | +3/+3              | 1d8             | +1       | +20 ft.
-| 7th   | +4/+4              | 1d8             | +1       | +20 ft.
-| 8th   | +5/+5/+0           | 1d10            | +1       | +20 ft.
-| 9th   | +6/+6/+1           | 1d10            | +1       | +30 ft.
-| 10th  | +7/+7/+2           | 1d10            | +2       | +30 ft.
-| 11th  | +8/+8/+8/+3        | 1d10            | +2       | +30 ft.
-| 12th  | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
-| 13th  | +9/+9/+9/+4        | 2d6             | +2       | +40 ft.
-| 14th  | +10/+10/+10/+5     | 2d6             | +2       | +40 ft.
-| 15th  | +11/+11/+11/+6/+1  | 2d6             | +3       | +50 ft.
-| 16th  | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
-| 17th  | +12/+12/+12/+7/+2  | 2d8             | +3       | +50 ft.
-| 18th  | +13/+13/+13/+8/+3  | 2d8             | +3       | +60 ft.
-| 19th  | +14/+14/+14/+9/+4  | 2d8             | +3       | +60 ft.
-| 20th  | +15/+15/+15/+10/+5 | 2d10            | +4       | +60 ft.
+|       |                    | Unarmed | AC    | Unarmored   \  
+| Level | Flurry of Blows    | Damage¹ | Bonus | Speed Bonus |
+| ----- | ------------------ | ------- | ----- | ----------- |
+| 1st   | –2/–2              | 1d6     | +0    | +0 ft.      |
+| 2nd   | –1/–1              | 1d6     | +0    | +0 ft.      |
+| 3rd   | +0/+0              | 1d6     | +0    | +10 ft.     |
+| 4th   | +1/+1              | 1d8     | +0    | +10 ft.     |
+| 5th   | +2/+2              | 1d8     | +1    | +10 ft.     |
+| 6th   | +3/+3              | 1d8     | +1    | +20 ft.     |
+| 7th   | +4/+4              | 1d8     | +1    | +20 ft.     |
+| 8th   | +5/+5/+0           | 1d10    | +1    | +20 ft.     |
+| 9th   | +6/+6/+1           | 1d10    | +1    | +30 ft.     |
+| 10th  | +7/+7/+2           | 1d10    | +2    | +30 ft.     |
+| 11th  | +8/+8/+8/+3        | 1d10    | +2    | +30 ft.     |
+| 12th  | +9/+9/+9/+4        | 2d6     | +2    | +40 ft.     |
+| 13th  | +9/+9/+9/+4        | 2d6     | +2    | +40 ft.     |
+| 14th  | +10/+10/+10/+5     | 2d6     | +2    | +40 ft.     |
+| 15th  | +11/+11/+11/+6/+1  | 2d6     | +3    | +50 ft.     |
+| 16th  | +12/+12/+12/+7/+2  | 2d8     | +3    | +50 ft.     |
+| 17th  | +12/+12/+12/+7/+2  | 2d8     | +3    | +50 ft.     |
+| 18th  | +13/+13/+13/+8/+3  | 2d8     | +3    | +60 ft.     |
+| 19th  | +14/+14/+14/+9/+4  | 2d8     | +3    | +60 ft.     |
+| 20th  | +15/+15/+15/+10/+5 | 2d10    | +4    | +60 ft.     |
 
 ### Class Features
 
