@@ -19,23 +19,6 @@ The common man varies greatly in build, appearance, and ability. Humans tend to 
 * Automatic Language: Anglic. Bonus Languages: Any.
 * Favored Class: Any.
 
-
-Psion
------
-
-The humans of Earth are slowly evolving the genetic ability to perform metaphysical feats, similar to the way engines of power are built to protect cities, power airships, and grow crops. Contrary to the careful intelligence of Earth's metaphysicists, the charmed exhibit this ability from charismatic force of self and can generally make magic happen at will.
-
-### Psion Traits
-
-* Medium-size: no special bonuses or penalties due to size.
-* Base land speed is 30 feet.
-* +2 genetic bonus on saving throws against enchantment spells or effects.
-* +2 genetic bonus on Diplomacy and Gather Information checks.
-* Automatic Languages: Anglic. Bonus Languages: Any.
-* Spell-Like Abilities: 1/day—*light*, *mage hand*, *prestidigitation*. Caster level 1st; save DC 10 + psion’s Cha modifier. Uses per day can be increased by taking the [Extra Uses Per Day](ExtraUsesPerDay) feat.
-* Favored Class: Any.
-
-
 Angler
 ------
 
@@ -59,7 +42,7 @@ Olympians hail from a region/city with an athletic and team sport culture. Their
 
 * Medium-size: no special bonuses or penalties due to size.
 * Base land speed is 30 feet.
-* +2 cultural bonus on Climb, Jump, and Move Silently checks.
+* +2 cultural bonus on Climb, Jump, and Balance checks.
 * +1 cultural bonus on attack rolls with thrown weapons and slings.
 * Automatic Languages: Anglic. Bonus Languages: Any.
 * Favored Class: Any.

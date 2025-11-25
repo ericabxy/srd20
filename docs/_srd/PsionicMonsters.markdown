@@ -1255,37 +1255,32 @@ Draconic, Giant, Goblin, Orc, Terran.
 
 ---Level Adjustment: +1.
 
-ELAN
+## ELAN
 
-  -------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                             Elan, 1st-Level Warrior
+|                          | Elan, 1st-Level Warrior
+|                          | Medium Aberration (Psionic)
+| **Hit Dice:**            | 1d8+1 (5 hp)
+| **Initiative:**          | +0
+| **Speed:**               | 30 ft. (6 squares)
+| **Armor Class:**         | 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
+| **Base Attack/Grapple:** | +1/+2
+| **Attack:**              | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
+| **Full Attack:**         | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
+| **Space/Reach:**         | 5 ft./5 ft.
+| **Special Attacks:**     | ---
+| **Special Qualities:**   | Repletion, resilience, resistance
+| **Saves:**               | Fort +3, Ref +0, Will --1
+| **Abilities:**           | Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6
+| **Skills:**              | Climb +3, Jump +3
+| **Feats:**               | Weapon Focus (warhammer)
+| **Environment:**         | Any
+| **Organization:**        | Congregate (2--4), squad (11--20 plus 2 3rdlevel sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5thlevel lieutenants, and 3 7thlevel captains)
+| **Challenge Rating:**    | 1/2
+| **Treasure:**            | Standard
+| **Alignment:**           | Usually neutral
+| **Advancement:**         | By character class
+| **Level Adjustment:**    | +0
                              
-                             Medium Aberration (Psionic)
-| **Hit Dice:**              1d8+1 (5 hp)
-| **Initiative:**            +0
-| **Speed:**                 30 ft. (6 squares)
-| **Armor Class:**           14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
-| **Base Attack/Grapple:**   +1/+2
-| **Attack:**                Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
-| **Full Attack:**           Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
-| **Space/Reach:**           5 ft./5 ft.
-| **Special Attacks:**       ---
-| **Special Qualities:**     Repletion, resilience, resistance
-| **Saves:**                 Fort +3, Ref +0, Will --1
-| **Abilities:**             Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6
-| **Skills:**                Climb +3, Jump +3
-| **Feats:**                 Weapon Focus (warhammer)
-| **Environment:**           Any
-| **Organization:**          Congregate (2--4), squad (11--20 plus 2 3rdlevel sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5thlevel lieutenants, and 3 7thlevel captains)
-| **Challenge Rating:**      1/2
-| **Treasure:**              Standard
-| **Alignment:**             Usually neutral
-| **Advancement:**           By character class
-                             
-| **Level Adjustment:**      +0
-                             
-  -------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Elans typically stand just under 6 feet tall and weigh in the
 neighborhood of 180 pounds, with men sometimes taller and heavier than
 women, but not always.
@@ -1432,37 +1427,32 @@ The save DC is Constitution-based.
 Once a gray glutton has used its exhalation, it must wait 4 rounds
 before it can exhale again.
 
-HALF-GIANT
+## HALF-GIANT
 
-  -------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                             Half-Giant, 1st-Level Warrior
+|                          | Half-Giant, 1st-Level Warrior
+|                          | Medium Giant (Psionic)
+| **Hit Dice:**            | 1d8+2 (6 hp)
+| **Initiative:**          | --1
+| **Speed:**               | 30 ft. (6 squares)
+| **Armor Class:**         | 13 (--1 Dex, +4 scale mail), touch 9, flat-footed 13
+| **Base Attack/Grapple:** | +1/+7
+| **Attack:**              | Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
+| **Full Attack:**         | Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
+| **Space/Reach:**         | 5 ft./5 ft.
+| **Special Attacks:**     | Psi-like abilities
+| **Special Qualities:**   | Fire acclimated, giant's stature, low-light vision
+| **Saves:**               | Fort +4, Ref --1, Will --1
+| **Abilities:**           | Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8
+| **Skills:**              | Listen +1, Spot +1
+| **Feats:**               | Weapon Focus (greatsword)
+| **Environment:**         | Warm desert
+| **Organization:**        | Team (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
+| **Challenge Rating:**    | 1
+| **Treasure:**            | Standard
+| **Alignment:**           | Usually neutral good
+| **Advancement:**         | By character class
+| **Level Adjustment:**    | +1
                              
-                             Medium Giant (Psionic)
-| **Hit Dice:**              1d8+2 (6 hp)
-| **Initiative:**            --1
-| **Speed:**                 30 ft. (6 squares)
-| **Armor Class:**           13 (--1 Dex, +4 scale mail), touch 9, flat-footed 13
-| **Base Attack/Grapple:**   +1/+7
-| **Attack:**                Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
-| **Full Attack:**           Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
-| **Space/Reach:**           5 ft./5 ft.
-| **Special Attacks:**       Psi-like abilities
-| **Special Qualities:**     Fire acclimated, giant's stature, low-light vision
-| **Saves:**                 Fort +4, Ref --1, Will --1
-| **Abilities:**             Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8
-| **Skills:**                Listen +1, Spot +1
-| **Feats:**                 Weapon Focus (greatsword)
-| **Environment:**           Warm desert
-| **Organization:**          Team (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-| **Challenge Rating:**      1
-| **Treasure:**              Standard
-| **Alignment:**             Usually neutral good
-| **Advancement:**           By character class
-                             
-| **Level Adjustment:**      +1
-                             
-  -------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Half-giants typically stand from 7 feet to nearly 8 feet tall and weigh
 from 250 to 400 pounds, with men noticeably taller and heavier than
 women.
@@ -1605,36 +1595,31 @@ affected by a *protection from evil *spell.
 useful for passing off the possessed body as the original. They also
 have a +8 racial bonus on Move Silently checks and Listen checks.
 
-MAENAD
+## MAENAD
 
-  -------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                             Maenad, 1st-Level Warrior
-                             
-                             Medium Humanoid (Maenad, Psionic)
-| **Hit Dice:**              1d8+1 (5 hp)
-| **Initiative:**            +0
-| **Speed:**                 30 ft. (6 squares)
-| **Armor Class:**           14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
-| **Base Attack/Grapple:**   +1/+2
-| **Attack:**                Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
-| **Full Attack:**           Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
-| **Space/Reach:**           5 ft./5 ft.
-| **Special Attacks:**       Psi-like abilities
-| **Special Qualities:**     Outburst
-| **Saves:**                 Fort +3, Ref +0, Will --1
-| **Abilities:**             Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8
-| **Skills:**                Climb +3, Jump +3
-| **Feats:**                 Weapon Focus (longsword)
-| **Environment:**           Warm hills
-| **Organization:**          Party (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-| **Challenge Rating:**      1/2
-| **Treasure:**              Standard
-| **Alignment:**             Usually neutral
-| **Advancement:**           By character class
-                             
-| **Level Adjustment:**      +0
-                             
-  -------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                          | Maenad, 1st-Level Warrior
+|                          | Medium Humanoid (Maenad, Psionic)
+| **Hit Dice:**            | 1d8+1 (5 hp)
+| **Initiative:**          | +0
+| **Speed:**               | 30 ft. (6 squares)
+| **Armor Class:**         | 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
+| **Base Attack/Grapple:** | +1/+2
+| **Attack:**              | Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
+| **Full Attack:**         | Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
+| **Space/Reach:**         | 5 ft./5 ft.
+| **Special Attacks:**     | Psi-like abilities
+| **Special Qualities:**   | Outburst
+| **Saves:**               | Fort +3, Ref +0, Will --1
+| **Abilities:**           | Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8
+| **Skills:**              | Climb +3, Jump +3
+| **Feats:**               | Weapon Focus (longsword)
+| **Environment:**         | Warm hills
+| **Organization:**        | Party (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
+| **Challenge Rating:**    | 1/2
+| **Treasure:**            | Standard
+| **Alignment:**           | Usually neutral
+| **Advancement:**         | By character class
+| **Level Adjustment:**    | +0
 
 Maenads typically stand more than 6 feet tall and weigh about 200
 pounds; males are the same height as and only marginally heavier than

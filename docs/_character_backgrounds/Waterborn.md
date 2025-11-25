@@ -1,5 +1,6 @@
 ---
-category: other-background
+categories:
+- human variant
 ---
 
 Waterborn
@@ -13,7 +14,7 @@ Due to generations of selective breeding and gene therapy, some humans are born 
 * Waterborn base land speed is 30 feet.
 * A waterborn has a swim speed of 15 feet. It can move through calm water at its indicated speed without making Swim checks. See [Swim Speed](#swim-speed) for details.
 * Low-light Vision: A waterborn can see twice as far as normal in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
-* Hold Breath: Waterborn can hold their breath for a number of rounds equal to 4 x their Constitution score before they risk drowning.
+* Hold Breath: Waterborn can hold their breath for a number of rounds equal to 4 × their Constitution score before they risk drowning.
 * Automatic Languages: Anglic. Bonus Languages: Any.
 * Favored Class: Any.
 
