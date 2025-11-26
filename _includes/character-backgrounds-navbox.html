@@ -74,17 +74,6 @@
     </td>
   </tr>
   <tr>
-    <th>Legendary Forest Backgrounds I</th>
-    <td>
-      {% for doc in site.character_backgrounds %}
-        {% if doc.category == "legendary-forest-background-i" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
     <th>Legendary Forest of Titan</th>
     <td>
       {% for doc in site.character_backgrounds %}
