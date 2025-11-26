@@ -1,7 +1,10 @@
 ---
-title: Litorian Racial Traits
-category: racial-traits
+title: Litorian
+categories:
+- arcana unearthed
 ---
+
+This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, pp 18 to 19.
 
 Litorian Racial Traits
 ----------------------
@@ -15,14 +18,20 @@ Litorian Racial Traits
 * +2 racial bonus on Intimidate, Search, Spot, Listen, and Wilderness Survival checks.
 * __Racial Levels:__ Unlike humans and some other races, litorians can take a few levels in “litorian” as a class to develop their racial qualities more fully.
 
-#### Table: The Litorian
+#### Litorian Racial Levels
 
 | Litorian Level | Base Attack Bonus | Fortitude Save | Reflex Save | Will Save | Special
 | :------------: | :---------------: | :------------: | :---------: | :-------: | -------
 | 1              | +1                | +2             | +2          | +0        | +1 Strength, +1 Dexterity
-| 2              | +2                | +3             | +3          | +0        | Scent, +10 feet in ground speed
-| 3              | +3                | +3             | +3          | +1        | +1 Constitution, +1 Dexterity, Bite feat for free
+| 2              | +2                | +3             | +3          | +0        | [Scent](Scent), +10 feet in ground speed
+| 3              | +3                | +3             | +3          | +1        | +1 Constitution, +1 Dexterity, [Bite](Bite) feat for free
 
----
+Copyright Notice
+----------------
 
 _Monte Cook’s Arcana Unearthed_ &copy;2003 Monte J. Cook.
+
+References
+----------
+
+The litorian appears to be a form of [Ailuranthrope](https://en.wikipedia.org/wiki/Werecat).

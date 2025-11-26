@@ -1,7 +1,10 @@
 ---
-title: Sibeccai Racial Traits
-category: racial-traits
+title: Sibeccai
+categories:
+- arcana unearthed
 ---
+
+This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, p 22.
 
 ### Sibeccai Racial Traits
 
@@ -14,6 +17,20 @@ category: racial-traits
 * __Bonus Languages:__ Any.
 * __Racial Levels:__ Unlike humans and some other races, sibeccai can take a few levels in “sibeccai” as a class to develop their racial qualities more fully.
 
----
+### Sibeccai Racial Levels
+
+| Level | Base | Fort | Ref  | Will | Special
+| :---: | :--: | :--: | :--: | :--: | -------
+| 1     |  +1  |  +2  |  +2  |  +0  | +1 Constitution, [Bite](Bite) feat for free
+| 2     |  +2  |  +3  |  +3  |  +0  | +1 Dexterity, [Scent](Scent)
+| 3     |  +3  |  +3  |  +3  |  +1  | +1 Strength, +1 Dexterity
+
+Copyright Notice
+----------------
 
 _Monte Cook’s Arcana Unearthed_ &copy;2003 Monte J. Cook.
+
+References
+----------
+
+The sibeccai appears to be a form of [cynocephalus](https://en.wikipedia.org/wiki/Cynocephaly).

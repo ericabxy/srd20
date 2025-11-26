@@ -1,7 +1,10 @@
 ---
-title: Giant Racial Traits
-category: racial-traits
+title: Giant
+categories:
+- arcana unearthed
 ---
+
+This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, pp 17 to 18.
 
 Giant Racial Traits
 -------------------
@@ -16,13 +19,14 @@ Giant Racial Traits
 * __Bonus Languages:__ Any.
 * __Racial Levels:__ Unlike humans and some other races, giants can take a few levels in “giant” as a class to become more giantish.
 
-#### Table: The Giant
+#### Giant Racial Levels
 
 | Giant Level | Base Attack Bonus | Fortitude Save | Reflex Save | Will Save | Special
 | 1           | +0                | +2             | +0          | +0        | +1 Strength, +1 Wisdom
 | 2           | +1                | +3             | +0          | +1        | +1 Wisdom, +1 Constitution
 | 3           | +2                | +3             | +1          | +1        | +1 Strength, +1 Constitution, increase to Large size
 
----
+Copyright Notice
+----------------
 
 _Monte Cook’s Arcana Unearthed_ &copy;2003 Monte J. Cook.
