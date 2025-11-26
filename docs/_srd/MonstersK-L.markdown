@@ -736,11 +736,9 @@ box is Tiny and has 40 hit points, hardness 20, and a break DC of
 Other forms of phylacteries can exist, such as rings, amulets, or
 similar items.
 
-LILLEND
+## LILLEND
 
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          | Large Outsider (Chaotic, Extraplanar, Good)
-                                           
+|                           | Large Outsider (Chaotic, Extraplanar, Good)
 | **Hit Dice:**             | 7d8+14 (45 hp)
 | **Initiative:**           | +3
 | **Speed:**                | 20 ft. (4 squares), fly 70 ft. (average)
@@ -761,17 +759,14 @@ LILLEND
 | **Treasure:**             | Standard
 | **Alignment:**            | Always chaotic good
 | **Advancement:**          | 8--10 HD (Large); 11--21 HD (Huge)
-                                           
 | **Level Adjustment:**     | +6
-                                           
-  ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A typical lillend's coils are 20 feet long. The creature weighs about
 3,800 pounds. A few lillends have male torsos.
 
 Lillends speak Celestial, Infernal, Abyssal, and Common.
 
-COMBAT
+### COMBAT
 
 Lillends are generally peaceful unless they intend vengeance against
 someone they believe guilty of harming, or even threatening, a favored
@@ -795,29 +790,15 @@ grapple as a free action without provoking an attack of opportunity. If
 it wins the grapple check, it establishes a hold and can constrict.
 
 
-**Spells:** A lillend casts arcane spells as a 6th-level
-bard.
+**Spells:** A lillend casts arcane spells as a 6th-level bard.
 
-*Typical Bard Spells Known *(3/4/3; save DC 14 + spell
-level): 0--- *dancing lights, daze, detect magic, lullaby,
-mage hand, read magic; *1st--- *charm
-person, cure light wounds, identify, sleep;
-*2nd---*hold person, invisibility, sound
-burst.*
+*Typical Bard Spells Known* (3/4/3; save DC 14 + spell level): 0--- *dancing lights, daze, detect magic, lullaby, mage hand, read magic;* 1st---*charm person, cure light wounds, identify, sleep;* 2nd---*hold person, invisibility, sound burst.*
 
-**Spell-Like Abilities:**
-3/day---*darkness, hallucinatory terrain
-*(DC 18), *knock, light;
-*1/day---*charm person *(DC
-15), *speak with animals, speak with
-plants*. Caster level 10th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** 3/day---*darkness, hallucinatory terrain* (DC 18), *knock, light;* 1/day---*charm person* (DC 15), *speak with animals, speak with plants*. Caster level 10th. The save DCs are Charisma-based.
 
-A lillend also has the bardic music ability as a 6th-level
-bard.
+A lillend also has the bardic music ability as a 6th-level bard.
 
-**Skills:** Lillends have a +4 racial bonus on Survival
-checks.
+**Skills:** Lillends have a +4 racial bonus on Survival checks.
 
 ## LIZARDFOLK
 
@@ -951,13 +932,9 @@ Locathahs lack teeth, claws, and other natural weapons, so they are not
 especially dangerous if unarmed. A weaponless locathah will generally
 turn and flee.
 
-**Skills:** A locathah has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or
-endangered.
+**Skills:** A locathah has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
 
-It can use the run action while swimming, provided it swims in a
-straight line.
+It can use the run action while swimming, provided it swims in a straight line.
 
 ## LYCANTHROPE
 
