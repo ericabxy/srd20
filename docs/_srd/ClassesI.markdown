@@ -16,23 +16,19 @@ category: srd-basic-rules-and-legal
 
 **Class Skills**
 
-The barbarian's class skills (and the key ability for each skill) are
-[Climb (Str)][4], [Craft (Int)][6], [Handle Animal (Cha)][14],
-[Intimidate (Cha)][17],
-[Jump (Str)][18],
-[Listen (Wis)][20], [Ride (Dex)][25],
-[Survival (Wis)][32], and [Swim (Str)][33].
+The barbarian's class skills (and the key ability for each skill) are [Climb (Str)][4], [Craft (Int)][6], [Handle Animal (Cha)][14], [Intimidate (Cha)][17], [Jump (Str)][18], [Listen (Wis)][20], [Ride (Dex)][25], [Survival (Wis)][32], and [Swim (Str)][33].
 
-**Skill Points at 1st Level:** (4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
 #### Table: The Barbarian
 
-|       | Base           | Fort | Ref  | Will \
+|       | Base           | Fort | Ref  | Will |\
 | Level | Attack Bonus   | Save | Save | Save | Special
 | ----- | -------------- | -----| -----| -----| -------
 | 1st   | +1             | +2   | +0   | +0   | Fast movement, illiteracy, \
+|-------+----------------+------+------+------+-----------------
 |       |                |      |      |      | rage 1/day
 | 2nd   | +2             | +3   | +0   | +0   | Uncanny dodge
 | 3rd   | +3             | +3   | +1   | +1   | Trap sense +1
@@ -215,18 +211,18 @@ The bard's class skills (and the key ability for each skill) are
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
 | ----- | - | --- | --- | --- | --- | --- | ---
-| 1st   | 2 | —   | —   | —   | —   | —   | —
-| 2nd   | 3 | 0   | —   | —   | —   | —   | —
-| 3rd   | 3 | 1   | —   | —   | —   | —   | —
-| 4th   | 3 | 2   | 0   | —   | —   | —   | —
-| 5th   | 3 | 3   | 1   | —   | —   | —   | —
-| 6th   | 3 | 3   | 2   | —   | —   | —   | —
-| 7th   | 3 | 3   | 2   | 0   | —   | —   | —
-| 8th   | 3 | 3   | 3   | 1   | —   | —   | —
-| 9th   | 3 | 3   | 3   | 2   | —   | —   | —
-| 10th  | 3 | 3   | 3   | 2   | 0   | —   | —
-| 11th  | 3 | 3   | 3   | 3   | 1   | —   | —
-| 12th  | 3 | 3   | 3   | 3   | 2   | —   | —
+| 1st   | 2 |  —  |  —  |  —  |  —  |  —  |  —
+| 2nd   | 3 | 0   |  —  |  —  |  —  |  —  |  —
+| 3rd   | 3 | 1   |  —  |  —  |  —  |  —  |  —
+| 4th   | 3 | 2   | 0   |  —  |  —  |  —  |  —
+| 5th   | 3 | 3   | 1   |  —  |  —  |  —  |  —
+| 6th   | 3 | 3   | 2   |  —  |  —  |  —  |  —
+| 7th   | 3 | 3   | 2   | 0   |  —  |  —  |  —
+| 8th   | 3 | 3   | 3   | 1   |  —  |  —  |  —
+| 9th   | 3 | 3   | 3   | 2   |  —  |  —  |  —
+| 10th  | 3 | 3   | 3   | 2   | 0   |  —  |  —
+| 11th  | 3 | 3   | 3   | 3   | 1   |  —  |  —
+| 12th  | 3 | 3   | 3   | 3   | 2   |  —  |  —
 | 13th  | 3 | 3   | 3   | 3   | 2   | 0   | —
 | 14th  | 4 | 3   | 3   | 3   | 3   | 1   | —
 | 15th  | 4 | 4   | 3   | 3   | 3   | 2   | —
@@ -240,18 +236,18 @@ The bard's class skills (and the key ability for each skill) are
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
 | ----- | - | --- | --- | --- | --- | --- | ---
-| 1st   | 4 | —   | —   | —   | —   | —   | —
-| 2nd   | 5 | 2¹  | —   | —   | —   | —   | —
-| 3rd   | 6 | 3   | —   | —   | —   | —   | —
-| 4th   | 6 | 3   | 2¹  | —   | —   | —   | —
-| 5th   | 6 | 4   | 3   | —   | —   | —   | —
-| 6th   | 6 | 4   | 3   | —   | —   | —   | —
-| 7th   | 6 | 4   | 4   | 2¹  | —   | —   | —
-| 8th   | 6 | 4   | 4   | 3   | —   | —   | —
-| 9th   | 6 | 4   | 4   | 3   | —   | —   | —
-| 10th  | 6 | 4   | 4   | 4   | 2¹  | —   | —
-| 11th  | 6 | 4   | 4   | 4   | 3   | —   | —
-| 12th  | 6 | 4   | 4   | 4   | 3   | —   | —
+| 1st   | 4 |  —  |  —  |  —  |  —  |  —  |  —
+| 2nd   | 5 | 2¹  |  —  |  —  |  —  |  —  |  —
+| 3rd   | 6 | 3   |  —  |  —  |  —  |  —  |  —
+| 4th   | 6 | 3   | 2¹  |  —  |  —  |  —  |  —
+| 5th   | 6 | 4   | 3   |  —  |  —  |  —  |  —
+| 6th   | 6 | 4   | 3   |  —  |  —  |  —  |  —
+| 7th   | 6 | 4   | 4   | 2¹  |  —  |  —  |  —
+| 8th   | 6 | 4   | 4   | 3   |  —  |  —  |  —
+| 9th   | 6 | 4   | 4   | 3   |  —  |  —  |  —
+| 10th  | 6 | 4   | 4   | 4   | 2¹  |  —  |  —
+| 11th  | 6 | 4   | 4   | 4   | 3   |  —  |  —
+| 12th  | 6 | 4   | 4   | 4   | 3   |  —  |  —
 | 13th  | 6 | 4   | 4   | 4   | 4   | 2¹  | —
 | 14th  | 6 | 4   | 4   | 4   | 4   | 3   | —
 | 15th  | 6 | 4   | 4   | 4   | 4   | 3   | —
@@ -490,21 +486,20 @@ unless his deity's alignment is also neutral.
 
 The cleric's class skills (and the key ability for each skill) are
 [Concentration (Con)][5], [Craft (Int)][6], [Diplomacy (Cha)][8],
-[Heal (Wis)][15], [Knowledge (arcana) (Int)][19], Knowledge (history) (Int),
-Knowledge (religion) (Int), Knowledge (the planes) (Int),
+[Heal (Wis)][15], [Knowledge (arcana) (Int), Knowledge (history) (Int),
+Knowledge (religion) (Int), Knowledge (the planes) (Int)][19],
 [Profession (Wis)][24], and [Spellcraft (Int)][30].
 
 **Domains and Class Skills:** A cleric who chooses the Animal or Plant
 domain adds Knowledge (nature) (Int) to the cleric class skills listed
 above. A cleric who chooses the Knowledge domain adds all Knowledge
 (Int) skills to the list. A cleric who chooses the Travel domain adds
-[Survival (Wis)][32] to the list. A cleric who chooses the
-Trickery domain adds [Bluff (Cha)][3],
-[Disguise (Cha)][10], and
-[Hide (Dex)][15] to the list. See Deity,
-Domains, and Domain Spells, below, for more information.
+[Survival (Wis)][32] to the list. A cleric who chooses the Trickery
+domain adds [Bluff (Cha)][3], [Disguise (Cha)][10], and
+[Hide (Dex)][15] to the list. See Deity, Domains, and Domain Spells,
+below, for more information.
 
-**Skill Points at 1st Level:** (2 + Int modifier)×4.
+**Skill Points at 1st Level:** (2 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
@@ -540,22 +535,22 @@ Domains, and Domain Spells, below, for more information.
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
 | ----- | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| 1st   | 3 | 1+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 2nd   | 4 | 2+1 | —   | —   | —   | —   | —   | —   | —   | —
-| 3rd   | 4 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —
-| 4th   | 5 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —   | —
-| 5th   | 5 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —   | —
-| 6th   | 5 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —   | —
-| 7th   | 6 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —   | —
-| 8th   | 6 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —   | —
-| 9th   | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —   | —
-| 10th  | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —   | —
-| 11th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —   | —
-| 12th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —   | —
-| 13th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —   | —
-| 14th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —   | —
-| 15th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | —
-| 16th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | —
+| 1st   | 3 | 1+1 |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 2nd   | 4 | 2+1 |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 3rd   | 4 | 2+1 | 1+1 |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 4th   | 5 | 3+1 | 2+1 |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 5th   | 5 | 3+1 | 2+1 | 1+1 |  —  |  —  |  —  |  —  |  —  |  —
+| 6th   | 5 | 3+1 | 3+1 | 2+1 |  —  |  —  |  —  |  —  |  —  |  —
+| 7th   | 6 | 4+1 | 3+1 | 2+1 | 1+1 |  —  |  —  |  —  |  —  |  —
+| 8th   | 6 | 4+1 | 3+1 | 3+1 | 2+1 |  —  |  —  |  —  |  —  |  —
+| 9th   | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |  —  |  —  |  —  |  —
+| 10th  | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |  —  |  —  |  —  |  —
+| 11th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |  —  |  —  |  —
+| 12th  | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |  —  |  —  |  —
+| 13th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |  —  |  —
+| 14th  | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |  —  |  —
+| 15th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |  —
+| 16th  | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |  —
 | 17th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1
 | 18th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1
 | 19th  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1
@@ -695,7 +690,7 @@ The druid's class skills (and the key ability for each skill) are
 [Spellcraft (Int)][30], [Spot (Wis)][31], [Survival (Wis)][32], and
 [Swim (Str)][33].
 
-**Skill Points at 1st Level:** (4 + Int modifier)×4.
+**Skill Points at 1st Level:** (4 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
@@ -732,20 +727,20 @@ The druid's class skills (and the key ability for each skill) are
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
 | ----- | - | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| 1st   | 3 | 1   | —   | —   | —   | —   | —   | —   | —   | —
-| 2nd   | 4 | 2   | —   | —   | —   | —   | —   | —   | —   | —
-| 3rd   | 4 | 2   | 1   | —   | —   | —   | —   | —   | —   | —
-| 4th   | 5 | 3   | 2   | —   | —   | —   | —   | —   | —   | —
-| 5th   | 5 | 3   | 2   | 1   | —   | —   | —   | —   | —   | —
-| 6th   | 5 | 3   | 3   | 2   | —   | —   | —   | —   | —   | —
-| 7th   | 6 | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —
-| 8th   | 6 | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —
-| 9th   | 6 | 4   | 4   | 3   | 2   | 1   | —   | —   | —   | —
-| 10th  | 6 | 4   | 4   | 3   | 3   | 2   | —   | —   | —   | —
-| 11th  | 6 | 5   | 4   | 4   | 3   | 2   | 1   | —   | —   | —
-| 12th  | 6 | 5   | 4   | 4   | 3   | 3   | 2   | —   | —   | —
-| 13th  | 6 | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —   | —
-| 14th  | 6 | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —   | —
+| 1st   | 3 | 1   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 2nd   | 4 | 2   |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 3rd   | 4 | 2   | 1   |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 4th   | 5 | 3   | 2   |  —  |  —  |  —  |  —  |  —  |  —  |  —
+| 5th   | 5 | 3   | 2   | 1   |  —  |  —  |  —  |  —  |  —  |  —
+| 6th   | 5 | 3   | 3   | 2   |  —  |  —  |  —  |  —  |  —  |  —
+| 7th   | 6 | 4   | 3   | 2   | 1   |  —  |  —  |  —  |  —  |  —
+| 8th   | 6 | 4   | 3   | 3   | 2   |  —  |  —  |  —  |  —  |  —
+| 9th   | 6 | 4   | 4   | 3   | 2   | 1   |  —  |  —  |  —  |  —
+| 10th  | 6 | 4   | 4   | 3   | 3   | 2   |  —  |  —  |  —  |  —
+| 11th  | 6 | 5   | 4   | 4   | 3   | 2   | 1   |  —  |  —  |  —
+| 12th  | 6 | 5   | 4   | 4   | 3   | 3   | 2   |  —  |  —  |  —
+| 13th  | 6 | 5   | 5   | 4   | 4   | 3   | 2   | 1   |  —  |  —
+| 14th  | 6 | 5   | 5   | 4   | 4   | 3   | 3   | 2   |  —  |  —
 | 15th  | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —
 | 16th  | 6 | 5   | 5   | 5   | 4   | 4   | 3   | 3   | 2   | —
 | 17th  | 6 | 5   | 5   | 5   | 5   | 4   | 4   | 3   | 2   | 1
@@ -1141,7 +1136,7 @@ The fighter's class skills (and the key ability for each skill) are
 [Intimidate (Cha)][17], [Jump (Str)][18], [Ride (Dex)][25], and
 [Swim (Str)][33].
 
-**Skill Points at 1st Level:** (2 + Int modifier)×4.
+**Skill Points at 1st Level:** (2 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
@@ -1199,15 +1194,9 @@ of fighter bonus feats when choosing these feats.
 
 ### Class Skills
 
-The monk's class skills (and the key ability for each skill) are
-[Balance (Dex)][2], [Climb (Str)][4], [Concentration (Con)][5],
-[Craft (Int)][6], [Diplomacy (Cha)][8], [Escape Artist (Dex)][11],
-[Hide (Dex)][15], [Jump (Str)][18], [Knowledge (arcana) (Int)][19],
-[Knowledge (religion) (Int)][19], [Listen (Wis)][20], [Move Silently (Dex)][21],
-[Perform (Cha)][23], [Profession (Wis)][24], [Sense Motive (Wis)][27],
-[Spot (Wis)][31], [Swim (Str)][33], and [Tumble (Dex)][34].
+The monk's class skills (and the key ability for each skill) are [Balance (Dex)][2], [Climb (Str)][4], [Concentration (Con)][5], [Craft (Int)][6], [Diplomacy (Cha)][8], [Escape Artist (Dex)][11], [Hide (Dex)][15], [Jump (Str)][18], [Knowledge (arcana) (Int)][19], [Knowledge (religion) (Int)][19], [Listen (Wis)][20], [Move Silently (Dex)][21], [Perform (Cha)][23], [Profession (Wis)][24], [Sense Motive (Wis)][27], [Spot (Wis)][31], [Swim (Str)][33], and [Tumble (Dex)][34].
 
-**Skill Points at 1st Level:** (4 + Int modifier)×4.
+**Skill Points at 1st Level:** (4 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
@@ -1251,7 +1240,7 @@ The monk's class skills (and the key ability for each skill) are
 
 #### Table: The Monk Continued
 
-|       |                    | Unarmed | AC    | Unarmored   \  
+|       |                    | Unarmed | AC    | Unarmored   \
 | Level | Flurry of Blows    | Damage¹ | Bonus | Speed Bonus |
 | ----- | ------------------ | ------- | ----- | ----------- |
 | 1st   | –2/–2              | 1d6     | +0    | +0 ft.      |
@@ -1279,77 +1268,31 @@ The monk's class skills (and the key ability for each skill) are
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency:** Monks are proficient with club,
-crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku,
-quarterstaff, sai, shuriken, siangham, and sling.
+**Weapon and Armor Proficiency:** Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling.
 
 Monks are not proficient with any armor or shields
 
-When wearing armor, using a shield, or carrying a medium or heavy load,
-a monk loses her AC bonus, as well as her fast movement and flurry of
-blows abilities.
+When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities.
 
-**AC Bonus (Ex):** When unarmored and unencumbered, the monk adds her
-Wisdom bonus (if any) to her AC. In addition, a monk gains a +1 bonus to
-AC at 5th level. This bonus increases by 1 for every five monk levels
-thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
+**AC Bonus (Ex):** When unarmored and unencumbered, the monk adds her Wisdom bonus (if any) to her AC. In addition, a monk gains a +1 bonus to AC at 5th level. This bonus increases by 1 for every five monk levels thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
 
-These bonuses to AC apply even against touch attacks or when the monk is
-flat-footed. She loses these bonuses when she is immobilized or
-helpless, when she wears any armor, when she carries a shield, or when
-she carries a medium or heavy load.
+These bonuses to AC apply even against touch attacks or when the monk is flat-footed. She loses these bonuses when she is immobilized or helpless, when she wears any armor, when she carries a shield, or when she carries a medium or heavy load.
 
-**Flurry of Blows (Ex):** When unarmored, a monk may strike with a
-flurry of blows at the expense of accuracy. When doing so, she may make
-one extra attack in a round at her highest base attack bonus, but this
-attack takes a --2 penalty, as does each other attack made that round.
-The resulting modified base attack bonuses are shown in the Flurry of
-Blows Attack Bonus column on Table: The Monk. This penalty applies for 1
-round, so it also affects attacks of opportunity the monk might make
-before her next action. When a monk reaches 5th level, the penalty
-lessens to --1, and at 9th level it disappears. A monk must use a full
-attack action to strike with a flurry of blows.
+**Flurry of Blows (Ex):** When unarmored, a monk may strike with a flurry of blows at the expense of accuracy. When doing so, she may make one extra attack in a round at her highest base attack bonus, but this attack takes a --2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are shown in the Flurry of Blows Attack Bonus column on Table: The Monk. This penalty applies for 1 round, so it also affects attacks of opportunity the monk might make before her next action. When a monk reaches 5th level, the penalty lessens to --1, and at 9th level it disappears. A monk must use a full attack action to strike with a flurry of blows.
 
-When using flurry of blows, a monk may attack only with unarmed strikes
-or with special monk weapons (kama, nunchaku, quarterstaff, sai,
-shuriken, and siangham). She may attack with unarmed strikes and special
-monk weapons interchangeably as desired. When using weapons as part of a
-flurry of blows, a monk applies her Strength bonus (not Str bonus x
-1-1/2 or x1/2) to her damage rolls for all successful attacks, whether
-she wields a weapon in one or both hands. The monk can't use any weapon
-other than a special monk weapon as part of a flurry of blows.
+When using flurry of blows, a monk may attack only with unarmed strikes or with special monk weapons (kama, nunchaku, quarterstaff, sai, shuriken, and siangham). She may attack with unarmed strikes and special monk weapons interchangeably as desired. When using weapons as part of a flurry of blows, a monk applies her Strength bonus (not Str bonus × 1-1/2 or × 1/2) to her damage rolls for all successful attacks, whether she wields a weapon in one or both hands. The monk can't use any weapon other than a special monk weapon as part of a flurry of blows.
 
-In the case of the quarterstaff, each end counts as a separate weapon
-for the purpose of using the flurry of blows ability. Even though the
-quarterstaff requires two hands to use, a monk may still intersperse
-unarmed strikes with quarterstaff strikes, assuming that she has enough
-attacks in her flurry of blows routine to do so.
+In the case of the quarterstaff, each end counts as a separate weapon for the purpose of using the flurry of blows ability. Even though the quarterstaff requires two hands to use, a monk may still intersperse unarmed strikes with quarterstaff strikes, assuming that she has enough attacks in her flurry of blows routine to do so.
 
-When a monk reaches 11th level, her flurry of blows ability improves. In
-addition to the standard single extra attack she gets from flurry of
-blows, she gets a second extra attack at her full base attack bonus.
+When a monk reaches 11th level, her flurry of blows ability improves. In addition to the standard single extra attack she gets from flurry of blows, she gets a second extra attack at her full base attack bonus.
 
-**Unarmed Strike:** At 1st level, a monk gains Improved Unarmed Strike
-as a bonus feat. A monk's attacks may be with either fist
-interchangeably or even from elbows, knees, and feet. This means that a
-monk may even make unarmed strikes with her hands full. There is no such
-thing as an off-hand attack for a monk striking unarmed. A monk may thus
-apply her full Strength bonus on damage rolls for all her unarmed
-strikes.
+**Unarmed Strike:** At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk's attacks may be with either fist interchangeably or even from elbows, knees, and feet. This means that a monk may even make unarmed strikes with her hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
 
-Usually a monk's unarmed strikes deal lethal damage, but she can choose
-to deal nonlethal damage instead with no penalty on her attack roll. She
-has the same choice to deal lethal or nonlethal damage while grappling.
+Usually a monk's unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while grappling.
 
-A monk's unarmed strike is treated both as a manufactured weapon and a
-natural weapon for the purpose of spells and effects that enhance or
-improve either manufactured weapons or natural weapons.
+A monk's unarmed strike is treated both as a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons.
 
-A monk also deals more damage with her unarmed strikes than a normal
-person would, as shown on Table: The Monk. The unarmed damage on Table:
-The Monk is for Medium monks. A Small monk deals less damage than the
-amount given there with her unarmed attacks, while a Large monk deals
-more damage; see Table: Small or Large Monk Unarmed Damage.
+A monk also deals more damage with her unarmed strikes than a normal person would, as shown on Table: The Monk. The unarmed damage on Table: The Monk is for Medium monks. A Small monk deals less damage than the amount given there with her unarmed attacks, while a Large monk deals more damage; see Table: Small or Large Monk Unarmed Damage.
 
 #### Table: Small or Large Monk Unarmed Damage
 
@@ -1362,121 +1305,45 @@ more damage; see Table: Small or Large Monk Unarmed Damage.
 | 16th–19th  | 2d6                 | 3d8
 | 20th       | 2d8                 | 4d8
 
-**Bonus Feat:** At 1st level, a monk may select either Improved Grapple
-or Stunning Fist as a bonus feat. At 2nd level, she may select either
-Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may
-select either Improved Disarm or Improved Trip as a bonus feat. A monk
-need not have any of the prerequisites normally required for these feats
-to select them.
+**Bonus Feat:** At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
 
-**Evasion (Ex):** At 2nd level or higher if a monk makes a successful
-Reflex saving throw against an attack that normally deals half damage on
-a successful save, she instead takes no damage. Evasion can be used only
-if a monk is wearing light armor or no armor. A helpless monk does not
-gain the benefit of evasion.
+**Evasion (Ex):** At 2nd level or higher if a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
 
-**Fast Movement (Ex):** At 3rd level, a monk gains an enhancement bonus
-to her speed, as shown on Table: The Monk. A monk in armor or carrying a
-medium or heavy load loses this extra speed.
+**Fast Movement (Ex):** At 3rd level, a monk gains an enhancement bonus to her speed, as shown on Table: The Monk. A monk in armor or carrying a medium or heavy load loses this extra speed.
 
-**Still Mind (Ex):** A monk of 3rd level or higher gains a +2 bonus on
-saving throws against spells and effects from the school of enchantment.
+**Still Mind (Ex):** A monk of 3rd level or higher gains a +2 bonus on saving throws against spells and effects from the school of enchantment.
 
-**_Ki_ Strike (Su):** At 4th level, a monk's unarmed attacks are
-empowered with *ki. *Her unarmed attacks are treated as magic weapons
-for the purpose of dealing damage to creatures with damage reduction.
-*Ki* strike improves with the character's monk level. At 10th level, her
-unarmed attacks are also treated as lawful weapons for the purpose of
-dealing damage to creatures with damage reduction. At 16th level, her
-unarmed attacks are treated as adamantine weapons for the purpose of
-dealing damage to creatures with damage reduction and bypassing
-hardness.
+**_Ki_ Strike (Su):** At 4th level, a monk's unarmed attacks are empowered with *ki*. Her unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction. *Ki* strike improves with the character's monk level. At 10th level, her unarmed attacks are also treated as lawful weapons for the purpose of dealing damage to creatures with damage reduction. At 16th level, her unarmed attacks are treated as adamantine weapons for the purpose of dealing damage to creatures with damage reduction and bypassing hardness.
 
-**Slow Fall (Ex):** At 4th level or higher, a monk within arm's reach of
-a wall can use it to slow her descent. When first using this ability,
-she takes damage as if the fall were 20 feet shorter than it actually
-is. The monk's ability to slow her fall (that is, to reduce the
-effective distance of the fall when next to a wall) improves with her
-monk level until at 20th level she can use a nearby wall to slow her
-descent and fall any distance without harm.
+**Slow Fall (Ex):** At 4th level or higher, a monk within arm's reach of a wall can use it to slow her descent. When first using this ability, she takes damage as if the fall were 20 feet shorter than it actually is. The monk's ability to slow her fall (that is, to reduce the effective distance of the fall when next to a wall) improves with her monk level until at 20th level she can use a nearby wall to slow her descent and fall any distance without harm.
 
-**Purity of Body (Ex):** At 5th level, a monk gains immunity to all
-diseases except for supernatural and magical diseases.
+**Purity of Body (Ex):** At 5th level, a monk gains immunity to all diseases except for supernatural and magical diseases.
 
-**Wholeness of Body (Su):** At 7th level or higher, a monk can heal her
-own wounds. She can heal a number of hit points of damage equal to twice
-her current monk level each day, and she can spread this healing out
-among several uses.
+**Wholeness of Body (Su):** At 7th level or higher, a monk can heal her own wounds. She can heal a number of hit points of damage equal to twice her current monk level each day, and she can spread this healing out among several uses.
 
-**Improved Evasion (Ex):** At 9th level, a monk's evasion ability
-improves. She still takes no damage on a successful Reflex saving throw
-against attacks, but henceforth she takes only half damage on a failed
-save. A helpless monk does not gain the benefit of improved evasion.
+**Improved Evasion (Ex):** At 9th level, a monk's evasion ability improves. She still takes no damage on a successful Reflex saving throw against attacks, but henceforth she takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.
 
-**Diamond Body (Su):** At 11th level, a monk gains immunity to poisons
-of all kinds.
+**Diamond Body (Su):** At 11th level, a monk gains immunity to poison of all kinds.
 
-**Abundant Step (Su):** At 12th level or higher, a monk can slip
-magically between spaces, as if using the spell *dimension door, *once
-per day. Her caster level for this effect is one-half her monk level
-(rounded down).
+**Abundant Step (Su):** At 12th level or higher, a monk can slip magically between spaces, as if using the spell *dimension door*, once per day. Her caster level for this effect is one-half her monk level (rounded down).
 
-**Diamond Soul (Ex):** At 13th level, a monk gains spell resistance
-equal to her current monk level + 10. In order to affect the monk with a
-spell, a spellcaster must get a result on a caster level check (1d20 +
-caster level) that equals or exceeds the monk's spell resistance.
+**Diamond Soul (Ex):** At 13th level, a monk gains spell resistance equal to her current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk's spell resistance.
 
-**Quivering Palm (Su):** Starting at 15th level, a monk can set up
-vibrations within the body of another creature that can thereafter be
-fatal if the monk so desires. She can use this quivering palm attack
-once a week, and she must announce her intent before making her attack
-roll. Constructs, oozes, plants, undead, incorporeal creatures, and
-creatures immune to critical hits cannot be affected. Otherwise, if the
-monk strikes successfully and the target takes damage from the blow, the
-quivering palm attack succeeds. Thereafter the monk can try to slay the
-victim at any later time, as long as the attempt is made within a number
-of days equal to her monk level. To make such an attempt, the monk
-merely wills the target to die (a free action), and unless the target
-makes a Fortitude saving throw (DC 10 + 1/2 the monk's level + the
-monk's Wis modifier), it dies. If the saving throw is successful, the
-target is no longer in danger from that particular quivering palm
-attack, but it may still be affected by another one at a later time.
+**Quivering Palm (Su):** Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. She can use this quivering palm attack once a week, and she must announce her intent before making her attack roll. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to her monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a Fortitude saving throw (DC 10 + 1/2 the monk's level + the monk's Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time.
 
-**Timeless Body (Ex):** Upon attaining 17th level, a monk no longer
-takes penalties to her ability scores for aging and cannot be magically
-aged. Any such penalties that she has already taken, however, remain in
-place. Bonuses still accrue, and the monk still dies of old age when her
-time is up.
+**Timeless Body (Ex):** Upon attaining 17th level, a monk no longer takes penalties to her ability scores for aging and cannot be magically aged. Any such penalties that she has already taken, however, remain in place. Bonuses still accrue, and the monk still dies of old age when her time is up.
 
-**Tongue of the Sun and Moon (Ex):** A monk of 17th level or higher can
-speak with any living creature.
+**Tongue of the Sun and Moon (Ex):** A monk of 17th level or higher can speak with any living creature.
 
-**Empty Body (Su):** At 19th level, a monk gains the ability to assume
-an ethereal state for 1 round per monk level per day, as though using
-the spell *etherealness*. She may go ethereal on a number of different
-occasions during any single day, as long as the total number of rounds
-spent in an ethereal state does not exceed her monk level.
+**Empty Body (Su):** At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell *etherealness*. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level.
 
-**Perfect Self:** At 20th level, a monk becomes a magical creature. She
-is forevermore treated as an outsider rather than as a humanoid (or
-whatever the monk's creature type was) for the purpose of spells and
-magical effects. Additionally, the monk gains damage reduction 10/magic,
-which allows her to ignore the first 10 points of damage from any attack
-made by a nonmagical weapon or by any natural attack made by a creature
-that doesn't have similar damage reduction. Unlike other outsiders, the
-monk can still be brought back from the dead as if she were a member of
-her previous creature type.
+**Perfect Self:** At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk's creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/magic, which allows her to ignore the first 10 points of damage from any attack made by a nonmagical weapon or by any natural attack made by a creature that doesn't have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type.
 
 ### Ex-Monks
 
-A monk who becomes nonlawful cannot gain new levels as a monk but
-retains all monk abilities.
+A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.
 
-Like a member of any other class, a monk may be a multiclass character,
-but multiclass monks face a special restriction. A monk who gains a new
-class or (if already multiclass) raises another class by a level may
-never again raise her monk level, though she retains all her monk
-abilities.
+Like a member of any other class, a monk may be a multiclass character, but multiclass monks face a special restriction. A monk who gains a new class or (if already multiclass) raises another class by a level may never again raise her monk level, though she retains all her monk abilities.
 
 [1]: SkillsI#appraise
 [2]: SkillsI#balance
