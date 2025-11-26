@@ -1450,7 +1450,7 @@ that you attack.
 **Special:** A fighter may select Ride-By Attack as one
 of his fighter bonus feats.
 
-### RUN \[GENERAL\]
+### RUN \[GENERAL\] {#run}
 
 **Benefit:** When running, you move five times your
 normal speed (if wearing medium, light, or no armor and carrying no more

@@ -253,21 +253,13 @@ creature).
 A half-celestial uses all the base creature's statistics and special
 abilities except as noted here.
 
-**Size and Type:** The creature's type changes to
-outsider. Do not recalculate the creature's Hit Dice, base attack bonus,
-or saves. Size is unchanged. Half-celestials are normally native
-outsiders.
+**Size and Type:** The creature's type changes to outsider. Do not recalculate the creature's Hit Dice, base attack bonus, or saves. Size is unchanged. Half-celestials are normally native outsiders.
 
-**Speed:** A half-celestial has feathered wings and can
-fly at twice the base creature's base land speed (good maneuverability).
-If the base creature has a fly speed, use that instead.
+**Speed:** A half-celestial has feathered wings and can fly at twice the base creature's base land speed (good maneuverability). If the base creature has a fly speed, use that instead.
 
-**Armor Class:** Natural armor improves by +1 (this
-stacks with any natural armor bonus the base creature has).
+**Armor Class:** Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
 
-**Special Attacks:** A half-celestial retains all the
-special attacks of the base creature and also gains the following
-special abilities. 
+**Special Attacks:** A half-celestial retains all the special attacks of the base creature and also gains the following special abilities. 
 
 *Daylight (Su):* Half-celestials can use a *daylight* effect (as the
 spell) at will.
@@ -276,30 +268,24 @@ spell) at will.
 melee attack to deal extra damage equal to its HD (maximum of +20)
 against an evil foe.
 
-**Spell-Like Abilities:** A half-celestial with an
-Intelligence or Wisdom score of 8 or higher has two or more spell-like
-abilities, depending on its Hit Dice, as indicated on the table below.
-The abilities are cumulative
+**Spell-Like Abilities:** A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative
 
-Unless otherwise noted, an ability is usable once per day. Caster level
-equals the creature's HD, and the save DC is
-Charisma-based.
+Unless otherwise noted, an ability is usable once per day. Caster level equals the creature's HD, and the save DC is Charisma-based.
 
-| **HD** | **Abilities**
-| 1--2     *Protection from evil *3/day, *bless*
-| 3--4     *Aid, detect evil*
-| 5--6     *Cure serious wounds, neutralize poison*
-| 7--8     *Holy smite, remove disease*
-| 9--10    *Dispel evil*
-| 11--12   *Holy word*
-| 13--14   *Holy aura* 3/day, *hallow*
-| 15--16   *Mass charm monster*
-| 17--18   *Summon monster IX* (celestials only)
-| 19--20   *Resurrection*
+| HD     | Abilities
+| ------ | ---------
+| 1--2   | *Protection from evil *3/day, *bless*
+| 3--4   | *Aid, detect evil*
+| 5--6   | *Cure serious wounds, neutralize poison*
+| 7--8   | *Holy smite, remove disease*
+| 9--10  | *Dispel evil*
+| 11--12 | *Holy word*
+| 13--14 | *Holy aura* 3/day, *hallow*
+| 15--16 | *Mass charm monster*
+| 17--18 | *Summon monster IX* (celestials only)
+| 19--20 | *Resurrection*
 
-**Special Qualities:** A half-celestial has all the
-special qualities of the base creature, plus the following special
-qualities.
+**Special Qualities:** A half-celestial has all the special qualities of the base creature, plus the following special qualities.
 
 ---Darkvision out to 60 feet.
 
@@ -307,36 +293,23 @@ qualities.
 
 ---Resistance to acid 10, cold 10, and electricity 10.
 
----Damage reduction: 5/magic (if HD 11 or less) or 10/magic (if HD 12
-or more).
+---Damage reduction: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
 
----A half-celestial's natural weapons are treated as magic weapons for
-the purpose of overcoming damage reduction.
+---A half-celestial's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
----Spell resistance equal to creature's HD + 10 (maximum
-35).
+---Spell resistance equal to creature's HD + 10 (maximum 35).
 
 --- +4 racial bonus on Fortitude saves against poison.
 
-**Abilities:** Increase from the base creature as
-follows: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
+**Abilities:** Increase from the base creature as follows: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
 
-**Skills:** A half-celestial gains skill points as an
-outsider and has skill points equal to (8 + Int modifier) x(HD +3). Do
-not include Hit Dice from class levels in this calculation---the
-half-celestial gains outsider skill points only for its racial Hit Dice,
-and gains the normal amount of skill points for its class levels. Treat
-skills from the base creature's list as class skills, and other skills
-as cross-class. 
+**Skills:** A half-celestial gains skill points as an outsider and has skill points equal to (8 + Int modifier) x (HD +3). Do not include Hit Dice from class levels in this calculation---the half-celestial gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature's list as class skills, and other skills xas cross-class. 
 
-**Challenge Rating:** HD 5 or less, as base creature +1;
-HD 6 to 10, as base creature +2; HD 11 or more, as base creature
-+3.
+**Challenge Rating:** HD 5 or less, as base creature +1; HD 6 to 10, as base creature +2; HD 11 or more, as base creature +3.
 
 **Alignment:** Always good (any).
 
-**Level Adjustment:** Same as base creature
-+4.
+**Level Adjustment:** Same as base creature +4.
 
 ## HALF-DRAGON
 
@@ -404,7 +377,7 @@ modifier) reduces damage by half.
 | Dragon Variety | Breath Weapon                        |
 |----------------|--------------------------------------|
 | Black          | 60-foot line of acid                 |
-| Blue           | 60-foot ine of lightning             |
+| Blue           | 60-foot line of lightning            |
 | Green          | 30-foot cone of corrosive (acid) gas |
 | Red            | 30-foot cone of fire                 |
 | White          | 30-foot cone of cold                 |
@@ -419,23 +392,17 @@ qualities of the base creature, plus darkvision out to 60 feet and
 low-light vision. A half-dragon has immunity to *sleep* and paralysis
 effects, and an additional immunity based on its dragon variety.
 
-| **Dragon Variety** | **Immunity** | **Dragon Variety** | **Immunity**
-| Black              | Acid         | Brass              | Fire
-| Blue               | Electricity  | Bronze             | Electricity
-| Green              | Acid         | Copper             | Acid
-| Red                | Fire         | Gold               | Fire
-| White              | Cold         | Silver             | Cold
+| Dragon Variety | Immunity    | Dragon Variety | Immunity
+| -------------- | ----------- | -------------- | --------
+| Black          | Acid        | Brass          | Fire
+| Blue           | Electricity | Bronze         | Electricity
+| Green          | Acid        | Copper         | Acid
+| Red            | Fire        | Gold           | Fire
+| White          | Cold        | Silver         | Cold
                                                                                                      
-**Abilities:** Increase from the base creature as follows: Str +8,
-Con +2, Int +2, Cha +2.
+**Abilities:** Increase from the base creature as follows: Str +8, Con +2, Int +2, Cha +2.
 
-**Skills:** A half-dragon gains skill points as a dragon
-and has skill points equal to (6 + Int modifier) x(HD + 3). Do not
-include Hit Dice from class levels in this calculation---the half-dragon
-gains dragon skill points only for its racial Hit Dice, and gains the
-normal amount of skill points for its class levels. Treat skills from
-the base creature's list as class skills, and other skills as
-cross-class.
+**Skills:** A half-dragon gains skill points as a dragon and has skill points equal to (6 + Int modifier) x (HD + 3). Do not include Hit Dice from class levels in this calculation---the half-dragon gains dragon skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature's list as class skills, and other skills as cross-class.
 
 **Environment:** Same as either the base creature or the dragon variety.
 
@@ -445,7 +412,7 @@ cross-class.
 
 **Level Adjustment:** Same as base creature +3.
 
-## HALF-FIEND
+## HALF-FIEND 
 
 No matter its form, a half-fiend is always hideous to behold, having
 dark scales, horns, glowing red eyes, bat wings, a fetid odor, or some
@@ -522,9 +489,9 @@ the creature's HD, and the save DC is Charisma-based.
 | 9--10  | *Contagion*
 | 11--12 | *Blasphemy*
 | 13--14 | *Unholy aura* 3/day, *unhallow*
-| 15--16   *Horrid wilting*
-| 17--18   *Summon monster IX* (fiends only)
-| 19--20   *Destruction*
+| 15--16 | *Horrid wilting*
+| 17--18 | *Summon monster IX* (fiends only)
+| 19--20 | *Destruction*
 
 **Special Qualities:** A half-fiend has all the special
 qualities of the base creature, plus the following special
