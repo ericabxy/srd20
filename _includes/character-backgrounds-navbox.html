@@ -77,7 +77,7 @@
     <th>Planetary Romance Backgrounds</th>
     <td>
       {% for doc in site.character_backgrounds %}
-        {% if doc.category == "planetary-romance-background" %}
+        {% if doc.categories contains "planetary romance" %}
           <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
           {% unless forloop.last %}&bull;{% endunless %}
         {% endif %}

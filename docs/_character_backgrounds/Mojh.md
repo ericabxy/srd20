@@ -4,7 +4,7 @@ categories:
 - arcana unearthed
 ---
 
-This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, p 20.
+This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, (p. 20).
 
 ### Mojh Racial Traits
 
