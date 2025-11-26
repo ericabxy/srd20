@@ -9,24 +9,7 @@ Welcome to SRD20, a free role-playing game documentation project.
 
 {% include rules-variants.html %}
 
-Backgrounds
------------
-
 {% include character-backgrounds-navbox.html %}
-
-<table>
-<tr>
-<th>Character Backgrounds</th>
-<td>
-{% for doc in site.pages %}
-  {% if doc.category == "character-background" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
-</tr>
-</table>
 
 Open Game Content References
 ----------------------------

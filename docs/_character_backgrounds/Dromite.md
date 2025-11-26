@@ -1,5 +1,6 @@
 ---
-category: planetary-romance-background
+categories:
+- planetary romance
 ---
 
 Dromite
@@ -20,7 +21,6 @@ Dromite characters possess the following racial traits.
 * __Chitin:__ A dromite’s skin is hardened, almost like an exoskeleton, and grants the character a +1 natural armor bonus to AC and one of the following kinds of resistance to energy: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.
 * __Scent (Ex):__ Its antennae give a dromite the scent ability.
 * __Compound Eyes:__ This feature of its anatomy gives a dromite a +2 racial bonus on Spot checks.
-* __Favored Class:__ [Sorcerer](ClassesII#sorcerer).
 
 ### Scent
 

@@ -30,6 +30,17 @@
     </td>
   </tr>
   <tr>
+    <th>Arcana Unearthed</th>
+    <td>
+      {% for doc in site.character_backgrounds %}
+        {% if doc.categories contains "arcana unearthed" %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
     <th>The Five Main Humanoid Species</th>
     <td>
       <a href='MonstersO-R#orcs-as-characters'>Orcs</a> &bull;
@@ -43,7 +54,7 @@
     <th>Exotic Backgrounds</th>
     <td>
       <a href='MonstersO-R#aasimar-as-characters'>Aasimar</a> &bull;
-      <a href='MonstersH-J#half-dragon'>Half-dragon</a> &bull;
+      <a href='MonstersH-I#half-dragon'>Half-dragon</a> &bull;
       <a href='MonstersG#jann-as-characters'>Janni</a> &bull;
       <a href='MonstersO-R#tieflings-as-characters'>Tiefling</a>
     </td>
@@ -89,6 +100,17 @@
     <td>
       {% for doc in site.character_backgrounds %}
         {% if doc.categories contains "human variant" %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Variant Backgrounds</th>
+    <td>
+      {% for doc in site.character_backgrounds %}
+        {% if doc.categories contains "variant background" %}
           <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
           {% unless forloop.last %}&bull;{% endunless %}
         {% endif %}

@@ -1,5 +1,6 @@
 ---
-category: planetary-romance-background
+categories:
+- planetary romance
 ---
 
 Duergar
