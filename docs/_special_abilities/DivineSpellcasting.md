@@ -1,4 +1,5 @@
 ---
+title: Divine Spellcasting
 category: spell-like-ability
 ---
 
