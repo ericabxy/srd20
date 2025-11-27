@@ -1,5 +1,8 @@
 ---
 category: legendary-forest-of-titan-background
+opengamecontent:
+- Sprite (Pixie)
+- Faen (Loresong)
 ---
 
 Fairy
@@ -11,14 +14,15 @@ Favored class: sorcerer.
 
 Fairy characters possess the following racial traits.
 
-* --4 Strength, +4 Dexterity.
-* Fey type:
+* --4 Strength, +2 Dexterity, +2 Intelligence.
 * Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, --4 penalty on grapple checks, lifting and carrying limits 3/4 those of Medium characters.
-* Speed: A fairy’s base land speed is 20 feet.
-* Low-light vision.
-* Weapon Proficiency: Fairies are automatically proficient with the short sword and the composite longbow.
-* Skills: Fairies have a +2 racial bonus on Listen, Search, and Spot checks.
+* +2 racial bonus on Move Silently checks.
+* Fairy base land speed is 20 feet.
+* +2 racial bonus on Spellcraft checks.
 * Spell-like abilities: 1/day---*detect magic, ghost sound, dancing lights*. Caster level 1st; save DC 10 + Cha modifier + spell level.
+* Low-light vision. Fairies can see twice as far as humans in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
+* Automatic Languages: Common and Sylvan.
+* Bonus Languages: Any.
 
 References
 ----------

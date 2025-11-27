@@ -1,7 +1,8 @@
 ---
 title: Faen (Quickling)
 categories:
-- arcana unleashed
+- arcana unearthed
+- racial traits
 ---
 
 Faen (Quickling) Racial Traits

@@ -1,6 +1,7 @@
 ---
+title: Jungle Gnome
 categories:
-- variant backgrounds
+- variant background
 ---
 
 Jungle Gnome
@@ -18,5 +19,5 @@ Jungle gnomes live in and along the mighty rivers that wind through the jungles.
 * +2 racial bonus on Climb and Swim checks: Jungle gnomes live their lives clambering in and out of boats, and in and out of the water.
 * +2 racial bonus on Craft (shipbuilding) checks: A little lumber and a few simple tools make for a happy and industrious jungle gnome.
 * +2 racial bonus on Use Rope checks: Jungle gnomes consider rope the most useful tool on their boats.
-* Spell-Like Abilities: 1/day—speak with animals (burrowing mammal only, duration 1 minute). A gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day—dancing lights, ghost sound, prestidigitation. Caster level 1st; save DC 10 + gnome’s Cha modifier + spell level.
+* Spell-Like Abilities: 1/day—speak with animals (burrowing mammal only, duration 1 minute). A gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day—*dancing lights, ghost sound, prestidigitation.* Caster level 1st; save DC 10 + gnome’s Cha modifier + spell level.
 * Favored Class: Bard.

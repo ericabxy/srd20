@@ -2,6 +2,7 @@
 title: Giant
 categories:
 - arcana unearthed
+- racial traits
 ---
 
 This text is adapted from Chapter Two of _Monte Cook's Arcana Unearthed_, pp 17 to 18.

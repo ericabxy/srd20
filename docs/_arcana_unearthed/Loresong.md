@@ -1,7 +1,8 @@
 ---
 title: Faen (Loresong)
 categories:
-- arcana unleashed
+- arcana unearthed
+- racial traits
 ---
 
 Faen (Loresong) Racial Traits
@@ -9,7 +10,8 @@ Faen (Loresong) Racial Traits
 
 * Loresong faen receive a +2 racial bonus to Intelligence and a –2 racial penalty to Strength.
 * Small: Because they are Small creatures, all faen gain a +1 size bonus to Armor Class and attack rolls, and a +4 size bonus to all Sneak checks. They must use smaller-sized weapons and equipment, and can lift and carry only three-quarters as much as a Medium character.
-* Faen are light-footed and quiet when they wish to be, earning them a +2 racial bonus on Sneak checks. Faen base speed is 20 feet.
+* Faen are light-footed and quiet when they wish to be, earning them a +2 racial bonus on Sneak checks.
+* Faen base speed is 20 feet.
 * Loresong faen have an affinity for magic, which grants them a +2 racial bonus to Spellcraft.
 * Innate Spell-Like Abilities: 1/day— *detect magic, ghost sound,* and *lesser glowglobe.* Use the loresong faen’s character level as the caster level.
 * Low-Light Vision: Faen can see twice as far as humans in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
