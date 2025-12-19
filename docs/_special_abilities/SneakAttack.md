@@ -55,3 +55,31 @@ Wizard
 12th +6 +5d6
 16th +8 +6d6
 18th +9 +7d6
+
+Generic
+-------
+
+### Sneak Attack
+
+4 Ranks: +2d6 (1st level, base attack bonus +0)
+
+* 1st level: +1d6 (base attack bonus +0)
+* 3rd level: +2d6 (base attack bonus +2)
+* 5th level: +3d6 (base attack bonus +3)
+* 7th level: +4d6 (base attack bonus +5)
+
+### Improved Sneak Attack
+
+11 Ranks: +5d6 (8th level, base attack bonus +6/+1)
+
+* 9th level: +5d6 (base attack bonus +6/+1)
+* 11th level: +6d6 (base attack bonus +8/+3)
+* 13th level: +7d6 (base attack bonus +9/+4)
+
+### Greater Sneak Attack
+
+18 Ranks: +9d6 (15th level, base attack bonus +11/+6/+1)
+
+* 15th level: +8d6 (base attack bonus +11/+6/+1)
+* 17th level: +9d6 (base attack bonus +12/+7/+2)
+* 19th level: +10d6 (base attack bonus +14/+9/+4)
