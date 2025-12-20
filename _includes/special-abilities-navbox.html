@@ -7,35 +7,32 @@
     </th>
   </tr>
   <tr>
-    <th>Extraordinary Abilities</th>
+    <th>Extraordinary</th>
     <td>
-      {% for doc in site.special_abilities %}
-        {% if doc.category == "extraordinary-ability" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
+      {% assign docs = site.special_abilities | where: 'category', 'extraordinary' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}
     </td>
   </tr>
   <tr>
-    <th>Spell-Like Abilities</th>
+    <th>Spell-Like</th>
     <td>
-      {% for doc in site.special_abilities %}
-        {% if doc.category == "spell-like-ability" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
+      {% assign docs = site.special_abilities | where: 'category', 'spell-like' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}
     </td>
   </tr>
   <tr>
-    <th>Supernatural Abilities</th>
+    <th>Supernatural</th>
     <td>
-      {% for doc in site.special_abilities %}
-        {% if doc.category == "supernatural-ability" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
+      {% assign docs = site.special_abilities | where: 'category', 'supernatural' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}
     </td>
   </tr>

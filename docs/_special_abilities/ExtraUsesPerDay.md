@@ -1,6 +1,6 @@
 ---
 title: Extra Uses Per Day
-category: spell-like-ability
+category: spell-like
 ---
 
 Extra Uses Per Day

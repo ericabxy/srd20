@@ -1,6 +1,6 @@
 ---
 title: Divine Spellcasting
-category: spell-like-ability
+category: spell-like
 ---
 
 Divine Spellcasting

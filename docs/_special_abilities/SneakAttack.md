@@ -1,5 +1,5 @@
 ---
-category: extraordinary-ability
+category: extraordinary
 title: Sneak Attack
 ---
 
@@ -10,22 +10,28 @@ __Prerequisites:__ Base attack bonus +0.
 
 __Special:__ This feat can be taken multiple times. Each additional 1d6 of extra damage requires a higher base attack bonus.
 
-1d6: +0
-2d6: +2
-3d6: +3
-4d6: +5
-5d6: +6
-6d6: +8
-7d6: +9
-8d6: +11
-9d6: +12
-10d6: +14
++0 Sneak attack +1d6
++2 Sneak attack +2d6
++3 Sneak attack +3d6
++5 Sneak attack +4d6
 
-Sneak Attack, an ability associated with the rogue core class, is used across a myriad of other classes and prestige classes in modified form. Bonus damage typically stacks, unless the ability is renamed.
+Improved Sneak Attack
+---------------------
 
-Classless limits: Experience rank? (+1 at 1st level and increases by +1 every 4 levels thereafter)
+__Prerequisite:__ Base attack bonus +6.
 
-Bonuses do stack.
++6 Sneak attack +5d6
++8 Sneak attack +6d6
++9 Sneak attack +7d6
+
+Greater Sneak Attack
+--------------------
+
+__Prerequisite:__ Base attack bonus +11.
+
++11 Sneak attack +8d6
++12 Sneak attack +9d6
++14 Sneak attack +10d6
 
 Skirmish (Scout)
 --------

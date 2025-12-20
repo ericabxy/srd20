@@ -1,6 +1,6 @@
 ---
 title: Energy Ray
-category: spell-like-ability
+category: spell-like
 ---
 
 Energy Ray (Sp)

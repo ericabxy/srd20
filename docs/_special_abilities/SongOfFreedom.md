@@ -1,5 +1,5 @@
 ---
-category: spell-like-ability
+category: spell-like
 title: Song of Freedom
 ---
 
