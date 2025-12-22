@@ -1,39 +1,39 @@
 <table>
-  <tr>
-    <th colspan='3'>
-      <a href='{{ site.url }}{{ site.baseurl }}/AbilitiesandConditions#special-abilities'>
-        Special Abilities
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <th>Extraordinary</th>
-    <td>
-      {% assign docs = site.special_abilities | where: 'category', 'extraordinary' %}
-      {% for doc in docs %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-        {% unless forloop.last %}&bull;{% endunless %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Spell-Like</th>
-    <td>
-      {% assign docs = site.special_abilities | where: 'category', 'spell-like' %}
-      {% for doc in docs %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-        {% unless forloop.last %}&bull;{% endunless %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Supernatural</th>
-    <td>
-      {% assign docs = site.special_abilities | where: 'category', 'supernatural' %}
-      {% for doc in docs %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-        {% unless forloop.last %}&bull;{% endunless %}
-      {% endfor %}
-    </td>
-  </tr>
+<tr>
+  <th colspan='3'>
+    <a href='{{ site.url }}{{ site.baseurl }}/AbilitiesandConditions#special-abilities'>
+      Special Abilities
+    </a>
+  </th>
+</tr>
+<tr>
+  <th>Extraordinary</th>
+  <td>
+    {% assign docs = site.special_abilities | where_exp: 'item', 'item.categories contains "extraordinary ability"' %}
+    {% for doc in docs %}
+      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
+</tr>
+<tr>
+  <th>Spell-Like</th>
+  <td>
+    {% assign docs = site.special_abilities | where_exp: 'item', 'item.categories contains "spell-like ability"' %}
+    {% for doc in docs %}
+      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
+</tr>
+<tr>
+  <th>Supernatural</th>
+  <td>
+    {% assign docs = site.special_abilities | where_exp: 'item', 'item.categories contains "supernatural ability"' %}
+    {% for doc in docs %}
+      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
+</tr>
 </table>

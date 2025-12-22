@@ -1,3 +1,7 @@
+---
+title: Style Guide
+---
+
 Style Guide
 -----------
 

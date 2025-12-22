@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Experimenting With a New Theme"
+date:   2025-12-20 20:45:00 -0800
+---
+
+We've started using a theme designed for documentation. This is more appropriate than a blog format for the project since although useful, focus should be on reference rather than updates. There's also some impetus to move away from collections to store the knowledge base.

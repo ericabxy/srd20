@@ -1,0 +1,10 @@
+<table>
+<tr>
+<td>
+  Categories:
+  {% for cat in page.categories %}
+    {{ cat | capitalize }}
+    {% unless forloop.last %}&vert;{% endunless %}
+  {% endfor %}
+</td>
+</table>

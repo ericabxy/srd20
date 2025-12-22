@@ -1,49 +1,57 @@
 <table>
 <tr>
-<th colspan='2'>Modern System Reference doc</th>
+<th colspan='2'>Modern System Reference Document</th>
 </tr>
 <tr>
-<th>Modern Basics</th>
-<td>
-{% for doc in site.msrd %}
-  {% if doc.category == "modern-basics" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Modern Basics</th>
+  <td>
+    {% for item in site.modern_basics %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Arcana</th>
-<td>
-{% for doc in site.msrd %}
-  {% if doc.category == "arcana" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Arcana</th>
+  <td>
+    {% for item in site.arcana %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Future</th>
-<td>
-{% for doc in site.msrd %}
-  {% if doc.category == "future" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Future</th>
+  <td>
+    {% for item in site.future %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Menaces</th>
-<td>
-{% for doc in site.msrd %}
-  {% if doc.category == "menaces" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Menaces</th>
+  <td>
+    {% for item in site.menaces %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 </table>

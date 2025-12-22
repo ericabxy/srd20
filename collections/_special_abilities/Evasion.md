@@ -1,0 +1,35 @@
+---
+categories:
+- extraordinary ability
+- special ability
+title: Evasion
+---
+
+Evasion
+-------
+
+Monk class feature.
+
+__Prerequisite:__ Base Reflex save +3.
+
+Improved Evasion
+----------------
+
+__Prerequisite:__ Base Reflex save +7.
+
+
+Notes
+-----
+
+Evasion should be locked behind a character's base Reflex saving throw. Sources indicate you can gain evasion initially as early as +3. +7 reserves improved evasion for characters with exceptionally good reflexes.
+
+- Generic (2nd level, Ref +3)
+- Monk (2nd level, Ref +3)
+- Ranger (9th level, Ref +5)
+- Rogue (2nd level, Ref +3)
+- Shadowdancer (2nd level, Ref +3)
+- Dungeon Delver (4th level, Ref +4)
+- Ninja (12th level, Ref +8)
+- Scout (5th level, Ref +4)
+
+Evasion and improved evasion typically stack between classes. There is no benefit to gaining it a third time. No class gains it before 2nd level. Generic class bonus feats include the same prerequisites.

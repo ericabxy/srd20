@@ -1,54 +1,206 @@
 title: Srd20 Project
+email: ericabxy@gmail.com
+description: An Open Game Content documentation project.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ericabxy
 
-plugins:
-  - jekyll-spaceship
+theme: minima
 
-collections_dir: docs
+url: https://srd20.radicalgnu.xyz/
+
+permalink: /:title
+
+collections_dir: collections
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'default'
+  - scope:
+      path: ''
+      type: special_abilities
+    values:
+      layout: 'special-ability'
+  - scope:
+      path: ''
+      type: basic_rules
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: spells
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: magic_items
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: monsters
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: psionics
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: epic
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: divine
+    values:
+      categories:
+      - System Reference Document
+      layout: 'system-reference-document'
+  - scope:
+      path: ''
+      type: modern_basics
+    values:
+      categories:
+      - Modern System Reference Document
+      layout: 'modern-system-reference-document'
+  - scope:
+      path: ''
+      type: arcana
+    values:
+      categories:
+      - Modern System Reference Document
+      layout: 'modern-system-reference-document'
+  - scope:
+      path: ''
+      type: future
+    values:
+      categories:
+      - Modern System Reference Document
+      layout: 'modern-system-reference-document'
+  - scope:
+      path: ''
+      type: menaces
+    values:
+      categories:
+      - Modern System Reference Document
+      layout: 'modern-system-reference-document'
+
 collections:
-  srd:
-    output: true
-    permalink: /:title
-    sort_by: order
-  msrd:
-    output: true
-    permalink: /:title
-  arcana_unearthed:
-    output: true
-    permalink: /:title
-  character_backgrounds:
+  backgrounds:
     output: true
     permalink: /:title
   special_abilities:
     output: true
     permalink: /:title
-
-defaults:
-  -
-    scope:
-      path: ''
-    values:
-      layout: 'default'
-  -
-    scope:
-      path: ''
-      type: 'special_abilities'
-    values:
-      layout: 'special-ability'
-  -
-    scope:
-      path: ''
-      type: 'srd'
-    values:
-      layout: 'system-reference-document'
-  -
-    scope:
-      path: ''
-      type: 'msrd'
-    values:
-      layout: 'modern-system-reference-document'
-  -
-    scope:
-      path: ''
-      type: 'character_backgrounds'
-    values:
-      layout: 'character-backgrounds'
+  basic_rules:
+    output: true
+    permalink: /:title
+    categories:
+      - System Reference Document
+  spells:
+    output: true
+    permalink: /:title
+    categories:
+      - System Reference Document
+  magic_items:
+    output: true
+    permalink: /:title
+    order:
+      - MagicItemsI.markdown
+    categories:
+      - System Reference Document
+  monsters:
+    output: true
+    permalink: /:title
+    order:
+      - MonstersIntro-A.markdown
+      - MonstersB-C.markdown
+      - MonstersD-De.markdown
+      - MonstersDi-Do.markdown
+      - MonstersDr-Dw.markdown
+      - MonstersE-F.markdown
+  psionics:
+    output: true
+    permalink: /:title
+    order:
+      - PowersOverview.markdown
+    categories:
+      - System Reference Document
+  epic:
+    output: true
+    permalink: /:title
+    order:
+      - EpicLevelBasics.markdown
+    categories:
+      - System Reference Document
+  divine:
+    output: true
+    permalink: /:title
+    categories:
+      - System Reference Document
+  modern_basics:
+    output: true
+    permalink: /:title
+    categories:
+    - Modern System Reference Document
+  arcana:
+    output: true
+    permalink: /:title
+    categories:
+      - Modern System Reference Document
+  future:
+    output: true
+    permalink: /:title
+    categories:
+      - Modern System Reference Document
+  menaces:
+    output: true
+    permalink: /:title
+    categories:
+      - Modern System Reference Document
+  arcana_unearthed:
+    output: true
+    permalink: /:title
+# end of collections
+# collections for just-the-docs theme
+just_the_docs:
+  collections:
+    basic_rules:
+      name: SRD Basic Rules and Legal
+    spells:
+      name: SRD Spells
+    magic_items:
+      name: SRD Magic Items
+    monsters:
+      name: SRD Monsters
+    psionics:
+      name: SRD Psionics
+    epic:
+      name: SRD Epic
+    divine:
+      name: SRD Divine
+    modern_basics:
+      name: MSRD Modern Basics
+    arcana:
+      name: MSRD Arcana
+    future:
+      name: MSRD Future
+    menaces:
+      name: MSRD Menaces
+# end of collections for just-the-docs theme

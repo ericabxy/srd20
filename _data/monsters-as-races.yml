@@ -1,0 +1,77 @@
+-
+  name: Temperate
+  members:
+  - name: Aasimar
+    url: /MonstersO-R#aasimar-as-characters
+  - name: Bugbear
+    url: /MonstersB-C#bugbears-as-characters
+  - name: Centaur
+    url: /MonstersB-C#centaurs-as-characters
+  - name: Forest Gnome
+    url: /MonstersG#forest-gnome
+  - name: Goblin
+    url: /MonstersG#goblins-as-characters
+  - name: Hill giant
+    url: /MonstersG#hill-giants-as-characters
+  - name: Kobold
+    url: /MonstersK-L#kobold-characters
+  - name: Lizardfolk
+    url: /MonstersK-L#lizardfolk-as-characters
+  - name: Merfolk
+    url: /MonstersM-N#merfolk-characters
+  - name: Ogre
+    url: /MonstersO-R#ogres-as-characters
+  - name: Ogre Mage
+    url: /MonstersO-R#ogre-mages-as-characters
+  - name: Orc
+    url: /MonstersO-R#orcs-as-characters
+  - name: Pixie
+    url: /MonstersS#pixies-as-characters
+  - name: Rock Gnome
+    url: /MonstersG#gnome
+  - name: Satyr
+    url: /MonstersS#satyrs-as-characters
+  - name: Stone Giant
+    url: /MonstersG#stone-giants-as-characters
+  - name: Tiefling
+    url: /MonstersO-R#tieflings-as-characters
+  - name: Werewolf
+    url: /MonstersK-L#lycanthropes-as-characters
+-
+  name: Any
+  members:
+  - name: Doppelganger
+    url: /MonstersDi-Do#doppelgangers-as-characters
+  - name: Gargoyle
+    url: /MonstersG#gargoyles-as-characters
+  - name: Vampire
+    url: /MonstersT-Z#vampire-characters
+-
+  name: Warm
+  members:
+  - name: Gnoll
+    url: /MonstersG#gnolls-as-characters
+  - name: Hobgoblin
+    url: /MonstersH-I#hobgoblin-characters
+  - name: Janni
+    url: /MonstersG#jann-as-characters
+  - name: Rakshasa
+    url: /MonstersO-R#rakshasas-as-characters
+-
+  name: Underground
+  members:
+  - name: Grimlock
+    url: /MonstersG#grimlocks-as-characters
+  - name: Minotaur
+    url: /MonstersM-N#minotaurs-as-characters
+  - name: Svirfneblin
+    url: /MonstersG#svirfneblin
+  - name: Troglodyte
+    url: /MonstersT-Z#troglodyte-characters
+-
+  name: Extraplanar
+  members:
+  - name: Azer
+    url: /MonstersIntro-A#azers-as-characters
+  - name: Hound archon
+    url: /MonstersIntro-A#hound-archons-as-characters

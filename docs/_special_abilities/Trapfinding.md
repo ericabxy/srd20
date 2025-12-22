@@ -1,6 +1,0 @@
----
-category: extraordinary
----
-
-Trapfinding
------------

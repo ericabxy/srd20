@@ -1,82 +1,96 @@
 <table role='navigation'>
 <tr>
-<th colspan='2'>System Reference Document</th>
+  <th colspan='2'>System Reference Document</th>
 </tr>
 <tr>
-<th>Basic Rules and Legal</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-basic-rules-and-legal" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Basic Rules and Legal</th>
+  <td>
+    {% for item in site.basic_rules %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Spells</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-spells" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Spells</th>
+  <td>
+    {% for item in site.spells %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Magic Items</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-magic-items" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Magic Items</th>
+  <td>
+    {% for item in site.magic_items %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Monsters</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-monsters" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Monsters</th>
+  <td>
+    {% for item in site.monsters %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Psionics</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-psionics" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Psionics</th>
+  <td>
+    {% for item in site.psionics %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Epic</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-epic" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Epic</th>
+  <td>
+    {% for item in site.epic %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 <tr>
-<th>Divine</th>
-<td>
-{% for doc in site.srd %}
-  {% if doc.category == "srd-divine" %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    {% unless forloop.last %}&bull;{% endunless %}
-  {% endif %}
-{% endfor %}
-</td>
+  <th>Divine</th>
+  <td>
+    {% for item in site.divine %}
+      {% if item.url == page.url %}
+        {{ item.title }}
+      {% else %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+      {% unless forloop.last %}&bull;{% endunless %}
+    {% endfor %}
+  </td>
 </tr>
 </table>
