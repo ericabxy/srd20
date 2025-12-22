@@ -1,5 +1,7 @@
 ---
-parent: Arcana Unearthed
+categories:
+- Arcana Unearthed
+- extraordinary ability
 title: Bite
 ---
 

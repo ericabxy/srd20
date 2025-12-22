@@ -5,7 +5,8 @@
 <tr>
   <th>Modern Basics</th>
   <td>
-    {% for item in site.modern_basics %}
+    {% assign items = site.msrd | where: 'category', 'Modern Basics' %}
+    {% for item in items %}
       {% if item.url == page.url %}
         {{ item.title }}
       {% else %}
@@ -18,7 +19,8 @@
 <tr>
   <th>Arcana</th>
   <td>
-    {% for item in site.arcana %}
+    {% assign items = site.msrd | where: 'category', 'Arcana' %}
+    {% for item in items %}
       {% if item.url == page.url %}
         {{ item.title }}
       {% else %}
@@ -31,7 +33,8 @@
 <tr>
   <th>Future</th>
   <td>
-    {% for item in site.future %}
+    {% assign items = site.msrd | where: 'category', 'Future' %}
+    {% for item in items %}
       {% if item.url == page.url %}
         {{ item.title }}
       {% else %}
@@ -44,7 +47,8 @@
 <tr>
   <th>Menaces</th>
   <td>
-    {% for item in site.menaces %}
+    {% assign items = site.msrd | where: 'category', 'Menaces' %}
+    {% for item in items %}
       {% if item.url == page.url %}
         {{ item.title }}
       {% else %}

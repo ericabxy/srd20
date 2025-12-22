@@ -1,7 +1,7 @@
 ---
-categories:
-- character background
-- Planetary Romance
+favored_class: bard
+level_adjustment: 1
+power_points: 2
 title: Half-giant
 ---
 

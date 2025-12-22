@@ -1,5 +1,6 @@
 ---
-category: Arcana Unearthed
+categories:
+- Arcana Unearthed
 title: Giant
 ---
 

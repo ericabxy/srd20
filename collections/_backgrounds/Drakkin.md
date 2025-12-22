@@ -25,6 +25,24 @@ Drakkin characters possess the following traits.
 * Automatic Languages: Common and Draconic.
 * Bonus Languages: Any.
 
+### Breath Weapon (Experimental)
+
+__Prerequisites:__ Base attack bonus +2, base Will save +3.
+
+A cone of fire 30 feet long that inflicts 1d6 points of damage/character level (maximum 2d6). Reflex save (DC 11 + Con modifier) halves. Usable 1/day.
+
+#### Improved Breath Weapon
+
+__Prerequisite:__ Breath weapon.
+
+Damage maximum increases to 4d6. Reflex save (DC 12 + Con modifier) halves. Usable 2/day.
+
+#### Greater Breath Weapon
+
+__Prerequisites:__ Improved breath weapon, base attack bonus +3.
+
+Damage maximum increases to 6d6. Reflex save (DC 13 + Con modifier) halves. Usable 3/day.
+
 ### References
 
 This background is based on the SRD [kobold](MonstersK-L#kobold-characters), [lizardfolk](MonstersK-L#lizardfolk-as-characters), and [half-dragon](MonstersH-J#half-dragon), and the _Arcana Unleashed_ [mojh](Mojh).

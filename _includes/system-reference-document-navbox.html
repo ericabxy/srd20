@@ -5,9 +5,10 @@
 <tr>
   <th>Basic Rules and Legal</th>
   <td>
-    {% for item in site.basic_rules %}
+    {% assign items = site.srd | where: 'category', 'Basic Rules and Legal' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -18,9 +19,10 @@
 <tr>
   <th>Spells</th>
   <td>
-    {% for item in site.spells %}
+    {% assign items = site.srd | where: 'category', 'Spells' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -31,9 +33,10 @@
 <tr>
   <th>Magic Items</th>
   <td>
-    {% for item in site.magic_items %}
+    {% assign items = site.srd | where: 'category', 'Magic Items' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -44,9 +47,10 @@
 <tr>
   <th>Monsters</th>
   <td>
-    {% for item in site.monsters %}
+    {% assign items = site.srd | where: 'category', 'Monsters' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -57,9 +61,10 @@
 <tr>
   <th>Psionics</th>
   <td>
-    {% for item in site.psionics %}
+    {% assign items = site.srd | where: 'category', 'Psionics' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -70,9 +75,10 @@
 <tr>
   <th>Epic</th>
   <td>
-    {% for item in site.epic %}
+    {% assign items = site.srd | where: 'category', 'Epic' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
@@ -83,9 +89,10 @@
 <tr>
   <th>Divine</th>
   <td>
-    {% for item in site.divine %}
+    {% assign items = site.srd | where: 'category', 'Divine' %}
+    {% for item in items %}
       {% if item.url == page.url %}
-        {{ item.title }}
+        <strong>{{ item.title }}</strong>
       {% else %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}

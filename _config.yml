@@ -102,6 +102,12 @@ defaults:
       layout: 'modern-system-reference-document'
 
 collections:
+  srd:
+    output: true
+    permalink: /:title
+  msrd:
+    output: true
+    permalink: /:title
   backgrounds:
     output: true
     permalink: /:title

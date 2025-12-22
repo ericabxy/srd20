@@ -2,7 +2,7 @@
 categories:
 - character background
 - Planetary Romance
-title: Gnoll
+title: Gnoll, lesser
 ---
 
 Gnoll
@@ -22,12 +22,15 @@ Gnolls tend to favor the ranger class.
 
 * Run: When running, gnolls move five times their normal speed (if wearing medium, light, or no armor and carrying no more than a medium load). See the (run)[Feats#run] feat.
 
-Experiental
------------
+#### Powerful Jaws (Experimental)
 
-Access to [bite](Bite).
+__Prerequisite:__ Base attack bonus +1.
 
-Access to [scent](Scent).
+You may gain [bite](Bite) in place of the standard feat gained at 1st, 3rd, 6th, 9th, 12th, 15th, or 18th level.
+
+#### Keen Nose (Experimental)
+
+You may gain [scent](Scent) in place of the standard feat gained at 1st, 3rd, 6th, 9th, 12th, 15th, or 18th level.
 
 References
 ----------

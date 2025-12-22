@@ -1,7 +1,7 @@
 ---
-categories:
-- character background
-- Planetary Romance
+favored_class: wizard
+level_adjustment: 0
+power_points: 1
 title: Elan
 ---
 

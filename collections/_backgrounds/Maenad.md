@@ -1,7 +1,7 @@
 ---
-categories:
-- character background
-- Planetary Romance
+favored_class: sorcerer
+level_adjustment: 0
+power_points: 2
 title: Maenad
 ---
 

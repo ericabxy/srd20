@@ -1,0 +1,18 @@
+group:
+- name: Standard
+  members:
+  - name: Dwarves
+    url: MonstersDr-Dw#dwarf
+  - name: Elves
+    url: MonstersE-F#elf
+  - name: Gnomes
+    url: MonstersG#gnome
+  - name: Goblins
+    url: MonstersG#goblin
+  - name: Halflings
+    url: MonstersH-I#halfling
+  - name: Kobolds
+    url: MonstersK-L#kobold-characters
+  - name: Orcs
+    url: MonstersO-R#orcs-as-characters
+

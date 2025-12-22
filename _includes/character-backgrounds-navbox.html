@@ -3,133 +3,26 @@
   <th colspan='2'>Character Backgrounds</th>
 </tr>
 <tr>
-  <th>Planetary Romance</th>
-  <td>
-    {% assign docs = site.backgrounds | where_exp: 'item', 'item.categories contains "Planetary Romance"' %}
-    {% for doc in docs %}
-      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-      {% unless forloop.last %}&bull;{% endunless %}
-    {% endfor %}
-  </td>
-</tr>
-<tr>
-  <th>Legendary Forest of Titan</th>
-  <td>
-    {% for doc in site.backgrounds %}
-      {% if doc.category == "Legendary Forest" %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-        {% unless forloop.last %}&bull;{% endunless %}
-      {% endif %}
-    {% endfor %}
-  </td>
-</tr>
-  <tr>
-    <th>Arcana Unearthed</th>
-    <td>
-      {% for doc in site.backgrounds %}
-        {% if doc.category == "Arcana Unearthed" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Exotic</th>
-    <td>
-      <a href='MonstersO-R#aasimar-as-characters'>Aasimar</a> &bull;
-      <a href='MonstersH-I#half-dragon'>Half-dragon</a> &bull;
-      <a href='MonstersG#jann-as-characters'>Janni</a> &bull;
-      <a href='MonstersO-R#tieflings-as-characters'>Tiefling</a>
-    </td>
-  </tr>
-  <tr>
-    <th>Giants</th>
-    <td>
-      <a href='MonstersG#hill-giants-as-characters'>Hill Giant</a> &bull;
-      <a href='MonstersG#stone-giants-as-characters'>Stone Giant</a> &bull;
-      <a href='MonstersO-R#ogres-as-characters'>Ogre</a> &bull;
-      {% for doc in site.character_backgrounds %}
-        {% if doc.category == "giant-background" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Human Variants</th>
-    <td>
-      {% for doc in site.character_backgrounds %}
-        {% if doc.categories contains "human variant" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Variant Backgrounds</th>
-    <td>
-      {% for doc in site.character_backgrounds %}
-        {% if doc.categories contains "variant background" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-  <tr>
-    <th>Other Backgrounds</th>
-    <td>
-      {% for doc in site.character_backgrounds %}
-        {% if doc.category == "other-background" %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endif %}
-      {% endfor %}
-    </td>
-  </tr>
-<tr>
-  <th>The Five Main Humanoid Species</th>
-  <td>
-    <a href='MonstersO-R#orcs-as-characters'>Orcs</a> &bull;
-    <a href='MonstersG#goblins-as-characters'>Goblins</a> &bull;
-    <a href='MonstersK-L#kobold-characters'>Kobolds</a> &bull;
-    <a href='MonstersG#gnolls-as-characters'>Gnolls</a> &bull;
-    <a href='MonstersT-Z#trolls-as-characters'>Trolls</a>
-  </td>
-</tr>
-<tr>
-  <th>Psionic</th>
-  <td>
-    <a href='PsionicMonsters#blues-as-characters'>Blue</a> &bull;
-    <a href='PsionicMonsters#dromite'>Dromite</a> &bull;
-    <a href='PsionicMonsters#duergar'>Duergar</a> &bull;
-    <a href='PsionicMonsters#elans-as-characters'>Elan</a> &bull;
-    <a href='PsionicMonsters#half-giants-as-characters'>Half-giant</a> &bull;
-    <a href='PsionicMonsters#maenads-as-characters'>Maenad</a> &bull;
-    <a href='PsionicMonsters#xephs-as-characters'>Xeph</a>
-  </td>
-</tr>
+  <th>Arcana Unearthed</th>
+  <td>{% include navdata.html dataset=site.data.arcana-unearthed-races %}</td></tr>
 <tr>
   <th>Standard</th>
-  <td>
-    {% for doc in site.data.standard-backgrounds %}
-      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a>
-      {% unless forloop.last %}&bull;{% endunless %}
-    {% endfor %}
-  </td>
-</tr>
-{% for group in site.data.monsters-as-races %}
+  <td>{% include navdata.html dataset=site.data.standard-backgrounds %}</td></tr>
 <tr>
-  <th>{{ group.name }}</th>
-  <td>
-    {% for entry in group.members %}
-      <a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}">{{ entry.name }}</a>
-      {% unless forloop.last %}&bull;{% endunless %}
-    {% endfor %}
-  </td>
+  <th>Standard +1</th>
+  <td>{% include navdata.html dataset=site.data.standard-backgrounds-1 %}</td></tr>
+<tr>
+  <th>Interplanetary</th>
+  <td>{% include navdata.html dataset=site.data.planetary-romance %}</td></tr>
+<tr>
+  <th>Magical Forest</th>
+  <td>{% include navdata.html dataset=site.data.legendary-forest %}</td></tr>
+<tr>
+  <th>Monsters</th>
+  <td>{% include navdata.html dataset=site.data.monsters-as-characters %}</td>
 </tr>
-{% endfor %}
+<tr>
+  <th>The Five Main Humanoid Species</th>
+  <td>{% include navdata.html dataset=site.data.five-main-humanoids %}</td>
+</tr>
 </table>

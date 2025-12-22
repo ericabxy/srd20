@@ -1,7 +1,7 @@
 ---
-categories:
-- character background
-- Planetary Romance
+favored_class: fighter
+level_adjustment: 1
+power_points: 3
 title: Duergar
 ---
 

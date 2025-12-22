@@ -1,0 +1,4 @@
+{% for item in include.dataset %}
+  <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+  {% unless forloop.last %}&bull;{% endunless %}
+{% endfor %}
