@@ -6,11 +6,11 @@ operator: AKSmith
 title: Spells (P-R)
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-SPELLS (P-R)
+## SPELLS (P-R)
 
-Passwall
+### Passwall
 
 Transmutation
 
@@ -36,16 +36,16 @@ through metal or other harder materials. The passage is 10 feet deep
 plus an additional 5 feet deep per three caster levels above 9th (15
 feet at 12th, 20 feet at 15th, and a maximum of 25 feet deep at 18th
 level). If the wall's thickness is more than the depth of the passage
-created, then a single *passwall *simply makes a niche or short tunnel.
-Several *passwall *spells can then form a continuing passage to breach
-very thick walls. When *passwall *ends, creatures within the passage are
-ejected out the nearest exit. If someone dispels the *passwall *or you
+created, then a single *passwall* simply makes a niche or short tunnel.
+Several *passwall* spells can then form a continuing passage to breach
+very thick walls. When *passwall* ends, creatures within the passage are
+ejected out the nearest exit. If someone dispels the *passwall* or you
 dismiss it, creatures in the passage are ejected out the far exit, if
 there is one, or out the sole exit if there is only one.
 
-*Material Component: *A pinch of sesame seeds.
+*Material Component:* A pinch of sesame seeds.
 
-Pass without Trace
+### Pass without Trace
 
 Transmutation
 
@@ -61,7 +61,7 @@ Transmutation
 
 **Duration:** 1 hour/level (D)
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
@@ -69,7 +69,7 @@ The subject or subjects can move through any type of terrain and leave
 neither footprints nor scent. Tracking the subjects is impossible by
 nonmagical means.
 
-Permanency
+### Permanency
 
 Universal
 
@@ -81,7 +81,7 @@ Universal
 
 **Range:** See text
 
-**Target, Effect, or Area: **See text
+**Target, Effect, or Area:** See text
 
 **Duration:** Permanent; see text
 
@@ -222,11 +222,11 @@ only and rendered permanent.
 +--------------------------+------------------------+-------------+
 
 Spells cast on other creatures, objects, or locations (not on you) are
-vulnerable to *dispel magic *as normal.
+vulnerable to *dispel magic* as normal.
 
-*XP Cost: *See tables above.
+*XP Cost:* See tables above.
 
-Permanent Image
+### Permanent Image
 
 Illusion (Figment)
 
@@ -237,14 +237,14 @@ cube/level (S)
 
 **Duration:** Permanent (D)
 
-This spell functions like *silent image, *except that the figment
+This spell functions like *silent image,* except that the figment
 includes visual, auditory, olfactory, and thermal elements, and the
 spell is permanent. By concentrating, you can move the image within the
 limits of the range, but it is static while you are not concentrating.
 
-*Material Component: *A bit of fleece plus powdered jade worth 100 gp.
+*Material Component:* A bit of fleece plus powdered jade worth 100 gp.
 
-Persistent Image
+### Persistent Image
 
 Illusion (Figment)
 
@@ -252,15 +252,15 @@ Illusion (Figment)
 
 **Duration:** 1 min./level (D)
 
-This spell functions like *silent image, *except that the figment
+This spell functions like *silent image,* except that the figment
 includes visual, auditory, olfactory, and thermal components, and the
 figment follows a script determined by you. The figment follows that
 script without your having to concentrate on it. The illusion can
 include intelligible speech if you wish.
 
-*Material Component: *A bit of fleece and several grains of sand.
+*Material Component:* A bit of fleece and several grains of sand.
 
-Phantasmal Killer
+### Phantasmal Killer
 
 Illusion (Phantasm) \[Fear, Mind-Affecting\]
 
@@ -270,13 +270,13 @@ Illusion (Phantasm) \[Fear, Mind-Affecting\]
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
 **Target:** One living creature
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will disbelief (if interacted with), then Fortitude
+**Saving Throw:** Will disbelief (if interacted with), then Fortitude
 partial; see text
 
 **Spell Resistance:** Yes
@@ -291,11 +291,11 @@ the subject, and the subject must succeed on a Fortitude save or die
 from fear. Even if the Fortitude save is successful, the subject takes
 3d6 points of damage.
 
-If the subject of a *phantasmal killer *attack succeeds in disbelieving
-and is wearing a *helm of telepathy, *the beast can be turned upon you.
+If the subject of a *phantasmal killer* attack succeeds in disbelieving
+and is wearing a *helm of telepathy,* the beast can be turned upon you.
 You must then disbelieve it or become subject to its deadly fear attack.
 
-Phantom Steed
+### Phantom Steed
 
 Conjuration (Creation)
 
@@ -331,19 +331,19 @@ plus up to 10 pounds per caster level.
 These mounts gain certain powers according to caster level. A mount's
 abilities include those of mounts of lower caster levels.
 
-*8th Level: *The mount can ride over sandy, muddy, or even swampy ground
+*8th Level:* The mount can ride over sandy, muddy, or even swampy ground
 without difficulty or decrease in speed.
 
-*10th Level: *The mount can use *water walk *at will (as the spell, no
+*10th Level:* The mount can use *water walk* at will (as the spell, no
 action required to activate this ability).
 
-*12th Level: *The mount can use *air walk *at will (as the spell, no
+*12th Level:* The mount can use *air walk* at will (as the spell, no
 action required to activate this ability) for up to 1 round at a time,
 after which it falls to the ground.
 
-*14th Level: *The mount can fly at its speed (average maneuverability).
+*14th Level:* The mount can fly at its speed (average maneuverability).
 
-Phantom Trap
+### Phantom Trap
 
 Illusion (Glamer)
 
@@ -372,14 +372,14 @@ the effect is illusory and nothing happens if the trap is "sprung"; its
 primary purpose is to frighten away thieves or make them waste precious
 time.
 
-If another *phantom trap *is active within 50 feet when the spell is
+If another *phantom trap* is active within 50 feet when the spell is
 cast, the casting fails.
 
-*Material Component: *A piece of iron pyrite touched to the object to be
+*Material Component:* A piece of iron pyrite touched to the object to be
 trapped while the object is sprinkled with a special dust requiring 50
 gp to prepare.
 
-Phase Door
+### Phase Door
 
 Conjuration (Creation)
 
@@ -401,31 +401,31 @@ per three levels
 **Spell Resistance:** No
 
 This spell creates an ethereal passage through wooden, plaster, or stone
-walls, but not other materials. The *phase door *is invisible and
+walls, but not other materials. The *phase door* is invisible and
 inaccessible to all creatures except you, and only you can use the
-passage. You disappear when you enter the *phase door *and appear when
+passage. You disappear when you enter the *phase door* and appear when
 you exit. If you desire, you can take one other creature (Medium or
 smaller) through the door. This counts as two uses of the door. The door
 does not allow light, sound, or spell effects through it, nor can you
 see through it without using it. Thus, the spell can provide an escape
 route, though certain creatures, such as phase spiders, can follow with
-ease. A *gem of true seeing *or similar magic reveals the presence of a
-*phase door *but does not allow its use.
+ease. A *gem of true seeing* or similar magic reveals the presence of a
+*phase door* but does not allow its use.
 
-A *phase door *is subject to *dispel magic. *If anyone is within the
+A *phase door* is subject to *dispel magic.* If anyone is within the
 passage when it is dispelled, he is harmlessly ejected just as if he
-were inside a *passwall *effect.
+were inside a *passwall* effect.
 
-You can allow other creatures to use the *phase door *by setting some
+You can allow other creatures to use the *phase door* by setting some
 triggering condition for the door. Such conditions can be as simple or
 elaborate as you desire. They can be based on a creature's name,
 identity, or alignment, but otherwise must be based on observable
 actions or qualities. Intangibles such as level, class, Hit Dice, and
 hit points don't qualify.
 
-*Phase door *can be made permanent with a *permanency *spell.
+*Phase door* can be made permanent with a *permanency* spell.
 
-Planar Ally
+### Planar Ally
 
 Conjuration (Calling) \[see text for *lesser planar ally*\]
 
@@ -439,9 +439,9 @@ single creature of 12 HD or less, or two creatures of the same kind
 whose Hit Dice total no more than 12. The creatures agree to help you
 and request your return payment together.
 
-*XP Cost: *250 XP.
+*XP Cost:* 250 XP.
 
-Planar Ally, Greater
+### Planar Ally, Greater
 
 Conjuration (Calling) \[see text for *lesser planar ally*\]
 
@@ -456,9 +456,9 @@ a single creature of 18 HD or less, or up to three creatures of the same
 kind whose Hit Dice total no more than 18. The creatures agree to help
 you and request your return payment together.
 
-*XP Cost: *500 XP.
+*XP Cost:* 500 XP.
 
-Planar Ally, Lesser
+### Planar Ally, Lesser
 
 Conjuration (Calling) \[see text\]
 
@@ -515,12 +515,12 @@ At the end of its task, or when the duration bargained for expires, the
 creature returns to its home plane (after reporting back to you, if
 appropriate and possible).
 
-*Note: *When you use a calling spell that calls an air, chaotic, earth,
+*Note:* When you use a calling spell that calls an air, chaotic, earth,
 evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-*XP Cost: *100 XP.
+*XP Cost:* 100 XP.
 
-Planar Binding
+### Planar Binding
 
 Conjuration (Calling) \[see text for *lesser planar binding*\]
 
@@ -531,13 +531,13 @@ Conjuration (Calling) \[see text for *lesser planar binding*\]
 **Targets:** Up to three elementals or outsiders, totaling no more than
 12 HD, no two of which can be more than 30 ft. apart when they appear
 
-This spell functions like *lesser planar binding, *except that you may
+This spell functions like *lesser planar binding,* except that you may
 call a single creature of 12 HD or less, or up to three creatures of the
 same kind whose Hit Dice total no more than 12. Each creature gets a
 save, makes an independent attempt to escape, and must be individually
 persuaded to aid you.
 
-Planar Binding, Greater
+### Planar Binding, Greater
 
 Conjuration (Calling) \[see text for *lesser planar binding*\]
 
@@ -548,13 +548,13 @@ Conjuration (Calling) \[see text for *lesser planar binding*\]
 **Targets:** Up to three elementals or outsiders, totaling no more than
 18 HD, no two of which can be more than 30 ft. apart when they appear.
 
-This spell functions like *lesser planar binding, *except that you may
+This spell functions like *lesser planar binding,* except that you may
 call a single creature of 18 HD or less, or up to three creatures of the
 same kind whose Hit Dice total no more than 18. Each creature gets a
 saving throw, makes independent attempts to escape, and must be
 persuaded to aid you individually.
 
-Planar Binding, Lesser
+### Planar Binding, Lesser
 
 Conjuration (Calling) \[see text\]
 
@@ -570,7 +570,7 @@ Conjuration (Calling) \[see text\]
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** No and Yes; see text
 
@@ -579,7 +579,7 @@ another plane to a specifically prepared trap, which must lie within the
 spell's range. The called creature is held in the trap until it agrees
 to perform one service in return for its freedom.
 
-To create the trap, you must use a *magic circle *spell, focused inward.
+To create the trap, you must use a *magic circle* spell, focused inward.
 The kind of creature to be bound must be known and stated. If you wish
 to call a specific individual, you must use that individual's proper
 name in casting the spell.
@@ -592,7 +592,7 @@ by successfully pitting its spell resistance against your caster level
 check, by dimensional travel, or with a successful Charisma check (DC
 15 + 1/2 your caster level + your Cha modifier). It can try each method
 once per day. If it breaks loose, it can flee or attack you. A
-*dimensional anchor *cast on the creature prevents its escape via
+*dimensional anchor* cast on the creature prevents its escape via
 dimensional travel. You can also employ a calling diagram (see *magic
 circle against evil*) to make the trap more secure.
 
@@ -621,7 +621,7 @@ instructions.
 When you use a calling spell to call an air, chaotic, earth, evil, fire,
 good, lawful, or water creature, it is a spell of that type.
 
-Plane Shift
+### Plane Shift
 
 Conjuration (Teleportation)
 
@@ -638,26 +638,26 @@ hands
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** Yes
 
 You move yourself or some other creature to another plane of existence
 or alternate dimension. If several willing persons link hands in a
-circle, as many as eight can be affected by the *plane shift *at the
+circle, as many as eight can be affected by the *plane shift* at the
 same time. Precise accuracy as to a particular arrival location on the
 intended plane is nigh impossible. From the Material Plane, you can
 reach any other plane, though you appear 5 to 500 miles (5d%) from your
 intended destination.
 
-*Note: Plane shift *transports creatures instantaneously and then ends.
+*Note: Plane shift* transports creatures instantaneously and then ends.
 The creatures need to find other means if they are to travel back.
 
-*Focus: *A small, forked metal rod. The size and metal type dictates to
+*Focus:* A small, forked metal rod. The size and metal type dictates to
 which plane of existence or alternate dimension the spell sends the
 affected creatures.
 
-Plant Growth
+### Plant Growth
 
 Transmutation
 
@@ -677,7 +677,7 @@ Transmutation
 
 **Spell Resistance:** No
 
-*Plant growth *has different effects depending on the version chosen.
+*Plant growth* has different effects depending on the version chosen.
 
 *Overgrowth: *This effect causes normal vegetation (grasses, briars,
 bushes, creepers, thistles, trees, vines) within long range (400 feet +
@@ -692,15 +692,15 @@ At your option, the area can be a 100-foot-radius circle, a
 
 You may designate places within the area that are not affected.
 
-*Enrichment: *This effect targets plants within a range of one-half
+*Enrichment:* This effect targets plants within a range of one-half
 mile, raising their potential productivity over the course of the next
 year to one-third above normal.
 
-*Plant growth *counters *diminish plants*.
+*Plant growth* counters *diminish plants*.
 
 This spell has no effect on plant creatures.
 
-Poison
+### Poison
 
 Necromancy
 
@@ -727,7 +727,7 @@ immediately and another 1d10 points of temporary Constitution damage 1
 minute later. Each instance of damage can be negated by a Fortitude save
 (DC 10 + 1/2 your caster level + your Wis modifier).
 
-Polar Ray
+### Polar Ray
 
 Evocation \[Cold\]
 
@@ -752,9 +752,9 @@ must succeed on a ranged touch attack with the ray to deal damage to a
 target. The ray deals 1d6 points of cold damage per caster level
 (maximum 25d6).
 
-*Focus: *A small, white ceramic cone or prism.
+*Focus:* A small, white ceramic cone or prism.
 
-Polymorph
+### Polymorph
 
 Transmutation
 
@@ -766,7 +766,7 @@ Transmutation
 
 **Range:** Touch
 
-**Target: **Willing living creature touched
+**Target:** Willing living creature touched
 
 **Duration:** 1 min./level (D)
 
@@ -774,7 +774,7 @@ Transmutation
 
 **Spell Resistance:** No
 
-This spell functions like *alter self, *except that you change the
+This spell functions like *alter self,* except that you change the
 willing subject into another form of living creature. The new form may
 be of the same type as the subject or any of the following types:
 aberration, animal, dragon, fey, giant, humanoid, magical beast,
@@ -801,9 +801,9 @@ Incorporeal or gaseous creatures are immune to being *polymorphed*, and
 a creature with the shapechanger subtype can revert to its natural form
 as a standard action.
 
-*Material Component: *An empty cocoon.
+*Material Component:* An empty cocoon.
 
-Polymorph Any Object
+### Polymorph Any Object
 
 Transmutation
 
@@ -824,7 +824,7 @@ ft./level
 
 **Spell Resistance:** Yes (object)
 
-This spell functions like *polymorph, *except that it changes one object
+This spell functions like *polymorph,* except that it changes one object
 or creature into another. The duration of the spell depends on how
 radical a change is made from the original state to its enchanted state.
 The duration is determined by using the following guidelines.
@@ -883,7 +883,7 @@ The duration is determined by using the following guidelines.
 |                      |                      |                     |
 +----------------------+----------------------+---------------------+
 
-Unlike *polymorph, polymorph any object *does grant the creature the
+Unlike *polymorph, polymorph any object* does grant the creature the
 Intelligence score of its new form. If the original form didn't have a
 Wisdom or Charisma score, it gains those scores as appropriate for the
 new form.
@@ -902,11 +902,11 @@ overcome the damage reduction of certain creatures.
 
 This spell can also be used to duplicate the effects of *baleful
 polymorph, polymorph, flesh to stone*, *stone to flesh*, *transmute mud
-to rock*, *transmute metal to wood, *or *transmute rock to mud.*
+to rock*, *transmute metal to wood,* or *transmute rock to mud.*
 
-*Arcane Material Component: *Mercury, gum arabic, and smoke.
+*Arcane Material Component:* Mercury, gum arabic, and smoke.
 
-Power Word Blind
+### Power Word Blind
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -948,7 +948,7 @@ Any creature that currently has 201 or more hit points is unaffected by
 |               |               |
 +---------------+---------------+
 
-Power Word Kill
+### Power Word Kill
 
 Enchantment (Compulsion) \[Death, Mind-Affecting\]
 
@@ -973,7 +973,7 @@ your choice, whether the creature can hear the word or not. Any creature
 that currently has 101 or more hit points is unaffected by *power word
 kill*.
 
-Power Word Stun
+### Power Word Stun
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -1015,7 +1015,7 @@ unaffected by *power word stun*.
 |               |             |
 +---------------+-------------+
 
-Prayer
+### Prayer
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -1041,7 +1041,7 @@ disfavor to your enemies. You and your each of your allies gain a +1
 luck bonus on attack rolls, weapon damage rolls, saves, and skill
 checks, while each of your foes takes a --1 penalty on such rolls.
 
-Prestidigitation
+### Prestidigitation
 
 Universal
 
@@ -1053,7 +1053,7 @@ Universal
 
 **Range:** 10 ft.
 
-**Target, Effect, or Area: **See text
+**Target, Effect, or Area:** See text
 
 **Duration:** 1 hour
 
@@ -1062,20 +1062,20 @@ Universal
 **Spell Resistance:** No
 
 Prestidigitations are minor tricks that novice spellcasters use for
-practice. Once cast, a *prestidigitation *spell enables you to perform
+practice. Once cast, a *prestidigitation* spell enables you to perform
 simple magical effects for 1 hour. The effects are minor and have severe
 limitations. A prestidigitation can slowly lift 1 pound of material. It
 can color, clean, or soil items in a 1-foot cube each round. It can
 chill, warm, or flavor 1 pound of nonliving material. It cannot deal
-damage or affect the concentration of spellcasters. *Prestidigitation
-*can create small objects, but they look crude and artificial. The
-materials created by a *prestidigitation *spell are extremely fragile,
+damage or affect the concentration of spellcasters. *Prestidigitation*
+can create small objects, but they look crude and artificial. The
+materials created by a *prestidigitation* spell are extremely fragile,
 and they cannot be used as tools, weapons, or spell components. Finally,
-a *prestidigitation *lacks the power to duplicate any other spell
+a *prestidigitation* lacks the power to duplicate any other spell
 effects. Any actual change to an object (beyond just moving, cleaning,
 or soiling it) persists only 1 hour.
 
-Prismatic Sphere
+### Prismatic Sphere
 
 Abjuration
 
@@ -1087,15 +1087,15 @@ Abjuration
 
 **Effect:** 10-ft.-radius sphere centered on you
 
-This spell functions like *prismatic wall, *except you conjure up an
+This spell functions like *prismatic wall,* except you conjure up an
 immobile, opaque globe of shimmering, multicolored light that surrounds
 you and protects you from all forms of attack. The sphere flashes in all
 colors of the visible spectrum.
 
-The sphere's *blindness *effect on creatures with less than 8 HD lasts
+The sphere's *blindness* effect on creatures with less than 8 HD lasts
 2d4x10 minutes.
 
-You can pass into and out of the *prismatic sphere *and remain near it
+You can pass into and out of the *prismatic sphere* and remain near it
 without harm. However, when you're inside it, the sphere blocks any
 attempt to project something through the sphere (including spells).
 Other creatures that attempt to attack you or pass through suffer the
@@ -1108,9 +1108,9 @@ by the floor surface you are standing on.
 The colors of the sphere have the same effects as the colors of a
 *prismatic wall.*
 
-*Prismatic sphere *can be made permanent with a *permanency *spell.
+*Prismatic sphere* can be made permanent with a *permanency* spell.
 
-Prismatic Spray
+### Prismatic Spray
 
 Evocation
 
@@ -1151,7 +1151,7 @@ one or more beams, which have additional effects.
                                                                              
   --------- ---------------------------------------------------------------- --------------------------------------------------------------------------
 
-Prismatic Wall
+### Prismatic Wall
 
 Abjuration
 
@@ -1163,7 +1163,7 @@ Abjuration
 
 **Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Wall 4 ft./level wide, 2 ft./level high
+**Effect:** Wall 4 ft./level wide, 2 ft./level high
 
 **Duration:** 10 min./level (D)
 
@@ -1171,7 +1171,7 @@ Abjuration
 
 **Spell Resistance:** See text
 
-*Prismatic wall *creates a vertical, opaque wall---a shimmering,
+*Prismatic wall* creates a vertical, opaque wall---a shimmering,
 multicolored plane of light that protects you from all forms of attack.
 The wall flashes with seven colors, each of which has a distinct power
 and purpose. The wall is immobile, and you can pass through and remain
@@ -1180,7 +1180,7 @@ HD that is within 20 feet of the wall is blinded for 2d4 rounds by the
 colors if it looks at the wall.
 
 The wall's maximum proportions are 4 feet wide per caster level and 2
-feet high per caster level. A *prismatic wall *spell cast to materialize
+feet high per caster level. A *prismatic wall* spell cast to materialize
 in a space occupied by a creature is disrupted, and the spell is wasted.
 
 Each color in the wall has a special effect. The accompanying table
@@ -1191,13 +1191,13 @@ wall, and the magic needed to negate each color.
 The wall can be destroyed, color by color, in consecutive order, by
 various magical effects; however, the first color must be brought down
 before the second can be affected, and so on. A *rod of cancellation *or
-a m*age's disjunction *spell destroys a *prismatic wall*, but an
-*antimagic field *fails to penetrate it. *Dispel magic *and *greater
-dispel magic *cannot dispel the wall or anything beyond it. Spell
+a *mage's disjunction* spell destroys a *prismatic wall*, but an
+*antimagic field* fails to penetrate it. *Dispel magic* and *greater
+dispel magic* cannot dispel the wall or anything beyond it. Spell
 resistance is effective against a *prismatic wall*, but the caster level
 check must be repeated for each color present.
 
-*Prismatic wall *can be made permanent with a *permanency *spell.
+*Prismatic wall* can be made permanent with a *permanency* spell.
 
 +------------------+----------+------------------+-----------------+
 | ## Color         | ## Order | ##               | ## Negated By   |
@@ -1288,7 +1288,7 @@ check must be repeated for each color present.
 |                  |          |                  |                 |
 +------------------+----------+------------------+-----------------+
 
-Produce Flame
+### Produce Flame
 
 Evocation \[Fire\]
 
@@ -1324,7 +1324,7 @@ after the attack resolves.
 
 This spell does not function underwater.
 
-Programmed Image
+### Programmed Image
 
 Illusion (Figment)
 
@@ -1335,7 +1335,7 @@ Illusion (Figment)
 
 **Duration:** Permanent until triggered, then 1 round/level
 
-This spell functions like *silent image, *except that this spell's
+This spell functions like *silent image,* except that this spell's
 figment activates when a specific condition occurs. The figment includes
 visual, auditory, olfactory, and thermal elements, including
 intelligible speech.
@@ -1345,11 +1345,11 @@ casting the spell. The event that triggers the illusion can be as
 general or as specific and detailed as desired but must be based on an
 audible, tactile, olfactory, or visual trigger. The trigger cannot be
 based on some quality not normally obvious to the senses, such as
-alignment. (See *magic mouth *for more details about such triggers.)
+alignment. (See *magic mouth* for more details about such triggers.)
 
-*Material Component: *A bit of fleece and jade dust worth 25 gp.
+*Material Component:* A bit of fleece and jade dust worth 25 gp.
 
-Project Image
+### Project Image
 
 Illusion (Shadow)
 
@@ -1365,7 +1365,7 @@ Illusion (Shadow)
 
 **Duration:** 1 round/level (D)
 
-**Saving Throw: **Will disbelief (if interacted with)
+**Saving Throw:** Will disbelief (if interacted with)
 
 **Spell Resistance:** No
 
@@ -1391,13 +1391,13 @@ their Will save.
 
 You must maintain line of effect to the projected image at all times. If
 your line of effect is obstructed, the spell ends. If you use *dimension
-door, teleport, plane shift, *or a similar spell that breaks your line
+door, teleport, plane shift,* or a similar spell that breaks your line
 of effect, even momentarily, the spell ends.
 
-*Material Component: *A small replica of you (a doll), which costs 5 gp
+*Material Component:* A small replica of you (a doll), which costs 5 gp
 to create.
 
-Protection from Arrows
+### Protection from Arrows
 
 Abjuration
 
@@ -1413,7 +1413,7 @@ Abjuration
 
 **Duration:** 1 hour/level or until discharged
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
@@ -1423,9 +1423,9 @@ doesn't grant you the ability to damage creatures with similar damage
 reduction.) Once the spell has prevented a total of 10 points of damage
 per caster level (maximum 100 points), it is discharged.
 
-*Focus: *A piece of shell from a tortoise or a turtle.
+*Focus:* A piece of shell from a tortoise or a turtle.
 
-Protection from Chaos
+### Protection from Chaos
 
 Abjuration \[Lawful\]
 
@@ -1435,7 +1435,7 @@ This spell functions like *protection from evil*, except that the
 deflection and resistance bonuses apply to attacks from chaotic
 creatures, and chaotic summoned creatures cannot touch the subject.
 
-Protection from Energy
+### Protection from Energy
 
 Abjuration
 
@@ -1455,17 +1455,17 @@ Abjuration
 
 **Spell Resistance:** Yes (harmless)
 
-*Protection from energy *grants temporary immunity to the type of energy
+*Protection from energy* grants temporary immunity to the type of energy
 you specify when you cast it (acid, cold, electricity, fire, or sonic).
 When the spell absorbs 12 points per caster level of energy damage (to a
 maximum of 120 points at 10th level), it is discharged.
 
-*Note: Protection from energy *overlaps (and does not stack with)
-*resist energy. *If a character is warded by *protection from energy
-*and *resist energy, *the *protection *spell absorbs damage until its
+*Note: Protection from energy* overlaps (and does not stack with)
+*resist energy.* If a character is warded by *protection from energy*
+and *resist energy,* the *protection* spell absorbs damage until its
 power is exhausted.
 
-Protection from Evil
+### Protection from Evil
 
 Abjuration \[Good\]
 
@@ -1481,7 +1481,7 @@ Abjuration \[Good\]
 
 **Duration:** 1 min./level (D)
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** No; see text
 
@@ -1495,13 +1495,13 @@ bonus on saves. Both these bonuses apply against attacks made or effects
 created by evil creatures.
 
 Second, the barrier blocks any attempt to possess the warded creature
-(by a *magic jar *attack, for example) or to exercise mental control
+(by a *magic jar* attack, for example) or to exercise mental control
 over the creature (including enchantment (charm) effects and enchantment
 (compulsion) effects that grant the caster ongoing control over the
 subject, such as *dominate person*). The protection does not prevent
 such effects from targeting the protected creature, but it suppresses
-the effect for the duration of the *protection from evil *effect. If the
-*protection from evil *effect ends before the effect granting mental
+the effect for the duration of the *protection from evil* effect. If the
+*protection from evil* effect ends before the effect granting mental
 control does, the would-be controller would then be able to mentally
 command the controlled creature. Likewise, the barrier keeps out a
 possessing life force but does not expel one if it is in place before
@@ -1516,11 +1516,11 @@ creature makes an attack against or tries to force the barrier against
 the blocked creature. Spell resistance can allow a creature to overcome
 this protection and touch the warded creature.
 
-*Arcane Material Component: *A little powdered silver with which you
+*Arcane Material Component:* A little powdered silver with which you
 trace a 3-foot -diameter circle on the floor (or ground) around the
 creature to be warded.
 
-Protection from Good
+### Protection from Good
 
 Abjuration \[Evil\]
 
@@ -1530,7 +1530,7 @@ This spell functions like *protection from evil*, except that the
 deflection and resistance bonuses apply to attacks from good creatures,
 and good summoned creatures cannot touch the subject.
 
-Protection from Law
+### Protection from Law
 
 Abjuration \[Chaotic\]
 
@@ -1540,11 +1540,11 @@ This spell functions like *protection from evil*, except that the
 deflection and resistance bonuses apply to attacks from lawful
 creatures, and lawful summoned creatures cannot touch the subject.
 
-Protection from Spells
+### Protection from Spells
 
 Abjuration
 
-**Level: **Magic 8, Sor/Wiz 8
+**Level:** Magic 8, Sor/Wiz 8
 
 **Components:** V, S, M, F
 
@@ -1556,7 +1556,7 @@ Abjuration
 
 **Duration:** 10 min./level
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
@@ -1564,14 +1564,14 @@ The subject gains a +8 resistance bonus on saving throws against spells
 and spell-like abilities (but not against supernatural and extraordinary
 abilities).
 
-*Material Component: *A diamond of at least 500 gp value, which must be
+*Material Component:* A diamond of at least 500 gp value, which must be
 crushed and sprinkled over the targets.
 
-*Focus: *One 1,000 gp diamond per creature to be granted the protection.
+*Focus:* One 1,000 gp diamond per creature to be granted the protection.
 Each subject must carry one such gem for the duration of the spell. If a
 subject loses the gem, the spell ceases to affect him.
 
-Prying Eyes
+### Prying Eyes
 
 Divination
 
@@ -1625,21 +1625,21 @@ you. *Dispel magic *can destroy eyes. Roll separately for each eye
 caught in an area dispel. Of course, if an eye is sent into darkness, it
 could hit a wall or similar obstacle and destroy itself.
 
-*Material Component: *A handful of crystal marbles.
+*Material Component:* A handful of crystal marbles.
 
-Prying Eyes, Greater
+### Prying Eyes, Greater
 
 Divination
 
 **Level:** Sor/Wiz 8
 
-This spell functions like *prying eyes, *except that the eyes can see
-all things as they actually are, just as if they had *true seeing *with
+This spell functions like *prying eyes,* except that the eyes can see
+all things as they actually are, just as if they had *true seeing* with
 a range of 120 feet. Thus, they can navigate darkened areas at full
 normal speed. Also, a *greater prying eye*'s maximum Spot modifier is
 +25 instead of +15.
 
-Purify Food and Drink
+### Purify Food and Drink
 
 Transmutation
 
@@ -1655,7 +1655,7 @@ Transmutation
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will negates (object)
+**Saving Throw:** Will negates (object)
 
 **Spell Resistance:** Yes (object)
 
@@ -1663,13 +1663,13 @@ This spell makes spoiled, rotten, poisonous, or otherwise contaminated
 food and water pure and suitable for eating and drinking. This spell
 does not prevent subsequent natural decay or spoilage. Unholy water and
 similar food and drink of significance is spoiled by *purify food and
-drink, *but the spell has no effect on creatures of any type nor upon
+drink,* but the spell has no effect on creatures of any type nor upon
 magic potions.
 
-*Note: *Water weighs about 8 pounds per gallon. One cubic foot of water
+*Note:* Water weighs about 8 pounds per gallon. One cubic foot of water
 contains roughly 8 gallons and weighs about 60 pounds.
 
-Pyrotechnics
+### Pyrotechnics
 
 Transmutation
 
@@ -1686,20 +1686,20 @@ Transmutation
 **Duration:** 1d4+1 rounds, or 1d4+1 rounds after creatures leave the
 smoke cloud; see text
 
-**Saving Throw: **Will negates or Fortitude negates; see text
+**Saving Throw:** Will negates or Fortitude negates; see text
 
 **Spell Resistance:** Yes or No; see text
 
-*Pyrotechnics *turns a fire into either a burst of blinding fireworks or
+*Pyrotechnics* turns a fire into either a burst of blinding fireworks or
 a thick cloud of choking smoke, depending on the version you choose.
 
-*Fireworks: *The fireworks are a flashing, fiery, momentary burst of
+*Fireworks:* The fireworks are a flashing, fiery, momentary burst of
 glowing, colored aerial lights. This effect causes creatures within 120
 feet of the fire source to become blinded for 1d4+1 rounds (Will
 negates). These creatures must have line of sight to the fire to be
 affected. Spell resistance can prevent blindness.
 
-*Smoke Cloud: *A writhing stream of smoke billows out from the source,
+*Smoke Cloud:* A writhing stream of smoke billows out from the source,
 forming a choking cloud. The cloud spreads 20 feet in all directions and
 lasts for 1 round per caster level. All sight, even darkvision, is
 ineffective in or through the cloud. All within the cloud take --4
@@ -1707,13 +1707,13 @@ penalties to Strength and Dexterity (Fortitude negates). These effects
 last for 1d4+1 rounds after the cloud dissipates or after the creature
 leaves the area of the cloud. Spell resistance does not apply.
 
-*Material Component: *The spell uses one fire source, which is
+*Material Component:* The spell uses one fire source, which is
 immediately extinguished. A fire so large that it exceeds a 20-foot cube
 is only partly extinguished. Magical fires are not extinguished,
 although a fire-based creature used as a source takes 1 point of damage
 per caster level.
 
-Quench
+### Quench
 
 Transmutation
 
@@ -1723,7 +1723,7 @@ Transmutation
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
 **Area or Target:** One 20-ft. cube/level (S) or one fire-based magic
 item
@@ -1734,21 +1734,21 @@ item
 
 **Spell Resistance:** No or Yes (object)
 
-*Quench *is often used to put out forest fires and other conflagrations.
+*Quench* is often used to put out forest fires and other conflagrations.
 It extinguishes all nonmagical fires in its area. The spell also dispels
 any fire spells in its area, though you must succeed on a dispel check
 (1d20 +1 per caster level, maximum +15) against each spell to dispel it.
 The DC to dispel such spells is 11 + the caster level of the fire spell.
 
-Each elemental (fire) creature within the area of a *quench *spell takes
+Each elemental (fire) creature within the area of a *quench* spell takes
 1d6 points of damage per caster level (maximum 15d6, no save allowed).
 
 Alternatively, you can target the spell on a single magic item that
-creates or controls flame*. *The item loses all its fire-based magical
+creates or controls flame. The item loses all its fire-based magical
 abilities for 1d4 hours unless it succeeds on a Will save. (Artifacts
 are immune to this effect.)
 
-Rage
+### Rage
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -1758,7 +1758,7 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
 **Targets:** One willing living creature per three levels, no two of
 which may be more than 30 ft. apart
@@ -1774,7 +1774,7 @@ Constitution, a +1 morale bonus on Will saves, and a --2 penalty to AC.
 The effect is otherwise identical with a barbarian's rage except that
 the subjects aren't fatigued at the end of the rage.
 
-Rainbow Pattern
+### Rainbow Pattern
 
 Illusion (Pattern) \[Mind-Affecting\]
 
@@ -1790,12 +1790,12 @@ Illusion (Pattern) \[Mind-Affecting\]
 
 **Duration:** Concentration +1 round/ level (D)
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** Yes
 
 A glowing, rainbow-hued pattern of interweaving colors fascinates those
-within it. *Rainbow pattern *fascinates a maximum of 24 Hit Dice of
+within it. *Rainbow pattern* fascinates a maximum of 24 Hit Dice of
 creatures. Creatures with the fewest HD are affected first. Among
 creatures with equal HD, those who are closest to the spell's point of
 origin are affected first. An affected creature that fails its saves is
@@ -1820,7 +1820,7 @@ verbal component.
 
 *Focus:* A crystal prism.
 
-Raise Dead
+### Raise Dead
 
 Conjuration (Healing)
 
@@ -1874,9 +1874,9 @@ death effect can't be raised by this spell. Constructs, elementals,
 outsiders, and undead creatures can't be raised. The spell cannot bring
 back a creature that has died of old age.
 
-*Material Component: *Diamonds worth a total of least 5,000 gp.
+*Material Component:* Diamonds worth a total of least 5,000 gp.
 
-Ray of Enfeeblement
+### Ray of Enfeeblement
 
 Necromancy
 
@@ -1901,7 +1901,7 @@ touch attack to strike a target. The subject takes a penalty to Strength
 equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject's
 Strength score cannot drop below 1.
 
-Ray of Exhaustion
+### Ray of Exhaustion
 
 Necromancy
 
@@ -1933,9 +1933,9 @@ This spell has no effect on a creature that is already exhausted. Unlike
 normal exhaustion or fatigue, the effect ends as soon as the spell's
 duration expires.
 
-*Material Component: *A drop of sweat.
+*Material Component:* A drop of sweat.
 
-Ray of Frost
+### Ray of Frost
 
 Evocation \[Cold\]
 
@@ -1959,7 +1959,7 @@ A ray of freezing air and ice projects from your pointing finger. You
 must succeed on a ranged touch attack with the ray to deal damage to a
 target. The ray deals 1d3 points of cold damage.
 
-Read Magic
+### Read Magic
 
 Divination
 
@@ -1975,23 +1975,23 @@ Divination
 
 **Duration:** 10 min./level
 
-By means of *read magic, *you can decipher magical inscriptions on
+By means of *read magic,* you can decipher magical inscriptions on
 objects---books, scrolls, weapons, and the like---that would otherwise
 be unintelligible. This deciphering does not normally invoke the magic
 contained in the writing, although it may do so in the case of a cursed
 scroll. Furthermore, once the spell is cast and you have read the
 magical inscription, you are thereafter able to read that particular
-writing without recourse to the use of *read magic. *You can read at the
+writing without recourse to the use of *read magic.* You can read at the
 rate of one page (250 words) per minute. The spell allows you to
-identify a *glyph of warding *with a DC 13 Spellcraft check, a *greater
-glyph of warding *with a DC 16 Spellcraft check, or any *symbol *spell
+identify a *glyph of warding* with a DC 13 Spellcraft check, a *greater
+glyph of warding* with a DC 16 Spellcraft check, or any *symbol* spell
 with a Spellcraft check (DC 10 + spell level).
 
-*Read magic *can be made permanent with a *permanency *spell.
+*Read magic* can be made permanent with a *permanency* spell.
 
-*Focus: *A clear crystal or mineral prism.
+*Focus:* A clear crystal or mineral prism.
 
-Reduce Animal
+### Reduce Animal
 
 Transmutation
 
@@ -2011,7 +2011,7 @@ Transmutation
 
 **Spell Resistance:** No
 
-This spell functions like *reduce person, *except that it affects a
+This spell functions like *reduce person,* except that it affects a
 single willing animal. Reduce the damage dealt by the animal's natural
 attacks as appropriate for its new size.
 
@@ -2066,7 +2066,7 @@ Multiple magical effects that reduce size do not stack.
 
 *Material Component:* A pinch of powdered iron.
 
-Reduce Person, Mass
+### Reduce Person, Mass
 
 Transmutation
 
@@ -2078,7 +2078,7 @@ than 30 ft. apart
 This spell functions like *reduce person*, except that it affects
 multiple creatures.
 
-Refuge
+### Refuge
 
 Conjuration (Teleportation)
 
@@ -2113,14 +2113,14 @@ touching the subject).
 You can alter the spell when casting it so that it transports you to
 within 10 feet of the possessor of the item when it is broken and the
 command word spoken. You will have a general idea of the location and
-situation of the item possessor at the time the *refuge *spell is
+situation of the item possessor at the time the *refuge* spell is
 discharged, but once you decide to alter the spell in this fashion, you
 have no choice whether or not to be transported.
 
-*Material Component: *The specially prepared object, whose construction
+*Material Component:* The specially prepared object, whose construction
 requires gems worth 1,500 gp.
 
-Regenerate
+### Regenerate
 
 Conjuration (Healing)
 
@@ -2146,12 +2146,12 @@ ruined organs grow back. After the spell is cast, the physical
 regeneration is complete in 1 round if the severed members are present
 and touching the creature. It takes 2d10 rounds otherwise.
 
-*Regenerate *also cures 4d8 points of damage +1 point per caster level
+*Regenerate* also cures 4d8 points of damage +1 point per caster level
 (maximum +35), rids the subject of exhaustion and/or fatigue, and
 eliminates all nonlethal damage the subject has taken. It has no effect
 on nonliving creatures (including undead).
 
-Reincarnate
+### Reincarnate
 
 Transmutation
 
@@ -2239,10 +2239,10 @@ form, including forms of movement and speeds, natural armor, natural
 attacks, extraordinary abilities, and the like, but it doesn't
 automatically speak the language of the new form.
 
-A *wish *or a *miracle *spell can restore a reincarnated character to
+A *wish* or a *miracle* spell can restore a reincarnated character to
 his or her original form.
 
-*Material Component: *Rare oils and unguents worth a total of least
+*Material Component:* Rare oils and unguents worth a total of least
 1,000 gp, spread over the remains.
 
 ### Remove Blindness/Deafness
@@ -2408,7 +2408,7 @@ Abjuration \[Earth\]
 
 **Spell Resistance:** No
 
-Like *repel wood, *this spell creates waves of invisible and intangible
+Like *repel wood,* this spell creates waves of invisible and intangible
 energy that roll forth from you. All metal or stone objects in the path
 of the spell are pushed away from you to the limit of the range. Fixed
 metal or stone objects larger than 3 inches in diameter and loose
@@ -2420,13 +2420,13 @@ the spell are repelled at the rate of 40 feet per round.
 
 Objects such as metal armor, swords, and the like are pushed back,
 dragging their bearers with them. Even magic items with metal components
-are repelled, although an *antimagic field *blocks the effects.
+are repelled, although an *antimagic field* blocks the effects.
 
 The waves of energy continue to sweep down the set path for the spell's
 duration. After you cast the spell, the path is set, and you can then do
 other things or go elsewhere without affecting the spell's power.
 
-Repel Vermin
+### Repel Vermin
 
 Abjuration
 
@@ -2454,7 +2454,7 @@ barrier if it succeeds on a Will save. Even so, crossing the barrier
 deals the vermin 2d6 points of damage, and pressing against the barrier
 causes pain, which deters most vermin.
 
-Repel Wood
+### Repel Wood
 
 Transmutation
 
@@ -2489,13 +2489,13 @@ along. (A creature being dragged by an item it is carrying can let go. A
 creature being dragged by a shield can loose it as a move action and
 drop it as a free action.) If a spear is planted (set) to prevent this
 forced movement, it splinters. Even magic items with wooden sections are
-repelled, although an *antimagic field *blocks the effects.
+repelled, although an *antimagic field* blocks the effects.
 
 The waves of energy continue to sweep down the set path for the spell's
 duration. After you cast the spell, the path is set, and you can then do
 other things or go elsewhere without affecting the spell's power.
 
-Repulsion
+### Repulsion
 
 Abjuration
 
@@ -2511,7 +2511,7 @@ Abjuration
 
 **Duration:** 1 round/level (D)
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** Yes
 
@@ -2529,10 +2529,10 @@ melee attacks against you if you come within reach. If a repelled
 creature moves away from you and then tries to turn back toward you, it
 cannot move any closer if it is still within the spell's area.
 
-*Arcane Focus: *A pair of small iron bars attached to two small canine
+*Arcane Focus:* A pair of small iron bars attached to two small canine
 statuettes, one black and one white, the whole array worth 50 gp.
 
-Resilient Sphere
+### Resilient Sphere
 
 Evocation \[Force\]
 
@@ -2556,7 +2556,7 @@ A globe of shimmering force encloses a creature, provided the creature
 is small enough to fit within the diameter of the sphere. The sphere
 contains its subject for the spell's duration. The sphere is not subject
 to damage of any sort except from a *rod of cancellation*, a rod *of
-negation*, a *disintegrate *spell, or a targeted *dispel magic *spell.
+negation*, a *disintegrate* spell, or a targeted *dispel magic *spell.
 These effects destroy the sphere without harm to the subject. Nothing
 can pass through the sphere, inside or out, though the subject can
 breathe normally.
@@ -2564,10 +2564,10 @@ breathe normally.
 The subject may struggle, but the sphere cannot be physically moved
 either by people outside it or by the struggles of those within.
 
-*Material Component: *A hemispherical piece of clear crystal and a
+*Material Component:* A hemispherical piece of clear crystal and a
 matching hemispherical piece of gum arabic.
 
-Resistance
+### Resistance
 
 Abjuration
 
@@ -2583,18 +2583,18 @@ Abjuration
 
 **Duration:** 1 minute
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
 You imbue the subject with magical energy that protects it from harm,
 granting it a +1 resistance bonus on saves.
 
-*Resistance *can be made permanent with a *permanency *spell.
+*Resistance* can be made permanent with a *permanency* spell.
 
-*Arcane Material Component: *A miniature cloak.
+*Arcane Material Component:* A miniature cloak.
 
-Resist Energy
+### Resist Energy
 
 Abjuration
 
@@ -2624,15 +2624,15 @@ The value of the energy resistance granted increases to 20 points at 7th
 level and to a maximum of 30 points at 11th level. The spell protects
 the recipient's equipment as well.
 
-*Resist energy *absorbs only damage. The subject could still suffer
+*Resist energy* absorbs only damage. The subject could still suffer
 unfortunate side effects.
 
-*Note: Resist energy *overlaps (and does not stack with) *protection
-from energy. *If a character is warded by *protection from energy *and
-*resist energy, *the *protection *spell absorbs damage until its power
+*Note: Resist energy* overlaps (and does not stack with) *protection
+from energy.* If a character is warded by *protection from energy* and
+*resist energy,* the *protection* spell absorbs damage until its power
 is exhausted.
 
-Restoration
+### Restoration
 
 Conjuration (Healing)
 
@@ -2640,26 +2640,26 @@ Conjuration (Healing)
 
 **Components:** V, S, M
 
-This spell functions like *lesser restoration, *except that it also
+This spell functions like *lesser restoration,* except that it also
 dispels negative levels and restores one experience level to a creature
 who has had a level drained. The drained level is restored only if the
 time since the creature lost the level is equal to or less than one day
-per caster level. A character who has a level restored by r*estoration
-has *exactly the minimum number of experience points necessary to
+per caster level. A character who has a level restored by *restoration
+has* exactly the minimum number of experience points necessary to
 restore him or her to his or her previous level.
 
-*Restoration *cures all temporary ability damage, and it restores all
+*Restoration* cures all temporary ability damage, and it restores all
 points permanently drained from a single ability score (your choice if
 more than one is drained). It also eliminates any fatigue or exhaustion
 suffered by the target.
 
-*Restoration *does not restore levels or Constitution points lost due to
+*Restoration* does not restore levels or Constitution points lost due to
 death.
 
-*Material Component: *Diamond dust worth 100 gp that is sprinkled over
+*Material Component:* Diamond dust worth 100 gp that is sprinkled over
 the target.
 
-Restoration, Greater
+### Restoration, Greater
 
 Conjuration (Healing)
 
@@ -2669,23 +2669,23 @@ Conjuration (Healing)
 
 **Casting Time:** 10 minutes
 
-This spell functions like *lesser restoration, *except that it dispels
+This spell functions like *lesser restoration,* except that it dispels
 all negative levels afflicting the healed creature. This effect also
 reverses level drains by a force or creature, restoring the creature to
 the highest level it had previously attained. The drained levels are
 restored only if the time since the creature lost the level is no more
 than one week per caster level.
 
-*Greater restoration *also dispels all magical effects penalizing the
+*Greater restoration* also dispels all magical effects penalizing the
 creature's abilities, cures all temporary ability damage, and restores
 all points permanently drained from all ability scores. It also
 eliminates fatigue and exhaustion, and removes all forms of insanity,
-*confusion, *and similar mental effects. *Greater restoration *does not
+*confusion,* and similar mental effects. *Greater restoration* does not
 restore levels or Constitution points lost due to death.
 
-*XP Cost: *500 XP.
+*XP Cost:* 500 XP.
 
-Restoration, Lesser
+### Restoration, Lesser
 
 Conjuration (Healing)
 
@@ -2701,17 +2701,17 @@ Conjuration (Healing)
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
-*Lesser restoration *dispels any magical effects reducing one of the
+*Lesser restoration* dispels any magical effects reducing one of the
 subject's ability scores or cures 1d4 points of temporary ability damage
 to one of the subject's ability scores. It also eliminates any fatigue
 suffered by the character, and improves an exhausted condition to
 fatigued. It does not restore permanent ability drain.
 
-Resurrection
+### Resurrection
 
 Conjuration (Healing)
 
@@ -2719,14 +2719,14 @@ Conjuration (Healing)
 
 **Casting Time:** 10 minutes
 
-This spell functions like *raise dead, *except that you are able to
+This spell functions like *raise dead,* except that you are able to
 restore life and complete strength to any deceased creature.
 
 The condition of the remains is not a factor. So long as some small
 portion of the creature's body still exists, it can be resurrected, but
 the portion receiving the spell must have been part of the creature's
 body at the time of death. (The remains of a creature hit by a
-*disintegrate *spell count as a small portion of its body.) The creature
+*disintegrate* spell count as a small portion of its body.) The creature
 can have been dead no longer than 10 years per caster level.
 
 Upon completion of the spell, the creature is immediately restored to
@@ -2741,10 +2741,10 @@ been turned into an undead creature and then destroyed. You cannot
 resurrect someone who has died of old age. Constructs, elementals,
 outsiders, and undead creatures can't be resurrected.
 
-*Material Component: *A sprinkle of holy water and diamonds worth a
+*Material Component:* A sprinkle of holy water and diamonds worth a
 total of at least 10,000 gp.
 
-Reverse Gravity
+### Reverse Gravity
 
 Transmutation
 
@@ -2754,7 +2754,7 @@ Transmutation
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
 **Area:** Up to one 10-ft. cube per two levels (S)
 
@@ -2777,9 +2777,9 @@ Provided it has something to hold onto, a creature caught in the area
 can attempt a Reflex save to secure itself when the spell strikes.
 Creatures who can fly or levitate can keep themselves from falling.
 
-*Arcane Material Component: *A lodestone and iron filings.
+*Arcane Material Component:* A lodestone and iron filings.
 
-Righteous Might
+### Righteous Might
 
 Transmutation
 
@@ -2823,7 +2823,7 @@ fired them).
 
 Multiple magical effects that increase size do not stack.
 
-Rope Trick
+### Rope Trick
 
 Transmutation
 
@@ -2862,18 +2862,18 @@ of it as if a 3-foot-by- 5-foot window were centered on the rope. The
 window is present on the Material Plane, but it's invisible, and even
 creatures that can see the window can't see through it. Anything inside
 the extradimensional space drops out when the spell ends. The rope can
-be climbed by only one person at a time. The *rope trick *spell enables
+be climbed by only one person at a time. The *rope trick* spell enables
 climbers to reach a normal place if they do not climb all the way to the
 extradimensional space.
 
-*Note: *It is hazardous to create an extradimensional space within an
+*Note:* It is hazardous to create an extradimensional space within an
 existing extradimensional space or to take an extradimensional space
 into an existing one.
 
-*Material Component: *Powdered corn extract and a twisted loop of
+*Material Component:* Powdered corn extract and a twisted loop of
 parchment.
 
-Rusting Grasp
+### Rusting Grasp
 
 Transmutation
 
@@ -2900,8 +2900,8 @@ that it cannot fit within a 3-foot radius a 3-foot-radius volume of the
 metal is rusted and destroyed. Magic items made of metal are immune to
 this spell.
 
-You may employ *rusting grasp *in combat with a successful melee touch
-attack. *Rusting grasp *used in this way instantaneously destroys 1d6
+You may employ *rusting grasp* in combat with a successful melee touch
+attack. *Rusting grasp* used in this way instantaneously destroys 1d6
 points of Armor Class gained from metal armor (to the maximum amount of
 protection the armor offered) through corrosion.
 
@@ -2909,11 +2909,11 @@ Weapons in use by an opponent targeted by the spell are more difficult
 to grasp. You must succeed on a melee touch attack against the weapon. A
 metal weapon that is hit is destroyed.
 
-*Note: *Striking at an opponent's weapon provokes an attack of
+*Note:* Striking at an opponent's weapon provokes an attack of
 opportunity. Also, you must touch the weapon and not the other way
 around.
 
-Against a ferrous creature, *rusting grasp *instantaneously deals 3d6
+Against a ferrous creature, *rusting grasp* instantaneously deals 3d6
 points of damage +1 per caster level (maximum +15) per successful
 attack. The spell lasts for 1 round per level, and you can make one
 melee touch attack per round.

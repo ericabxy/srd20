@@ -1,0 +1,195 @@
+Alarm:
+  cost: 9th 
+  level: 500 XP
+  target: objects areas only
+  url: /SpellsA-B#alarm
+Animate objects:
+  cost: 14th
+  level: 3,000 XP
+  target: objects areas only
+  url: /SpellsA-B#animate-objects
+Arcane sight:
+  cost: 11th
+  level: 1,500 XP
+  target: yourself only
+  url: /SpellsA-B#arcane-sight
+Comprehend languages:
+  cost: 9th 
+  level: 500 XP
+  target: yourself only
+  url: /SpellsC#comprehend-languages
+Dancing lights:
+  cost: 9th 
+  level: 500 XP
+  target: objects areas only
+  url: /SpellsD-E#dancing-lights
+Darkvision:
+  cost: 10th
+  level: 1,000 XP
+  target: yourself only
+  url: /SpellsD-E#darkvision
+Detect magic:
+  cost: 9th 
+  level: 500 XP
+  target: yourself only
+  url: /SpellsD-E#detect-magic
+Enlarge person:
+  cost: 9th
+  level: 500 XP
+  target: yourself creature object
+  url: /SpellsD-E#enlarge-person
+Ghost sound:
+  cost: 9th 
+  level: 500 XP
+  target: objects areas only
+  url: /SpellsF-G#ghost-sound
+Gust of wind:
+  cost: 11th
+  level: 1,500 XP
+  target: objects areas only
+  url: /SpellsF-G#gust-of-wind
+Invisibility:
+  cost: 10th
+  level: 1,000 XP
+  target: objects areas only
+  url: /SpellsH-L#invisibility
+Magic fang:
+  cost: 9th
+  level: 500 XP
+  target: yourself creature object
+  url: /SpellsM-O#magic-fang
+Magic fang, greater:
+  cost: 11th
+  level: 1,500 XP
+  target: yourself creature object
+  url: /SpellsM-O#magic-fang-greater
+Mage's private sanctum:
+  cost: 13th
+  level: 2,500 XP
+  target: objects areas only
+  url: /SpellsM-O#mage-s-private-sanctum
+Magic mouth:
+  cost: 10th
+  level: 1,000 XP
+  target: objects areas only
+  url: /SpellsM-O#magic-mouth
+Phase door:
+  cost: 3,500 XP
+  level: 15th
+  target: objects areas only
+  url: /SpellsP-R#phase-door
+Prismatic sphere:
+  cost: 17th
+  level: 4,500 XP
+  target: objects areas only
+  url: /SpellsP-R#prismatic-sphere
+Prismatic wall:
+  cost: 16th
+  level: 4,000 XP
+  target: objects areas only
+  url: /SpellsP-R#prismatic-wall
+Read magic:
+  cost: 500 XP
+  level: 9th
+  target: yourself only
+  url: /SpellsP-R#read-magic
+Reduce person:
+  cost: 500 XP
+  level: 9th
+  target: yourself creature object
+  url: /SpellsP-R#reduce-person
+Resistance:
+  level: 9th
+  cost: 500 XP
+  target: yourself creature object
+  url: /SpellsP-R#resistance
+See invisibility:
+  cost: 10th
+  level: 1,000 XP
+  target: yourself only
+  url: /SpellsS#see-invisibility
+Shrink item:
+  cost: 11th
+  level: 1,500 XP
+  target: objects areas only
+  url: /SpellsS#shrink-item
+Solid fog:
+  cost: 12th
+  level: 2,000 XP
+  target: objects areas only
+  url: /SpellsS#solid-fog
+Stinking cloud:
+  cost: 11th
+  level: 1,500 XP
+  target: objects areas only
+  url: /SpellsS#stinking-cloud
+Symbol of death:
+  cost: 16th
+  level: 4,000 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-death
+Symbol of fear:
+  cost: 14th
+  level: 3,000 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-fear
+Symbol of insanity:
+  cost: 16th
+  level: 4,000 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-insanity
+Symbol of pain:
+  cost: 13th
+  level: 2,500 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-pain
+Symbol of persuasion:
+  cost: 14th
+  level: 3,000 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-persuasion
+Symbol of sleep:
+  cost: 16th
+  level: 4,000 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-sleep
+Symbol of stunning:
+  cost: 15th
+  level: 3,500 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-stunning
+Symbol of weakness:
+  cost: 15th
+  level: 3,500 XP
+  target: objects areas only
+  url: /SpellsS#symbol-of-weakness
+Telepathic bond:
+  cost: 13th
+  level: 2,500 XP
+  target: yourself creature object
+  url: /SpellsT-Z#telepathic-bond
+Teleportation circle:
+  cost: 17th
+  level: 4,500 XP
+  target: objects areas only
+  url: /SpellsT-Z#teleportation-circle
+Tongues:
+  cost: 11th
+  level: 1,500 XP
+  target: yourself only
+  url: /SpellsT-Z#tongues
+Wall of fire:
+  cost: 12th
+  level: 2,000 XP
+  target: objects areas only
+  url: /SpellsT-Z#wall-of-fire
+Wall of force:
+  cost: 13th
+  level: 2,500 XP
+  target: objects areas only
+  url: /SpellsT-Z#
+Web:
+  cost: 10th
+  level: 1,000 XP
+  target: objects areas only
+  url: /SpellsT-Z#web
