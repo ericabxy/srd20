@@ -1,5 +1,6 @@
 ---
 layout: home
+nav_order: 0
 ---
 
 _**Welcome to the Srd20 Project!**_

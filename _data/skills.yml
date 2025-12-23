@@ -1,0 +1,108 @@
+Appraise:
+  modifier: Int
+  url: /SkillsI#appraise-int
+Balance:
+  modifier: Dex
+  url: /SkillsI#balance-dex-armor-check-penalty
+Bluff:
+  modifier: Cha
+  url: /SkillsI#bluff-cha
+Climb:
+  modifier: Str
+  url: /SkillsI#climb-str-armor-check-penalty
+Concentration:
+  modifier: Con
+  url: /SkillsI#concentration-con
+Craft:
+  modifier: Int
+  url: /SkillsI#craft-int
+Decipher Script:
+  modifier: Int
+  url: /SkillsI#decipher-script-int-trained-only
+Diplomacy:
+  modifier: Cha
+  url: /SkillsI#diplomacy-cha
+Disable Device:
+  modifier: Int
+  url: /SkillsI#disable-device-int-trained-only
+Disguise:
+  modifier: Cha
+  url: /SkillsI#disguise-cha
+Escape Artist:
+  modifier: Dex
+  url: /SkillsI#escape-artist-dex-armor-check-penalty
+Forgery:
+  modifier: Int
+  url: /SkillsI#forgery-int
+Gather Information:
+  modifier: Cha
+  url: /SkillsI#gather-information-cha
+Handle Animal:
+  modifier: Cha
+  url: /SkillsI#handle-animal-cha-trained-only
+Heal:
+  modifier: Wis
+  url: /SkillsII#heal-wis
+Hide:
+  modifier: Dex
+  url: /msrdskillsii#hide-dex-armor-check-penalty
+Intimidate:
+  modifier: Cha
+  url: /msrdskillsii#intimidate-cha
+Jump:
+  modifier: Str
+  url: /msrdskillsii#jump-str-armor-check-penalty
+Knowledge:
+  modifier: Int
+  url: /msrdskillsii#knowledge-int-trained-only
+Listen:
+  modifier: Wis
+  url: /msrdskillsii#listen-wis
+Move Silently:
+  modifier: Dex
+  url: /msrdskillsii#move-silently-dex-armor-penalty
+Open Lock:
+  modifier: Dex
+  url: /msrdskillsii#open-lock-dex-trained-only
+Perform:
+  modifier: Cha
+  url: /msrdskillsii#perform-cha
+Profession:
+  modifier: Wis
+  url: /msrdskillsii#profession-wis
+Ride:
+  modifier: Dex
+  url: /msrdskillsii#ride-dex
+Search:
+  modifier: Int
+  url: /msrdskillsii#search-int
+Sense Motive:
+  modifier: Wis
+  url: /msrdskillsii#sense-motive-wis
+Sleight of Hand:
+  modifier: Dex
+  url: /msrdskillsii#sleight-of-hand-dex-trained-only-armor-penalty
+Speak Language:
+  modifier: None
+  url: /msrdskillsii#speak-language-none-trained-only
+Spellcraft:
+  modifier: Int
+  url: /SkillsII#spellcraft-int-trained-only
+Spot:
+  modifier: Wis
+  url: /msrdskillsii#spot-wis
+Survival:
+  modifier: Wis
+  url: /msrdskillsii#survival-wis
+Swim:
+  modifier: Str
+  url: /msrdskillsii#swim-str-armor-penalty
+Tumble:
+  modifier: Dex
+  url: /msrdskillsii#tumble-dex-trained-only-armor-check-penalty
+Use Magic Device:
+  modifier: Cha
+  url: /msrdskillsii#use-magic-device-cha-trained-only
+Use Rope:
+  modifier: Dex
+  url: /msrdskillsii#use-rope-dex

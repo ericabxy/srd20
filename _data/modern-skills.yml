@@ -1,0 +1,123 @@
+Balance:
+  modifier: Dex
+  url: /msrdskillsi#balance-dex-armor-penalty
+Bluff:
+  modifier: Cha
+  url: /msrdskillsi#bluff-cha
+Climb:
+  modifier: Str
+  url: /msrdskillsi#climb-str-armor-penalty
+Computer Use:
+  modifier: Int
+  url: /msrdskillsi#computer-use-int
+Concentration:
+  modifier: Con
+  url: /msrdskillsi#concentration-con
+Craft:
+  modifier: Int
+  url: /msrdskillsi#craft-int
+Decipher Script:
+  modifier: Int
+  url: /msrdskillsi#decipher-script-int-trained-only
+Demolitions:
+  modifier: Int
+  url: /msrdskillsi#demolitions-int-trained-only
+Diplomacy:
+  modifier: Cha
+  url: /msrdskillsi#diplomacy-cha
+Disable Device:
+  modifier: Int
+  url: /msrdskillsi#disable-device-int-trained-only
+Disguise:
+  modifier: Cha
+  url: /msrdskillsi#disguise-cha
+Drive:
+  modifier: Dex
+  url: /msrdskillsi#drive-dex
+Escape Artist:
+  modifier: Dex
+  url: /msrdskillsi#escape-artist-dex-armor-penalty
+Forgery:
+  modifier: Int
+  url: /msrdskillsi#forgery-int
+Gamble:
+  modifier: Wis
+  url: /msrdskillsi#gamble-wis
+Gather Information:
+  modifier: Cha
+  url: /msrdskillsii#gather-information-cha
+Handle Animal:
+  modifier: Cha
+  url: /msrdskillsii#handle-animal-cha-trained-only
+Hide:
+  modifier: Dex
+  url: /msrdskillsii#hide-dex-armor-penalty
+Intimidate:
+  modifier: Cha
+  url: /msrdskillsii#intimidate-cha
+Investigate:
+  modifier: Int
+  url: /msrdskillsii#investigate-int-trained-only
+Jump:
+  modifier: Str
+  url: /msrdskillsii#jump-str-armor-penalty
+Knowledge:
+  modifier: Int
+  url: /msrdskillsii#knowledge-int-trained-only
+Listen:
+  modifier: Wis
+  url: /msrdskillsii#listen-wis
+Move Silently:
+  modifier: Dex
+  url: /msrdskillsii#move-silently-dex-armor-penalty
+Navigate:
+  modifier: Int
+  url: /msrdskillsii#navigate-int
+Perform:
+  modifier: Cha
+  url: /msrdskillsii#perform-cha
+Pilot:
+  modifier: Dex
+  url: /msrdskillsii#pilot-dex-trained-only
+Profession:
+  modifier: Wis
+  url: /msrdskillsii#profession-wis
+Read/Write Language:
+  modifier: None
+  url: /msrdskillsii#read-write-language-none-trained-only
+Repair:
+  modifier: Int
+  url: /msrdskillsii#repair-int-trained-only
+Research:
+  modifier: Int
+  url: /msrdskillsii#research-int
+Ride:
+  modifier: Dex
+  url: /msrdskillsii#ride-dex
+Search:
+  modifier: Int
+  url: /msrdskillsii#search-int
+Sense Motive:
+  modifier: Wis
+  url: /msrdskillsii#sense-motive-wis
+Sleight of Hand:
+  modifier: Dex
+  url: /msrdskillsii#sleight-of-hand-dex-trained-only-armor-penalty
+Speak Language:
+  modifier: None
+  url: /msrdskillsii#speak-language-none-trained-only
+Spot:
+  modifier: Wis
+  url: /msrdskillsii#spot-wis
+Survival:
+  modifier: Wis
+  url: /msrdskillsii#survival-wis
+Swim:
+  modifier: Str
+  url: /msrdskillsii#swim-str-armor-penalty
+Treat Injury:
+  modifier: Wis
+  url: /msrdskillsii#treat-injury-wis
+Tumble:
+  modifier: Dex
+  url: /msrdskillsii#tumble-dex-trained-only-armor-penalty

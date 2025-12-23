@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Patterns"
+date:   2025-12-22 16:00:00 -0800
+categories: analysis
+---
+
+The classes in the SRD employ some hidden patterns, or at least contain emergent patterns, during character advancement.
+
+### Zeroeth Level
+
+Some patterns seem to begin before 1st level; for instance the first feat every character begins the game with, the +2 bonus granted to "good" saving throws, the [ranger](/ClassesII#ranger)'s first favored enemy, and the [fighter](/ClassesI#fighter)'s first bonus feat.
+
+### Feats and Saving Throws
+
+Every character gains a feat and improves their "poor" saving throws at the same rate: at 3rd level and every three levels thereafter.
+
+### Poor Base Attack Bonus and Fighter Bonus Feat
+
+Every character class improves their base attack bonus by +1 at 2nd level and every two levels thereafter; even the lowly [wizard](/ClassesII#wizard) and others with a "poor" bonus gain at this base rate.
+
+The fighter gains a bonus feat at the same rate at the same levels.
+
+### Average and Good Base Attack Bonus
+
+Classes with an "average" base attack bonus improve at the base rate plus an additional +1 at 3rd level and every four levels thereafter. Classes with the "good" bonus improve at both of those rates and fills in the final gap at 1st level and every four levels thereafter.
+
+Interestingly, the epic base attack bonus improves at every level _except_ those that coincide with the "poor" base attack bonus.

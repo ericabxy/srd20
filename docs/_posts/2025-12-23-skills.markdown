@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Skills"
+date:   2025-12-23 00:00:00 -0800
+categories: msrd srd
+---
+
+<table role="navigation">
+<tr>
+  <th colspan="2">Skills</th>
+</tr>
+<tr>
+<th>
+  <a href="SkillsI">Basic I</a>
+  <a href="SkillsII">Basic II</a>
+</th>
+<td>
+  {% for item in site.data.skills %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ item[1].url }}">
+      {{ item[0] }} ({{ item[1].modifier }})
+    </a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endfor %}
+</td>
+</tr>
+<tr>
+<th>
+  <a href="msrdskillsi">Modern I</a>
+  <a href="msrdskillsii">Modern II</a>
+</th>
+<td>
+  {% for item in site.data.modern-skills %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ item[1].url }}">
+      {{ item[0] }} ({{ item[1].modifier }})
+    </a>
+    {% unless forloop.last %}&bull;{% endunless %}
+  {% endfor %}
+</td>
+</tr>
+</table>
