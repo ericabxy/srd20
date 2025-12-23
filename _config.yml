@@ -5,8 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srd20.radicalgnu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ericabxy
 
-theme: minima
-#theme: just-the-docs
+#theme: minima
+theme: just-the-docs
 #remote_theme: sighingnow/jekyll-gitbook
 #plugins:
 #- jekyll-remote-theme

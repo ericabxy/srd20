@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Character Backgrounds"
 date:   2025-12-23 00:00:00 -0800
 ---
 
@@ -13,9 +12,9 @@ Genetic and cultural background is a fluid concept that can range from standard 
 <th colspan="2">Character Backgrounds</th>
 </tr>
 <tr>
-<th>Interplanetary</th>
+<th>Standard</th>
 <td>
-{% for item in site.data.interplanetary-backgrounds %}
+{% for item in site.data.standard-backgrounds %}
   <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
     {{ item.name }}
   </a>

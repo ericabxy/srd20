@@ -6,7 +6,7 @@ operator: asmith
 title: Monsters (O-R)
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ## OGRE
 
@@ -240,13 +240,13 @@ Infernal, Orc.
 
 ---Level adjustment +7.
 
-OOZE
+## OOZE
 
 Oozes are amorphous creatures that live only to eat. They inhabit
 underground areas throughout the world, scouring caverns, ruins, and
 dungeons in search of organic matter---living or dead.
 
-COMBAT
+### COMBAT
 
 Oozes attack any creatures they encounter. They lash out with pseudopods
 or simply engulf opponents with their bodies, which secrete acids that
@@ -255,7 +255,7 @@ help them catch or digest their prey.
 **Blindsight (Ex): **An ooze's entire body is a primitive sensory organ
 that can ascertain prey by scent and vibration within 60 feet.
 
-BLACK PUDDING
+### BLACK PUDDING
 
 +----------------------+----------------------+----------------------+
 |                      | ########| Black      | **Elder Black        |
@@ -352,7 +352,7 @@ BLACK PUDDING
 The typical black pudding measures 15 feet across and 2 feet thick. It
 weighs about 18,000 pounds.
 
-Combat
+#### Combat
 
 A black pudding attacks by grabbing and squeezing their
 prey.
@@ -369,18 +369,18 @@ The pudding's acidic touch deals 21 points of damage per round to
 wooden or metal objects, but the ooze must remain in contact with the
 object for 1 full round to deal this damage.
 
-**Constrict (Ex): **A black pudding deals automatic slam
+**Constrict (Ex):** A black pudding deals automatic slam
 and acid damage with a successful grapple check. The opponent's clothing
 and armor take a --4 penalty on Reflex saves against the
 acid.
 
-**Improved Grab (Ex): **To use this ability, a black
+**Improved Grab (Ex):** To use this ability, a black
 pudding must hit with its slam attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity. If
 it wins the grapple check, it establishes a hold and can
 constrict.
 
-**Split (Ex): **Slashing and piercing weapons deal no
+**Split (Ex):** Slashing and piercing weapons deal no
 damage to a black pudding. Instead the creature splits into two
 identical puddings, each with half of the original's current hit points
 (round down). A pudding with 10 hit points or less cannot be further
@@ -390,16 +390,16 @@ split and dies if reduced to 0 hit points.
 Climb checks and can always choose to take 10 on a Climb check, even if
 rushed or threatened.
 
-ELDER BLACK PUDDING
+### ELDER BLACK PUDDING
 
 The most ancient black puddings are vast pools of inky death.
 
-COMBAT
+### COMBAT
 
 The save DC for the elder black pudding's acid attack (DC 29) is
 adjusted for its additional Hit Dice and higher Constitution score.
 
-GELATINOUS CUBE
+### GELATINOUS CUBE
 
   ---------------------------------------- ------------------------------------------------------------------------------------------------------
                                           | Huge Ooze
@@ -437,7 +437,7 @@ body.
 A typical gelatinous cube is 15 feet on a side and weighs about 50,000
 pounds, though much larger specimens are not unknown.
 
-Combat
+#### Combat
 
 A gelatinous cube attacks by slamming its body into its prey. It is
 capable of lashing out with a pseudopod, but usually engulfs
@@ -459,7 +459,7 @@ subject to the cube's paralysis and acid, and are considered to be
 grappled and trapped within its body. The save DC is Strength-based and
 includes a +1 racial bonus.
 
-**Paralysis (Ex): **A gelatinous cube secretes an
+**Paralysis (Ex):** A gelatinous cube secretes an
 anesthetizing slime. A target hit by a cube's melee or engulf attack
 must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds.
 The cube can automatically engulf a paralyzed opponent. The save DC is
@@ -470,7 +470,7 @@ even under ideal conditions, and it takes a DC 15 Spot check to notice
 one. Creatures who fail to notice a cube and walk into it are
 automatically engulfed.
 
-GRAY OOZE
+### GRAY OOZE
 
   ---------------------------------------- --------------------------------------------------------------------------------------
                                           | Medium Ooze
@@ -503,12 +503,12 @@ GRAY OOZE
 A gray ooze can grow to a diameter of up to 10 feet and a thickness of
 about 6 inches. A typical specimen weighs about 700 pounds.
 
-Combat
+#### Combat
 
 A gray ooze strikes like a snake, slamming opponents with its
 body.
 
-**Acid (Ex): **A gray ooze secretes a digestive acid that
+**Acid (Ex):** A gray ooze secretes a digestive acid that
 quickly dissolves organic material and metal, but not stone. Any melee
 hit or constrict attack deals acid damage. Armor or clothing dissolves
 and becomes useless immediately unless it succeeds on a DC 16 Reflex
@@ -524,7 +524,7 @@ for 1 full round to deal this damage.
 acid damage with a successful grapple check. The opponent's clothing and
 armor take a --4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex): **To use this ability, a gray ooze
+**Improved Grab (Ex):** To use this ability, a gray ooze
 must hit with its slam attack. It can then attempt to start a grapple as
 a free action without provoking an attack of opportunity. If it wins the
 grapple check, it establishes a hold and can constrict. 
@@ -535,7 +535,7 @@ one. Creatures who fail to notice a gray ooze and walk into it are
 automatically hit with a melee attack for slam and acid
 damage.
 
-OCHRE JELLY
+### OCHRE JELLY
 
   ---------------------------------------- ------------------------------------------------------------------
                                           | Large Ooze
@@ -570,7 +570,7 @@ of about 6 inches, but can compress its body to fit into cracks as small
 as 1 inch wide. A typical specimen weighs about 5,600
 pounds.
 
-Combat
+#### Combat
 
 An ochre jelly attempts to envelop and squeeze its prey.
 
@@ -578,10 +578,10 @@ An ochre jelly attempts to envelop and squeeze its prey.
 that dissolves only flesh. Any melee hit or constrict attack deals acid
 damage.
 
-**Constrict (Ex): **An ochre jelly deals automatic slam
+**Constrict (Ex):** An ochre jelly deals automatic slam
 and acid damage with a successful grapple check.
 
-**Improved Grab (Ex): **To use this ability, an ochre
+**Improved Grab (Ex):** To use this ability, an ochre
 jelly must hit with its slam attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity. If
 it wins the grapple check, it establishes a hold and can
@@ -708,7 +708,7 @@ Gnoll, Goblin, Abyssal.
 
 ---Favored Class: Barbarian.
 
-OTYUGH
+## OTYUGH
 
   ---------------------------------------- -------------------------------------------------------------------
                                           | Large Aberration
@@ -743,7 +743,7 @@ pounds.
 
 Otyughs speak Common.
 
-COMBAT
+### COMBAT
 
 An otyugh attacks living creatures if it feels threatened or if it is
 hungry; otherwise it is content to remain hidden. Otyughs slash and
@@ -762,10 +762,10 @@ must hit with a tentacle attack. It can then attempt to start a grapple
 as a free action without provoking an attack of opportunity. If it wins
 the grapple check, it establishes a hold and can constrict.
 
-**Skills: **\*An otyugh has a +8 racial bonus on Hide
+**Skills:** \*An otyugh has a +8 racial bonus on Hide
 checks when in its lair, due to its natural coloration.
 
-OWL, GIANT
+## OWL, GIANT
 
   ---------------------------------------- --------------------------------------------------------------------------------
                                           | Large Magical Beast
@@ -804,7 +804,7 @@ size.
 
 Giant owls speak Common and Sylvan.
 
-COMBAT
+### COMBAT
 
 A giant owl attacks by gliding silently just a few feet above its prey
 and plunging to strike when directly overhead.
@@ -818,7 +818,7 @@ checks and a +4 racial bonus on Spot checks.
 \*When in flight, giant owls gain a +8 bonus on Move Silently
 checks.
 
-TRAINING A GIANT OWL
+### TRAINING A GIANT OWL
 
 Although intelligent, a giant owl requires training before it can bear
 a rider in combat. To be trained, a giant owl must have a friendly
@@ -836,7 +836,7 @@ rear or train a giant owl.
 **Carrying Capacity:** A light load for a giant owl is up to 300 pounds;
 a medium load, 301--600 pounds; and a heavy load, 601--900 pounds.
 
-##| OWLBEAR
+## OWLBEAR
 
   ---------------------------------------- ---------------------------------------------------------------------------
                                            Large Magical Beast
@@ -872,7 +872,7 @@ feet and weigh up to 1,500 pounds. Adventurers who have survived
 encounters with the creature often speak of the bestial madness they
 glimpsed in its red-rimmed eyes.
 
-COMBAT
+### COMBAT
 
 Owlbears attack prey---any creature bigger than a mouse---on sight,
 always fighting to the death. They slash with claws and beak, trying to
@@ -882,7 +882,7 @@ grab their prey and rip it apart.
 must hit with a claw attack. It can then attempt to start a grapple as a
 free action without provoking an attack of opportunity.
 
-##| PEGASUS
+## PEGASUS
 
   ---------------------------------------- --------------------------------------------------------------------------------
                                            Large Magical Beast
@@ -920,16 +920,14 @@ A typical pegasus stands 6 feet high at the shoulder, weighs 1,500
 pounds, and has a wingspan of 20 feet. Pegasi cannot speak, but they
 understand Common.
 
-COMBAT
+### COMBAT
 
-**Spell-Like Abilities:** At will---*detect
-good *and *detect evil *within
+**Spell-Like Abilities:** At will---*detect good* and *detect evil* within
 a 60-foot radius. Caster level 5th.
 
-**Skills:** Pegasi have a +4 racial bonus on Listen and
-Spot checks.
+**Skills:** Pegasi have a +4 racial bonus on Listen and Spot checks.
 
-TRAINING A PEGASUS
+### TRAINING A PEGASUS
 
 Although intelligent, a pegasus requires training before it can bear a
 rider in combat. To be trained, a pegasus must have a friendly attitude
@@ -949,7 +947,7 @@ life.
 to 300 pounds; a medium load, 301--600 pounds; and a heavy load,
 601--900 pounds.
 
-PHANTOM FUNGUS
+## PHANTOM FUNGUS
 
   ---------------------------------------- --------------------------------------------------------------------
                                           | Medium Plant
@@ -987,7 +985,7 @@ Four stumpy legs support the creature and allow it to move about. This
 ambulatory fungus is naturally invisible, making it a feared predator
 among subterranean inhabitants.
 
-COMBAT
+### COMBAT
 
 A phantom fungus usually roams quietly, hunting for prey. It attacks
 lone individuals almost anywhere, but when tackling groups it prefers an
@@ -997,14 +995,14 @@ open space where it has a better chance .
 allowing a phantom fungus to remain invisible even when attacking. It
 works like *greater invisibility *(caster
 level 12th) and lasts as long as the phantom fungus is alive. This
-ability is not subject to the *invisibility purge
-*spell. A phantom fungus becomes visible 1 minute after it
+ability is not subject to the *invisibility purge*
+spell. A phantom fungus becomes visible 1 minute after it
 is killed.
 
 **Skills:** A phantom fungus has a +5 racial bonus on
 Move Silently checks.
 
-##| PHASE SPIDER
+## PHASE SPIDER
 
   ---------------------------------------- ---------------------------------------------------------------------------
                                            Large Magical Beast
@@ -1042,7 +1040,7 @@ pounds.
 
 Phase spiders cannot speak.
 
-COMBAT
+### COMBAT
 
 Phase spiders dwell and hunt on the Material Plane. Once a spider
 locates prey, however, it shifts to the Ethereal Plane to attack,
@@ -1050,13 +1048,12 @@ attempting to catch its victim flat-footed. The spider shifts in, bites
 its victim, and retreats quickly back to the Ethereal
 Plane.
 
-**Ethereal Jaunt (Su): **A phase spider can shift from
+**Ethereal Jaunt (Su):** A phase spider can shift from
 the Ethereal Plane to the Material Plane as a free action, and shift
 back again as a move action (or during a move action). The ability is
-otherwise identical with *ethereal jaunt
-*(caster level 15th). 
+otherwise identical with *ethereal jaunt* (caster level 15th). 
 
-**Poison (Ex): **Injury, Fortitude DC 17, initial and
+**Poison (Ex):** Injury, Fortitude DC 17, initial and
 secondary damage 1d8 Con. The save DC is
 Constitution-based.
 
@@ -1064,7 +1061,7 @@ Constitution-based.
 checks and can always choose to take 10 on a Climb check, even if rushed
 or threatened.
 
-PHASM
+## PHASM
 
   ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Medium Aberration (Shapechanger)
@@ -1100,10 +1097,9 @@ feet in diameter and 2 feet high at the center. Swirls of color indicate
 sensory organs. In this form, a phasm slithers about like an ooze and
 can attack with a pseudopod. It weighs about 400 pounds.
 
-Phasms can speak Common but prefer telepathic
-communication.
+Phasms can speak Common but prefer telepathic communication.
 
-COMBAT
+### COMBAT
 
 When faced with potential danger, a phasm is equally likely to retreat,
 parley, or attack, as its fancy strikes. 
@@ -1112,18 +1108,13 @@ If pursued or harassed, a phasm transforms into the most fearsome
 creature it knows and attacks. When seriously hurt, it changes to some
 fast or agile form and tries to escape.
 
-**Amorphous (Ex): **A phasm in its natural form has
-immunity to poison, *sleep, *paralysis,
-polymorph, and stunning effects. It is not subject to critical hits and,
-having no clear front or back, cannot be flanked.
+**Amorphous (Ex):** A phasm in its natural form has immunity to poison, *sleep,* paralysis, polymorph, and stunning effects. It is not subject to critical hits and, having no clear front or back, cannot be flanked.
 
-**Resilient (Ex): **A phasm has a +4 racial bonus on
-Fortitude and Reflex saves (included in the statistics
-block).
+**Resilient (Ex):** A phasm has a +4 racial bonus on Fortitude and Reflex saves (included in the statistics block).
 
 Alternate Form (Su): A phasm can assume any form of Large size or
 smaller as a standard action. This ability functions as a
-*polymorph *spell cast on itself (caster
+*polymorph* spell cast on itself (caster
 level 15th), except that the phasm does not regain hit points for
 changing form. A phasm can remain in its alternate form until it chooses
 to assume a new one or return to its natural form.
@@ -1213,11 +1204,9 @@ Aasimar characters possess the following racial traits.
 ---Racial Skills: Aasimars have a +2 racial bonus on Spot and Listen
 checks.
 
----Racial Feats: An aasimar gains feats according to its class
-levels.
+---Racial Feats: An aasimar gains feats according to its class levels.
 
----Special Attacks (see above):
-*Daylight*.
+---Special Attacks (see above): *Daylight*.
 
 ---Special Qualities (see above): Resistance to acid 5, cold 5, and
 electricity 5.
@@ -1262,18 +1251,15 @@ cloven feet. No two tieflings are the same.
 #### Combat
 
 Tieflings are sneaky, subtle, and generally conniving. They prefer to
-strike from ambush and usually avoid a fair fight if they
-can.
+strike from ambush and usually avoid a fair fight if they can.
 
 ***Darkness* (Sp):** A tiefling can use *darkness* once per day
 (caster level equal to class levels).
 
-**Skills:** A tiefling has a +2 racial bonus on Bluff and
-Hide checks.
+**Skills:** A tiefling has a +2 racial bonus on Bluff and Hide checks.
 
 The tiefling warrior presented here had the following ability scores
-before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha
-8.
+before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 #### Tieflings as Characters
 
@@ -1358,7 +1344,7 @@ are within 60 feet.
 that grants them a +4 racial bonus on Hide checks. \*In forests or
 overgrown areas, this bonus improves to +8.
 
-PURPLE WORM
+## PURPLE WORM
 
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------
                                           | Gargantuan Magical Beast
@@ -1392,20 +1378,19 @@ The body of a mature purple worm is 5 feet in diameter and 80 feet
 long, weighing about 40,000 pounds. The creature has a poisonous stinger
 in its tail.
 
-COMBAT
+### COMBAT
 
 In battle, a purple worm forms into a coil 20 feet in diameter, biting
 and stinging anything within reach.
 
-**Improved Grab (Ex): **To use this ability, a purple
+**Improved Grab (Ex):** To use this ability, a purple
 worm must hit with its bite attack. It can then attempt to start a
 grapple as a free action without provoking an attack of opportunity. If
 it wins the grapple check, it establishes a hold and can attempt to
 swallow the foe the following round.
 
-**Poison (Ex): **Injury, Fortitude DC 25, initial damage
-1d6 Str, secondary damage 2d6 Str. The save DC is
-Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 25, initial damage 1d6 Str,
+secondary damage 2d6 Str. The save DC is Constitution-based.
 
 **Swallow Whole (Ex):** A purple worm can try to swallow
 a grabbed opponent of a smaller size than itself by making a successful
@@ -1467,17 +1452,9 @@ detect thoughts as the spell (caster level 18th; Will DC 15 negates). It
 can suppress or resume this ability as a free action. The save DC is
 Charisma-based.
 
-**Spells:** A rakshasa casts spells as a 7th-level
-sorcerer. 
+**Spells:** A rakshasa casts spells as a 7th-level sorcerer.
 
-*Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 +
-spell level): 0---*detect magic*, *light*, *mage hand*,
-*message*, *read magic*, *resistance*, *touch of fatigue*;
-1st---*charm person*, *mage armor*, *magic
-missile*, *shield*, *silent image*;
-2nd---*bear's
-endurance*, *invisibility*, *acid arrow*;
-3rd---*haste*, *suggestion*.
+*Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 + spell level): 0---*detect magic*, *light*, *mage hand*, *message*, *read magic*, *resistance*, *touch of fatigue*; 1st---*charm person*, *mage armor*, *magic missile*, *shield*, *silent image*; 2nd---*bear's endurance*, *invisibility*, *acid arrow*; 3rd---*haste*, *suggestion*.
 
 **Change Shape (Su):** A rakshasa can assume any humanoid
 form, or revert to its own form, as a standard action. In humanoid form,
@@ -1485,8 +1462,7 @@ a rakshasa loses its claw and bite attacks (although it often equips
 itself with weapons and armor instead). A rakshasa remains in one form
 until it chooses to assume a new one. A change in form cannot be
 dispelled, but the rakshasa reverts to its natural form when killed. A
-*true seeing* spell reveals its natural
-form.
+*true seeing* spell reveals its natural form.
 
 **Skills:** A rakshasa has a +4 racial bonus on Bluff and
 Disguise checks. \*When using change shape, a rakshasa gains an
@@ -1546,7 +1522,7 @@ Undercommon.
 
 ---Level adjustment +7.
 
-##| RAST
+## RAST
 
   ---------------------------------------- ----------------------------------------------------------------------------------
                                            Medium Outsider (Extraplanar, Fire)
@@ -1582,7 +1558,7 @@ four at once.
 A rast has a body about the size of a large dog's, with a head almost
 as large as the body. It weighs about 200 pounds.
 
-COMBAT
+### COMBAT
 
 Rasts paralyze as many of their foes as possible, then attack any that
 are still moving. A rast can claw or bite, but cannot do both during the
@@ -1591,18 +1567,18 @@ same round.
 **Paralyzing Gaze (Su):** Paralysis for 1d6 rounds, 30 feet, Fortitude
 DC 13 negates. The save DC is Charisma-based.
 
-**Improved Grab (Ex): **To use this ability, a rast must hit with its
+**Improved Grab (Ex):** To use this ability, a rast must hit with its
 bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity.
 
-**Blood Drain (Ex): **A rast drains blood from a grabbed opponent,
+**Blood Drain (Ex):** A rast drains blood from a grabbed opponent,
 dealing 1 point of Constitution damage each round it maintains the hold.
 
-**Flight (Su): **A rast can cease or resume flight as a free action. A
+**Flight (Su):** A rast can cease or resume flight as a free action. A
 rast that loses this ability falls and can perform only a single action
 (either a move action or an attack action) each round.
 
-RAVID
+## RAVID
 
   ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Medium Outsider (Extraplanar)
@@ -1640,13 +1616,13 @@ life.
 
 A ravid is about 7 feet long and weighs about 75 pounds.
 
-COMBAT
+### COMBAT
 
 Ravids fight only in self-defense. A ravid itself is not very powerful
 but is always accompanied by at least one animated object that defends
 it.
 
-**Positive Energy Lash (Su): **A ravid can make a touch
+**Positive Energy Lash (Su):** A ravid can make a touch
 attack or hit with a claw or tail slap attack to infuse a target with
 positive energy. The energy produces an unpleasant tingle in living
 creatures, and against undead foes (even incorporeal ones) it deals 2d10
@@ -1658,7 +1634,7 @@ a ravid animates as though by the spell *animate objects
 the best of their ability, but the ravid isn't intelligent enough to
 employ elaborate tactics with them.
 
-**Flight (Su): **A ravid can cease or resume flight as a
+**Flight (Su):** A ravid can cease or resume flight as a
 free action. A rast that loses this ability falls and can perform only a
 single action (either a move action or an attack action) each
 round.
@@ -1666,7 +1642,7 @@ round.
 **Feats:** A ravid has the Multiattack feat even through
 it does not have the requisite three natural weapons.
 
-REMORHAZ
+## REMORHAZ
 
   ---------------------------------------- -----------------------------------------------------------------------------
                                           | Huge Magical Beast
@@ -1703,19 +1679,19 @@ pounds.
 
 Remorhazes cannot speak.
 
-COMBAT
+### COMBAT
 
 Remorhazes hide under the snow and ice until they hear movement above
 them, then attack from below and surprise prey.
 
-**Improved Grab (Ex): **To use this ability, a remorhaz
+**Improved Grab (Ex):** To use this ability, a remorhaz
 must hit an opponent least one size category smaller than itself with
 its bite attack. It can then attempt to start a grapple as a free action
 without provoking an attack of opportunity. If it wins the grapple
 check, it establishes a hold and can attempt to swallow the opponent the
 following round.
 
-**Swallow Whole (Ex): **When a remorhaz begins its turn
+**Swallow Whole (Ex):** When a remorhaz begins its turn
 with a grappled opponent in its mouth, it can swallow that opponent with
 a successful grapple check. Once inside, the opponent takes 2d8+12
 points of bludgeoning damage plus 8d6 points of fire damage per round
@@ -1735,7 +1711,7 @@ weapons; any weapon that strikes a remorhaz is allowed a DC 18 Fortitude
 save to avoid destruction. The save DC is Constitution-based. Skills:
 Remorhazes have a +4 racial bonus on Listen checks.
 
-ROC
+## ROC
 
   ---------------------------------------- ------------------------------------------------------------------------------------------------
                                           | Gargantuan Animal
@@ -1770,7 +1746,7 @@ enormous creatures are 30 feet long from the beak to the base of the
 tail, with wingspans as wide as 80 feet. A roc weighs about 8,000
 pounds.
 
-COMBAT
+### COMBAT
 
 A roc attacks from the air, swooping earthward to snatch prey in its
 powerful talons and carry it off for itself and its young to devour. A
@@ -1780,7 +1756,7 @@ fighting to the death to defend their nests or hatchlings.
 
 **Skills:** Rocs have a +4 racial bonus on Spot checks.
 
-ROPER
+## ROPER
 
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------
                                           | Large Magical Beast
@@ -1817,14 +1793,14 @@ surrounding cave.
 
 Ropers speak Terran and Undercommon.
 
-COMBAT
+### COMBAT
 
 A roper hunts by standing very still and imitating a bit of rock. This
 tactic often allows it to attack with surprise. When prey comes within
 reach, it lashes out with its strands. In melee, it bites adjacent
 opponents with its powerful maw.
 
-**Drag (Ex): **If a roper hits with a strand attack, the
+**Drag (Ex):** If a roper hits with a strand attack, the
 strand latches onto the opponent's body. This deals no damage but drags
 the stuck opponent 10 feet closer each subsequent round (provoking no
 attack of opportunity) unless that creature breaks free, which requires
@@ -1844,7 +1820,7 @@ at once, and they can strike up to 50 feet away (no range increment). If
 a strand is severed, the roper can extrude a new one on its next turn as
 a free action. 
 
-**Weakness (Ex): **A roper's strands can sap an
+**Weakness (Ex):** A roper's strands can sap an
 opponent's strength. Anyone grabbed by a strand must succeed on a DC 18
 Fortitude save or take 2d8 points of Strength damage. The save DC is
 Constitution-based.
@@ -1852,7 +1828,7 @@ Constitution-based.
 **Skills:** \*Ropers have a +8 racial bonus on Hide
 checks in stony or icy areas.
 
-##| RUST MONSTER
+## RUST MONSTER
 
   ---------------------------------------- -----------------------------------------------------------------------
                                            Medium Aberration
@@ -1889,7 +1865,7 @@ can rust metals on contact.
 The typical rust monster measures 5 feet long and 3 feet high, weighing
 200 pounds.
 
-COMBAT
+### COMBAT
 
 A rust monster can scent a metal object from up to 90 feet away. When
 it detects one, it dashes toward the source and attempts to strike it

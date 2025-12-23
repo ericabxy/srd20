@@ -6,7 +6,7 @@ operator: asmith
 title: Monsters (H-I)
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 
 ## HAG
@@ -104,8 +104,7 @@ Caster level 8th.
 
 Green hags are found in desolate swamps and dark forests.
 
-A green hag is about the same height and weight as a female
-human.
+A green hag is about the same height and weight as a female human.
 
 #### Combat
 
@@ -113,24 +112,13 @@ Green hags prefer to attack from hiding, usually after distracting
 foes. They often use darkvision to their advantage by attacking during
 moonless nights.
 
-**Spell-Like Abilities:** At
-will---*dancing lights*, *disguise self*, *ghost sound* (DC 12),
-*invisibility*, *pass without trace*, *tongues*, *water breathing*.
-Caster level 9th. The save DC is Charisma-based.
+**Spell-Like Abilities:** At will---*dancing lights*, *disguise self*, *ghost sound* (DC 12), *invisibility*, *pass without trace*, *tongues*, *water breathing*. Caster level 9th. The save DC is Charisma-based.
 
-**Weakness (Su):** A green hag can weaken a foe by making
-a special touch attack. The opponent must succeed on a DC 16 Fortitude
-save or take 2d4 points of Strength damage. The save DC is
-Charisma-based.
+**Weakness (Su):** A green hag can weaken a foe by making a special touch attack. The opponent must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
 
-**Mimicry (Ex):** A green hag can imitate the sounds of
-almost any animal found near its lair.
+**Mimicry (Ex):** A green hag can imitate the sounds of almost any animal found near its lair.
 
-**Skills:** A green hag has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line.
+**Skills:** A green hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ### SEA HAG
 
@@ -183,8 +171,7 @@ appearance for 24 hours. The save DC is Charisma-based.
 **Evil Eye (Su):** Three times per day, a sea hag can
 cast its dire gaze upon any single creature within 30 feet. The target
 must succeed on a DC 13 Will save or be dazed for three days, although
-*remove curse *or *dispel evil
-*can restore sanity sooner. In addition, an affected
+*remove curse* or *dispel evil* can restore sanity sooner. In addition, an affected
 creature must succeed on a DC 13 Fortitude save or die from fright.
 Creatures with immunity to fear effects are not affected by the sea
 hag's evil eye. The save DCs are Charisma-based.
