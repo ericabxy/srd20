@@ -1,5 +1,6 @@
 ---
 author: AKSmith
+date:   2003-10-22 12:59:00 -0800
 parent: Basic Rules and Legal
 company: Wizards of the Coast
 operator: AKSmith

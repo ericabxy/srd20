@@ -1,5 +1,6 @@
 ---
 author: asmith
+date:   2004-04-07 11:11:00 -0800
 parent: Psionics
 company: Wizards of the Coast
 operator: asmith

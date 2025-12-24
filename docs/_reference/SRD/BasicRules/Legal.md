@@ -1,5 +1,6 @@
 ---
 author: mjindra
+date:   2004-01-05 17:37:00 -0800
 parent: Basic Rules and Legal
 company: Wizards of the Coast
 operator: asmith

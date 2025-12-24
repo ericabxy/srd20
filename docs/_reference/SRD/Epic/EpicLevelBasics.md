@@ -1,5 +1,6 @@
 ---
 author: asmith
+date:   2004-02-12 17:49:00 -0800
 parent: Epic
 company: Wizards of the Coast
 operator: asmith

@@ -1,5 +1,6 @@
 ---
 author: AKSmith
+date:   2003-10-22 13:20:00 -0800
 parent: Spells
 company: Wizards of the Coast
 operator: AKSmith

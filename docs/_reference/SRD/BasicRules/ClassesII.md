@@ -1,5 +1,6 @@
 ---
 author: AKSmith
+date:   2003-10-22 12:58:00 -0800
 parent: Basic Rules and Legal
 company: Wizards of the Coast
 operator: AKSmith
@@ -24,55 +25,30 @@ The paladin's class skills (and the key ability for each skill) are Concentratio
 
 #### Table: The Paladin
 
-| Level | Attack Bonus   | Fort | Ref  | Will | Special
-| ----- | -------------- | ---- | ---- | -----| -------
-| 1st   | +1             | +2   | +0   | +0   | Aura of good, detect evil, smite evil 1/day
-| 2nd   | +2             | +3   | +0   | +0   | Divine grace, lay on hands
-| 3rd   | +3             | +3   | +1   | +1   | Aura of courage, divine health
-| 4th   | +4             | +4   | +1   | +1   | Turn undead
-| 5th   | +5             | +4   | +1   | +1   | Smite evil 2/day, special mount
-| 6th   | +6/+1          | +5   | +2   | +2   | Remove disease 1/week
-| 7th   | +7/+2          | +5   | +2   | +2
-| 8th   | +8/+3          | +6   | +2   | +2
-| 9th   | +9/+4          | +6   | +3   | +3   | Remove disease 2/week
-| 10th  | +10/+5         | +7   | +3   | +3   | Smite evil 3/day
-| 11th  | +11/+6/+1      | +7   | +3   | +3
-| 12th  | +12/+7/+2      | +8   | +4   | +4   | Remove disease 3/week
-| 13th  | +13/+8/+3      | +8   | +4   | +4
-| 14th  | +14/+9/+4      | +9   | +4   | +4
-| 15th  | +15/+10/+5     | +9   | +5   | +5   | Remove disease 4/week, smite evil 4/day
-| 16th  | +16/+11/+6/+1  | +10  | +5   | +5
-| 17th  | +17/+12/+7/+2  | +10  | +5   | +5
-| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Remove disease 5/week
-| 19th  | +19/+14/+9/+4  | +11  | +6   | +6
-| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Smite evil 5/day
-
-#### Table: Paladin Spells per Day
-
-|  ---  | — Spells per Day — ||||
-| Level | 1st | 2nd | 3rd | 4th |
-| ----- | :-: | :-: | :-: | :-: |
-| 1st   | --- | --- | --- | --- |
-| 2nd   | --- | --- | --- | --- |
-| 3rd   | --- | --- | --- | --- |
-| 4th   | 0   | --- | --- | --- |
-| 5th   | 0   | --- | --- | --- |
-| 6th   | 1   | --- | --- | --- |
-| 7th   | 1   | --- | --- | --- |
-| 8th   | 1   | 0   | --- | --- |
-| 9th   | 1   | 0   | --- | --- |
-| 10th  | 1   | 1   | --- | --- |
-| 11th  | 1   | 1   | 0   | --- |
-| 12th  | 1   | 1   | 1   | --- |
-| 13th  | 1   | 1   | 1   | --- |
-| 14th  | 2   | 1   | 1   | 0   |
-| 15th  | 2   | 1   | 1   | 1   |
-| 16th  | 2   | 2   | 1   | 1   |
-| 17th  | 2   | 2   | 2   | 1   |
-| 18th  | 3   | 2   | 2   | 1   |
-| 19th  | 3   | 3   | 3   | 2   |
-| 20th  | 3   | 3   | 3   | 3   |
-{:aria-labelledby='table-paladin-spells-per-day'}
+Table: The Paladin|||||||||
+||||||— Spells per Day —|||
+Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|1st|2nd|3rd|4th
+---|---|---|---|---|---|---|---|---|---
+1st|1|2|0|0|Aura of good, detect evil, smite evil 1/day|—|—|—|—
+2nd|2|3|0|0|Divine grace, lay on hands|—|—|—|—
+3rd|3|3|1|1|Aura of courage, divine health|—|—|—|—
+4th|4|4|1|1|Turn undead|0|—|—|—
+5th|5|4|1|1|Smite evil 2/day, special mount|0|—|—|—
+6th|+6/+1|5|2|2|Remove disease 1/week|1|—|—|—
+7th|+7/+2|5|2|2||1|—|—|—
+8th|+8/+3|6|2|2||1|0|—|—
+9th|+9/+4|6|3|3|Remove disease 2/week|1|0|—|—
+10th|+10/+5|7|3|3|Smite evil 3/day|1|1|—|—
+11th|+11/+6/+1|7|3|3||1|1|0|—
+12th|+12/+7/+2|8|4|4|Remove disease 3/week|1|1|1|—
+13th|+13/+8/+3|8|4|4||1|1|1|—
+14th|+14/+9/+4|9|4|4||2|1|1|0
+15th|+15/+10/+5|9|5|5|"Remove disease 4/week, smite evil 4/day"|2|1|1|1
+16th|+16/+11/+6/+1|10|5|5||2|2|1|1
+17th|+17/+12/+7/+2|10|5|5||2|2|2|1
+18th|+18/+13/+8/+3|11|6|6|Remove disease 5/week|3|2|2|1
+19th|+19/+14/+9/+4|11|6|6||3|3|3|2
+20th|+20/+15/+10/+5|12|6|6|Smite evil 5/day|3|3|3|3
 
 ### Class Features
 

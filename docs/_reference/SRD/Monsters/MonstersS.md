@@ -1,5 +1,6 @@
 ---
 author: AKSmith
+date:   2003-10-22 11:21:00 -0800
 parent: Monsters
 company: Wizards of the Coast
 operator: asmith

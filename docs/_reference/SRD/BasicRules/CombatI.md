@@ -1,9 +1,10 @@
 ---
 author: AKSmith
+date:   2003-10-30 12:05:00 -0800
 parent: Basic Rules and Legal
 company: Wizards of the Coast
 operator: asmith
-title: Combat I
+title: Combat I (Basics)
 ---
 
 This material is Open Game Content, and is licensed for public use

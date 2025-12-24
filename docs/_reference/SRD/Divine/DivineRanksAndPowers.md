@@ -1,5 +1,6 @@
 ---
 author: asmith
+date:   2004-04-15 13:31:00 -0800
 parent: Divine
 company: Wizards of the Coast
 operator: asmith

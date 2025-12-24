@@ -1,4 +1,5 @@
 ---
+date:   2003-10-27 10:20:00 -0800
 parent: Monsters
 title: Monsters (E-F)
 ---
