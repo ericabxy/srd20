@@ -1,20 +1,36 @@
 ---
 title: SRD
+groups:
+- name: Basic Rules and Legal
+  url: BasicRules
+- name: Spells
+  url: Spells
+- name: Magic Items
+  url: MagicItems
+- name: Monsters
+  url: Monsters
+- name: Psionics
+  url: Psionics
+- name: Epic
+  url: Epic
+- name: Divine
+  url: Divine
 ---
+
 
 <table>
 <tr>
   <th colspan="2">System Reference Document</th>
 </tr>
-{% for group in site.data.grouped-srd %}
+{% for group in page.groups %}
   <tr>
     <th>
-      <a href="/{{ group[1] }}">
-        {{ group[0] }}
+      <a href="/{{ group.url }}">
+        {{ group.name }}
       </a>
     </th>
     <td>
-    {% assign docs = site.srd | where: 'parent', group[0] %}
+    {% assign docs = site.reference | where: 'parent', group.name %}
     {% for doc in docs %}
       <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
         {{ doc.title }}
@@ -24,88 +40,4 @@ title: SRD
     </td> 
   </tr>
 {% endfor %}
-<tr>
-<th><a href="BasicRulesIndex">Basic Rules and Legal</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Basic Rules and Legal' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="SpellsIndex">Spells</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Spells' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="MagicItemsIndex">Magic Items</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Magic Items' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="MonstersIndex">Monsters</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Monsters' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="PsionicsIndex">Psionics</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Psionics' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="EpicIndex">Epic</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Epic' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
-<tr>
-<th><a href="DivineIndex">Divine</a></th>
-<td>
-{% assign docs = site.srd | where: 'parent', 'Divine' %}
-{% for doc in docs %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
-    {{ doc.title }}
-  </a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</td>
-</tr>
 </table>

@@ -5,37 +5,25 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srd20.radicalgnu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ericabxy
 
-#theme: minima
-theme: just-the-docs
+theme: minima
+#theme: just-the-docs
 #remote_theme: sighingnow/jekyll-gitbook
-#plugins:
+#remote_theme: olivier3lanc/Jekyll-LibDoc
+plugins:
 #- jekyll-remote-theme
-
-url: https://srd20.radicalgnu.xyz/
-
-permalink: /:title
+- jekyll-default-layout
+- jekyll-titles-from-headings
 
 defaults:
   - scope:
       path: ''
+      type: reference
     values:
-      layout: 'default'
+      layout: reference
 
 collections_dir: docs
 collections:
-  srd:
-    output: true
-    permalink: /:title
-    order:
-    - BasicRulesIndex.markdown
-    - Legal.markdown
-    - SpellsIndex.markdown
-    - MagicItemsIndex.markdown
-    - MonstersIndex.markdown
-    - PsionicsIndex.markdown
-    - EpicIndex.markdown
-    - DivineIndex.markdown
-  msrd:
+  reference:
     output: true
     permalink: /:title
   arcana_unearthed:

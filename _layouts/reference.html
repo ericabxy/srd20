@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<main>
+
+{{ content }}
+
+</main>
+
+<table>
+<tr>
+<td>
+  Categories:
+  {% for cat in page.categories %}
+    {{ cat }}
+    {% unless forloop.last %} | {% endunless %}
+  {% endfor %}
+</td>
+</tr>
+</table>

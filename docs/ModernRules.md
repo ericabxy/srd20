@@ -7,7 +7,7 @@ title: MSRD
   <th colspan="2">Modern System Reference Document</th>
 </tr>
 <tr>
-<th><a href="modernbasicsindex">Modern Basics</a></th>
+<th><a href="/modernbasicsindex">Modern Basics</a></th>
 <td>
 {% assign docs = site.msrd | where: 'parent', 'Modern Basics' %}
 {% for doc in docs %}
@@ -19,7 +19,7 @@ title: MSRD
 </td>
 </tr>
 <tr>
-<th><a href="ArcanaIndex">Arcana</a></th>
+<th><a href="/ArcanaIndex">Arcana</a></th>
 <td>
 {% assign docs = site.msrd | where: 'parent', 'Arcana' %}
 {% for doc in docs %}
@@ -31,7 +31,7 @@ title: MSRD
 </td>
 </tr>
 <tr>
-<th><a href="FutureIndex">Future</a></th>
+<th><a href="/FutureIndex">Future</a></th>
 <td>
 {% assign docs = site.msrd | where: 'parent', 'Future' %}
 {% for doc in docs %}
@@ -43,7 +43,7 @@ title: MSRD
 </td>
 </tr>
 <tr>
-<th><a href="MenacesIndex">Menaces</a></th>
+<th><a href="/MenacesIndex">Menaces</a></th>
 <td>
 {% assign docs = site.msrd | where: 'parent', 'Menaces' %}
 {% for doc in docs %}

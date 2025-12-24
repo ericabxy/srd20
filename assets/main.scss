@@ -27,7 +27,12 @@ tr:nth-child(odd) {
   background-color: white;
 }
 
-a:active, a:hover, a:link, a:visited {
-  color: Black;
+a:active, a:hover, a:link {
+  color: midnightBlue;
+  text-decoration: underline dotted;
+}
+
+a:visited {
+  color: Indigo;
   text-decoration: underline dotted;
 }
