@@ -1,7 +1,7 @@
 ---
 author: AKSmith
-date:   2003-07-02 13:28:00 -0800
 company: Wizards of the Coast
+date:   2003-07-02 13:28:00 -0800
 categories:
 - System Reference Document
 - Spells

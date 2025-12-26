@@ -1,13 +1,14 @@
 ---
 author: AKSmith
 date:   2004-03-05 15:16:00 -0800
-parent: Spells
 company: Wizards of the Coast
-operator: asmith
+categories:
+- System Reference Document
+- Spells
 title: Spells (S)
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ## SPELLS (S)
 
@@ -31,18 +32,9 @@ Abjuration
 
 **Spell Resistance:** No
 
-Any opponent attempting to strike or otherwise directly attack the
-warded creature, even with a targeted spell, must attempt a Will save.
-If the save succeeds, the opponent can attack normally and is unaffected
-by that casting of the spell. If the save fails, the opponent can't
-follow through with the attack, that part of its action is lost, and it
-can't directly attack the warded creature for the duration of the spell.
-Those not attempting to attack the subject remain unaffected. This spell
-does not prevent the warded creature from being attacked or affected by
-area or effect spells. The subject cannot attack without breaking the
-spell but may use nonattack spells or otherwise act.
+Any opponent attempting to strike or otherwise directly attack the warded creature, even with a targeted spell, must attempt a Will save. If the save succeeds, the opponent can attack normally and is unaffected by that casting of the spell. If the save fails, the opponent can't follow through with the attack, that part of its action is lost, and it can't directly attack the warded creature for the duration of the spell. Those not attempting to attack the subject remain unaffected. This spell does not prevent the warded creature from being attacked or affected by area or effect spells. The subject cannot attack without breaking the spell but may use nonattack spells or otherwise act.
 
-Scare
+### Scare
 
 Necromancy \[Fear, Mind-Affecting\]
 
@@ -52,24 +44,22 @@ Necromancy \[Fear, Mind-Affecting\]
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:** One living creature per three levels, no two of which can
-be more than 30 ft. apart
+**Targets:** One living creature per three levels, no two of which can be more than 30 ft. apart
 
 **Duration:** 1 round/level or 1 round; see text for *cause fear*
 
-**Saving Throw: **Will partial
+**Saving Throw:** Will partial
 
 **Spell Resistance:** Yes
 
-This spell functions like *cause fear, *except that it causes all
+This spell functions like *cause fear,* except that it causes al 
 targeted creatures of less than 6 HD to become frightened.
 
-*Material Component: *A bit of bone from an undead skeleton, zombie,
-ghoul, ghast, or mummy.
+*Material Component:* A bit of bone from an undead skeleton, zombie, ghoul, ghast, or mummy.
 
-Scintillating Pattern
+### Scintillating Pattern
 
 Illusion (Pattern) \[Mind-Affecting\]
 
@@ -89,21 +79,13 @@ Illusion (Pattern) \[Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-A twisting pattern of discordant, coruscating colors weaves through the
-air, affecting creatures within it. The spell affects a total number of
-Hit Dice of creatures equal to your caster level (maximum 20). Creatures
-with the fewest HD are affected first; and, among creatures with equal
-HD, those who are closest to the spell's point of origin are affected
-first. Hit Dice that are not sufficient to affect a creature are wasted.
-The spell affects each subject according to its Hit Dice.
+A twisting pattern of discordant, coruscating colors weaves through the air, affecting creatures within it. The spell affects a total number of Hit Dice of creatures equal to your caster level (maximum 20). Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. The spell affects each subject according to its Hit Dice.
 
-*6 or less:* Unconscious for 1d4 rounds, then stunned for 1d4 rounds,
-and then *confused *for 1d4 rounds. (Treat an unconscious result as
-stunned for nonliving creatures.)
+*6 or less:* Unconscious for 1d4 rounds, then stunned for 1d4 rounds, and then *confused* for 1d4 rounds. (Treat an unconscious result as stunned for nonliving creatures.)
 
-*7 to 12:* Stunned for 1d4 rounds, then *confused *for 1d4 rounds.
+*7 to 12:* Stunned for 1d4 rounds, then *confused* for 1d4 rounds.
 
-*13 or more: Confused *for 1d4 rounds.
+*13 or more: Confused* for 1d4 rounds.
 
 Sightless creatures are not affected by *scintillating pattern*.
 
@@ -129,16 +111,11 @@ Evocation \[Fire\]
 
 **Spell Resistance:** Yes
 
-You blast your enemies with fiery rays. You may fire one ray, plus one
-additional ray for every four levels beyond 3rd (to a maximum of three
-rays at 11th level). Each ray requires a ranged touch attack to hit and
-deals 4d6 points of fire damage.
+You blast your enemies with fiery rays. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit and deals 4d6 points of fire damage.
 
-The rays may be fired at the same or different targets, but all bolts
-must be aimed at targets within 30 feet of each other and fired
-simultaneously.
+The rays may be fired at the same or different targets, but all bolts must be aimed at targets within 30 feet of each other and fired simultaneously.
 
-Screen
+### Screen
 
 Illusion (Glamer)
 
@@ -158,23 +135,13 @@ Illusion (Glamer)
 
 **Spell Resistance:** No
 
-This spell combines several elements to create a powerful protection
-from scrying and direct observation. When casting the spell, you dictate
-what will and will not be observed in the spell's area. The illusion
-created must be stated in general terms. Once the conditions are set,
-they cannot be changed.
+This spell combines several elements to create a powerful protection from scrying and direct observation. When casting the spell, you dictate what will and will not be observed in the spell's area. The illusion created must be stated in general terms. Once the conditions are set, they cannot be changed.
 
-Attempts to scry the area automatically detect the image stated by you
-with no save allowed. Sight and sound are appropriate to the illusion
-created.
+Attempts to scry the area automatically detect the image stated by you with no save allowed. Sight and sound are appropriate to the illusion created.
 
-Direct observation may allow a save (as per a normal illusion), if there
-is cause to disbelieve what is seen. Even entering the area does not
-cancel the illusion or necessarily allow a save, assuming that hidden
-beings take care to stay out of the way of those affected by the
-illusion.
+Direct observation may allow a save (as per a normal illusion), if there is cause to disbelieve what is seen. Even entering the area does not cancel the illusion or necessarily allow a save, assuming that hidden beings take care to stay out of the way of those affected by the illusion.
 
-Scrying
+### Scrying
 
 Divination (Scrying)
 
@@ -186,7 +153,7 @@ Divination (Scrying)
 
 **Range:** See text
 
-**Effect **Magical sensor
+**Effect:** Magical sensor
 
 **Duration:** 1 min./level
 
@@ -194,12 +161,7 @@ Divination (Scrying)
 
 **Spell Resistance:** Yes
 
-You can see and hear some creature, which may be at any distance. If the
-subject succeeds on a Will save, the scrying attempt simply fails. The
-difficulty of the save depends on how well you know the subject and what
-sort of physical connection (if any) you have to that creature.
-Furthermore, if the subject is on another plane, it gets a +5 bonus on
-its Will save.
+You can see and hear some creature, which may be at any distance. If the subject succeeds on a Will save, the scrying attempt simply fails. The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.
 
 +--------------------------------------------+------------------------+
 | ## Knowledge                               | ## Will Save Modifier  |
@@ -255,11 +217,11 @@ nitric acid, copper, and zinc.
 polished silver costing not less than 1,000 gp. The mirror must be at
 least 2 feet by 4 feet.
 
-*Cleric Focus: *A holy water font costing not less than 100 gp.
+*Cleric Focus:* A holy water font costing not less than 100 gp.
 
-*Druid Focus: *A natural pool of water.
+*Druid Focus:* A natural pool of water.
 
-Scrying, Greater
+### Scrying, Greater
 
 Divination (Scrying)
 
@@ -276,7 +238,7 @@ Additionally, all of the following spells function reliably through the
 sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*,
 *detect magic*, *message*, *read magic*, and *tongues*.
 
-Sculpt Sound
+### Sculpt Sound
 
 Transmutation
 
@@ -1475,24 +1437,24 @@ apart
 
 **Duration:** 1 round/level
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** Yes
 
 An affected creature moves and attacks at a drastically slowed rate. A
-*slowed *creature can take only a single move action or standard action
+*slowed* creature can take only a single move action or standard action
 each turn, but not both (nor may it take full-round actions).
 Additionally, it takes a --1 penalty on attack rolls, AC, and Reflex
-saves. A *slowed *creature moves at half its normal speed (round down to
+saves. A *slowed* creature moves at half its normal speed (round down to
 the next 5-foot increment), which affects the creature's jumping
 distance as normal for decreased speed.
 
-Multiple *slow *effects don't stack. *Slow *counters and dispels
+Multiple *slow* effects don't stack. *Slow* counters and dispels
 *haste*.
 
-*Material Component: *A drop of molasses.
+*Material Component:* A drop of molasses.
 
-Snare
+### Snare
 
 Transmutation
 
@@ -1504,8 +1466,7 @@ Transmutation
 
 **Range:** Touch
 
-**Target:** Touched nonmagical circle of vine, rope, or thong with a 2
-ft. diameter + 2 ft./level
+**Target:** Touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level
 
 **Duration:** Until triggered or broken
 
@@ -1515,7 +1476,7 @@ ft. diameter + 2 ft./level
 
 This spell enables you to make a snare that functions as a magic trap.
 The snare can be made from any supple vine, a thong, or a rope. When you
-cast *snare *upon it, the cordlike object blends with its surroundings
+cast *snare* upon it, the cordlike object blends with its surroundings
 (Search DC 23 for a character with the trapfinding ability to locate).
 One end of the snare is tied in a loop that contracts around one or more
 of the limbs of any creature stepping inside the circle.
@@ -1532,7 +1493,7 @@ Escape Artist check or a DC 23 Strength check that is a full-round
 action. The snare has AC 7 and 5 hit points. A successful escape from
 the snare breaks the loop and ends the spell.
 
-Soften Earth and Stone
+### Soften Earth and Stone
 
 Transmutation \[Earth\]
 
@@ -3194,12 +3155,12 @@ undead creature specifically harmed by bright light if it fail its save.
 The ultraviolet light generated by the spell deals damage to fungi,
 mold, oozes, and slimes just as if they were undead creatures.
 
-*Sunburst *dispels any darkness spells of lower than 9th level within
+*Sunburst* dispels any darkness spells of lower than 9th level within
 its area.
 
-*Arcane Material Component: *A piece of sunstone and a naked flame.
+*Arcane Material Component:* A piece of sunstone and a naked flame.
 
-Symbol of Death
+### Symbol of Death
 
 Necromancy \[Death\]
 
@@ -3304,13 +3265,13 @@ spell level, or 33 for *symbol of death*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 5,000 gp each.
 
-Symbol of Fear
+### Symbol of Fear
 
 Necromancy \[Fear, Mind-Affecting\]
 
 **Level:** Clr 6, Sor/Wiz 6
 
-**Saving Throw: **Will negates
+**Saving Throw:** Will negates
 
 This spell functions like *symbol of death*, except that all creatures
 within 60 feet of the *symbol of fear *instead become panicked for 1
@@ -3324,7 +3285,7 @@ level, or 31 for *symbol of fear*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 1,000 gp.
 
-Symbol of Insanity
+### Symbol of Insanity
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -3348,7 +3309,7 @@ spell level, or 33 for *symbol of insanity*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 5,000 gp.
 
-Symbol of Pain
+### Symbol of Pain
 
 Necromancy \[Evil\]
 
@@ -3372,7 +3333,7 @@ level, or 30 for *symbol of pain*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 1,000 gp.
 
-Symbol of Persuasion
+### Symbol of Persuasion
 
 Enchantment (Charm) \[Mind-Affecting\]
 
@@ -3397,7 +3358,7 @@ of persuasion *and Disable Device to thwart it. The DC in each case is
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 5,000 gp.
 
-Symbol of Sleep
+### Symbol of Sleep
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -3423,7 +3384,7 @@ spell level, or 30 for *symbol of sleep*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 1,000 gp.
 
-Symbol of Stunning
+### Symbol of Stunning
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -3443,7 +3404,7 @@ spell level, or 32 for *symbol of stunning*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 5,000 gp.
 
-Symbol of Weakness
+### Symbol of Weakness
 
 Necromancy
 
@@ -3465,7 +3426,7 @@ spell level, or 32 for *symbol of weakness*.
 *Material Component: *Mercury and phosphorus, plus powdered diamond and
 opal with a total value of at least 5,000 gp.
 
-Sympathetic Vibration
+### Sympathetic Vibration
 
 Evocation \[Sonic\]
 
