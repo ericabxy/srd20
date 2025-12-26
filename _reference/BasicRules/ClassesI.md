@@ -7,7 +7,7 @@ operator: AKSmith
 title: Character Classes I
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ## BARBARIAN
 
@@ -175,8 +175,7 @@ All of the following are class features of the bard.
 
 **Weapon and Armor Proficiency:** A bard is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. Bards are proficient with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor without incurring the normal arcane spell failure chance. However, like any other arcane spellcaster, a bard wearing medium or heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component (most do). A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
-**Spells:** A bard casts arcane spells, which are drawn from the bard
-spell list. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (singing, reciting, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell. The Difficulty Class for a saving throw against a bard's spell is 10 + the spell level + the bard's Charisma modifier.
+**Spells:** A bard casts arcane spells, which are drawn from the bard spell list. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (singing, reciting, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell. The Difficulty Class for a saving throw against a bard's spell is 10 + the spell level + the bard's Charisma modifier.
 
 Like other spellcasters, a bard can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Bard. In addition, he receives bonus spells per day if he has a high Charisma score. When Table: Bard Spells Known indicates that the bard gets 0 spells per day of a given spell level, he gains only the bonus spells he would be entitled to based on his Charisma score for that spell level.
 
@@ -184,15 +183,11 @@ The bard's selection of spells is extremely limited. A bard begins play knowing 
 
 Upon reaching 5th level, and at every third bard level after that (8th, 11th, and so on), a bard can choose to learn a new spell in place of one he already knows. In effect, the bard "loses" the old spell in exchange for the new one. The new spell's level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level bard spell the bard can cast. A bard may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that he gains new spells known for the level.
 
-As noted above, a bard need not prepare his spells in advance. He can
-cast any spell he knows at any time, assuming he has not yet used up his allotment of spells per day for the spell's level.
+As noted above, a bard need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his allotment of spells per day for the spell's level.
 
 **Bardic Knowledge:** A bard may make a special bardic knowledge check with a bonus equal to his bard level + his Intelligence modifier to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places. (If the bard has 5 or more ranks in Knowledge (history), he gains a +2 bonus on this check.)
 
-A successful bardic knowledge check will not reveal the powers of a
-magic item but may give a hint as to its general function. A bard may
-not take 10 or take 20 on this check; this sort of knowledge is
-essentially random.
+A successful bardic knowledge check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not take 10 or take 20 on this check; this sort of knowledge is essentially random.
 
 | DC | Type of Knowledge
 |:--:| -----------------
@@ -209,8 +204,7 @@ Starting a bardic music effect is a standard action. Some bardic music abilities
 
 *Fascinate (Sp):* A bard with 3 or more ranks in a Perform skill can use his music or poetics to cause one or more creatures to become fascinated with him. Each creature to be fascinated must be within 90 feet, able to see and hear the bard, and able to pay attention to him. The bard must also be able to see the creature. The distraction of a nearby combat or other dangers prevents the ability from working. For every three levels a bard attains beyond 1st, he can target one additional creature with a single use of this ability.
 
-To use the ability, a bard makes a Perform check. His check result is
-the DC for each affected creature's Will save against the effect. If a creature's saving throw succeeds, the bard cannot attempt to fascinate that creature again for 24 hours. If its saving throw fails, the creature sits quietly and listens to the song, taking no other actions, for as long as the bard continues to play and concentrate (up to a maximum of 1 round per bard level). While fascinated, a target takes a --4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any potential threat requires the bard to make another Perform check and allows the creature a new saving throw against a DC equal to the new Perform check result.
+To use the ability, a bard makes a Perform check. His check result is the DC for each affected creature's Will save against the effect. If a creature's saving throw succeeds, the bard cannot attempt to fascinate that creature again for 24 hours. If its saving throw fails, the creature sits quietly and listens to the song, taking no other actions, for as long as the bard continues to play and concentrate (up to a maximum of 1 round per bard level). While fascinated, a target takes a --4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any potential threat requires the bard to make another Perform check and allows the creature a new saving throw against a DC equal to the new Perform check result.
 
 Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the target, automatically breaks the effect. *Fascinate* is an enchantment (compulsion), mind-affecting ability.
 
@@ -218,15 +212,11 @@ Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming
 
 *Inspire Competence (Su):* A bard of 3rd level or higher with 6 or more ranks in a Perform skill can use his music or poetics to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the bard. The bard must also be able to see the ally.
 
-The ally gets a +2 competence bonus on skill checks with a particular
-skill as long as he or she continues to hear the bard's music. Certain uses of this ability are infeasible. The effect lasts as long as the bard concentrates, up to a maximum of 2 minutes. A bard can't inspire competence in himself. Inspire competence is a mind-affecting ability.
+The ally gets a +2 competence bonus on skill checks with a particular skill as long as he or she continues to hear the bard's music. Certain uses of this ability are infeasible. The effect lasts as long as the bard concentrates, up to a maximum of 2 minutes. A bard can't inspire competence in himself. Inspire competence is a mind-affecting ability.
 
 *Suggestion (Sp):* A bard of 6th level or higher with 9 or more ranks in a Perform skill can make a *suggestion* (as the spell) to a creature that he has already fascinated (see above). Using this ability does not break the bard's concentration on the *fascinate* effect, nor does it allow a second saving throw against the *fascinate* effect.
 
-Making a *suggestion* doesn't count against a bard's daily limit on
-bardic music performances. A Will saving throw (DC 10 + 1/2 bard's
-level + bard's Cha modifier) negates the effect. This ability affects
-only a single creature (but see *mass suggestion*, below). *Suggestion* is an enchantment (compulsion), mind-affecting, language dependent ability.
+Making a *suggestion* doesn't count against a bard's daily limit on bardic music performances. A Will saving throw (DC 10 + 1/2 bard's level + bard's Cha modifier) negates the effect. This ability affects only a single creature (but see *mass suggestion*, below). *Suggestion* is an enchantment (compulsion), mind-affecting, language dependent ability.
 
 *Inspire Greatness (Su):* A bard of 9th level or higher with 12 or more ranks in a Perform skill can use music or poetics to inspire greatness in himself or a single willing ally within 30 feet, granting him or her extra fighting capability. For every three levels a bard attains beyond 9th, he can target one additional ally with a single use of this ability (two at 12th level, three at 15th, four at 18th). To inspire greatness, a bard must sing and an ally must hear him sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target's Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependant. Inspire greatness is a mind-affecting ability.
 
@@ -238,20 +228,17 @@ only a single creature (but see *mass suggestion*, below). *Suggestion* is an en
 
 ### Ex-Bards
 
-A bard who becomes lawful in alignment cannot progress in levels as a
-bard, though he retains all his bard abilities.
+A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.
 
 ## CLERIC
 
-**Alignment:** A cleric's alignment must be within one step of his
-deity's (that is, it may be one step away on either the lawful--chaotic axis or the good--evil axis, but not both). A cleric may not be neutral unless his deity's alignment is also neutral.
+**Alignment:** A cleric's alignment must be within one step of his deity's (that is, it may be one step away on either the lawful--chaotic axis or the good--evil axis, but not both). A cleric may not be neutral unless his deity's alignment is also neutral.
 
 **Hit Die:** d8.
 
 ### Class Skills
 
-The cleric's class skills (and the key ability for each skill) are
-Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
+The cleric's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
 
 **Domains and Class Skills:** A cleric who chooses the Animal or Plant domain adds Knowledge (nature) (Int) to the cleric class skills listed above. A cleric who chooses the Knowledge domain adds all Knowledge (Int) skills to the list. A cleric who chooses the Travel domain adds Survival (Wis) to the list. A cleric who chooses the Trickery domain adds Bluff (Cha), Disguise (Cha), and Hide (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
 
@@ -259,9 +246,7 @@ Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-{% if site.includes.table-the-cleric.html %}
-  {% include table-the-cleric.html %}
-{% endif %}
+{% include_relative table-the-cleric.html %}
 
 ### Class Features
 
@@ -269,46 +254,31 @@ All of the following are class features of the cleric.
 
 **Weapon and Armor Proficiency:** Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
 
-A cleric who chooses the War domain receives the Weapon Focus feat
-related to his deity's weapon as a bonus feat. He also receives the
-appropriate Martial Weapon Proficiency feat as a bonus feat, if the
-weapon falls into that category.
+A cleric who chooses the War domain receives the Weapon Focus feat related to his deity's weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
 **Aura (Ex):** A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the *detect evil* spell for details). Clerics who don't worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment.
 
-**Spells:** A cleric casts divine spells, which are drawn from the
-cleric spell list. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below).
+**Spells:** A cleric casts divine spells, which are drawn from the cleric spell list. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below).
 
 To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric's spell is 10 + the spell level + the cleric's Wisdom modifier.
 
-Like other spellcasters, a cleric can cast only a certain number of
-spells of each spell level per day. His base daily spell allotment is
-given on Table: The Cleric. In addition, he receives bonus spells per day if he has a high Wisdom score. A cleric also gets one domain spell of each spell level he can cast, starting at 1st level. When a cleric prepares a spell in a domain spell slot, it must come from one of his two domains (see Deities, Domains, and Domain Spells, below).
+Like other spellcasters, a cleric can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Cleric. In addition, he receives bonus spells per day if he has a high Wisdom score. A cleric also gets one domain spell of each spell level he can cast, starting at 1st level. When a cleric prepares a spell in a domain spell slot, it must come from one of his two domains (see Deities, Domains, and Domain Spells, below).
 
-Clerics meditate or pray for their spells. Each cleric must choose a
-time at which he must spend 1 hour each day in quiet contemplation or
-supplication to regain his daily allotment of spells. Time spent resting has no effect on whether a cleric can prepare spells. A cleric may prepare and cast any spell on the cleric spell list, provided that he can cast spells of that level, but he must choose which spells to prepare during his daily meditation.
+Clerics meditate or pray for their spells. Each cleric must choose a time at which he must spend 1 hour each day in quiet contemplation or supplication to regain his daily allotment of spells. Time spent resting has no effect on whether a cleric can prepare spells. A cleric may prepare and cast any spell on the cleric spell list, provided that he can cast spells of that level, but he must choose which spells to prepare during his daily meditation.
 
 **Deity, Domains, and Domain Spells:** A cleric's deity influences his alignment, what magic he can perform, his values, and how others see him. A cleric chooses two domains from among those belonging to his deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain.
 
 If a cleric is not devoted to a particular deity, he still selects two domains to represent his spiritual inclinations and abilities. The restriction on alignment domains still applies.
 
-Each domain gives the cleric access to a domain spell at each spell
-level he can cast, from 1st on up, as well as a granted power. The
-cleric gets the granted powers of both the domains selected.
+Each domain gives the cleric access to a domain spell at each spell level he can cast, from 1st on up, as well as a granted power. The cleric gets the granted powers of both the domains selected.
 
-With access to two domain spells at a given spell level, a cleric
-prepares one or the other each day in his domain spell slot. If a domain spell is not on the cleric spell list, a cleric can prepare it only in his domain spell slot.
+With access to two domain spells at a given spell level, a cleric prepares one or the other each day in his domain spell slot. If a domain spell is not on the cleric spell list, a cleric can prepare it only in his domain spell slot.
 
-**Spontaneous Casting:** A good cleric (or a neutral cleric of a good
-deity) can channel stored spell energy into healing spells that the
-cleric did not prepare ahead of time. The cleric can "lose" any prepared spell that is not a domain spell in order to cast any *cure* spell of the same spell level or lower (a *cure* spell is any spell with "cure" in its name).
+**Spontaneous Casting:** A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time. The cleric can "lose" any prepared spell that is not a domain spell in order to cast any *cure* spell of the same spell level or lower (a *cure* spell is any spell with "cure" in its name).
 
-An evil cleric (or a neutral cleric of an evil deity), can't convert
-prepared spells to *cure* spells but can convert them to *inflict* spells (an *inflict* spell is one with "inflict" in its name).
+An evil cleric (or a neutral cleric of an evil deity), can't convert prepared spells to *cure* spells but can convert them to *inflict* spells (an *inflict* spell is one with "inflict" in its name).
 
-A cleric who is neither good nor evil and whose deity is neither good
-nor evil can convert spells to either *cure* spells or *inflict* spells (player's choice). Once the player makes this choice, it cannot be reversed. This choice also determines whether the cleric turns or commands undead (see below).
+A cleric who is neither good nor evil and whose deity is neither good nor evil can convert spells to either *cure* spells or *inflict* spells (player's choice). Once the player makes this choice, it cannot be reversed. This choice also determines whether the cleric turns or commands undead (see below).
 
 **Chaotic, Evil, Good, and Lawful Spells:** A cleric can't cast spells of an alignment opposed to his own or his deity's (if he has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
@@ -342,10 +312,7 @@ Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wi
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-{% if site.includes.table-the-druid.html %}
-  {% include table-the-druid.html %}
-{% endif %}
-
+<table><tr><th colspan=16>Table: The Druid</th></tr><tr><th rowspan=2>Level</th><th rowspan=2>Base Attack Bonus</th><th rowspan=2>Fort Save</th><th rowspan=2>Ref Save</th><th rowspan=2>Will Save</th><th rowspan=2>Special</th><th colspan=10>Spells per Day</th></tr><tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th><th>8th</th><th>9th</th></tr><tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Animal companion, nature sense, wild empathy</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>Woodland stride</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Trackless step</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Resist natures lure</td><td>5</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Wild shape (1/day)</td><td>5</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Wild shape (2/day)</td><td>5</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Wild shape (3/day)</td><td>6</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Wild shape (Large)</td><td>6</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Venom immunity</td><td>6</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Wild shape (4/day)</td><td>6</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Wild shape (Tiny)</td><td>6</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Wild shape (plant)</td><td>6</td><td>5</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>A thousand faces</td><td>6</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Wild shape (5/day)</td><td>6</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Timeless body, wild shape (Huge)</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Wild shape (elemental 1/day)</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td></td><td>6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Wild shape (6/day, elemental 2/day)</td><td>6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td></td><td>6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>3</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Wild shape (elemental 3/day, Huge elemental)</td><td>6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>4</td></tr></table>
 
 ### Class Features
 
