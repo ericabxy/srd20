@@ -187,7 +187,7 @@ Wall of force:
   cost: 13th
   level: 2,500 XP
   target: objects areas only
-  url: /SpellsT-Z#
+  url: /SpellsT-Z#wall-of-force
 Web:
   cost: 10th
   level: 1,000 XP

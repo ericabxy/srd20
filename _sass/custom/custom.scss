@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 body {
   background-image: url("/assets/dungeon-floor.png");
 }
@@ -23,21 +21,16 @@ h2 {
   text-align: right;
 }
 
-table {
-  display: block;
-  max-width: 100%;
-  overflow-x: auto;
-}
-
 tr:nth-child(odd) {
   background-color: white;
 }
 
-a:active, a:hover, a:link, a:visited {
-  color: black;
+a:active, a:hover, a:link {
+  color: midnightBlue;
   text-decoration: underline dotted;
 }
 
-blockquote, .footer-col-wrapper, .post-meta {
-  color: #727272;
+a:visited {
+  color: Indigo;
+  text-decoration: underline dotted;
 }

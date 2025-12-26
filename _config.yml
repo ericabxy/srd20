@@ -6,12 +6,9 @@ url: "https://srd20.radicalgnu.xyz" # the base hostname & protocol for your site
 github_username:  ericabxy
 
 theme: minima
-#theme: just-the-docs
-#remote_theme: sighingnow/jekyll-gitbook
-#remote_theme: olivier3lanc/Jekyll-LibDoc
 plugins:
-#- jekyll-remote-theme
 - jekyll-default-layout
+- jekyll-feed
 - jekyll-titles-from-headings
 
 defaults:
@@ -21,7 +18,6 @@ defaults:
     values:
       layout: reference
 
-collections_dir: docs
 collections:
   reference:
     output: true
@@ -41,10 +37,8 @@ just_the_docs:
   collections:
     posts:
       name: Posts
-    srd:
-      name: System Reference Document
-    msrd:
-      name: Modern System Reference Document
+    reference:
+      name: Reference
     arcana_unearthed:
       name: Arcana Unearthed
 # end of collections for just-the-docs theme

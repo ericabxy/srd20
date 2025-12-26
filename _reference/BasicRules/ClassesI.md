@@ -17,7 +17,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 **Class Skills**
 
-The barbarian's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha)]17], Jump (Str)]18], Listen (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+The barbarian's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
 
 **Skill Points at 1st Level:** (4 + Int modifier) × 4.
 
@@ -53,67 +53,37 @@ The barbarian's class skills (and the key ability for each skill) are Climb (Str
 
 All of the following are class features of the barbarian.
 
-**Weapon and Armor Proficiency:** A barbarian is proficient with all
-simple and martial weapons, light armor, medium armor, and shields
-(except tower shields).
+**Weapon and Armor Proficiency:** A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
 
 **Fast Movement (Ex):** A barbarian's land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian's speed because of any load carried or armor worn.
 
-**Illiteracy:** Barbarians are the only characters who do not
-automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak.
+**Illiteracy:** Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak.
 
-A barbarian who gains a level in any other class automatically gains
-literacy. Any other character who gains a barbarian level does not lose the literacy he or she already had.
+A barbarian who gains a level in any other class automatically gains literacy. Any other character who gains a barbarian level does not lose the literacy he or she already had.
 
-**Rage (Ex):** A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to
-Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will
-saves, but he takes a --2 penalty to Armor Class. The increase in
-Constitution increases the barbarian's hit points by 2 points per level, but these hit points go away at the end of the rage when his
-Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the
-Concentration skill, or any abilities that require patience or
-concentration, nor can he cast spells or activate magic items that
-require a command word, a spell trigger (such as a wand), or spell
-completion (such as a scroll) to function. He can use any feat he has
-except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character's (newly improved) Constitution modifier. A barbarian may prematurely end his rage. At the end of the rage, the barbarian loses the rage modifiers and restrictions and becomes fatigued (--2 penalty to Strength, --2 penalty to Dexterity, can't charge or run) for the duration of the current encounter (unless he is a 17th-level barbarian, at which point this limitation no longer applies; see below).
+**Rage (Ex):** A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a --2 penalty to Armor Class. The increase in Constitution increases the barbarian's hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character's (newly improved) Constitution modifier. A barbarian may prematurely end his rage. At the end of the rage, the barbarian loses the rage modifiers and restrictions and becomes fatigued (--2 penalty to Strength, --2 penalty to Dexterity, can't charge or run) for the duration of the current encounter (unless he is a 17th-level barbarian, at which point this limitation no longer applies; see below).
 
-A barbarian can fly into a rage only once per encounter. At 1st level he can use his rage ability once per day. At 4th level and every four
-levels thereafter, he can use it one additional time per day (to a
-maximum of six times per day at 20th level). Entering a rage takes no
-time itself, but a barbarian can do it only during his action, not in
-response to someone else's action.
+A barbarian can fly into a rage only once per encounter. At 1st level he can use his rage ability once per day. At 4th level and every four levels thereafter, he can use it one additional time per day (to a maximum of six times per day at 20th level). Entering a rage takes no time itself, but a barbarian can do it only during his action, not in response to someone else's action.
 
 **Uncanny Dodge (Ex):** At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead.
 
 **Trap Sense (Ex):** Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise by +1 every three barbarian levels thereafter (6th, 9th, 12th, 15th, and 18th level). Trap sense bonuses gained from multiple classes stack.
 
-**Improved Uncanny Dodge (Ex):** At 5th level and higher, a barbarian
-can no longer be flanked. This defense denies a rogue the ability to
-sneak attack the barbarian by flanking him, unless the attacker has at
-least four more rogue levels than the target has barbarian levels. If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.
+**Improved Uncanny Dodge (Ex):** At 5th level and higher, a barbarian can no longer be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking him, unless the attacker has at least four more rogue levels than the target has barbarian levels. If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.
 
-**Damage Reduction (Ex):** At 7th level, a barbarian gains Damage
-Reduction. Subtract 1 from the damage the barbarian takes each time he
-is dealt damage from a weapon or a natural attack. At 10th level, and
-every three barbarian levels thereafter (13th, 16th, and 19th level),
-this damage reduction rises by 1 point. Damage reduction can reduce
-damage to 0 but not below 0.
+**Damage Reduction (Ex):** At 7th level, a barbarian gains Damage Reduction. Subtract 1 from the damage the barbarian takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0.
 
 **Greater Rage (Ex):** At 11th level, a barbarian's bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3. The penalty to AC remains at --2.
 
 **Indomitable Will (Ex):** While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage.
 
-**Tireless Rage (Ex):** At 17th level and higher, a barbarian no longer
-becomes fatigued at the end of his rage.
+**Tireless Rage (Ex):** At 17th level and higher, a barbarian no longer becomes fatigued at the end of his rage.
 
-**Mighty Rage (Ex):** At 20th level, a barbarian's bonuses to Strength
-and Constitution during his rage each increase to +8, and his morale
-bonus on Will saves increases to +4. The penalty to AC remains at --2.
+**Mighty Rage (Ex):** At 20th level, a barbarian's bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4. The penalty to AC remains at --2.
 
 ### Ex-Barbarians
 
-A barbarian who becomes lawful loses the ability to rage and cannot gain
-more levels as a barbarian. He retains all the other benefits of the
-class (damage reduction, fast movement, trap sense, and uncanny dodge).
+A barbarian who becomes lawful loses the ability to rage and cannot gain more levels as a barbarian. He retains all the other benefits of the class (damage reduction, fast movement, trap sense, and uncanny dodge).
 
 ## BARD
 
@@ -123,24 +93,19 @@ class (damage reduction, fast movement, trap sense, and uncanny dodge).
 
 ### Class Skills
 
-The bard's class skills (and the key ability for each skill) are
-Appraise (Int)]1], Balance (Dex)]2], Bluff (Cha)]3], Climb (Str),
-Concentration (Con), Craft (Int), Decipher Script (Int)]7],
-Diplomacy (Cha), Disguise (Cha)]10], Escape Artist (Dex)]11],
-Gather Information (Cha)]13], Hide (Dex)]15], Jump (Str)]18],
-Knowledge (all skills, taken individually) (Int)]19], Listen (Wis),
-Move Silently (Dex)]21], Perform (Cha)]23], Profession (Wis),
-Sense Motive (Wis)]27], Sleight of Hand (Dex)]28],
-Speak Language (n/a)]29], Spellcraft (Int), Swim (Str),
-Tumble (Dex)]34], and Use Magic Device (Cha)]35].
+The bard's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (n/a), Spellcraft (Int), Swim (Str), Tumble (Dex), and Use Magic Device (Cha).
 
 **Skill Points at 1st Level:** (6 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
-{% if site.includes.table-the-bard.html %}
+{% unless site.includes.table-the-bard.html %}
+**Attack Bonus:** Equal to 3/4 total hit dice.
+
+**Good Saving Throws:** Reflex and Will.
+{% else %}
   {% include table-the-bard.html %}
-{% endif %}
+{% endunless %}
 
 #### Table: Bard Spells Known
 
@@ -625,7 +590,7 @@ Tyrannosaurus (dinosaur)
 ### Class Skills
 
 The fighter's class skills (and the key ability for each skill) are
-Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha)]17], Jump (Str)]18], Ride (Dex), and Swim (Str).
+Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
 **Skill Points at 1st Level:** (2 + Int modifier) × 4.
 
@@ -660,22 +625,11 @@ Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha)]17], Jump (Str)]
 
 All of the following are class features of the fighter.
 
-**Weapon and Armor Proficiency:** A fighter is proficient with all
-simple and martial weapons and with all armor (heavy, medium, and light)
-and shields (including tower shields).
+**Weapon and Armor Proficiency:** A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feats:** At 1st level, a fighter gets a bonus combat-oriented
-feat in addition to the feat that any 1st-level character gets and the
-bonus feat granted to a human character. The fighter gains an additional
-bonus feat at 2nd level and every two fighter levels thereafter (4th,
-6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats
-must be drawn from the feats noted as fighter bonus feats. A fighter
-must still meet all prerequisites for a bonus feat, including ability
-score and base attack bonus minimums.
+**Bonus Feats:** At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be drawn from the feats noted as fighter bonus feats. A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums.
 
-These bonus feats are in addition to the feat that a character of any
-class gets from advancing levels. A fighter is not limited to the list
-of fighter bonus feats when choosing these feats.
+These bonus feats are in addition to the feat that a character of any class gets from advancing levels. A fighter is not limited to the list of fighter bonus feats when choosing these feats.
 
 ## MONK
 
@@ -685,7 +639,7 @@ of fighter bonus feats when choosing these feats.
 
 ### Class Skills
 
-The monk's class skills (and the key ability for each skill) are Balance (Dex)]2], Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex)]11], Hide (Dex)]15], Jump (Str)]18], Knowledge (arcana) (Int)]19], Knowledge (religion) (Int)]19], Listen (Wis), Move Silently (Dex)]21], Perform (Cha)]23], Profession (Wis), Sense Motive (Wis)]27], Spot (Wis), Swim (Str), and Tumble (Dex)]34].
+The monk's class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex).
 
 **Skill Points at 1st Level:** (4 + Int modifier) × 4.
 

@@ -10,13 +10,11 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
-gem "just-the-docs"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-optional-front-matter"
-  gem "jekyll-remote-theme", "~> 0.4.3"
   gem "jekyll-titles-from-headings"
 end
 
