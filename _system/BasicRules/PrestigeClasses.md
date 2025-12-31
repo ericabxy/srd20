@@ -1,7 +1,7 @@
 ---
 author: AKSmith
-date:   2003-10-24 13:47:00 -0800
 company: Wizards of the Coast
+date:   2003-10-24 13:47:00 -0800
 group: Basic Rules and Legal
 title: Prestige Classes
 ---
@@ -90,7 +90,114 @@ The arcane trickster's class skills (and the key ability for each skill) are App
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-{% include table-the-arcane-trickster.html %}
+<table>
+  <thead>
+    <tr>
+      <th colspan=7>Table: The Arcane Trickster</th>
+    </tr>
+    <tr>
+      <th>Level</th>
+      <th>Base Attack Bonus</th>
+      <th>Fort Save</th>
+      <th>Ref Save</th>
+      <th>Will Save</th>
+      <th>Special</th>
+      <th>Spells per Day</th>
+    </tr>
+    <tr>
+      <td>1st</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>Ranged legerdemain 1/day</td>
+      <td>+1 level of existing class</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2nd</td>
+      <td>+1</td>
+      <td>+0</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td>Sneak attack +1d6</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td>Impromptu sneak attack 1/day</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>+2</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>+4</td>
+      <td>Sneak attack +2d6</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>+2</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>+4</td>
+      <td>Ranged legerdemain 2/day</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>+3</td>
+      <td>+2</td>
+      <td>+5</td>
+      <td>+5</td>
+      <td>Sneak attack +3d6</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>+3</td>
+      <td>+2</td>
+      <td>+5</td>
+      <td>+5</td>
+      <td>Impromptu sneak attack 2/day</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>+4</td>
+      <td>+2</td>
+      <td>+6</td>
+      <td>+6</td>
+      <td>Sneak attack +4d6</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>+4</td>
+      <td>+3</td>
+      <td>+6</td>
+      <td>+6</td>
+      <td>Ranged legerdemain 3/day</td>
+      <td>+1 level of existing class</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>+5</td>
+      <td>+3</td>
+      <td>+7</td>
+      <td>+7</td>
+      <td>Sneak attack +5d6</td>
+      <td>+1 level of existing class</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Class Features
 
@@ -128,83 +235,71 @@ To qualify to become an archmage, a character must fulfill all the following cri
 
 The archmage's class skills (and the key ability for each skill) are Concentration (Con), Craft (alchemy) (Int), Knowledge (all skills taken individually) (Int), Profession (Wis), Search (Int), and Spellcraft (Int).
 
-** Skill Points at Each Level:** 2 + Int modifier.
+**Skill Points at Each Level:** 2 + Int modifier.
 
-|---------|---------|---------|---------|---------|---------|---------+
-| *       |         |         |         |         |         |         |
-| *Table: |         |         |         |         |         |         |
-| The     |         |         |         |         |         |         |
-| Arc     |         |         |         |         |         |         |
-| hmage** |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-|         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-| #       | ## Base | ## Fort | ## Ref  | ## Will | ##      | ##      |
-| # Level |         |         |         |         | Special | Spells  |
-|         | ##      | ## Save | ## Save | ## Save |         | per Day |
-|         |  Attack |         |         |         |         |         |
-|         |         |         |         |         |         |         |
-|         | #       |         |         |         |         |         |
-|         | # Bonus |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-|         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-| 1st     | +0      | +0      | +0      | +2      | High    | +1      |
-|         |         |         |         |         | arcana  | level   |
-|         |         |         |         |         |         | of      |
-|         |         |         |         |         |         | e       |
-|         |         |         |         |         |         | xisting |
-|         |         |         |         |         |         | arcane  |
-|         |         |         |         |         |         | spell   |
-|         |         |         |         |         |         | casting |
-|         |         |         |         |         |         | class   |
-|---------|---------|---------|---------|---------|---------|---------+
-|         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-| 2nd     | +1      | +0      | +0      | +3      | High    | +1      |
-|         |         |         |         |         | arcana  | level   |
-|         |         |         |         |         |         | of      |
-|         |         |         |         |         |         | e       |
-|         |         |         |         |         |         | xisting |
-|         |         |         |         |         |         | arcane  |
-|         |         |         |         |         |         | spell   |
-|         |         |         |         |         |         | casting |
-|         |         |         |         |         |         | class   |
-|---------|---------|---------|---------|---------|---------|---------+
-| 3rd     | +1      | +1      | +1      | +3      | High    | +1**    |
-|         |         |         |         |         | arcana  | **level |
-|         |         |         |         |         |         | of      |
-|         |         |         |         |         |         | e       |
-|         |         |         |         |         |         | xisting |
-|         |         |         |         |         |         | arcane  |
-|         |         |         |         |         |         | spell   |
-|         |         |         |         |         |         | casting |
-|         |         |         |         |         |         | class   |
-|---------|---------|---------|---------|---------|---------|---------+
-| 4th     | +2      | +1      | +1      | +4      | High    | +1      |
-|         |         |         |         |         | arcana  | level   |
-|         |         |         |         |         |         | of      |
-|         |         |         |         |         |         | e       |
-|         |         |         |         |         |         | xisting |
-|         |         |         |         |         |         | arcane  |
-|         |         |         |         |         |         | spell   |
-|         |         |         |         |         |         | casting |
-|         |         |         |         |         |         | class   |
-|---------|---------|---------|---------|---------|---------|---------+
-|         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
-| 5th     | +2      | +1      | +1      | +4      | High    | +1      |
-|         |         |         |         |         | arcana  | level   |
-|         |         |         |         |         |         | of      |
-|         |         |         |         |         |         | e       |
-|         |         |         |         |         |         | xisting |
-|         |         |         |         |         |         | arcane  |
-|         |         |         |         |         |         | spell   |
-|         |         |         |         |         |         | casting |
-|         |         |         |         |         |         | class   |
-|---------|---------|---------|---------|---------|---------|---------+
-|         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------+
+<table>
+  <thead>
+    <tr>
+      <th colspan=7>Table: The Arcane Trickster</th>
+    </tr>
+    <tr>
+      <th>Level</th>
+      <th>Base Attack Bonus</th>
+      <th>Fort Save</th>
+      <th>Ref Save</th>
+      <th>Will Save</th>
+      <th>Special</th>
+      <th>Spells per Day</th>
+    </tr>
+  </thead>
+    <tr>
+      <td>1st</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td>High arcana</td>
+      <td>+1 level of existing arcane spellcasting class</td>
+    </tr>
+  <tbody>
+    <tr>
+      <td>2nd</td>
+      <td>+1</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+3</td>
+      <td>High arcana</td>
+      <td>+1 level of existing arcane spellcasting class</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td>+3</td>
+      <td>High arcana</td>
+      <td>+1 level of existing arcane spellcasting class</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>+2</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>High arcana</td>
+      <td>+1 level of existing arcane spellcasting class</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>+2</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>High arcana</td>
+      <td>+1 level of existing arcane spellcasting class</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Class Features
 
@@ -316,22 +411,146 @@ The assassin's class skills (and the key ability for each skill) are Balance (De
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-{% include table-the-assassin.html %}
-
-#### Table: Assassin Spells per Day
-
-| Level | 1st | 2nd | 3rd | 4th
-| ----- | :-: | :-: | :-: | :-:
-| 1st   |  0  | --- | --- | ---
-| 2nd   |  1  | --- | --- | ---
-| 3rd   |  2  |  0  | --- | ---
-| 4th   |  3  |  1  | --- | ---
-| 5th   |  3  |  2  |  0  | ---
-| 6th   |  3  |  3  |  1  | ---
-| 7th   |  3  |  3  |  2  |  0
-| 8th   |  3  |  3  |  3  |  1
-| 9th   |  3  |  3  |  3  |  2
-| 10th  |  3  |  3  |  3  |  3
+<table>
+<tr>
+  <th colspan=10>Table: The Assassin</th>
+</tr>
+<tr>
+  <th rowspan=2>Level</th>
+  <th rowspan=2>Base Attack Bonus</th>
+  <th rowspan=2>Fort Save</th>
+  <th rowspan=2>Ref Save</th>
+  <th rowspan=2>Will Save</th>
+  <th rowspan=2>Special</th>
+  <th colspan=4>Spells per Day</th>
+</tr>
+<tr>
+  <th>1st</th>
+  <th>2nd</th>
+  <th>3rd</th>
+  <th>4th</th>
+</tr>
+<tr>
+  <td>1st</td>
+  <td>+0</td>
+  <td>+0</td>
+  <td>+2</td>
+  <td>+0</td>
+  <td>Sneak attack +1d6, death attack, poison use, spells</td>
+  <td>0</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td>+1</td>
+  <td>+0</td>
+  <td>+3</td>
+  <td>+0</td>
+  <td>+1 save against poison, uncanny dodge</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td>+2</td>
+  <td>+1</td>
+  <td>+3</td>
+  <td>+1</td>
+  <td>Sneak attack +2d6</td>
+  <td>2</td>
+  <td>0</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>4th</td>
+  <td>+3</td>
+  <td>+1</td>
+  <td>+4</td>
+  <td>+1</td>
+  <td>+2 save against poison</td>
+  <td>3</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>5th</td>
+  <td>+3</td>
+  <td>+1</td>
+  <td>+4</td>
+  <td>+1</td>
+  <td>Improved uncanny dodge, sneak attack +3d6</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>6th</td>
+  <td>+4</td>
+  <td>+2</td>
+  <td>+5</td>
+  <td>+2</td>
+  <td>+3 save against poison</td>
+  <td>3</td>
+  <td>3</td>
+  <td>1</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>7th</td>
+  <td>+5</td>
+  <td>+2</td>
+  <td>+5</td>
+  <td>+2</td>
+  <td>Sneak attack +4d6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+</tr>
+<tr>
+  <td>8th</td>
+  <td>+6</td>
+  <td>+2</td>
+  <td>+6</td>
+  <td>+2</td>
+  <td>+4 save against poison, hide in plain sight</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>9th</td>
+  <td>+6</td>
+  <td>+3</td>
+  <td>+6</td>
+  <td>+3</td>
+  <td>Sneak attack +5d6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>10th</td>
+  <td>+7</td>
+  <td>+3</td>
+  <td>+7</td>
+  <td>+3</td>
+  <td>+5 save against poison</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+</table>
 
 #### Class Features
 
@@ -392,22 +611,100 @@ only a single spell at any given level, and must choose whether or not
 to swap the spell at the same time that he gains new spells known for
 that level.
 
-#### Table: Assassin Spells Known
- 
-| Level | 1st | 2nd | 3rd | 4th
-| ----- | --- | --- | --- | ---
-| 1st   |  2¹ |  —  |  —  |  —
-| 2nd   |  3  |  —  |  —  |  —
-| 3rd   |  3  |  2¹ |  —  |  —
-| 4th   |  4  |  3  |  —  |  —
-| 5th   |  4  |  3  |  2¹ |  —
-| 6th   |  4  |  4  |  3  |  —
-| 7th   |  4  |  4  |  3  |  2¹ 
-| 8th   |  4  |  4  |  4  |  3
-| 9th   |  4  |  4  |  4  |  3
-| 10th  |  4  |  4  |  4  |  4
-
-1. Provided the assassin has sufficient Intelligence to have a bonus spell of this level.
+<table>
+  <thead>
+    <tr>
+      <th colspan=5>Table: Assassin Spells Known</th>
+    </tr>
+    <tr>
+      <th rowspan=2>Level</th>
+      <th colspan=4>Spells Known</th>
+    </tr>
+    <tr>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+      <th>4th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st</td>
+      <td>2<sup>1</sup></td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>3</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>3</td>
+      <td>2<sup>1</sup></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>4</td>
+      <td>3</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2<sup>1</sup></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2<sup>1</sup></td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan=5>1 Provided the assassin has sufficient Intelligence to have a bonus spell of this level.</td>
+    </tr>
+  </tfoot>
+</table>
 
 **Save Bonus against Poison:** The assassin gains a natural saving throw
 bonus to all poisons gained at 2nd level that increases by +1 for every
