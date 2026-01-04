@@ -1,7 +1,5 @@
 ---
-categories:
-- extraordinary ability
-- special ability
+category: extraordinary
 title: AC Bonus
 ---
 

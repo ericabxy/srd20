@@ -1,232 +1,134 @@
 ---
 author: AKSmith
-parent: Modern Basics
+category: Modern Basics
 company: Wizards of the Coast
-group: Modern Basics
+date: 2003-08-29 13:41:00 -0800
 title: Skills I
 ---
 
-<small>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</small>
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ## SKILLS I
 
 ### Skill Descriptions
 
-Skills are presented in alphabetical order, in the following format.
-Entries that do not apply to a particular skill are omitted in that
-skill's description.
+Skills are presented in alphabetical order, in the following format. Entries that do not apply to a particular skill are omitted in that skill's description.
 
 ### Skill Description Format
 
 Skill Name (Key Ability) Trained Only; Armor Penalty
 
-The skill name line and the line beneath it include the following
-information:
+The skill name line and the line beneath it include the following information:
 
-**Key Ability:** The abbreviation for the ability whose modifier applies
-to the skill check. Exceptions: Speak Language and Read/Write Language
-have "None" given as their key ability because the use of these skills
-never requires a check.
+**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check. Exceptions: Speak Language and Read/Write Language have "None" given as their key ability because the use of these skills never requires a check.
 
-**Trained Only:** If "Trained Only" appears on the line beneath the
-skill name, a character must have at least 1 rank in the skill to use
-it. If "Trained Only" is omitted, the skill can be used untrained. If
-any particular notes apply to trained or untrained use, they are covered
-in the Special section (see below).
+**Trained Only:** If "Trained Only" appears on the line beneath the skill name, a character must have at least 1 rank in the skill to use it. If "Trained Only" is omitted, the skill can be used untrained. If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).
 
-**Armor Penalty:** If "Armor Penalty" appears on the line beneath the
-skill name, apply the armor penalty for the armor the character is
-wearing to checks involving this skill.
+**Armor Penalty:** If "Armor Penalty" appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.
 
-**Check:** What a character can do with a successful skill check, and
-the check's DC.
+**Check:** What a character can do with a successful skill check, and the check's DC.
 
-**Try Again?:** Any conditions that apply to repeated attempts to use
-the skill for a particular purpose. If this entry is omitted, the skill
-check can be tried again without any inherent penalty other than taking
-additional time.
+**Try Again?:** Any conditions that apply to repeated attempts to use the skill for a particular purpose. If this entry is omitted, the skill check can be tried again without any inherent penalty other than taking additional time.
 
-**Special:** Any particular notes that apply, such as whether a
-character can take 10 or take 20 when using the skill.
+**Special:** Any particular notes that apply, such as whether a character can take 10 or take 20 when using the skill.
 
-**Untrained:** Any details about using a skill untrained. If this entry
-doesn't appear, it means the skill works the same even when used
-untrained, or that an untrained character can't make checks with this
-skill (true for skills that are designated "Trained Only").
+**Untrained:** Any details about using a skill untrained. If this entry doesn't appear, it means the skill works the same even when used untrained, or that an untrained character can't make checks with this skill (true for skills that are designated "Trained Only").
 
 **Time:** How much time it takes to make a check with this skill.
 
 ### Balance (Dex) Armor Penalty
 
-**Check:** The character can walk on a precarious surface. A successful
-check lets the character move at half his or her speed along the surface
-as a move action. A failure indicates that the character spends his or
-her move action keeping his or her balance and does not move. A failure
-by 5 or more indicates that the character falls. The difficulty varies
-with the conditions of the surface.
+**Check:** The character can walk on a precarious surface. A successful check lets the character move at half his or her speed along the surface as a move action. A failure indicates that the character spends his or her move action keeping his or her balance and does not move. A failure by 5 or more indicates that the character falls. The difficulty varies with the conditions of the surface.
 
-+-----------------------+----------+-----------------------+-------+
-| **Narrow Surface **   | ### DC\* | **Difficult Surface** | ## DC |
-+-----------------------+----------+-----------------------+-------+
-|                       |          |                       |       |
-+-----------------------+----------+-----------------------+-------+
-| 7--12 in. wide        | 10       | Uneven or angled      | 10    |
-+-----------------------+----------+-----------------------+-------+
-| 2--6 in. wide         | 15       | Slippery surface      | 10    |
-+-----------------------+----------+-----------------------+-------+
-| Less than 2 in. wide  | 20       |                       |       |
-+-----------------------+----------+-----------------------+-------+
-|                       |          |                       |       |
-+-----------------------+----------+-----------------------+-------+
-| \*Add +5 to the DC if |          |                       |       |
-| the narrow surface is |          |                       |       |
-| slippery or angled;   |          |                       |       |
-| add +10 if it is both |          |                       |       |
-| slippery and angled.  |          |                       |       |
-+-----------------------+----------+-----------------------+-------+
-|                       |          |                       |       |
-+-----------------------+----------+-----------------------+-------+
+<table>
+  <thead>
+    <tr>
+      <th>Narrow Surface</th>
+      <th>DC*</th>
+      <th>Difficult Surface</th>
+      <th>DC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7--12 in. wide</td>
+      <td>10</td>
+      <td>Uneven or angled</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>2--6 in. wide</td>
+      <td>15</td>
+      <td>Slippery surface</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Less than 2 in. wide</td>
+      <td>20</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan=4>*Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.</td>
+    </tr>
+  </tfoot>
+</table>
 
-**Being Attacked While Balancing:** While balancing, the character is
-flat-footed (the character loses his or her Dexterity bonus to Defense,
-if the character has one), unless the character has 5 or more ranks in
-Balance. If the character takes damage, he or she must make a Balance
-check again to remain standing.
+**Being Attacked While Balancing:** While balancing, the character is flat-footed (the character loses his or her Dexterity bonus to Defense, if the character has one), unless the character has 5 or more ranks in Balance. If the character takes damage, he or she must make a Balance check again to remain standing.
 
-Accelerated Movement: The character can try to cross a precarious
-surface more quickly than normal. The character can move his or her full
-speed, but the character takes a --5 penalty on his or her Balance
-check. (Moving twice the character's speed in a round requires two
-checks, one for each move action.)
+Accelerated Movement: The character can try to cross a precarious surface more quickly than normal. The character can move his or her full speed, but the character takes a --5 penalty on his or her Balance check. (Moving twice the character's speed in a round requires two checks, one for each move action.)
 
-The character can attempt to charge across a precarious surface.
-Charging requires one Balance check at a --5 penalty for each multiple
-of the character's speed (or fraction thereof) that the character
-charges.
+The character can attempt to charge across a precarious surface. Charging requires one Balance check at a --5 penalty for each multiple of the character's speed (or fraction thereof) that the character charges.
 
-Special: A character can take 10 when making a Balance check, but can't
-take 20.
+Special: A character can take 10 when making a Balance check, but can't take 20.
 
 A character with the Focused feat gets a +2 bonus on all Balance checks.
 
-**Time:** Balancing while moving one-half the character's speed is a
-move action.
+**Time:** Balancing while moving one-half the character's speed is a move action.
 
-Accelerated movement, allowing the character to balance while moving his
-or her full speed, is also a move action.
+Accelerated movement, allowing the character to balance while moving his or her full speed, is also a move action.
 
 ### Bluff (Cha)
 
-**Check:** A Bluff check is opposed by the target's Sense Motive check
-when trying to con or mislead. Favorable and unfavorable circumstances
-weigh heavily on the outcome of a bluff. Two circumstances can work
-against the character: The bluff is hard to believe, or the action that
-the bluff requires the target to take goes against the target's
-self-interest, nature, personality, or orders.
+**Check:** A Bluff check is opposed by the target's Sense Motive check when trying to con or mislead. Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff. Two circumstances can work against the character: The bluff is hard to believe, or the action that the bluff requires the target to take goes against the target's self-interest, nature, personality, or orders.
 
-If it's important, the GM can distinguish between a bluff that fails
-because the target doesn't believe it and one that fails because it asks
-too much of the target. For instance, if the target gets a +10 bonus
-because the bluff demands something risky of the target, and the
-target's Sense Motive check succeeds by 10 or less, then the target
-didn't so much see through the bluff as prove reluctant to go along with
-it. If the target's Sense Motive check succeeds by 11 or more, he has
-seen through the bluff, and would have succeeded in doing so even if it
-had not placed any demand on him (that is, even without the +10 bonus).
+If it's important, the GM can distinguish between a bluff that fails because the target doesn't believe it and one that fails because it asks too much of the target. For instance, if the target gets a +10 bonus because the bluff demands something risky of the target, and the target's Sense Motive check succeeds by 10 or less, then the target didn't so much see through the bluff as prove reluctant to go along with it. If the target's Sense Motive check succeeds by 11 or more, he has seen through the bluff, and would have succeeded in doing so even if it had not placed any demand on him (that is, even without the +10 bonus).
 
-A successful Bluff check indicates that the target reacts as the
-character wishes, at least for a short time (usually 1 round or less),
-or the target believes something that the character wants him or her to
-believe.
+A successful Bluff check indicates that the target reacts as the character wishes, at least for a short time (usually 1 round or less), or the target believes something that the character wants him or her to believe.
 
-A bluff requires interaction between the character and the target.
-Targets unaware of the character can't be bluffed.
+A bluff requires interaction between the character and the target. Targets unaware of the character can't be bluffed.
 
-+------------------------------------------+--------------------------+
-| **Example Circumstances**                | ## Sense Motive Modifier |
-+------------------------------------------+--------------------------+
-|                                          |                          |
-+------------------------------------------+--------------------------+
-| The target wants to believe the          | --5                      |
-| character.                               |                          |
-+------------------------------------------+--------------------------+
-| The bluff is believable and doesn't      | +0                       |
-| affect the target much one way or the    |                          |
-| other.                                   |                          |
-+------------------------------------------+--------------------------+
-| The bluff is a little hard to believe or | +5                       |
-| puts the target at some kind of risk.    |                          |
-+------------------------------------------+--------------------------+
-| The bluff is hard to believe or entails  | +10                      |
-| a large risk for the target.             |                          |
-+------------------------------------------+--------------------------+
-|                                          |                          |
-+------------------------------------------+--------------------------+
-| The bluff is way out there; it's almost  | +20                      |
-| too incredible to consider.              |                          |
-+------------------------------------------+--------------------------+
-|                                          |                          |
-+------------------------------------------+--------------------------+
+|   Example Circumstances                                                          |    Sense Motive Modifier
+|   ---------------------                                                          |    ---------------------
+| The target wants to believe the character.                                       | --5
+| The bluff is believable and doesn't affect the target much one way or the other. | +0
+| The bluff is a little hard to believe or puts the target at some kind of risk.   | +5
+| The bluff is hard to believe or entails a large risk for the target.             | +10
+| The bluff is way out there; it's almost too incredible to consider.              | +20
 
-A bluff is not the same thing as a lie. A bluff is a quick prevarication
-intended to distract, confuse, or mislead, generally only for the short
-term. A bluff is not intended to withstand long-term or careful
-scrutiny, but rather to momentarily deter an action or decision. Bluffs
-involve attitude and body language. Bluffs often include lies, but they
-usually aren't very sophisticated and aren't intended to deceive the
-target for more than a few moments.
+A bluff is not the same thing as a lie. A bluff is a quick prevarication intended to distract, confuse, or mislead, generally only for the short term. A bluff is not intended to withstand long-term or careful scrutiny, but rather to momentarily deter an action or decision. Bluffs involve attitude and body language. Bluffs often include lies, but they usually aren't very sophisticated and aren't intended to deceive the target for more than a few moments.
 
-A lie, on the other hand, is a simple misrepresentation of the facts.
-Body language and attitude aren't a big part of communication. The lie
-may be very sophisticated and well thought-out, and is intended to
-deceive a character at least until he or she discovers evidence to the
-contrary. A character should not make a Bluff check every time he or she
-utters a lie.
+A lie, on the other hand, is a simple misrepresentation of the facts. Body language and attitude aren't a big part of communication. The lie may be very sophisticated and well thought-out, and is intended to deceive a character at least until he or she discovers evidence to the contrary. A character should not make a Bluff check every time he or she utters a lie.
 
-**Feinting in Combat:** A character can also use Bluff to mislead an
-opponent in combat so that the opponent can't dodge the character's
-attack effectively. If the character succeeds, the next attack the
-character makes against the target ignores his or her Dexterity bonus to
-Defense (if the opponent has one), thus lowering his or her Defense
-score. Using Bluff in this way against a creature of animal intelligence
-(Int 1 or 2) requires a --8 penalty on the check. Against a
-nonintelligent creature, feinting is impossible.
+**Feinting in Combat:** A character can also use Bluff to mislead an opponent in combat so that the opponent can't dodge the character's attack effectively. If the character succeeds, the next attack the character makes against the target ignores his or her Dexterity bonus to Defense (if the opponent has one), thus lowering his or her Defense score. Using Bluff in this way against a creature of animal intelligence (Int 1 or 2) requires a --8 penalty on the check. Against a nonintelligent creature, feinting is impossible.
 
-Creating a Diversion to Hide: A character can use Bluff to help him or
-her hide. A successful Bluff check gives the character the momentary
-diversion needed to attempt a Hide check while people are aware of the
-character. (See the Hide skill)
+Creating a Diversion to Hide: A character can use Bluff to help him or her hide. A successful Bluff check gives the character the momentary diversion needed to attempt a Hide check while people are aware of the character. (See the Hide skill)
 
-Sending a Secret Message: A character can use Bluff to send and
-understand secret messages while appearing to be speaking about other
-things. The DC for a basic message is 10. Complex messages or messages
-trying to communicate new information have DCs of 15 or 20. Both the
-sender and the receiver must make the check for the secret message to be
-successfully relayed and understood.
+Sending a Secret Message: A character can use Bluff to send and understand secret messages while appearing to be speaking about other things. The DC for a basic message is 10. Complex messages or messages trying to communicate new information have DCs of 15 or 20. Both the sender and the receiver must make the check for the secret message to be successfully relayed and understood.
 
-Anyone listening in on a secret message can attempt a Sense Motive check
-(DC equal to the sender's Bluff check result). If successful, the
-eavesdropper realizes that a secret message is contained in the
-communication. If the eavesdropper beats the DC by 5 or more, he or she
-understands the secret message.
+Anyone listening in on a secret message can attempt a Sense Motive check (DC equal to the sender's Bluff check result). If successful, the eavesdropper realizes that a secret message is contained in the communication. If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.
 
-Whether trying to send or intercept a message, a failure by 5 or more
-points means that one side or the other misinterprets the message in
-some fashion.
+Whether trying to send or intercept a message, a failure by 5 or more points means that one side or the other misinterprets the message in some fashion.
 
-**Try Again?:** Generally, a failed Bluff check makes the target too
-suspicious for the character to try another bluff in the same
-circumstances. For feinting in combat, the character may try again
-freely.
+**Try Again?:** Generally, a failed Bluff check makes the target too suspicious for the character to try another bluff in the same circumstances. For feinting in combat, the character may try again freely.
 
-**Special:** A character can take 10 when making a bluff (except for
-feinting in combat), but can't take 20.
+**Special:** A character can take 10 when making a bluff (except for feinting in combat), but can't take 20.
 
 A character with the Deceptive feat gets a +2 bonus on all Bluff checks.
 
-**Time:** A bluff takes at least 1 round (and is at least a full-round
-action) but can take much longer if the character tries something
-elaborate. Using Bluff as a feint in combat is an attack action.
+**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if the character tries something elaborate. Using Bluff as a feint in combat is an attack action.
 
 ### Climb (Str) Armor Penalty
 
@@ -285,23 +187,23 @@ rather than a full set of climbing gear to avoid the penalty.
 
 A character with the Athletic feat gets a +2 bonus on all Climb checks.
 
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | ## DC                            | ###                              |
 |                                  |  Example Wall or Surface or Task |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 0                                | A slope too steep to walk up.    |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 5                                | A knotted rope with a wall to    |
 |                                  | brace against.                   |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 10                               | A rope with a wall to brace      |
 |                                  | against. A knotted rope. A       |
 |                                  | surface with sizable ledges to   |
 |                                  | hold on to and stand on, such as |
 |                                  | a rugged cliff face.             |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 15                               | Any surface with adequate        |
 |                                  | handholds and footholds (natural |
 |                                  | or artificial), such as a rough  |
@@ -309,45 +211,45 @@ A character with the Athletic feat gets a +2 bonus on all Climb checks.
 |                                  | a chain-link fence. An unknotted |
 |                                  | rope. Pulling yourself up when   |
 |                                  | dangling by your hands.          |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 20                               | An uneven surface with just a    |
 |                                  | few narrow handholds and         |
 |                                  | footholds, such as a coarse      |
 |                                  | masonry wall or a sheer cliff    |
 |                                  | face with a few crevices and     |
 |                                  | small toeholds.                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 25                               | A rough surface with no real     |
 |                                  | handholds or footholds, such as  |
 |                                  | a brick wall.                    |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 25                               | Overhang or ceiling with         |
 |                                  | handholds but no footholds.      |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | ---                              | A perfectly smooth, flat,        |
 |                                  | vertical surface can't be        |
 |                                  | climbed.                         |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | --10\*                           | Climbing inside an air duct or   |
 |                                  | other location where one can     |
 |                                  | brace against two opposite walls |
 |                                  | (reduces normal DC by 10).       |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | --5\*                            | Climbing a corner where a        |
 |                                  | character can brace against      |
 |                                  | perpendicular walls (reduces     |
 |                                  | normal DC by 5).                 |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | +5\*                             | Surface is slippery (increases   |
 |                                  | normal DC by 5).                 |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | \*These modifiers are            |                                  |
 | cumulative; use any that apply.  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 
 **Time:** Climbing at one-half your speed is a full-round action. Moving
 half that far (one-fourth the character's speed) is a move action.
@@ -374,23 +276,23 @@ category; usually, such a task requires a Research check. This
 application of the Computer Use skill only pertains to finding files on
 private systems with which the character is not familiar.
 
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 | ### Size of Site          | ### DC | ### Time   |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 |                           |        |            |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 | Personal computer         | 10     | 1 round    |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 | Small office network      | 15     | 2 rounds   |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 | Large office network      | 20     | 1 minute   |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 |                           |        |            |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 | Massive corporate network | 25     | 10 minutes |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 |                           |        |            |
-+---------------------------+--------+------------+
+|---------------------------|--------|------------|
 
 **Defeat Computer Security:** This application of Computer Use can't be
 used untrained. The DC is determined by the quality of the security
@@ -407,23 +309,12 @@ character automatically succeeds at all subsequent security checks at
 that site until the end of the character's session (see Computer Hacking
 below).
 
-+-----------------------+--------+
-| ### Level of Security | ### DC |
-+-----------------------+--------+
-|                       |        |
-+-----------------------+--------+
-| Minimum               | 20     |
-+-----------------------+--------+
-| Average               | 25     |
-+-----------------------+--------+
-| Exceptional           | 35     |
-+-----------------------+--------+
-|                       |        |
-+-----------------------+--------+
-| Maximum               | 40     |
-+-----------------------+--------+
-|                       |        |
-+-----------------------+--------+
+| Level of Security | DC |
+| ----------------- | -- |
+| Minimum           | 20 |
+| Average           | 25 |
+| Exceptional       | 35 |
+| Maximum           | 40 |
 
 ### Computer Hacking
 
@@ -530,21 +421,21 @@ won't simply decide to use a different computer).
 A character can degrade the programming of multiple computers at a
 single site; doing so adds +2 to the DC for each additional computer.
 
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 | ### Scope of Alteration | ### DC | ### Time   |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 |                         |        |            |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 | Crash computer          | 10     | 1 minute   |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 | Destroy programming     | 15     | 10 minutes |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 |                         |        |            |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 | Damage programming      | 20     | 10 minutes |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 |                         |        |            |
-+-------------------------+--------+------------+
+|-------------------------|--------|------------|
 
 Fixing the degraded programming requires 1 hour and a Computer Use check
 against a DC equal to the DC for degrading it + 5.
@@ -566,33 +457,33 @@ alerts its administrator that there has been an unauthorized use of the
 equipment. An alerted administrator may attempt to identify the
 character or cut off his or her access to the system.
 
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | ### Type of Operation               | ### DC | ### Time            |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 |                                     |        |                     |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Shut down passive remote (including | 20     | 1 round per remote  |
 | cameras and door locks)             |        |                     |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Shut down active remote (including  | 25     | 1 round per remote  |
 | motion detectors and alarms)        |        |                     |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Reset parameters                    | 30     | 1 minute per remote |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Change passcodes                    | 25     | 1 minute            |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Hide evidence of alteration         | +10    | 1 minute            |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Minimum security                    | --5    | ---                 |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Exceptional security                | +10    | ---                 |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 |                                     |        |                     |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 | Maximum security                    | +15    | ---                 |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 |                                     |        |                     |
-+-------------------------------------+--------+---------------------+
+|-------------------------------------|--------|---------------------|
 
 **Special:** A character can take 10 when using the Computer Use skill.
 A character can take 20 in some cases, but not in those that involve a
@@ -653,42 +544,42 @@ psionics.
 either a reaction (when attempted in response to a distraction) or part
 of another action (when at­tempted actively).
 
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | ### Distraction                  | ### DC                           |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Damaged during the action        | 10 + damage dealt                |
 | **^1^**                          |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Taking continuous damage during  | 10 + half of continuous damage   |
 | the action**^\ 2^**              | last dealt                       |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Vigorous motion (bouncy vehicle  | 10                               |
 | ride, small boat in rough water, |                                  |
 | belowdecks in a storm-tossed     |                                  |
 | ship, riding a horse)            |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Violent motion (very rough       | 15                               |
 | vehicle ride, small boat in      |                                  |
 | rapids, on deck of storm-tossed  |                                  |
 | ship, galloping horse)           |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Extraordinarily violent motion   | 20                               |
 | (earthquake)                     |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Entangled in net or snare        | 15                               |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Grappling or pinned              | 20                               |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Weather is a high wind carrying  | 5                                |
 | blinding rain or sleet           |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | Weather is wind-driven hail,     | 10                               |
 | dust, or debris                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 1 Such as an activity that       |                                  |
 | requires more than a single      |                                  |
 | full-round action. Also from an  |                                  |
@@ -697,13 +588,13 @@ of another action (when at­tempted actively).
 | action being taken (for          |                                  |
 | activities requiring no more     |                                  |
 | than a full-round action).       |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 | 2 Such as from catching on fire. |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 |                                  |                                  |
-+----------------------------------+----------------------------------+
+|----------------------------------|----------------------------------|
 
 ### Craft (Int)
 
@@ -741,26 +632,26 @@ explosives, and poisonous substances.
 acids but do not deal damage. A base of a certain type counteracts an
 acid of the same type or a less potent type.
 
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | ###           | ###           | ### Craft DCs |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 |               |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | ###           | ##            | ### Acid      | ### Base | ### Time |
 |  Type of Acid | # Purchase DC |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | Mild          | 8             | 15            | 10       | 1 min.   |
 | (1d6/1d10)    |               |               |          |          |
 | **^1^**       |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | Potent        | 12            | 20            | 15       | 30 min.  |
 | (2d6/2d10)    |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | Concentrated  | 16            | 30            | 20       | 1 hr.    |
 | (3d6/3d10)    |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 |               |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 | 1 The dice    |               |               |          |          |
 | rolls in      |               |               |          |          |
 | parentheses   |               |               |          |          |
@@ -771,9 +662,9 @@ acid of the same type or a less potent type.
 | damage caused |               |               |          |          |
 | per round of  |               |               |          |          |
 | immersion.    |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 |               |               |               |          |          |
-+---------------+---------------+---------------+----------+----------+
+|---------------|---------------|---------------|----------|----------|
 
 **Explosives:** Building an explosive from scratch is dangerous. If the
 Craft (chemical) check fails, the raw materials are wasted. If the check
@@ -785,41 +676,41 @@ If the check succeeds, the final product is a solid material, about the
 size of a brick. An explosive compound does not include a fuse or
 detonator. Connecting a fuse or detonator requires a Demolitions check.
 
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | **Type of   | ###         | **Craft     | **Reflex DC | **Time** |
 | Sc          | Purchase DC | DC**        | (save for   |          |
 | ratch-Built |             |             | half        |          |
 | Explosive   |             |             | damage)**   |          |
 | **          |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 |             |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Improvised  | 6           | 10          | 10          | 1 round  |
 | (1d6/5      |             |             |             |          |
 | feet) ^1^   |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Simple      | 12          | 15          | 12          | 10 min.  |
 | (2d6/5      |             |             |             |          |
 | feet)       |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Moderate    | 16          | 20          | 12          | 1 hr.    |
 | (4d6/10     |             |             |             |          |
 | feet)       |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Complex     | 20          | 25          | 15          | 3 hr.    |
 | (6d6/15     |             |             |             |          |
 | feet)       |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Powerful    | 25          | 30          | 15          | 12 hr.   |
 | (8d6/20     |             |             |             |          |
 | feet)       |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | Devastating | 30          | 35          | 18          | 24 hr.   |
 | (10d6/25    |             |             |             |          |
 | feet)       |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 |             |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 | 1 The       |             |             |             |          |
 | figures in  |             |             |             |          |
 | parentheses |             |             |             |          |
@@ -830,9 +721,9 @@ detonator. Connecting a fuse or detonator requires a Demolitions check.
 | each type   |             |             |             |          |
 | of          |             |             |             |          |
 | explosive.  |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 |             |             |             |             |          |
-+-------------+-------------+-------------+-------------+----------+
+|-------------|-------------|-------------|-------------|----------|
 
 Scratch built explosives deal concussion damage.
 
@@ -874,137 +765,137 @@ liquid poison stored in a bottle (containing 4 doses) or a gas stored in
 a pressurized cylinder. When released, the gas is sufficient to fill a
 10-foot-radius area and takes 1 round to fill the area.
 
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | ###   |       |       |       |       |       |       |       |       |
 |  Tabl |       |       |       |       |       |       |       |       |
 | e: Po |       |       |       |       |       |       |       |       |
 | isons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | ### P | **T   | *     | **In  | *     | **Pur | **Res | **    | **T   |
 | oison | ype** | *Save | itial | *Seco | chase | trict | Craft | ime** |
 |       |       | DC**  | Dam   | ndary | DC**  | ion** | DC**  |       |
 |       |       |       | age** | Dam   |       |       |       |       |
 |       |       |       |       | age** |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Ar    | Ing   | 15    | 1d4   | 2d4   | 9     | Res   | 24    | 4 hr. |
 | senic | ested |       | Str   | Con   |       | (+2)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Atr   | I     | 13    | 1d6   | 1d6   | 3     | Res   | 14    | 1 hr. |
 | opine | njury |       | Dex   | Str   |       | (+2)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Bella | I     | 18    | 1d6   | 2d6   | 14    | Lic   | n/a   | n/a   |
 | donna | njury |       | Str   | Str   |       | (+1)  |       |       |
 | (p    |       |       |       |       |       |       |       |       |
 | lant) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Blue  | I     | 12    | 1d2   | 1d2   | 3     | Res   | 9     | 1 hr. |
 | vi    | njury |       | Con   | Con   |       | (+2)  |       |       |
 | triol |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | B     | I     | 15    | 1d4   | 1d4   | 14    | Lic   | n/a   | n/a   |
 | lue-r | njury |       | Con   | Con   |       | (+1)  |       |       |
 | inged |       |       |       |       |       |       |       |       |
 | oc    |       |       |       |       |       |       |       |       |
 | topus |       |       |       |       |       |       |       |       |
 | venom |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Ch    | Ing   | 18    | 1d6   | Uncon | 12    | Res   | 28    | 8 hr. |
 | loral | ested |       | Dex   | sciou |       | (+2)  |       |       |
 | hy    |       |       |       | sness |       |       |       |       |
 | drate |       |       |       | 1d3   |       |       |       |       |
 |       |       |       |       | hours |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Ch    | In    | 17    | Uncon | ---   | 9     | Res   | 24    | 4 hr. |
 | lorof | haled |       | sciou |       |       | (+2)  |       |       |
 | orm** |       |       | sness |       |       |       |       |       |
 | ^1^** |       |       | 1d3   |       |       |       |       |       |
 |       |       |       | hours |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | C     | I     | 18    | 2d4   | 2d4   | 15    | Res   | n/a   | n/a   |
 | urare | njury |       | Dex   | Wis   |       | (+2)  |       |       |
 | (p    |       |       |       |       |       |       |       |       |
 | lant) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Cy    | I     | 16    | 1d6   | 2d6   | 15    | Mil   | 31    | 15    |
 | anide | njury |       | Con   | Con   |       | (+3)  |       | hr.   |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Cya   | In    | 19    | 1d4   | 2d4   | 12    | Mil   | 28    | 8 hr. |
 | nogen | haled |       | Dex   | Con   |       | (+3)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | DDT   | In    | 17    | 1d2   | 1d4   | 9     | Lic   | 20    | 4 hr. |
 |       | haled |       | Str   | Str   |       | (+1)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Kno   | In    | 18    | 1d3   | Uncon | 12    | Res   | 26    | 8 hr. |
 | ckout | haled |       | Dex   | sciou |       | (+2)  |       |       |
 | gas   |       |       |       | sness |       |       |       |       |
 |       |       |       |       | 1d3   |       |       |       |       |
 |       |       |       |       | hours |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Lead  | In    | 12    | 1d2   | 1d4   | 6     | Res   | 17    | 2 hr. |
 | ars   | haled |       | Str   | Con   |       | (+2)  |       |       |
 | enate |       |       |       |       |       |       |       |       |
 | (gas) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Lead  | Ing   | 12    | 1d2   | 1d4   | 6     | Res   | 18    | 2 hr. |
 | ars   | ested |       | Con   | Con   |       | (+2)  |       |       |
 | enate |       |       |       |       |       |       |       |       |
 | (s    |       |       |       |       |       |       |       |       |
 | olid) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Mu    | In    | 17    | 1d4   | 2d4   | 12    | Mil   | 26    | 8 hr. |
 | stard | haled |       | Con   | Con   |       | (+3)  |       |       |
 | gas   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Paris | In    | 14    | 1d2   | 1d4   | 9     | Res   | 20    | 4 hr. |
 | green | haled |       | Con   | Con   |       | (+2)  |       |       |
 | (gas) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Paris | Ing   | 14    | 1d4   | 1d4   | 9     | Res   | 24    | 4 hr. |
 | green | ested |       | Con   | Con   |       | (+2)  |       |       |
 | (s    |       |       |       |       |       |       |       |       |
 | olid) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | P     | I     | 13    | 1d6   | Para  | 13    | Lic   | n/a   | n/a   |
 | uffer | njury |       | Str   | lysis |       | (+1)  |       |       |
 | p     |       |       |       | 2d6   |       |       |       |       |
 | oison |       |       |       | mi    |       |       |       |       |
 | (     |       |       |       | nutes |       |       |       |       |
 | fish) |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | R     | I     | 12    | 1d6   | 1d6   | 12    | Lic   | n/a   | n/a   |
 | attle | njury |       | Con   | Con   |       | (+1)  |       |       |
 | snake |       |       |       |       |       |       |       |       |
 | venom |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Sarin | In    | 18    | 1d4   | 2d4   | 15    | Il    | 30    | 15    |
 | nerve | haled |       | Con   | Con   |       | legal |       | hr.   |
 | gas   |       |       |       |       |       | (+4)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Sco   | I     | 11    | 1d2   | 1d2   | 12    | Lic   | n/a   | n/a   |
 | rpion | njury |       | Str   | Str   |       | (+1)  |       |       |
 | /tara |       |       |       |       |       |       |       |       |
 | ntula |       |       |       |       |       |       |       |       |
 | venom |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Stryc | I     | 19    | 1d3   | 2d4   | 9     | Res   | 23    | 4 hr. |
 | hnine | njury |       | Dex   | Con   |       | (+2)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Tear  | In    | 15    | Naus  | ---   | 9     | Res   | 21    | 4 hr. |
 | gas   | haled |       | eated |       |       | (+2)  |       |       |
 |       |       |       | 1d6   |       |       |       |       |       |
 |       |       |       | r     |       |       |       |       |       |
 |       |       |       | ounds |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | VX    | In    | 22    | 1d6   | 2d6   | 21    | Il    | 42    | 48    |
 | nerve | haled |       | Con   | Con   |       | legal |       | hr.   |
 | gas   |       |       |       |       |       | (+4)  |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | 1     |       |       |       |       |       |       |       |       |
 | Chlor |       |       |       |       |       |       |       |       |
 | oform |       |       |       |       |       |       |       |       |
@@ -1037,9 +928,9 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 | check |       |       |       |       |       |       |       |       |
 | and   |       |       |       |       |       |       |       |       |
 | pin.  |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | n/a:  |       |       |       |       |       |       |       |       |
 | Ce    |       |       |       |       |       |       |       |       |
 | rtain |       |       |       |       |       |       |       |       |
@@ -1074,9 +965,9 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 | in    |       |       |       |       |       |       |       |       |
 | ques  |       |       |       |       |       |       |       |       |
 | tion. |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 
 **Special:** A character without a chemical kit takes a --4 penalty on
 Craft (chemical) checks.
@@ -1095,30 +986,30 @@ the kind of device he or she wants to construct; then the Gamemaster
 decides whether the device is simple, moderate, complex, or advanced
 com­pared to current technology.
 
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | ### Type of        | ### Purchase DC | ### Craft DC | ### Time |
 | Scratch-Built Elec |                 |              |          |
 | tronics (Examples) |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Simple (timer or   | 8               | 15           | 1 hr.    |
 | detonator)         |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Moderate (radio    | 12              | 20           | 12 hr.   |
 | direction finder,  |                 |              |          |
 | electronic lock)   |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Complex (cell      | 16              | 25           | 24 hr.   |
 | phone)             |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Advanced           | 22              | 30           | 60 hr.   |
 | (computer)         |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 
 **Special:** A character without an electrical tool kit takes a --4
 penalty on Craft (electronic) checks.
@@ -1135,33 +1026,33 @@ the kind of device he or she wants to construct; then the Gamemaster
 decides if the device is simple, moderate, complex, or advanced compared
 to current technology.
 
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | ### Type of Scratc | ### Purchase DC | ### Craft DC | ### Time |
 | h-Built Mechanical |                 |              |          |
 |  Device (Examples) |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Simple (tripwire   | 5               | 15           | 1 hr     |
 | trap)              |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Moderate (engine   | 12              | 20           | 12 hr.   |
 | component, light   |                 |              |          |
 | armor)             |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Complex            | 16              | 25           | 24 hr.   |
 | (automobile        |                 |              |          |
 | engine, 9mm        |                 |              |          |
 | autoloader         |                 |              |          |
 | handgun)           |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Advanced (jet      | 20              | 30           | 60 hr.   |
 | engine)            |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 
 **Special:** A character without a mechanical tool kit takes a --4
 penalty on Craft (mechanical) checks.
@@ -1180,23 +1071,23 @@ The Craft (pharmaceutical) check is based on the severity of the disease
 to be countered as measured by the DC of the Fortitude save needed to
 resist it.
 
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 | **Disease Fortitude Save DC** | ### Purchase DC | **Craft DC** | **Time** |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 |                               |                 |              |          |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 | 14 or lower                   | 5               | 15           | 1 hr.    |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 | 15--18                        | 10              | 20           | 3 hr.    |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 | 19--22                        | 15              | 25           | 6 hr.    |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 |                               |                 |              |          |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 | 23 or higher                  | 20              | 30           | 12 hr.   |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 |                               |                 |              |          |
-+-------------------------------+-----------------+--------------+----------+
+|-------------------------------|-----------------|--------------|----------|
 
 **Special:** A character without a pharmacist kit takes a --4 penalty on
 Craft (pharmaceutical) checks.
@@ -1211,30 +1102,30 @@ structures from scratch, including bookcases, desks, walls, houses, and
 so forth, and includes such handyman skills as plumbing, house painting,
 drywall, laying cement, and building cabinets.
 
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | **Type of          | ### Purchase DC | **Craft DC** | **Time** |
 | Scratch-Built      |                 |              |          |
 | Structure          |                 |              |          |
 | (Examples)**       |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Simple (bookcase,  | 5               | 15           | 12 hr.   |
 | false wall)        |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Moderate           | 10              | 20           | 24 hr.   |
 | (catapult, shed,   |                 |              |          |
 | house deck)        |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Complex (bunker,   | 15              | 25           | 60 hr.   |
 | domed ceiling)     |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 | Advanced (house)   | 20              | 30           | 600 hr.  |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 |                    |                 |              |          |
-+--------------------+-----------------+--------------+----------+
+|--------------------|-----------------|--------------|----------|
 
 When building a structure from scratch, the character describes the kind
 of structure he or she wants to construct; then the Gamemaster decides
@@ -1261,25 +1152,25 @@ Unless the effort is particularly elaborate or the character must
 acquire an expensive piece of equipment, the basic components have a
 purchase DC of 5.
 
-+------------------------+---------------------+
+|------------------------|---------------------|
 | ### Skill Check Result | ### Effort Achieved |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 9 or lower             | Untalented amateur  |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 10--19                 | Talented amateur    |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 20--24                 | Professional        |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 25--30                 | Expert              |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 31 or higher           | Master              |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 
 Creating a work of visual art requires at least a full-round action, but
 usually takes an hour, a day, or more, depending on the scope of the
@@ -1299,25 +1190,25 @@ When creating a work of writing, the player simply makes a Craft
 
 No Wealth check is necessary to use this Craft skill.
 
-+------------------------+---------------------+
+|------------------------|---------------------|
 | ### Skill Check Result | ### Effort Achieved |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 9 or lower             | Untalented amateur  |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 10--19                 | Talented amateur    |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 20--24                 | Professional        |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 25--30                 | Expert              |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 | 31 or higher           | Master              |
-+------------------------+---------------------+
+|------------------------|---------------------|
 |                        |                     |
-+------------------------+---------------------+
+|------------------------|---------------------|
 
 Creating a work of writing requires at least 1 hour, but usually takes a
 day, a week, or more, depending on the scope of the project.
@@ -1485,23 +1376,23 @@ succeeds in the check, he or she gains a +2 bonus on the Diplomacy
 check. For every point by which the hero beats the DC, increase the
 bonus by +1 (to a total maximum bonus of +10).
 
-+------------------+-----------------+
+|------------------|-----------------|
 | ### Bribe Target | ### Purchase DC |
-+------------------+-----------------+
+|------------------|-----------------|
 |                  |                 |
-+------------------+-----------------+
+|------------------|-----------------|
 | Bouncer          | 6               |
-+------------------+-----------------+
+|------------------|-----------------|
 | Bureaucrat       | 10              |
-+------------------+-----------------+
+|------------------|-----------------|
 | Informant        | 7               |
-+------------------+-----------------+
+|------------------|-----------------|
 |                  |                 |
-+------------------+-----------------+
+|------------------|-----------------|
 | Police officer   | 10              |
-+------------------+-----------------+
+|------------------|-----------------|
 |                  |                 |
-+------------------+-----------------+
+|------------------|-----------------|
 
 ### Disable Device (Int) Trained Only
 
@@ -1513,25 +1404,25 @@ combination locks, and bypass electronic locks. The character must have
 a lockpick set (for a mechanical lock) or an electrical tool kit (for an
 electronic lock). The DC depends on the quality of the lock.
 
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | ### Lock Type (Example)                       | ### DC |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 |                                               |        |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | Cheap (briefcase lock)                        | 20     |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | Average (home deadbolt)                       | 25     |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | High quality (business deadbolt)              | 30     |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | High security (branch bank vault)             | 40     |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 |                                               |        |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 | Ultra-high security (bank headquarters vault) | 50     |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 |                                               |        |
-+-----------------------------------------------+--------+
+|-----------------------------------------------|--------|
 
 **Disable Security Device:** A character can disable a security device,
 such as an electric fence, motion sensor, or security camera. The
@@ -1543,25 +1434,25 @@ When disabling a monitored device, the character can prevent his or her
 tampering from being noticed. Doing so requires 10 minutes and an
 electrical tool kit, and increases the DC of the check by +10.
 
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | ### Device Type (Example)                       | ### DC |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 |                                                 |        |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | Cheap (home door alarm)                         | 20     |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | Average (store security camera)                 | 25     |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | High quality (art museum motion detector)       | 30     |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | High security (bank vault alarm)                | 35     |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 |                                                 |        |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 | Ultrahigh security (motion detector at Area 51) | 40     |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 |                                                 |        |
-+-------------------------------------------------+--------+
+|-------------------------------------------------|--------|
 
 **Traps and Sabotage:** Disabling (or rigging or jamming) a simple
 mechanical device has a DC of 10. More intricate and complex devices
@@ -1618,49 +1509,49 @@ their Spot checks.)
 The effectiveness of the character's disguise depends in part on how
 much the character is attempting to change his or her appearance.
 
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | ### Disguise                                         | ### Modifier |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 |                                                      |              |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | Minor details only                                   | +5           |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | Appropriate uniform or costume                       | +2           |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | Disguised as different sex                           | --2          |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | Disguised as different age category                  | --2 **^1^**  |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 |                                                      |              |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 | 1 Per step of difference between the character's age |              |
 | category and the disguised age category (child,      |              |
 | young adult, adult, middle age, old, or venerable).  |              |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 |                                                      |              |
-+------------------------------------------------------+--------------+
+|------------------------------------------------------|--------------|
 
 If the character is impersonating a particular individual, those who
 know what that person looks like automatically get to make Spot checks.
 Furthermore, they get a bonus on their Spot checks.
 
-+---------------------+-----------+
+|---------------------|-----------|
 | ### Familiarity     | ### Bonus |
-+---------------------+-----------+
+|---------------------|-----------|
 |                     |           |
-+---------------------+-----------+
+|---------------------|-----------|
 | Recognizes on sight | +4        |
-+---------------------+-----------+
+|---------------------|-----------|
 | Friend or associate | +6        |
-+---------------------+-----------+
+|---------------------|-----------|
 | Close friend        | +8        |
-+---------------------+-----------+
+|---------------------|-----------|
 |                     |           |
-+---------------------+-----------+
+|---------------------|-----------|
 | Intimate            | +10       |
-+---------------------+-----------+
+|---------------------|-----------|
 |                     |           |
-+---------------------+-----------+
+|---------------------|-----------|
 
 Usually, an individual makes a Spot check to detect a disguise
 immediately upon meeting the character and each hour thereafter. If the
@@ -1720,25 +1611,25 @@ the character takes a --4 penalty on Drive checks.
 **Check:** Make a check to escape from restraints or to squeeze through
 a tight space.
 
-+---------------+--------------------------+
+|---------------|--------------------------|
 | ### Restraint | ### DC                   |
-+---------------+--------------------------+
+|---------------|--------------------------|
 |               |                          |
-+---------------+--------------------------+
+|---------------|--------------------------|
 | Ropes         | Opponent's Dex check +20 |
-+---------------+--------------------------+
+|---------------|--------------------------|
 | Net           | 20                       |
-+---------------+--------------------------+
+|---------------|--------------------------|
 | Handcuffs     | 35                       |
-+---------------+--------------------------+
+|---------------|--------------------------|
 | Tight space   | 30                       |
-+---------------+--------------------------+
+|---------------|--------------------------|
 |               |                          |
-+---------------+--------------------------+
+|---------------|--------------------------|
 | Grappler      | Opponent's grapple check |
-+---------------+--------------------------+
+|---------------|--------------------------|
 |               |                          |
-+---------------+--------------------------+
+|---------------|--------------------------|
 
 For ropes, a character's Escape Artist check is opposed by the Dexterity
 check result of the opponent who tied the bonds. Since it's easier to
@@ -1785,52 +1676,52 @@ character's degree of familiarity with it, and whether the character
 needs to reproduce the signature or handwriting of a specific
 individual, provide modifiers to the Forgery check, as shown below.
 
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | ### Factor                         | ### Check Modifier | ### Time |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 |                                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | ### Document Type                  |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Simple (typed letter, business     | +0                 | 10 min.  |
 | card)                              |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Moderate (letterhead, business     | --2                | 20 min.  |
 | form)                              |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Complex (stock certificate,        | --4                | 1 hr.    |
 | driver's license)                  |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Difficult (passport)               | --8                | 4 hr.    |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Extreme (military/law enforcement  | --16               | 24 hr.   |
 | ID)                                |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 |                                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 |                                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | ### Familiarity                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Unfamiliar (seen once for less     | --4                |          |
 | than a minute)                     |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Fairly familiar (seen for several  | +0                 |          |
 | minutes)                           |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Quite familiar (on hand, or        | +4                 |          |
 | studied at leisure)                |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Forger has produced other          | +4                 |          |
 | documents of same type             |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 |                                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 | Document includes specific         | --4                |          |
 | signature                          |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 |                                    |                    |          |
-+------------------------------------+--------------------+----------+
+|------------------------------------|--------------------|----------|
 
 Some documents require security or authorization codes, whether
 authentic ones or additional forgeries. The GM makes the character's
@@ -1845,38 +1736,38 @@ higher than the original Forgery check, the document is determined to be
 fraudulent. The examiner gains bonuses or penalties on his or her check
 as given in the table below.
 
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | ### Condition                       | ### Examiner's Check Modifier |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 |                                     |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | Type of document unknown to         | --4                           |
 | examiner                            |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | Type of document somewhat known to  | --2                           |
 | examiner                            |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | Type of document well known to      | +0                            |
 | examiner                            |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | Document is put through additional  | +4                            |
 | tests **^1^**                       |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 |                                     |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | Examiner only casually reviews the  | --2                           |
 | document **^1^**                    |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 |                                     |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 | 1^\ ^Cumulative with any of the     |                               |
 | first three conditions on the       |                               |
 | table. Apply this modifier along    |                               |
 | with one of the other three         |                               |
 | whenever appropriate.               |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 |                                     |                               |
-+-------------------------------------+-------------------------------+
+|-------------------------------------|-------------------------------|
 
 A document that contradicts procedure, orders, or previous knowledge, or
 one that requires the examiner to relinquish a possession or a piece of
@@ -1934,25 +1825,25 @@ an increase to his or her Wealth bonus. The amount of the increase
 depends on the difference between the character's check result and the
 next highest result among the other participants.
 
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | ### Check Result Difference | ### Wealth Bonus Increase |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 |                             |                           |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | 1--9                        | +1                        |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | 10--19                      | +2                        |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | 20--29                      | +3                        |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | 30­--39                     | +4                        |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 |                             |                           |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 | 40 or more                  | +5                        |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 |                             |                           |
-+-----------------------------+---------------------------+
+|-----------------------------|---------------------------|
 
 **Try Again?:** No, unless the character wants to put up another stake.
 

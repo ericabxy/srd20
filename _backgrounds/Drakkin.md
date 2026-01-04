@@ -1,6 +1,5 @@
 ---
 categories:
-- character background
 - Planetary Romance
 title: Drakkin
 ---

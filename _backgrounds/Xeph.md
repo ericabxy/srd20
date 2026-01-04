@@ -1,4 +1,6 @@
 ---
+categories:
+- Planetary Romance
 favored_class: monk
 level_adjustment: 0
 power_points: 1

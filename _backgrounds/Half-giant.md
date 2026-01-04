@@ -1,4 +1,6 @@
 ---
+categories:
+- Planetary Romance
 favored_class: bard
 level_adjustment: 1
 power_points: 2

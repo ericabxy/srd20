@@ -1,5 +1,5 @@
 ---
-group: Modern Basics
+category: Modern Basics
 title: Legal Information
 ---
 

@@ -1,7 +1,5 @@
 ---
-categories:
-- extraordinary ability
-- special ability
+category: extraordinary
 title: Hide in Plain Sight
 ---
 
@@ -10,7 +8,7 @@ Hide in Plain Sight
 
 While in any sort of natural terrain, you can use the Hide skill even while being observed.
 
-__Prerequisites:__ 17 ranks in Hide and Survival
+__Prerequisites:__ Camouflage, 17 ranks in Hide and Survival.
 
 Notes
 -----

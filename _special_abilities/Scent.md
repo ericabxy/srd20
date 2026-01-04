@@ -1,7 +1,5 @@
 ---
-categories:
-- Arcana Unearthed
-- extraordinary ability
+category: extraordinary
 title: Scent
 ---
 

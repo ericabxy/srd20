@@ -1,4 +1,6 @@
 ---
+categories:
+- Planetary Romance
 favored_class: sorcerer
 level_adjustment: 1
 power_points: 1

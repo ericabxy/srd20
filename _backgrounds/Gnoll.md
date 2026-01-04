@@ -1,8 +1,7 @@
 ---
 categories:
-- character background
 - Planetary Romance
-title: Gnoll, lesser
+title: Gnoll
 ---
 
 Gnoll

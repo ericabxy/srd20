@@ -2,7 +2,7 @@
 author: AKSmith
 company: Wizards of the Coast
 date: 2003-08-22 10:33:00 -0800
-group: Modern Basics
+category: Modern Basics
 title: Basic Classes
 ---
 

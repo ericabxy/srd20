@@ -1,3 +1,8 @@
+---
+category: spell-like
+title: Summon Familiar
+---
+
 Summon Familiar
 ===============
 

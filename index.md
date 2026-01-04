@@ -1,8 +1,5 @@
 ---
 layout: home
-nav_order: 0
 ---
 
-_**Welcome to the Srd20 Project!**_
-
-This is a project to document Open Game Content related to the _System Reference Document_ version 3.5 released by _Wizards of the Coast_ in 2003. So far we serve parts of the SRD and the Modern SRD as well as some Open Game Content from D&D supplements and original content based on the system. Click on the posts for links to the reference documents, new special abilities, and new character backgrounds.
+SRD20 is a collection of experiments based on a 2003 tabletop role-playing game system. Each experiment is designed as a complete and self-contained artifact, intentionally small and limited in scope.

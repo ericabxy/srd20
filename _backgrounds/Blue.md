@@ -1,8 +1,10 @@
 ---
+categories:
+- Planetary Romance
 favored_class: wizard
 level_adjustment: 1
 power_points: 1
-title: Blue, rigelian
+title: Blue
 ---
 
 Blue

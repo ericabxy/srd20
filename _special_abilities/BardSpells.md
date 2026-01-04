@@ -1,4 +1,6 @@
 ---
+category: spell-like
+title: Bard Spells
 ---
 
 Bard Spells
@@ -13,6 +15,10 @@ The bard’s selection of spells is extremely limited. You start off knowing fou
 The 5th time you take this feat, and every third time after that (8th, 11th, and so on), you can choose to learn a new spell in place of one you already know. In effect, you “lose” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level bard spell you can cast. You may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that you gain new spells known for the level.
 
 As noted above, you need not prepare your spells in advance. You can cast any spell you know at any time, assuming you have not yet used up your allotment of spells per day for the spell’s level.
+
+### Bard Spells I
+
+__Prerequisite:__ Non-lawful alignment.
 
 Cantrips
 --------

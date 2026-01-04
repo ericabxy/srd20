@@ -1,7 +1,5 @@
 ---
-categories:
-- special ability
-- spell-like ability
+category: spell-like
 title: Fascinate
 ---
 
