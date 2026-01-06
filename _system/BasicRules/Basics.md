@@ -1,8 +1,8 @@
 ---
 author: AKSmith
+category: Basic Rules and Legal
 company: Wizards of the Coast
 date:   2003-07-02 13:23:00 -0800
-group: Basic Rules and Legal
 title: Basics and Ability Scores
 ---
 

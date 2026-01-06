@@ -2,7 +2,7 @@
 author: AKSmith
 company: Wizards of the Coast
 date:   2003-10-22 13:16:00 -0800
-group: Spells
+category: Spells
 title: Spells (D-E)
 ---
 

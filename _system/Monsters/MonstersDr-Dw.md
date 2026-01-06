@@ -1,7 +1,7 @@
 ---
 author: AKSmith
 date:   2003-07-03 09:35:00 -0800
-group: Monsters
+category: Monsters
 title: Monsters (Dr-Dw)
 ---
 

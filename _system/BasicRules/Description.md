@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-09-02 15:55:00 -0800
 company: Wizards of the Coast
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Alignment and Description
 ---
 

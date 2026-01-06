@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-10-22 13:20:00 -0800
 company: Wizards of the Coast
-group: Spells
+category: Spells
 title: Spells (P-R)
 ---
 

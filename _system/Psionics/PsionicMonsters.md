@@ -2,7 +2,7 @@
 author: asmith
 date:   2004-04-15 13:32:00 -0800
 company: Wizards of the Coast
-group: Psionics
+category: Psionics
 title: Psionic Monsters
 ---
 

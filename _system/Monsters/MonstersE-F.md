@@ -1,7 +1,7 @@
 ---
 author: AKSmith
 date:   2003-10-27 10:20:00 -0800
-group: Monsters
+category: Monsters
 title: Monsters (E-F)
 ---
 

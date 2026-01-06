@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2004-04-15 13:23:00 -0800
 company: Wizards of the Coast
-group: Monsters
+category: Monsters
 title: Monsters (T-Z)
 ---
 

@@ -1,8 +1,8 @@
 ---
 author: asmith
-date:   2004-04-15 13:31:00 -0800
+category: Divine
 company: Wizards of the Coast
-group: Divine
+date:   2004-04-15 13:31:00 -0800
 title: Divine Ranks and Powers
 ---
 

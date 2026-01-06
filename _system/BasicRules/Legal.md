@@ -2,7 +2,7 @@
 author: mjindra
 date:   2004-01-05 17:37:00 -0800
 company: Wizards of the Coast
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Legal Information
 ---
 

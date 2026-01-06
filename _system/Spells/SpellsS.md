@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2004-03-05 15:16:00 -0800
 company: Wizards of the Coast
-group: Spells
+category: Spells
 title: Spells (S)
 ---
 

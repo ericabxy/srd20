@@ -1,8 +1,8 @@
 ---
 author: AKSmith
-date:   2003-07-02 13:21:00 -0800
+category: Magic Items
 company: Wizards of the Coast
-group: Magic Items
+date:   2003-07-02 13:21:00 -0800
 title: Magic Items I (Basics & Creation)
 ---
 

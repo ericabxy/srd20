@@ -2,7 +2,7 @@
 author: asmith
 date:   2004-04-07 11:07:00 -0800
 company: Wizards of the Coast
-group: Psionics
+category: Psionics
 title: Psionic Powers (Q-W)
 ---
 

@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-10-30 12:05:00 -0800
 company: Wizards of the Coast
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Combat I (Basics)
 ---
 

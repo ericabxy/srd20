@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-07-02 13:23:00 -0800
 company: Wizards of the Coast
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Equipment
 ---
 

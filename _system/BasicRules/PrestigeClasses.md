@@ -2,7 +2,7 @@
 author: AKSmith
 company: Wizards of the Coast
 date:   2003-10-24 13:47:00 -0800
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Prestige Classes
 ---
 

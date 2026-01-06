@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-10-22 11:08:00 -0800
 company: Wizards of the Coast
-group: Monsters
+category: Monsters
 title: Monsters (M-N)
 ---
 
@@ -89,20 +89,13 @@ per round from the intense heat. The save DC is Constitution-based.
 | **Advancement:**          | 7--16 HD (Large); 17--18 HD (Huge)
 | **Level Adjustment:**     | +3 (cohort)
 
-A typical manticore is about 10 feet long and weighs about 1,000
-pounds. Manticores speak Common.
+A typical manticore is about 10 feet long and weighs about 1,000 pounds. Manticores speak Common.
 
 ### COMBAT
 
-A manticore begins most attacks with a volley of spikes, then closes.
-In the outdoors, it often uses its powerful wings to stay aloft during
-battle.
+A manticore begins most attacks with a volley of spikes, then closes.mIn the outdoors, it often uses its powerful wings to stay aloft during battle.
 
-**Spikes (Ex):** With a snap of its tail, a manticore can
-loose a volley of six spikes as a standard action (make an attack roll
-for each spike). This attack has a range of 180 feet with no range
-increment. All targets must be within 30 feet of each other. The
-creature can launch only twenty-four spikes in any 24-hour period.
+**Spikes (Ex):** With a snap of its tail, a manticore can loose a volley of six spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only twenty-four spikes in any 24-hour period.
 
 **Skills:** \*Manticores have a +4 racial bonus on Spot checks.
 

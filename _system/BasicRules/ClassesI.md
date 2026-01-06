@@ -2,7 +2,7 @@
 author: AKSmith
 date:   2003-10-22 12:57:00 -0800
 company: Wizards of the Coast
-group: Basic Rules and Legal
+category: Basic Rules and Legal
 title: Character Classes I
 ---
 
@@ -98,16 +98,335 @@ The bard's class skills (and the key ability for each skill) are Appraise (Int),
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
-{% unless site.includes.table-the-bard.html %}
-**Attack Bonus:** Equal to 3/4 total hit dice.
+<table>
+  <thead>
+    <tr>
+      <th colspan=13>Table: The Bard</th>
+    </tr>
+    <tr>
+      <th rowspan=2>Level</th>
+      <th rowspan=2>Base Attack Bonus</th>
+      <th rowspan=2>Fort Save</th>
+      <th rowspan=2>Ref Save</th>
+      <th rowspan=2>Will Save</th>
+      <th rowspan=2>Special</th>
+      <th colspan=7>Spells per Day</th>
+    </tr>
+    <tr>
+      <th>0</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+      <th>4th</th>
+      <th>5th</th>
+      <th>6th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>Bardic music, bardic knowledge, countersong, fascinate, inspire courage +1</td>
+      <td>2</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>+1</td>
+      <td>+0</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td></td>
+      <td>3</td>
+      <td>0</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>+2</td>
+      <td>+1</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td>Inspire competence</td>
+      <td>3</td>
+      <td>1</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>+3</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>+4</td>
+      <td></td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>+3</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td>+4</td>
+      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>+4</td>
+      <td>+2</td>
+      <td>+5</td>
+      <td>+5</td>
+      <td>Suggestion</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>+5</td>
+      <td>+2</td>
+      <td>+5</td>
+      <td>+5</td>
+      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>+6/+1</td>
+      <td>+2</td>
+      <td>+6</td>
+      <td>+6</td>
+      <td>Inspire courage +2</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>+6/+1</td>
+      <td>+3</td>
+      <td>+6</td>
+      <td>+6</td>
+      <td>Inspire greatness</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>—</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>+7/+2</td>
+      <td>+3</td>
+      <td>+7</td>
+      <td>+7</td>
+      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>11th</td>
+      <td>+8/+3</td>
+      <td>+3</td>
+      <td>+7</td>
+      <td>+7</td>
+      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>12th</td>
+      <td>+9/+4</td>
+      <td>+4</td>
+      <td>+8</td>
+      <td>+8</td>
+      <td>Song of freedom</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>13th</td>
+      <td>+9/+4</td>
+      <td>+4</td>
+      <td>+8</td>
+      <td>+8</td>
+      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>14th</td>
+      <td>+10/+5</td>
+      <td>+4</td>
+      <td>+9</td>
+      <td>+9</td>
+      <td>Inspire courage +3</td>
+      <td>4</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>15th</td>
+      <td>+11/+6/+1</td>
+      <td>+5</td>
+      <td>+9</td>
+      <td>+9</td>
+      <td>Inspire heroics</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>16th</td>
+      <td>+12/+7/+2</td>
+      <td>+5</td>
+      <td>+10</td>
+      <td>+10</td>
+      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>17th</td>
+      <td>+12/+7/+2</td>
+      <td>+5</td>
+      <td>+10</td>
+      <td>+10</td>
+      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>18th</td>
+      <td>+13/+8/+3</td>
+      <td>+6</td>
+      <td>+11</td>
+      <td>+11</td>
+      <td>Mass suggestion</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>19th</td>
+      <td>+14/+9/+4</td>
+      <td>+6</td>
+      <td>+11</td>
+      <td>+11</td>
+      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20th</td>
+      <td>+15/+10/+5</td>
+      <td>+6</td>
+      <td>+12</td>
+      <td>+12</td>
+      <td>Inspire courage +4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
 
-**Good Saving Throws:** Reflex and Will.
-{% else %}
-  {% include table-the-bard.html %}
-{% endunless %}
-
-#### Table: Bard Spells Known
-
+| Table: Bard Spells Known
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
 | ----- |:-:| :-: | :-: | :-: | :-: | :-: | :-:
 | 1st   | 4 |  —  |  —  |  —  |  —  |  —  |  —
@@ -601,10 +920,7 @@ The cleric's class skills (and the key ability for each skill) are Concentration
   </tbody>
   <tfoot>
     <tr>
-      <td colspan=16>1 In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.</td>
-    </tr>
-    <tr>
-      <td colspan=16>The "+1" in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.</td>
+      <td colspan=16>1 In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.<br>The "+1" in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.</td>
     </tr>
   </tfoot>
 </table>

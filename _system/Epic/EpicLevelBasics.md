@@ -1,8 +1,8 @@
 ---
 author: asmith
-date:   2004-02-12 17:49:00 -0800
+category: Epic
 company: Wizards of the Coast
-group: Epic
+date:   2004-02-12 17:49:00 -0800
 title: Epic Level Basics
 ---
 

@@ -1,8 +1,8 @@
 ---
 author: AKSmith
+category: Basic Rules and Legal
 company: Wizards of the Coast
 date:   2003-10-24 13:33:00 -0800
-group: Basic Rules and Legal
 title: Special Abilities and Conditions
 ---
 
@@ -572,8 +572,7 @@ A creature with blindsight can attack (and otherwise interact with) creatures re
 
 An invisible burning torch still gives off light, as does an invisible object with a light spell (or similar spell) cast upon it.
 
-Ethereal creatures are invisible. Since ethereal creatures are not materially present, Spot checks, Listen checks, Scent, Blind-Fight, and blindsight don't help locate them. Incorporeal creatures are often invisible. Scent, Blind-Fight, and blindsight don't help creatures find or attack invisible, incorporeal creatures, but Spot checks and possibly
-Listen checks can help.
+Ethereal creatures are invisible. Since ethereal creatures are not materially present, Spot checks, Listen checks, Scent, Blind-Fight, and blindsight don't help locate them. Incorporeal creatures are often invisible. Scent, Blind-Fight, and blindsight don't help creatures find or attack invisible, incorporeal creatures, but Spot checks and possibly Listen checks can help.
 
 Invisible creatures cannot use gaze attacks.
 

@@ -1,8 +1,8 @@
 ---
 author: AKSmith
+category: Basic Rules and Legal
 company: Wizards of the Coast
 date:   2003-10-24 11:40:00 -0800
-group: Basic Rules and Legal
 title: Skills I
 ---
 
