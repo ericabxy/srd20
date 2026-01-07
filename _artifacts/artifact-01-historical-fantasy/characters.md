@@ -2,11 +2,15 @@
 title: Characters
 ---
 
-# Characters
+# The Weight of Authority
+
+[Overview](index) &bull; [Context](context) &bull; [Scenario](scenario) &bull; __Characters__ &bull; [Design Notes](design-notes)
+
+## Characters
 
 The following pre-built characters are central to the scenario's conflict and tension. Together they represent competing aspects of authority working together to enforce a shared obligation, expressed through some light background and mechanical features. They are not optimized builds; rather they are tools for the scenario and demonstrations of their class archetypes in a social rather than combat capacity.
 
-## Julius of the Capitoline
+### Julius of the Capitoline
 
 A junior priest of Jupiter Optimus Maximus serving as a religious attaché to a frontier province. He is trained in ritual law, augury, and state cult practice. He has a legal responsibility to see that the requisition order is fulfilled.
 
@@ -26,7 +30,7 @@ __Special Abilities:__ Turn undead, cleric spells.
 
 __Deity/Domains:__ Jupiter/Law and Protection.
 
-## Tignos Noricensis
+### Tignos Noricensis
 
 Tignos is an engineer and contract warrior from the Alpine dwarves north of Italia, who's people supply Rome with Noric steel and guard the mountain passes. He is here to enforce the law and provide escort and deterrence if needed.
 
@@ -44,7 +48,7 @@ __Skills:__ Knowledge (local) +6, Profession (engineer) +6.
 
 __Saving Throws:__ Fort +6, Ref +2, Will +2.
 
-## Macha ex Hibernia
+### Macha ex Hibernia
 
 A traveling druid-scholar from northern Gallia studying Roman ritual magic and provincial cult practices. She is here to mediate between roman law and local custom, and can provide insight into who can afford what.
 
@@ -66,7 +70,7 @@ __Saves:__ Fort +1, Ref +4, Will +4.
 
 __Spellbook:__ 0---*Detect magic, prestidigitation, light, message;* 1st---*Comprehend languages, charm person, alarm;* 2nd---*Detect thoughts, knock.*
 
-## Laufey Quickstep
+### Laufey Quickstep
 
 A halfling river-trader from the borders of Germania working as a courier, guide, and civil intermediary. She is here to make contacts and gather information.
 

@@ -2,11 +2,15 @@
 title: Scenario
 ---
 
-# Scenario: _The Weight of Authority_
+# The Weight of Authority
+
+[Overview](index) &bull; [Context](context) &bull; __Scenario__ &bull; [Characters](characters) &bull; [Design Notes](design-notes)
+
+## Scenario
 
 The population of a small settlement in the Roman province of Noricum have been pressed into service transporting materiel to the border. The party is expected to enforce Roman law while keeping the situation stable.
 
-## The Order (Angaria)
+### The Order (Angaria)
 
 > By order of Roman authority, this settlement must provide draft animals, carts, and laborers for the transport of imperial materials toward the Danube frontier within three days.”
 
@@ -14,11 +18,11 @@ The population of a small settlement in the Roman province of Noricum have been 
 > - 2 carts
 > - 6 laborers for up to ten days
 
-## The Immediate Problem
+### The Immediate Problem
 
 Supplies and labor in the settlement are limited. The scenario begins as the party arrives. The town's inhabitants have hesitated and some have softly refused the requisition order, citing recent losses and the coming harvest.
 
-## Resolution
+### Resolution
 
 The scenario ends when one of the following occurs:
 

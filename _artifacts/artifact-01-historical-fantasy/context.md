@@ -2,7 +2,11 @@
 title: Context
 ---
 
-# Context
+# The Weight of Authority
+
+[Overview](index) &bull; __Context__ &bull; [Scenario](scenario) &bull; [Characters](characters) &bull; [Design Notes](design-notes)
+
+## Context
 
 __The Province of Noricum, A.D. 125__ during the reign of Emperor Hadrian.
 
