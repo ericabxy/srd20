@@ -1,0 +1,6 @@
+---
+permalink: /Updates
+title: Updates
+---
+
+

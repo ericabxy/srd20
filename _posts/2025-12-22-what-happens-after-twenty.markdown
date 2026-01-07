@@ -2,7 +2,6 @@
 layout: post
 title:  "What Happens After Twenty?"
 date:   2025-12-22 17:00:00 -0800
-categories: patterns
 published: false
 ---
 

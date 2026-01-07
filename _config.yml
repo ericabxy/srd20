@@ -14,14 +14,14 @@ defaults:
    layout: default
 - scope:
     path: ''
-    type: system
+    type: posts
   values:
     layout: post
 - scope:
     path: ''
-    type: modern
+    type: special_abilities
   values:
-    layout: post
+    layout: special-ability
 
 collections:
   artifacts:

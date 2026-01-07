@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: reference
 published: false
 ---
 

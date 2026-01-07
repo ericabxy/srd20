@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Magicians and Half-magicians"
-categories: analysis
 ---
 
 Some special abilities seem to correlate with the ability to cast spells.
