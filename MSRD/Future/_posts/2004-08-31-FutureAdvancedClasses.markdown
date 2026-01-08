@@ -16,19 +16,13 @@ The fastest path into this advanced class is from the Charismatic hero basic cla
 
 #### Requirements
 
-To qualify to become an Ambassador, a character must fulfill the
-following criteria.
+To qualify to become an Ambassador, a character must fulfill the following criteria.
 
-**Skills:** Diplomacy 6 ranks, Knowledge (civics) 6 ranks, Knowledge
-(theology and philosophy) 6 ranks.
+**Skills:** Diplomacy 6 ranks, Knowledge (civics) 6 ranks, Knowledge (theology and philosophy) 6 ranks.
 
 **Charismatic Hero Talents:** Charm, favor.
 
-**Allegiance:** An Ambassador must pledge her primary allegiance to a
-faction, nation, world, or empire and remain a dutiful servant of this
-body; if the Ambassador breaks this allegiance, she loses all the
-benefits of the Diplomatic Immunity and Open Arms class features (see
-Class Features, below).
+**Allegiance:** An Ambassador must pledge her primary allegiance to a faction, nation, world, or empire and remain a dutiful servant of this body; if the Ambassador breaks this allegiance, she loses all the benefits of the Diplomatic Immunity and Open Arms class features (see Class Features, below).
 
 ### Class Information
 
