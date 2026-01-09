@@ -36,7 +36,7 @@ This line gives the creature's modifier on initiative checks.
 
 #### Speed
 
-This line gives the creature's tactical speed on land (the amount of distance it can cover in one move action). If the creature wears armorvthat reduces its speed, the creature's base land speed follows.
+This line gives the creature's tactical speed on land (the amount of distance it can cover in one move action). If the creature wears armor that reduces its speed, the creature's base land speed follows.
 
 If the creature has other modes of movement, these are given after (or in place of) the land speed. Unless noted otherwise, modes of movement are natural (not magical).
 
@@ -164,23 +164,15 @@ This line is included in the entries of creatures suitable for use as player cha
 | **Advancement:**          | 9--16 HD (Huge); 17--24 HD (Gargantuan)                                    | By character class
 | **Level Adjustment:**     | ---                                                                        | ---
 
-The aboleth is a revolting fishlike amphibian found primarily in
-subterranean lakes and rivers. An aboleth has a pink belly. Four
-pulsating blueblack orifices line the bottom of its body and secrete
-gray slime that smells like rancid grease. It uses its tail for
-propulsion in the water and drags itself along with its tentacles on
-land. An aboleth weighs about 6,500 pounds.
+The aboleth is a revolting fishlike amphibian found primarily in subterranean lakes and rivers. An aboleth has a pink belly. Four pulsating blueblack orifices line the bottom of its body and secrete gray slime that smells like rancid grease. It uses its tail for propulsion in the water and drags itself along with its tentacles on land. An aboleth weighs about 6,500 pounds.
 
-Aboleths speak their own language, as well as Undercommon and
-Aquan.
+Aboleths speak their own language, as well as Undercommon and Aquan.
 
 ### COMBAT
 
-An aboleth attacks by flailing with its long, slimy tentacles, though
-it prefers to fight from a distance using its illusion powers.
+An aboleth attacks by flailing with its long, slimy tentacles, though it prefers to fight from a distance using its illusion powers.
 
-**Enslave (Su):** Three times per day, an aboleth can attempt to enslave any one living creature within 30 feet. The target
-must succeed on a DC 17 Will save or be affected as though by a *dominate person* spell (caster level 16th). An enslaved creature obeys the aboleth's telepathic commands until freed by *remove curse,* and can attempt a new Will save every 24 hours to break free. The control is also broken if the aboleth dies or travels more than 1 mile from its slave. The save DC is Charisma-based.
+**Enslave (Su):** Three times per day, an aboleth can attempt to enslave any one living creature within 30 feet. The target must succeed on a DC 17 Will save or be affected as though by a *dominate person* spell (caster level 16th). An enslaved creature obeys the aboleth's telepathic commands until freed by *remove curse,* and can attempt a new Will save every 24 hours to break free. The control is also broken if the aboleth dies or travels more than 1 mile from its slave. The save DC is Charisma-based.
 
 **Psionics (Sp):** At will---*hypnotic pattern* (DC 15), *illusory wall* (DC 17), *mirage arcana* (DC 18), *persistent image* (DC 18), *programmed image* (DC 19), *project image* (DC 20), *veil* (DC 19). Effective caster level 16th. The save DCs are Charisma-based.
 
@@ -314,28 +306,19 @@ thought detection, mind control, or telepathic ability makes direct
 contact with its tortured mind and takes 1d4 points of Wisdom
 damage.
 
-**Wisdom Drain (Su): **An allip causes 1d4 points of
-Wisdom drain each time it hits with its incorporeal touch attack. On
-each such successful attack, it gains 5 temporary hit
-points.
+**Wisdom Drain (Su):** An allip causes 1d4 points of Wisdom drain each time it hits with its incorporeal touch attack. On each such successful attack, it gains 5 temporary hit points.
 
-ANGEL
+## ANGEL
 
-Angels are a race of celestials, beings who live on the good-aligned
-Outer Planes.
+Angels are a race of celestials, beings who live on the good-aligned Outer Planes.
 
-Angels can be of any good alignment. Regardless of their alignment,
-angels never lie, cheat, or steal. They are impeccably honorable in all
-their dealings and often prove the most trustworthy and diplomatic of
-all the celestials.
+Angels can be of any good alignment. Regardless of their alignment, angels never lie, cheat, or steal. They are impeccably honorable in all their dealings and often prove the most trustworthy and diplomatic of all the celestials.
 
-All angels are blessed with comely looks, though their actual
-appearances vary widely.
+All angels are blessed with comely looks, though their actual appearances vary widely.
 
-Angels speak Celestial, Infernal, and Draconic, though they can speak
-with almost any creature because of their tongues ability.
+Angels speak Celestial, Infernal, and Draconic, though they can speak with almost any creature because of their tongues ability.
 
-COMBAT
+### COMBAT
 
 In combat, most angels make full use of their mobility and their ability
 to attack at a distance.
@@ -351,21 +334,11 @@ otherwise noted in a creature's entry).
 
 --- +4 racial bonus on saves against poison.
 
----*Protective Aura (Su): *Against attacks made or effects created by
-evil creatures, this ability provides a +4 deflection bonus to AC and a
-+4 resistance bonus on saving throws to anyone within 20 feet of the
-angel. Otherwise, it functions as a *magic circle against evil *effect
-and a *lesser globe of invulnerability, *both with a radius of 20 feet
-(caster level equals angel's HD). This aura can be dispelled, but the
-angel can create it again as a free action on its next turn. (The
-defensive benefits from the circle are not included in an angel's
-statistics block.)
+---*Protective Aura (Su):* Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a *magic circle against evil* effect and a *lesser globe of invulnerability,* both with a radius of 20 feet (caster level equals angel's HD). This aura can be dispelled, but the angel can create it again as a free action on its next turn. (The defensive benefits from the circle are not included in an angel's statistics block.)
 
----*Tongues (Su): *All angels can speak with any creature that has a
-language, as though using a *tongues *spell (caster level equal to
-angel's Hit Dice). This ability is always active.
+---*Tongues (Su):* All angels can speak with any creature that has a language, as though using a *tongues *spell (caster level equal to angel's Hit Dice). This ability is always active.
 
-ANGEL, ASTRAL DEVA
+### ANGEL, ASTRAL DEVA
 
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Medium Outsider (Angel, Extraplanar, Good)
@@ -395,37 +368,24 @@ ANGEL, ASTRAL DEVA
                                            
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-An astral deva is about 7-1/2 feet tall and weighs about 250
-pounds.
+An astral deva is about 7-1/2 feet tall and weighs about 250 pounds.
 
-# COMBAT
+### COMBAT
 
-An astral deva is not afraid to enter melee combat. It takes a fierce
-joy in bashing evil foes with its powerful *+3 heavy mace of
-disruption.*
+An astral deva is not afraid to enter melee combat. It takes a fierce joy in bashing evil foes with its powerful *+3 heavy mace of disruption.*
 
-An astral deva's natural weapons, as well as any weapons it wields, are
-treated as good-aligned for the purpose of overcoming damage reduction.
+An astral deva's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
-discern lies *(DC 19), *dispel evil *(DC 20), *dispel magic, holy aura
-*(DC 23), *holy smite *(DC 19), *holy word *(DC 22), *invisibility
-*(self only), *plane shift *(DC 22), *polymorph *(self only), *remove
-curse *(DC 18), *remove disease *(DC 18), *remove fear *(DC 16);
-7/day---*cure light wounds *(DC 16), *see invisibility; *1/day---*blade
-barrier *(DC 21), *heal *(DC 21). Caster level 12th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will---*aid, continual flame, detect evil, discern lies* (DC 19), *dispel evil* (DC 20), *dispel magic, holy aura* (DC 23), *holy smite* (DC 19), *holy word* (DC 22), *invisibility* (self only), *plane shift* (DC 22), *polymorph* (self only), *remove curse* (DC 18), *remove disease* (DC 18), *remove fear* (DC 16); 7/day---*cure light wounds* (DC 16), *see invisibility;* 1/day---*blade barrier* (DC 21), *heal* (DC 21). Caster level 12th. The save DCs are Charisma-based.
 
-**Stun (Su):** If an astral deva strikes an opponent twice in one round
-with its mace, that creature must succeed on a DC 22 Fortitude save or
-be stunned for 1d6 rounds. The save DC is Strength-based.
+**Stun (Su):** If an astral deva strikes an opponent twice in one round with its mace, that creature must succeed on a DC 22 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.
 
 **Uncanny Dodge (Ex):** An astral deva retains its Dexterity bonus to AC
 when flat-footed, and it cannot be flanked except by a rogue of at least
 16th level. It can flank characters with the uncanny dodge ability as if
 it were a 12th-level rogue.
 
-ANGEL, PLANETAR
+### ANGEL, PLANETAR
 
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Large Outsider (Angel, Extraplanar, Good)
@@ -455,10 +415,9 @@ ANGEL, PLANETAR
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A planetar is nearly 9 feet tall and weighs about 500
-pounds.
+A planetar is nearly 9 feet tall and weighs about 500 pounds.
 
-# COMBAT
+### COMBAT
 
 Despite their vast array of magical powers, planetars are likely to wade
 into melee with their *+3 greatswords. *They particularly enjoy fighting
@@ -506,7 +465,7 @@ shield of law*; 9th---*implosion, summon monster IX (good)\*.*
 
 \*Domain spell. Domains: Destruction and Good.
 
-ANGEL, SOLAR
+### ANGEL, SOLAR
 
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Large Outsider (Angel, Extraplanar, Good)
@@ -536,474 +495,429 @@ ANGEL, SOLAR
                                            
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A solar has a deep and commanding voice, and stands about 9 feet tall.
-It weighs about 500 pounds.
+A solar has a deep and commanding voice, and stands about 9 feet tall. It weighs about 500 pounds.
 
-# Combat
+#### Combat
 
-Solars are puissant champions of good. Only the most powerful fiends
-approach their power.
+Solars are puissant champions of good. Only the most powerful fiends approach their power.
 
-Even more fearsome than their *+5 dancing greatswords *are their *+2
-composite longbows *that create any sort of *slaying arrow *when drawn.
+Even more fearsome than their *+5 dancing greatswords* are their *+2 composite longbows* that create any sort of *slaying arrow* when drawn.
 
-A solar's natural weapons, as well as any weapons it wields, are treated
-as good-aligned and epic for the purpose of overcoming damage reduction.
+A solar's natural weapons, as well as any weapons it wields, are treated as good-aligned and epic for the purpose of overcoming damage reduction.
 
-**Regeneration (Ex):** A solar takes normal damage from epic
-evil-aligned weapons, and from spells or effects with the evil
-descriptor.
+**Regeneration (Ex):** A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
 
-**Spell-Like Abilities:** At will---*aid, animate objects, commune,
-continual flame, dimensional anchor, greater dispel magic, holy smite
-*(DC 21), i*mprisonment *(DC 26), *invisibility *(self only), *lesser
-restoration *(DC 19), *polymorph *(self only) *power word stun, remove
-curse *(DC 20), *remove disease *(DC 20), *remove fear *(DC 18), *resist
-energy, summon monster VII, speak with dead *(DC 20)*, waves of
-fatigue*; 3/day---*blade barrier *(DC 23), *earthquake *(DC 25), *heal
-*(DC 23), *mass charm monster *(DC 25), *permanency, resurrection, waves
-of exhaustion*; 1/day---*greater restoration *(DC 24), *power word
-blind*, *power word kill*, *power word stun, prismatic spray *(DC 24),
-*wish*. Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will---*aid, animate objects, commune, continual flame, dimensional anchor, greater dispel magic, holy smite* (DC 21), *imprisonment* (DC 26), *invisibility* (self only), *lesser restoration* (DC 19), *polymorph* (self only) *power word stun, remove curse* (DC 20), *remove disease* (DC 20), *remove fear* (DC 18), *resist energy, summon monster VII, speak with dead* (DC 20), *waves of fatigue*; 3/day---*blade barrier* (DC 23), *earthquake* (DC 25), *heal* (DC 23), *mass charm monster* (DC 25), *permanency, resurrection, waves of exhaustion*; 1/day---*greater restoration* (DC 24), *power word blind*, *power word kill*, *power word stun, prismatic spray* (DC 24), *wish*. Caster level 20th. The save DCs are Charisma-based.
 
-The following abilities are always active on a solar's person, as the
-spells (caster level 20th): *detect evil, detect snares and pits,
-discern lies *(DC 21), *see invisibility, true seeing*. They can be
-dispelled, but the solar can reactivate them as a free action.
+The following abilities are always active on a solar's person, as the spells (caster level 20th): *detect evil, detect snares and pits, discern lies* (DC 21), *see invisibility, true seeing*. They can be dispelled, but the solar can reactivate them as a free action.
 
-**Spells:** Solars can cast divine spells as 20th-level clerics. A solar
-has access to two of the following domains: Air, Destruction, Good, Law,
-or War (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells:** Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
 
-*Typical Cleric Spells Prepared *(6/8/8/8/7/7/6/6/5/5; save DC 17 +
-spell level): 0---*create water, detect magic, guidance *(2),
-*resistance * (2); 1st---*bless *(2), *cause fear, divine favor *(2),
-*entropic shield, obscuring mist*\*, *shield of faith; *2nd---*align
-weapon, bear's endurance *(2), *bull's strength *(2), *consecrate,
-eagle's splendor, spiritual weapon*\*; 3rd---*daylight, invisibility
-purge, magic circle against evil, magic vestment*\*, *prayer *(2),
-*protection from energy, wind wall; *4th---*death ward *(2), *dismissal
-*(2), *divine power*\*, *neutralize poison *(2); 5th---*break
-enchantment, control winds*\*, *dispel evil, plane shift, righteous
-might *(2), *symbol of pain; *6th---*banishment, chain lightning*\*,
-*heroes' feast, mass cure moderate wounds, undeath to death, word of
-recall; *7th---*control weather*\*, *destruction, dictum, ethereal
-jaunt, holy word, regenerate; *8th---*fire storm, holy aura, mass cure
-critical wounds *(2), *whirlwind*\*; 9th--- *etherealness, elemental
-swarm (air)*\**, mass heal, miracle, storm of vengeance*.
+*Typical Cleric Spells Prepared* (6/8/8/8/7/7/6/6/5/5; save DC 17 + spell level): 0---*create water, detect magic, guidance* (2), *resistance* (2); 1st---*bless* (2), *cause fear, divine favor* (2), *entropic shield, obscuring mist*\*, *shield of faith;* 2nd---*align weapon, bear's endurance* (2), *bull's strength* (2), *consecrate, eagle's splendor, spiritual weapon*\*; 3rd---*daylight, invisibility purge, magic circle against evil, magic vestment*\*, *prayer* (2), *protection from energy, wind wall;* 4th---*death ward* (2), *dismissal* (2), *divine power*\*, *neutralize poison* (2); 5th---*break enchantment, control winds*\*, *dispel evil, plane shift, righteous might* (2), *symbol of pain;* 6th---*banishment, chain lightning*\*, *heroes' feast, mass cure moderate wounds, undeath to death, word of recall;* 7th---*control weather*\*, *destruction, dictum, ethereal jaunt, holy word, regenerate;* 8th---*fire storm, holy aura, mass cure critical wounds* (2), *whirlwind*\*; 9th--- *etherealness, elemental swarm (air)*\*, *mass heal, miracle, storm of vengeance*.
 
 \*Domain spell. Domains: Air and War.
 
-ANIMATED OBJECT
+## ANIMATED OBJECT
 
-+----------------+----------------+----------------+----------------+
-|                | **Animated    | **Animated    | **Animated    |
-|                | Object,        | Object,        | Object,        |
-|                | Tiny]          | Small]         | Medium]        |
-|                | {.underline}** | {.underline}** | {.underline}** |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | [Tiny          | [Small         | [Medium        |
-|                | Construc       | Construc       | Construc       |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Hit         | [1/2 d10 (2    | [1d10+10 (15   | [2d10+20 (31   |
-| Dice:]         | hp             | hp             | hp             |
-| {.underline}** | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| *              | [+             | [+             | [+             |
-| *[Initiative:] | 2 | 1 | 0 |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     | [40 ft. (8     | [30 ft. (6     | [30 ft. (6     |
-| {.underline}** | squares); 50   | squares); 40   | squares); 40   |
-|                | ft. legs, 60   | ft. legs, 50   | ft. legs, 50   |
-|                | ft. multiple   | ft. multiple   | ft. multiple   |
-|                | legs; 80 ft.   | legs, 70 ft.   | legs, 70 ft.   |
-|                | wheel          | wheel          | wheel          |
-|                | s | s | s |
-+----------------+----------------+----------------+----------------+
-| **Armor       | [14 (+2 size,  | [14 (+1 size,  | [14 (+4        |
-| Class:]        | +2 Dex), touch | +1 Dex, +2     | natural),      |
-| {.underline}** | 14,            | natural),      | touch 10,      |
-|                | flat-footed    | touch 12,      | flat-footed    |
-|                | 1              | flat-footed    | 1              |
-|                | 2 | 1              | 4 |
-|                |                | 3 |                |
-+----------------+----------------+----------------+----------------+
-| **Base        | [+0/--         | [+0/--         | [+1/+          |
-| At             | 9 | 4 | 2 |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    | [Slam +1 melee | [Slam +1 melee | [Slam +2 melee |
-| {.underline}** | (1d3--1        | (1d4           | (1d6+1         |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **Full        | [Slam +1 melee | [Slam +1 melee | [Slam +2 melee |
-| Attack:]       | (1d3--1        | (1d4           | (1d6+1         |
-| {.underline}** | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **             | [2-1/2 ft./0   | [5 ft./5       | [5 ft./5       |
-| [Space/Reach:] | ft             | ft             | ft             |
-| {.underline}** | . | . | . |
-+----------------+----------------+----------------+----------------+
-| **Special     | [See           | [See           | [See           |
-| Attacks:]      | tex            | tex            | tex            |
-| {.underline}** | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Special     | [Construct     | [Construct     | [Construct     |
-| Qualities:]    | traits,        | traits,        | traits,        |
-| {.underline}** | darkvision 60  | darkvision 60  | darkvision 60  |
-|                | ft., low-light | ft., low-light | ft., low-light |
-|                | vision; also   | vision; also   | vision; also   |
-|                | see            | see            | see            |
-|                | tex            | tex            | tex            |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Saves:]     | [Fort +0, Ref  | [Fort +0, Ref  | [Fort +0, Ref  |
-| {.underline}** | +2, Will       | +1, Will       | +0, Will       |
-|                | --             | --             | --             |
-|                | 5 | 5 | 5 |
-+----------------+----------------+----------------+----------------+
-| **Abilities:] | [Str 8, Dex    | [Str 10, Dex   | [Str 12, Dex   |
-| {.underline}** | 14, Con ---,   | 12, Con ---,   | 10, Con ---,   |
-|                | Int ---, Wis   | Int ---, Wis   | Int ---, Wis   |
-|                | 1, Cha         | 1, Cha         | 1, Cha         |
-|                | 1 | 1 | 1 |
-+----------------+----------------+----------------+----------------+
-| **Skills:]    | [--            | [--            | [--            |
-| {.underline}** | - | - | - |
-+----------------+----------------+----------------+----------------+
-| **Feats:]     | [--            | [--            | [--            |
-| {.underline}** | - | - | - |
-+----------------+----------------+----------------+----------------+
-| **             | [An            | [An            | [An            |
-| [Environment:] | y | y | y |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **            | [Group         | [Pai           | [Solitar       |
-| Organization:] | (4             | r | y |
-| {.underline}** | ) |                |                |
-+----------------+----------------+----------------+----------------+
-| **Challenge   | [1/            | [              | [              |
-| Rating:]       | 2 | 1 | 2 |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Treasure:]  | [Non           | [Non           | [Non           |
-| {.underline}** | e | e | e |
-+----------------+----------------+----------------+----------------+
-| **Alignment:] | [Always        | [Always        | [Always        |
-| {.underline}** | neutra         | neutra         | neutra         |
-|                | l | l | l |
-+----------------+----------------+----------------+----------------+
-| **             | [--            | [--            | [--            |
-| [Advancement:] | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Level       | [--            | [--            | [--            |
-| Adjustment:]   | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | **Animated    | **Animated    | **Animated    |
-|                | Object,        | Object,        | Object,        |
-|                | Large]         | Huge]          | Gargantuan]    |
-|                | {.underline}** | {.underline}** | {.underline}** |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | [Large         | [Huge          | [Gargantuan    |
-|                | Construc       | Construc       | Construc       |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Hit         | [4d10+30 (52   | [8d10+40 (84   | [16d10+60 (148 |
-| Dice:]         | hp             | hp             | hp             |
-| {.underline}** | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| *              | [+             | [--            | [--            |
-| *[Initiative:] | 0 | 1 | 2 |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     | [20 ft. (4     | [20 ft. (4     | [10 ft. (2     |
-| {.underline}** | squares); 30   | squares); 30   | squares); 20   |
-|                | ft. legs, 40   | ft. legs, 40   | ft. legs, 30   |
-|                | ft. multiple   | ft. multiple   | ft. multiple   |
-|                | legs, 60 ft.   | legs, 60 ft.   | legs, 50 ft.   |
-|                | wheel          | wheel          | wheel          |
-|                | s | s | s |
-+----------------+----------------+----------------+----------------+
-| **Armor       | [14 (--1 size, | [13 (--2 size, | [12 (--4 size, |
-| Class:]        | +5 natural),   | --1 Dex, +6    | --2 Dex, +8    |
-| {.underline}** | touch 9,       | natural),      | natural),      |
-|                | flat-footed    | touch 7,       | touch 4,       |
-|                | 1              | flat-footed    | flat-footed    |
-|                | 4 | 1              | 1              |
-|                |                | 3 | 2 |
-+----------------+----------------+----------------+----------------+
-| **Base        | [+3/+1         | [+6/+1         | [+12/+3        |
-| At             | 0 | 9 | 1 |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    | [Slam +5 melee | [Slam +9 melee | [Slam +15      |
-| {.underline}** | (1d8+4         | (2d6+7         | melee          |
-|                | ) | ) | (2d8+10        |
-|                |                |                | ) |
-+----------------+----------------+----------------+----------------+
-| **Full        | [Slam +5 melee | [Slam +9 melee | [Slam +15      |
-| Attack:]       | (1d8+4         | (2d6+7         | melee          |
-| {.underline}** | ) | ) | (2d8+10        |
-|                |                |                | ) |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| *              | [10 ft./5 ft.  | [15 ft./10 ft. | [20 ft./15 ft. |
-| *[Space/Reach: | (long          | (long          | (long          |
-| ]              | ) | ) | ) |
-| {.underline}** |                |                |                |
-|                | [10 ft./10 ft. | [15 ft./15 ft. | [20 ft./20 ft. |
-|                | (tall          | (tall          | (tall          |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     | [See           | [See           | [See           |
-| Attacks:]      | tex            | tex            | tex            |
-| {.underline}** | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Special     | [Construct     | [Construct     | [Construct     |
-| Qualities:]    | traits,        | traits,        | traits,        |
-| {.underline}** | darkvision 60  | darkvision 60  | darkvision 60  |
-|                | ft., low-light | ft., low-light | ft., low-light |
-|                | vision; also   | vision; also   | vision; also   |
-|                | see            | see            | see            |
-|                | tex            | tex            | tex            |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| [Saves         | [Fort +1, Ref  | [Fort +2, Ref  | [Fort +5, Ref  |
-| : | +1, Will       | +1, Will       | +3, Will       |
-|                | --             | --             | +              |
-|                | 4 | 3 | 0 |
-+----------------+----------------+----------------+----------------+
-| [Abilities:    | [Str 16, Dex   | [Str 20, Dex   | [Str 24, Dex   |
-|   | 10, Con ---,   | 8, Con ---,    | 6, Con ---,    |
-|                | Int ---, Wis   | Int ---, Wis   | Int ---, Wis   |
-|                | 1, Cha         | 1, Cha         | 1, Cha         |
-|                | 1 | 1 | 1 |
-+----------------+----------------+----------------+----------------+
-| [Skills        | [--            | [--            | [--            |
-| : | - | - | - |
-+----------------+----------------+----------------+----------------+
-| [Feats         | [--            | [--            | [--            |
-| : | - | - | - |
-+----------------+----------------+----------------+----------------+
-| [Environment   | [An            | [An            | [An            |
-| : | y | y | y |
-+----------------+----------------+----------------+----------------+
-| [Organization  | [Solitar       | [Solitar       | [Solitar       |
-| : | y | y | y |
-+----------------+----------------+----------------+----------------+
-| [Challenge     | [              | [              | [              |
-| Rating         | 3 | 5 | 7 |
-| : |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Treasure      | [Non           | [Non           | [Non           |
-| : | e | e | e |
-+----------------+----------------+----------------+----------------+
-| [Alignment     | [Always        | [Always        | [Always        |
-| : | neutra         | neutra         | neutra         |
-|                | l | l | l |
-+----------------+----------------+----------------+----------------+
-| [Advancement   | [--            | [--            | [--            |
-| : | - | - | - |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Level         | [--            | [--            | [--            |
-| Adjustment     | - | - | - |
-| : |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | **Animated    |                |                |
-|                | Object,        |                |                |
-|                | Colossal]      |                |                |
-|                | {.underline}** |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | [Colossal      |                |                |
-|                | Construc       |                |                |
-|                | t |                |                |
-+----------------+----------------+----------------+----------------+
-| **Hit         | [32d10+80 (256 |                |                |
-| Dice:]         | hp             |                |                |
-| {.underline}** | ) |                |                |
-+----------------+----------------+----------------+----------------+
-| *              | [--            |                |                |
-| *[Initiative:] | 3 |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     | [10 ft. (2     |                |                |
-| {.underline}** | squares); 20   |                |                |
-|                | ft. legs, 30   |                |                |
-|                | ft. multiple   |                |                |
-|                | legs, 50 ft.   |                |                |
-|                | wheel          |                |                |
-|                | s |                |                |
-+----------------+----------------+----------------+----------------+
-| **Armor       | [11 (--8 size, |                |                |
-| Class:]        | --3 Dex, +12   |                |                |
-| {.underline}** | natural),      |                |                |
-|                | touch --1,     |                |                |
-|                | flat-footed    |                |                |
-|                | 1              |                |                |
-|                | 1 |                |                |
-+----------------+----------------+----------------+----------------+
-| **Base        | [+24/+4        |                |                |
-| At             | 9 |                |                |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    | [Slam +25      |                |                |
-| {.underline}** | melee          |                |                |
-|                | (4d6+13        |                |                |
-|                | ) |                |                |
-+----------------+----------------+----------------+----------------+
-| **Full        | [Slam +25      |                |                |
-| Attack:]       | melee          |                |                |
-| {.underline}** | (4d6+13        |                |                |
-|                | ) |                |                |
-+----------------+----------------+----------------+----------------+
-| **             | [30 ft./20 ft. |                |                |
-| [Space/Reach:] | (long) 30      |                |                |
-| {.underline}** | ft./30 ft.     |                |                |
-|                | (tall          |                |                |
-|                | ) |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     | [See           |                |                |
-| Attacks:]      | tex            |                |                |
-| {.underline}** | t |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     | [Construct     |                |                |
-| Qualities:]    | traits,        |                |                |
-| {.underline}** | darkvision 60  |                |                |
-|                | ft., low-light |                |                |
-|                | vision; also   |                |                |
-|                | see            |                |                |
-|                | tex            |                |                |
-|                | t |                |                |
-+----------------+----------------+----------------+----------------+
-| **Saves:]     | [Fort +10, Ref |                |                |
-| {.underline}** | +7, Will       |                |                |
-|                | +              |                |                |
-|                | 5 |                |                |
-+----------------+----------------+----------------+----------------+
-| **Abilities:] | [Str 28, Dex   |                |                |
-| {.underline}** | 4, Con ---,    |                |                |
-|                | Int ---, Wis   |                |                |
-|                | 1, Cha         |                |                |
-|                | 1 |                |                |
-+----------------+----------------+----------------+----------------+
-| **Skills:]    | [--            |                |                |
-| {.underline}** | - |                |                |
-+----------------+----------------+----------------+----------------+
-| **Feats:]     | [--            |                |                |
-| {.underline}** | - |                |                |
-+----------------+----------------+----------------+----------------+
-| **             | [An            |                |                |
-| [Environment:] | y |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **            | [Solitar       |                |                |
-| Organization:] | y |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Challenge   | [1             |                |                |
-| Rating:]       | 0 |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Treasure:]  | [Non           |                |                |
-| {.underline}** | e |                |                |
-+----------------+----------------+----------------+----------------+
-| **Alignment:] | [Always        |                |                |
-| {.underline}** | neutra         |                |                |
-|                | l |                |                |
-+----------------+----------------+----------------+----------------+
-| **             | [--            |                |                |
-| [Advancement:] | - |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Level       | [--            |                |                |
-| Adjustment:]   | - |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
+<table>
+<tr>
+  <td rowspan=2></td>
+  <th>Animated Object, Tiny</th>
+  <th>Animated Object, Small</th>
+  <th>Animated Object, Medium</th>
+</tr>
+<tr>
+  <th>Tiny Construct</th>
+  <th>Small Construct</th>
+  <th>Medium Construct</th>
+</tr>
+<tr>
+  <th>Hit Dice:</th>
+  <td>1/2 d10 (2 hp)</td>
+  <td>1d10+10 (15 hp)</td>
+  <td>2d10+20 (31 hp)</td>
+</tr>
+<tr>
+  <th>Initiative:</th>
+  <td>+2</td>
+  <td>+1</td>
+  <td>+0</td>
+</tr>
+<tr>
+  <th>Speed:</th>
+  <td>40 ft. (8 squares); 50 ft. legs, 60 ft. multiple legs; 80 ft. wheels</td>
+  <td>30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels</td>
+  <td>30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels</td>
+</tr>
+<tr>
+  <th>Armor Class:</th>
+  <td>14 (+2 size, +2 Dex), touch 14, flat-footed 12</td>
+  <td>14 (+1 size, +1 Dex, +2 natural), touch 12, flat-footed 13</td>
+  <td>14 (+4 natural), touch 10, flat-footed 14</td>
+</tr>
+<tr>
+  <th>Base Attack/Grapple:</th>
+  <td>+0/–9</td>
+  <td>+0/–4</td>
+  <td>+1/+2</td>
+</tr>
+<tr>
+  <th>Attack:</th>
+  <td>Slam +1 melee (1d3–1)</td>
+  <td>Slam +1 melee (1d4)</td>
+  <td>Slam +2 melee (1d6+1)</td>
+</tr>
+<tr>
+  <th>Full Attack:</th>
+  <td>Slam +1 melee (1d3–1)</td>
+  <td>Slam +1 melee (1d4)</td>
+  <td>Slam +2 melee (1d6+1)</td>
+</tr>
+<tr>
+  <th>Space/Reach:</th>
+  <td>2-1/2 ft./0 ft.</td>
+  <td>5 ft./5 ft.</td>
+  <td>5 ft./5 ft.</td>
+</tr>
+<tr>
+  <th>Special Attacks:</th>
+  <td>See text</td>
+  <td>See text</td>
+  <td>See text</td>
+</tr>
+<tr>
+  <th>Special Qualities:</th>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+</tr>
+<tr>
+  <th>Saves:</th>
+  <td>Fort +0, Ref +2, Will –5</td>
+  <td>Fort +0, Ref +1, Will –5</td>
+  <td>Fort +0, Ref +0, Will –5</td>
+</tr>
+<tr>
+  <th>Abilities:</th>
+  <td>Str 8, Dex 14, Con —, Int —, Wis 1, Cha 1</td>
+  <td>Str 10, Dex 12, Con —, Int —, Wis 1, Cha 1</td>
+  <td>Str 12, Dex 10, Con —, Int —, Wis 1, Cha 1</td>
+</tr>
+<tr>
+  <th>Skills:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Feats:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Environment:</th>
+  <td>Any</td>
+  <td>Any</td>
+  <td>Any</td>
+</tr>
+<tr>
+  <th>Organization:</th>
+  <td>Group (4)</td>
+  <td>Pair</td>
+  <td>Solitary</td>
+</tr>
+<tr>
+  <th>Challenge Rating:</th>
+  <td>1/2</td>
+  <td>1</td>
+  <td>2</td>
+</tr>
+<tr>
+  <th>Treasure:</th>
+  <td>None</td>
+  <td>None</td>
+  <td>None</td>
+</tr>
+<tr>
+  <th>Alignment:</th>
+  <td>Always neutral</td>
+  <td>Always neutral</td>
+  <td>Always neutral</td>
+</tr>
+<tr>
+  <th>Advancement:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Level Adjustment:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+</table>
 
-Animated objects come in all sizes, shapes, and colors. They owe their
-existence as creatures to spells such as *[animate objects
-*[or similar supernatural abilities.
+<table>
+<tr>
+  <td rowspan=2></td>
+  <th>Animated Object, Large</th>
+  <th>Animated Object, Huge</th>
+  <th>Animated Object, Gargantuan</th>
+</tr>
+<tr>
+  <th>Large Construct</th>
+  <th>Huge Construct</th>
+  <th>Gargantuan Construct</th>
+</tr>
+<tr>
+  <th>Hit Dice:</th>
+  <td>4d10+30 (52 hp)</td>
+  <td>8d10+40 (84 hp)</td>
+  <td>16d10+60 (148 hp)</td>
+</tr>
+<tr>
+  <th>Initiative:</th>
+  <td>+0</td>
+  <td>–1</td>
+  <td>–2</td>
+</tr>
+<tr>
+  <th>Speed:</th>
+  <td>20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels</td>
+  <td>20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels</td>
+  <td>10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels</td>
+</tr>
+<tr>
+  <th>Armor Class:</th>
+  <td>14 (–1 size, +5 natural), touch 9, flat-footed 14</td>
+  <td>13 (–2 size, –1 Dex, +6 natural), touch 7, flat-footed 13</td>
+  <td>12 (–4 size, –2 Dex, +8 natural), touch 4, flat-footed 12</td>
+</tr>
+<tr>
+  <th>Base Attack/Grapple:</th>
+  <td>+3/+10</td>
+  <td>+6/+19</td>
+  <td>+12/+31</td>
+</tr>
+<tr>
+  <th>Attack:</th>
+  <td>Slam +5 melee (1d8+4)</td>
+  <td>Slam +9 melee (2d6+7)</td>
+  <td>Slam +15 melee (2d8+10)</td>
+</tr>
+<tr>
+  <th>Full Attack:</th>
+  <td>Slam +5 melee (1d8+4)</td>
+  <td>Slam +9 melee (2d6+7)</td>
+  <td>Slam +15 melee (2d8+10)</td>
+</tr>
+<tr>
+  <th>Space/Reach:</th>
+  <td>10 ft./5 ft. (long) 10 ft./10 ft. (tall)</td>
+  <td>15 ft./10 ft. (long) 15 ft./15 ft. (tall)</td>
+  <td>20 ft./15 ft. (long) 20 ft./20 ft. (tall)</td>
+</tr>
+<tr>
+  <th>Special Attacks:</th>
+  <td>See text</td>
+  <td>See text</td>
+  <td>See text</td>
+</tr>
+<tr>
+  <th>Special Qualities:</th>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+</tr>
+<tr>
+  <th>Saves:</th>
+  <td>Fort +1, Ref +1, Will –4</td>
+  <td>Fort +2, Ref +1, Will –3</td>
+  <td>Fort +5, Ref +3, Will +0</td>
+</tr>
+<tr>
+  <th>Abilities:</th>
+  <td>Str 16, Dex 10, Con —, Int —, Wis 1, Cha 1</td>
+  <td>Str 20, Dex 8, Con —, Int —, Wis 1, Cha 1</td>
+  <td>Str 24, Dex 6, Con —, Int —, Wis 1, Cha 1</td>
+</tr>
+<tr>
+  <th>Skills:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Feats:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Environment:</th>
+  <td>Any</td>
+  <td>Any</td>
+  <td>Any</td>
+</tr>
+<tr>
+  <th>Organization:</th>
+  <td>Solitary</td>
+  <td>Solitary</td>
+  <td>Solitary</td>
+</tr>
+<tr>
+  <th>Challenge Rating:</th>
+  <td>3</td>
+  <td>5</td>
+  <td>7</td>
+</tr>
+<tr>
+  <th>Treasure:</th>
+  <td>None</td>
+  <td>None</td>
+  <td>None</td>
+</tr>
+<tr>
+  <th>Alignment:</th>
+  <td>Always neutral</td>
+  <td>Always neutral</td>
+  <td>Always neutral</td>
+</tr>
+<tr>
+  <th>Advancement:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Level Adjustment:</th>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+</table>
 
-COMBAT
+<table>
+<tr>
+  <td rowspan=2></td>
+  <th>Animated Object, Colossal</th>
+</tr>
+<tr>
+  <th>Colossal Construct</th>
+</tr>
+<tr>
+  <th>Hit Dice:</th>
+  <td>32d10+80 (256 hp)</td>
+</tr>
+<tr>
+  <th>Initiative:</th>
+  <td>–3</td>
+</tr>
+<tr>
+  <th>Speed:</th>
+  <td>10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels</td>
+</tr>
+<tr>
+  <th>Armor Class:</th>
+  <td>11 (–8 size, –3 Dex, +12 natural), touch –1, flat-footed 11</td>
+</tr>
+<tr>
+  <th>Base Attack/Grapple:</th>
+  <td>+24/+49</td>
+</tr>
+<tr>
+  <th>Attack:</th>
+  <td>Slam +25 melee (4d6+13)</td>
+</tr>
+<tr>
+  <th>Full Attack:</th>
+  <td>Slam +25 melee (4d6+13)</td>
+</tr>
+<tr>
+  <th>Space/Reach:</th>
+  <td>30 ft./20 ft. (long) 30 ft./30 ft. (tall)</td>
+</tr>
+<tr>
+  <th>Special Attacks:</th>
+  <td>See text</td>
+</tr>
+<tr>
+  <th>Special Qualities:</th>
+  <td>Construct traits, darkvision 60 ft., low-light vision; also see text</td>
+</tr>
+<tr>
+  <th>Saves:</th>
+  <td>Fort +10, Ref +7, Will +5</td>
+</tr>
+<tr>
+  <th>Abilities:</th>
+  <td>Str 28, Dex 4, Con —, Int —, Wis 1, Cha 1</td>
+</tr>
+<tr>
+  <th>Skills:</th>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Feats:</th>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Environment:</th>
+  <td>Any</td>
+</tr>
+<tr>
+  <th>Organization:</th>
+  <td>Solitary</td>
+</tr>
+<tr>
+  <th>Challenge Rating:</th>
+  <td>10</td>
+</tr>
+<tr>
+  <th>Treasure:</th>
+  <td>None</td>
+</tr>
+<tr>
+  <th>Alignment:</th>
+  <td>Always neutral</td>
+</tr>
+<tr>
+  <th>Advancement:</th>
+  <td>—</td>
+</tr>
+<tr>
+  <th>Level Adjustment:</th>
+  <td>—</td>
+</tr>
+</table>
 
-Animated objects fight only as directed by the animator. They follow
-orders without question and to the best of their abilities. Since they
-do not need to breathe and never tire, they can be extremely capable
-minions. 
+Animated objects come in all sizes, shapes, and colors. They owe their existence as creatures to spells such as *animate objects* or similar supernatural abilities.
 
-An animated object can have one or more of the following special
-abilities, depending on its form.
+### COMBAT
 
-**Blind (Ex):** A sheetlike animated object such as a
-carpet or tapestry can grapple an opponent up to three sizes larger than
-itself. The object makes a normal grapple check. If it wins, it wraps
-itself around the opponent's head, causing that creature to be blinded
-until removed.
+Animated objects fight only as directed by the animator. They follow orders without question and to the best of their abilities. Since they do not need to breathe and never tire, they can be extremely capable minions. 
 
-**Constrict (Ex): **A flexible animated object such as a
-rope, vine, or rug deals damage equal to its slam damage value plus 1-
-1/2 times its Strength bonus with a successful grapple check against a
-creature up to one size larger than itself.
+An animated object can have one or more of the following special abilities, depending on its form.
 
-An object of at least Large size can make constriction attacks against
-multiple creatures at once, if they all are at least two sizes smaller
-than the object and can fit under it.
+**Blind (Ex):** A sheetlike animated object such as a carpet or tapestry can grapple an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent's head, causing that creature to be blinded until removed.
 
-**Hardness (Ex): **An animated object has the same
-hardness it had before it was animated.
+**Constrict (Ex):** A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1-1/2 times its Strength bonus with a successful grapple check against a creature up to one size larger than itself.
 
-**Improved Speed (Ex):** The base land speed given in the
-statistics block assume that an animated object lurches, rocks, or
-slithers along.
+An object of at least Large size can make constriction attacks against multiple creatures at once, if they all are at least two sizes smaller than the object and can fit under it.
 
-Objects with two legs (statues, ladders) or a similar shape that allows
-faster movement have a +10 foot bonus to speed. Objects with multiple
-legs (tables, chairs) have a +20 foot bonus to speed. Wheeled objects
-have a +40 foot bonus to speed.
+**Hardness (Ex):** An animated object has the same hardness it had before it was animated.
 
-Objects might have additional modes of movement. A wooden object can
-float and has a swim speed equal to half its land speed. A rope or
-similar sinuous object has a climb speed equal to half its land speed. A
-sheetlike object can fly (clumsy maneuverability) at half its normal
-speed.
+**Improved Speed (Ex):** The base land speed given in the statistics block assume that an animated object lurches, rocks, or slithers along.
 
-**Trample (Ex): **An animated object of at least Large
-size and with a hardness of at least 10 can trample creatures two or
-more sizes smaller than itself, dealing damage equal to the object's
-slam damage + 1-1/2 times its Strength bonus. Opponents who do not make
-attacks of opportunity against the object can attempt Reflex saves (DC
-10 + 1/2 object's HD + object's Str modifier) to halve the
-damage.
+Objects with two legs (statues, ladders) or a similar shape that allows faster movement have a +10 foot bonus to speed. Objects with multiple legs (tables, chairs) have a +20 foot bonus to speed. Wheeled objects have a +40 foot bonus to speed.
 
-ANKHEG
+Objects might have additional modes of movement. A wooden object can float and has a swim speed equal to half its land speed. A rope or similar sinuous object has a climb speed equal to half its land speed. A sheetlike object can fly (clumsy maneuverability) at half its normal speed.
+
+**Trample (Ex):** An animated object of at least Large size and with a hardness of at least 10 can trample creatures two or more sizes smaller than itself, dealing damage equal to the object's slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object's HD + object's Str modifier) to halve the damage.
+
+## ANKHEG
 
   ---------------------------------------- -----------------------------------------------------------------------
                                           | Large Magical Beast
@@ -1033,45 +947,23 @@ ANKHEG
                                            
   ---------------------------------------- -----------------------------------------------------------------------
 
-The ankheg is a burrowing monster with a taste for fresh meat. An
-ankheg has six legs, and some specimens are yellow rather than brown. It
-is about 10 feet long and weighs about 800 pounds.
+The ankheg is a burrowing monster with a taste for fresh meat. An ankheg has six legs, and some specimens are yellow rather than brown. It is about 10 feet long and weighs about 800 pounds.
 
-An ankheg burrows with legs and mandibles. A burrowing ankheg usually
-does not make a usable tunnel, but can construct a tunnel; it burrows at
-half speed when it does so. It often digs a winding tunnel up to 40 feet
-below the surface in the rich soil of forests or farmlands. The tunnel
-is 5 feet tall and wide, and from 60 to 150 feet long (\[1d10 + 5\]
-x10). 
+An ankheg burrows with legs and mandibles. A burrowing ankheg usually does not make a usable tunnel, but can construct a tunnel; it burrows at half speed when it does so. It often digs a winding tunnel up to 40 feet below the surface in the rich soil of forests or farmlands. The tunnel is 5 feet tall and wide, and from 60 to 150 feet long (\[1d10 + 5\] &times; 10). 
 
-COMBAT
+### COMBAT
 
-An ankheg usually lies 5 to 10 feet below the surface until its
-antennae detect the approach of prey. It then burrows up to attack.
-(Treat this as a charge, even though the ankheg does not need to move 10
-feet before attacking.)
+An ankheg usually lies 5 to 10 feet below the surface until its antennae detect the approach of prey. It then burrows up to attack. (Treat this as a charge, even though the ankheg does not need to move 10 feet before attacking.)
 
-Clusters of ankhegs share the same territory but do not
-cooperate.
+Clusters of ankhegs share the same territory but do not cooperate.
 
-**Improved Grab (Ex): **To use this ability, an ankheg
-must hit with its bite attack. It can then attempt to start a grapple as
-a free action without provoking an attack of opportunity. If the ankheg
-is damaged after grabbing its prey, it retreats backward down its tunnel
-at its land speed (not its burrow speed), dragging the victim with
-it.
+**Improved Grab (Ex):** To use this ability, an ankheg must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If the ankheg is damaged after grabbing its prey, it retreats backward down its tunnel at its land speed (not its burrow speed), dragging the victim with it.
 
-**Spit Acid (Ex):** 30-ft. line, once every 6 hours;
-damage 4d4 acid, Reflex DC 14 half. One such attack depletes the
-ankheg's acid supply for 6 hours. It cannot spit acid or deal acid
-damage during this time. The save DC is Constitution-based.
+**Spit Acid (Ex):** 30-ft. line, once every 6 hours; damage 4d4 acid, Reflex DC 14 half. One such attack depletes the ankheg's acid supply for 6 hours. It cannot spit acid or deal acid damage during this time. The save DC is Constitution-based.
 
-An ankheg does not use this ability unless it is desperate or
-frustrated. It most often spits acid when reduced to fewer than half its
-full normal hit points or when it has not successfully grabbed an
-opponent.
+An ankheg does not use this ability unless it is desperate or frustrated. It most often spits acid when reduced to fewer than half its full normal hit points or when it has not successfully grabbed an opponent.
 
-ARANEA
+## ARANEA
 
   ---------------------------------------- ---------------------------------------------------------------------------------------------
                                           | Medium Magical Beast (Shapechanger)
@@ -1101,121 +993,63 @@ ARANEA
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------
 
-An aranea is an intelligent, shapechanging spider with sorcerous
-powers. In its natural form, an aranea resembles a big spider, with a
-humpbacked body a little bigger than a human torso. It has fanged
-mandibles like a normal spider. Two small arms, each about 2 feet long,
-lie below the mandibles. Each arm has a hand with four many-jointed
-fingers and a double-jointed thumb.
+An aranea is an intelligent, shapechanging spider with sorcerous powers. In its natural form, an aranea resembles a big spider, with a humpbacked body a little bigger than a human torso. It has fanged mandibles like a normal spider. Two small arms, each about 2 feet long, lie below the mandibles. Each arm has a hand with four many-jointed fingers and a double-jointed thumb.
 
-An aranea weighs about 150 pounds. The hump on its back houses its
-brain.
+An aranea weighs about 150 pounds. The hump on its back houses its brain.
 
 Araneas speak Common and Sylvan.
 
-COMBAT
+### COMBAT
 
 An aranea avoids physical combat and uses its webs and spells when it
 can. In a battle, it tries to immobilize or distract the most aggressive
 opponents first. Araneas often subdue opponents for ransom.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage
-1d6 Str, secondary damage 2d6 Str. The save DC is
-Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Spells:** An aranea casts spells as a 3rd-level
-sorcerer. It prefers illusions and enchantments and avoids fire
-spells.
+**Spells:** An aranea casts spells as a 3rd-level sorcerer. It prefers illusions and enchantments and avoids fire spells.
 
-*[Typical Sorcerer Spells Known *[(6/6; save DC 12 + spell
-level): 0--- *[daze, detect magic, ghost sound, light,
-resistance; *[1st---*[mage armor, silent
-image, sleep.*
+*Typical Sorcerer Spells Known* (6/6; save DC 12 + spell level): 0---*daze, detect magic, ghost sound, light, resistance;* 1st---*mage armor, silent image, sleep.*
 
-**Web (Ex):** In spider or hybrid form (see below), an
-aranea can throw a web up to six times per day. This is similar to an
-attack with a net but has a maximum range of 50 feet, with a range
-increment of 10 feet, and is effective against targets of up to Large
-size. The web anchors the target in place, allowing no
-movement.
+**Web (Ex):** In spider or hybrid form (see below), an aranea can throw a web up to six times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Large size. The web anchors the target in place, allowing no movement.
 
-An entangled creature can escape with a DC 13 Escape Artist check or
-burst the web with a DC 17 Strength check. The check DCs are
-Constitution-based, and the Strength check DC includes a +4 racial
-bonus. The web has 6 hit points, hardness 0, and takes double damage
-from fire.
+An entangled creature can escape with a DC 13 Escape Artist check or burst the web with a DC 17 Strength check. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. The web has 6 hit points, hardness 0, and takes double damage from fire.
 
-**Change Shape (Su):** An aranea's natural form is that
-of a Medium monstrous spider. It can assume two other forms. The first
-is a unique Small or Medium humanoid; an aranea in its humanoid form
-always assumes the same appearance and traits, much as a lycanthrope
-would. In humanoid form, an aranea cannot use its bite attack, webs, or
-poison.
+**Change Shape (Su):** An aranea's natural form is that of a Medium monstrous spider. It can assume two other forms. The first is a unique Small or Medium humanoid; an aranea in its humanoid form always assumes the same appearance and traits, much as a lycanthrope would. In humanoid form, an aranea cannot use its bite attack, webs, or poison.
 
-The second form is a Medium spider--humanoid hybrid. In hybrid form, an
-aranea looks like a Medium humanoid at first glance, but a DC 18 Spot
-check reveals the creature's fangs and spinnerets. The aranea retains
-its bite attack, webs, and poison in this form, and can also wield
-weapons or wear armor. When in hybrid form, an aranea's speed is 30 feet
-(6 squares).
+The second form is a Medium spider--humanoid hybrid. In hybrid form, an aranea looks like a Medium humanoid at first glance, but a DC 18 Spot check reveals the creature's fangs and spinnerets. The aranea retains its bite attack, webs, and poison in this form, and can also wield weapons or wear armor. When in hybrid form, an aranea's speed is 30 feet (6 squares).
 
-An aranea remains in one form until it chooses to assume a new one. A
-change in form cannot be dispelled, nor does an aranea revert to its
-natural form when killed. A *[true seeing
-*[spell, however, reveals its natural form if it is in
-humanoid or hybrid form.
+An aranea remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does an aranea revert to its natural form when killed. A *true seeing* spell, however, reveals its natural form if it is in humanoid or hybrid form.
 
-**Skills:** Araneas have a +2 racial bonus on Jump,
-Listen, and Spot checks. They have a +8 racial bonus on Climb checks and
-can always choose to take 10 on Climb checks even if rushed or
-threatened.
+**Skills:** Araneas have a +2 racial bonus on Jump, Listen, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks even if rushed or threatened.
 
 ## ARCHON
 
 Archons are celestials from a lawful good-aligned plane.
 
-Archons speak Celestial, Infernal, and Draconic, but can speak with
-almost any creature because of their tongues ability.
+Archons speak Celestial, Infernal, and Draconic, but can speak with almost any creature because of their tongues ability.
 
-COMBAT
+### COMBAT
 
-Archons generally prefer to meet a foe head-on if it is prudent to do
-so, but if outmatched, they do what they can to even the odds (usually
-by employing hit-and run tactics or standing off and engaging a foe with
-magic before moving into melee).
+Archons generally prefer to meet a foe head-on if it is prudent to do so, but if outmatched, they do what they can to even the odds (usually by employing hit-and run tactics or standing off and engaging a foe with magic before moving into melee).
 
-**Archon Traits:** An archon possesses the following traits (unless
-otherwise noted in a creature's entry).
+**Archon Traits:** An archon possesses the following traits (unless otherwise noted in a creature's entry).
 
 ---Darkvision out to 60 feet and low-light vision.
 
----*Aura of Menace (Su): *A righteous aura surrounds archons that fight
-or get angry. Any hostile creature within a 20-foot radius of an archon
-must succeed on a Will save to resist its effects. The save DC varies
-with the type of archon, is Charisma-based, and includes a +2 racial
-bonus. Those who fail take a --2 penalty on attacks, AC, and saves for
-24 hours or until they successfully hit the archon that generated the
-aura. A creature that has resisted or broken the effect cannot be
-affected again by the same archon's aura for 24 hours.
+---*Aura of Menace (Su):* A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a --2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon's aura for 24 hours.
 
 ---Immunity to electricity and petrification.
 
 --- +4 racial bonus on saves against poison.
 
----*Magic Circle against Evil (Su): *A magic circle against evil effect
-always surrounds an archon (caster level equals the archon's Hit Dice).
-(The defensive benefits from the circle are not included in an archon's
-statistics block.)
+---*Magic Circle against Evil (Su):* A magic circle against evil effect always surrounds an archon (caster level equals the archon's Hit Dice). (The defensive benefits from the circle are not included in an archon's statistics block.)
 
----*Teleport (Su): *Archons can use greater teleport at will, as the
-spell (caster level 14th), except that the creature can transport only
-itself and up to 50 pounds of objects.
+---*Teleport (Su):* Archons can use greater teleport at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of objects.
 
----*Tongues (Su): *All archons can speak with any creature that has a
-language, as though using a *tongues *spell (caster level 14th). This
-ability is always active.
+---*Tongues (Su):* All archons can speak with any creature that has a language, as though using a *tongues* spell (caster level 14th). This ability is always active.
 
-LANTERN ARCHON
+### LANTERN ARCHON
 
   ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            | Small Outsider (Archon, Extraplanar, Good, Lawful)
@@ -1245,27 +1079,19 @@ LANTERN ARCHON
                                             
   ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Lantern archons appear as floating balls of light that glow about as
-brightly as a torch. Only their destruction can extinguish the glow,
-though they can try to hide it.
+Lantern archons appear as floating balls of light that glow about as brightly as a torch. Only their destruction can extinguish the glow, though they can try to hide it.
 
-# COMBAT
+### COMBAT
 
-A lantern archon has little reason to get within melee range. It usually
-hovers just close enough to bring the enemy within its aura of menace,
-then blasts away with its light rays. Lantern archons prefer to
-concentrate on a single opponent, seeking to reduce enemy numbers
-quickly.
+A lantern archon has little reason to get within melee range. It usually hovers just close enough to bring the enemy within its aura of menace, then blasts away with its light rays. Lantern archons prefer to concentrate on a single opponent, seeking to reduce enemy numbers quickly.
 
 **Aura of Menace (Su):** Will DC 12 negates.
 
-**Light Ray (Ex):** A lantern archon's light rays have a range of 30
-feet. This attack overcomes damage reduction of any type.
+**Light Ray (Ex):** A lantern archon's light rays have a range of 30 feet. This attack overcomes damage reduction of any type.
 
-**Spell-Like Abilities:** At will---*aid, detect evil, continual flame.
-*Caster level 3rd.
+**Spell-Like Abilities:** At will---*aid, detect evil, continual flame.* Caster level 3rd.
 
-HOUND ARCHON
+### HOUND ARCHON
 
 +----------------------+----------------------+----------------------+
 |                      | **Hound             | #### Hound Arch     |
@@ -1405,73 +1231,47 @@ HOUND ARCHON
 |                      |                      |                      |
 +----------------------+----------------------+----------------------+
 
-Hound archons look like well-muscled humans with canine
-heads.
+Hound archons look like well-muscled humans with canine heads.
 
-# COMBAT
+### COMBAT
 
-Hound archons prefer to attack with their natural weapons but
-occasionally use greatswords.
+Hound archons prefer to attack with their natural weapons but occasionally use greatswords.
 
-A hound archon's natural weapons, as well as any weapons it wields, are
-treated as good-aligned and lawful-aligned for the purpose of overcoming
-damage reduction.
+A hound archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
-message. *Caster level 6th.
+**Spell-Like Abilities:** At will---*aid, continual flame, detect evil, message.* Caster level 6th.
 
-**Aura of Menace (Su): **Will DC 16 negates.
+**Aura of Menace (Su):** Will DC 16 negates.
 
-**Change Shape (Su):** A hound archon can assume any canine form of
-Small to Large size. While in canine form, the hound archon loses its
-bite, slam, and greatsword attacks, but gains the bite attack of the
-form it chooses. For the purposes of this ability, canines include any
-doglike or wolflike animal of the animal type.
+**Change Shape (Su):** A hound archon can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
 
-**Skills: **\*While in canine form, a hound archon gains a +4
-circumstance bonus on Hide and Survival checks.
+**Skills:** \*While in canine form, a hound archon gains a +4 circumstance bonus on Hide and Survival checks.
 
-HOUND ARCHON HERO
+### HOUND ARCHON HERO
 
-The hound archon hero is a mighty champion of justice, devoted to the
-pursuit and destruction of evil in all its forms.
+The hound archon hero is a mighty champion of justice, devoted to the pursuit and destruction of evil in all its forms.
 
-COMBAT
+### COMBAT
 
-Hound archon heroes have over time developed a love for their weapons.
-They prefer to use their *holy greatswords *over their bite and slam
-attacks.
+Hound archon heroes have over time developed a love for their weapons. They prefer to use their *holy greatswords *over their bite and slam attacks.
 
-**Spell-Like Abilities:** At will---*aid, continual flame, detect evil,
-message. *Caster level 6th.
+**Spell-Like Abilities:** At will---*aid, continual flame, detect evil, message.* Caster level 6th.
 
-**Aura of Menace (Su):** The save DC for the hound archon hero's aura of
-menace (DC 18) is adjusted for its higher Charisma score.
+**Aura of Menace (Su):** The save DC for the hound archon hero's aura of menace (DC 18) is adjusted for its higher Charisma score.
 
-**Smite Evil (Su):** Three times per day a hound archon hero can make a
-normal melee attack with a +3 bonus that deals an extra 11 points of
-damage against an evil foe.
+**Smite Evil (Su):** Three times per day a hound archon hero can make a normal melee attack with a +3 bonus that deals an extra 11 points of damage against an evil foe.
 
-**Change Shape (Su):** A hound archon hero can assume any canine form of
-Small to Large size. While in canine form, the hound archon loses its
-bite, slam, and greatsword attacks, but gains the bite attack of the
-form it chooses. For the purposes of this ability, canines include any
-doglike or wolflike animal of the animal type.
+**Change Shape (Su):** A hound archon hero can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
 
-**Skills:** \*While in canine form, a hound archon hero gains a +4
-circumstance bonus on Hide and Survival checks.
+**Skills:** \*While in canine form, a hound archon hero gains a +4 circumstance bonus on Hide and Survival checks.
 
-**Paladin Abilities: **Aura of courage, aura of good, *detect evil*,
-divine grace, divine health, lay on hands (33 points/day), *remove
-disease *2/week, special mount (juvenile bronze dragon).
+**Paladin Abilities:** Aura of courage, aura of good, *detect evil*, divine grace, divine health, lay on hands (33 points/day), *remove disease* 2/week, special mount (juvenile bronze dragon).
 
-*Typical Paladin Spells Prepared *(2/2; save DC 12 + spell level):
-1st--- *divine favor*, *protection from evil; *2nd---*bull's strength,
-eagle's splendor.*
+*Typical Paladin Spells Prepared* (2/2; save DC 12 + spell level): 1st--- *divine favor, protection from evil;* 2nd---*bull's strength, eagle's splendor.*
 
 *Possessions: +3 full plate armor, +2 cold iron greatsword.*
 
-HOUND ARCHON HERO MOUNTS
+### HOUND ARCHON HERO MOUNTS
 
 In the course of their adventures, many hound archon heroes befriend
 bronze dragons, which may come to serve as their mounts. The
@@ -1528,7 +1328,7 @@ Infernal.
 
 ---Level adjustment +5.
 
-TRUMPET ARCHON
+### TRUMPET ARCHON
 
   ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Medium Outsider (Archon, Extraplanar, Good, Lawful)
@@ -1558,64 +1358,29 @@ TRUMPET ARCHON
                                            
   ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Each Trumpet Archon carries a gleaming silver trumpet about 6 feet
-long.
+Each Trumpet Archon carries a gleaming silver trumpet about 6 feet long.
 
-COMBAT
+### COMBAT
 
-A trumpet archon usually disdains physical combat, preferring to
-obliterate foes with spells quickly and return to its duties. If forced
-into an extended battle, it sounds its trumpet and attacks with a
-vengeance.
+A trumpet archon usually disdains physical combat, preferring to obliterate foes with spells quickly and return to its duties. If forced into an extended battle, it sounds its trumpet and attacks with a vengeance.
 
-A trumpet archon's natural weapons, as well as any weapons it wields,
-are treated as good-aligned and lawful-aligned for the purpose of
-overcoming damage reduction.
+A trumpet archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities: **At will---*[detect
-evil, continual flame, message. *[Caster level
-12th.
+**Spell-Like Abilities:** At will---*detect evil, continual flame, message.* Caster level 12th.
 
 **Aura of Menace (Su):** Will DC 21 negates.
 
-**Spells: **Trumpet archons can cast divine spells as
-14th-level clerics. A trumpet archon has access to two of the following
-domains: Air, Destruction, Good, Law, or War (plus any others from its
-deity). The save DCs are Wisdom-based.
+**Spells:** Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
 
-*[Typical Cleric Spells Prepared *[(6/7/7/6/5/4/4/3; DC
-13 + spell level): 0---*[detect magic, light, purify food
-and drink, read magic, resistance *[(2);
-1st---*[bless *[(2), *[divine
-favor *[(2), *[protection from chaos\*,
-sanctuary, shield of faith; *[2nd---*[aid\*,
-bull['[s strength *[(2),
-*[consecrate, lesser restoration,
-owl['[s wisdom *[(2);
-3rd---*[daylight, invisibility purge, magic circle against
-chaos\*, magic vestment, protection from energy *[(2);
-4th--- *[dismissal, divine power, holy smite\*, neutralize
-poison, spell immunity; *[5th---*[dispel
-evil\*, mass cure light wounds, plane shift, raise dead;
-*[6th--- *[blade barrier\*, banishment, heal,
-undeath to death; *[7th---*[dictum\*, holy
-word, mass cure serious wounds.*
+*Typical Cleric Spells Prepared* (6/7/7/6/5/4/4/3; DC 13 + spell level): 0---*detect magic, light, purify food and drink, read magic, resistance* (2); 1st---*bless* (2), *divine favor* (2), *protection from chaos\*, sanctuary, shield of faith;* 2nd---*aid\*, bull's strength* (2), *consecrate, lesser restoration, owl's wisdom* (2); 3rd---*daylight, invisibility purge, magic circle against chaos\*, magic vestment, protection from energy* (2); 4th---*dismissal, divine power, holy smite\*, neutralize poison, spell immunity;* 5th---*dispel evil\*, mass cure light wounds, plane shift, raise dead;* 6th--- *blade barrier\*, banishment, heal, undeath to death;* 7th---*dictum\*, holy word, mass cure serious wounds.*
 
 \*Domain spell. Domains: Good and Law.
 
-**Trumpet (Su): **An archon's trumpet produces music of
-utter clarity, piercing beauty, and, if the trumpet archon wills it,
-paralyzing awe. All creatures except archons within 100 feet of the
-blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4
-rounds. The save DC is Charisma-based. The archon can also command its
-trumpet to become a *[+4 greatsword *[as a
-free action.
+**Trumpet (Su):** An archon's trumpet produces music of utter clarity, piercing beauty, and, if the trumpet archon wills it, paralyzing awe. All creatures except archons within 100 feet of the blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Charisma-based. The archon can also command its trumpet to become a *+4 greatsword* as a free action.
 
-If a trumpet is ever stolen, it becomes a chunk of useless metal until
-the owner can recover it. Woe betide any thief caught with
-one.
+If a trumpet is ever stolen, it becomes a chunk of useless metal until the owner can recover it. Woe betide any thief caught with one.
 
-ARROWHAWK
+## ARROWHAWK
 
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                          | **Juvenile Arrowhawk**                                                                                                                                                                                            | **Adult Arrowhawk**                                                                                                                                                                                                       | **Elder Arrowhawk**
@@ -1646,32 +1411,17 @@ ARROWHAWK
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-An arrowhawk is a predator and scavenger from the Elemental Plane of
-Air. By twisting its body and varying the cadence of its wingbeats, an
-arrowhawk can fly at top speed in any direction. A juvenile arrowhawk (1
-to 10 years old) is about 5 feet long from beak to tail, with the body
-accounting for about one-third of that length. Its wingspan is about 7
-feet, and it weighs about 20 pounds. An adult (11 to 40 years old) is
-about 10 feet long from beak to tail, with a wingspan of about 15 feet
-and a weight of about 100 pounds. An elder arrowhawk (41 to 75 years
-old) is about 20 feet long with a wingspan of 30 feet and a weight of
-about 800 pounds.
+An arrowhawk is a predator and scavenger from the Elemental Plane of Air. By twisting its body and varying the cadence of its wingbeats, an arrowhawk can fly at top speed in any direction. A juvenile arrowhawk (1 to 10 years old) is about 5 feet long from beak to tail, with the body accounting for about one-third of that length. Its wingspan is about 7 feet, and it weighs about 20 pounds. An adult (11 to 40 years old) is about 10 feet long from beak to tail, with a wingspan of about 15 feet and a weight of about 100 pounds. An elder arrowhawk (41 to 75 years old) is about 20 feet long with a wingspan of 30 feet and a weight of about 800 pounds.
 
-Arrowhawks speak Auran, but they are not usually talkative
-creatures.
+Arrowhawks speak Auran, but they are not usually talkative creatures.
 
-COMBAT
+### COMBAT
 
-Arrowhawks are extremely territorial and always hungry. They attack
-almost any other creature they meet, seeking a meal or trying to drive
-away a rival. The primary mode of attack is an electricity ray, fired
-from the tail. The creature also bites, but it prefers to stay out of
-reach.
+Arrowhawks are extremely territorial and always hungry. They attack almost any other creature they meet, seeking a meal or trying to drive away a rival. The primary mode of attack is an electricity ray, fired from the tail. The creature also bites, but it prefers to stay out of reach.
 
-**Electricity Ray (Su):** An arrowhawk can fire this ray
-once per round, with a range of 50 feet.
+**Electricity Ray (Su):** An arrowhawk can fire this ray once per round, with a range of 50 feet.
 
-ASSASSIN VINE
+## ASSASSIN VINE
 
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------
                                           | Large Plant
@@ -1699,70 +1449,39 @@ ASSASSIN VINE
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------
 
-The assassin vine is a semi-mobile plant that collects its own grisly
-fertilizer by grabbing and crushing animals and depositing the carcasses
-near its roots.
+The assassin vine is a semi-mobile plant that collects its own grisly fertilizer by grabbing and crushing animals and depositing the carcasses near its roots.
 
-A mature plant consists of a main vine, about 20 feet long. Smaller
-vines up to 5 feet long branch off from the main vine about every 6
-inches. These small vines bear clusters of leaves, and in late summer
-they produce bunches of small fruits that resemble wild grapes. The
-fruit is tough and has a hearty but bitter flavor. Assassin vine berries
-make a heady wine.
+A mature plant consists of a main vine, about 20 feet long. Smaller vines up to 5 feet long branch off from the main vine about every 6 inches. These small vines bear clusters of leaves, and in late summer they produce bunches of small fruits that resemble wild grapes. The fruit is tough and has a hearty but bitter flavor. Assassin vine berries make a heady wine.
 
-An assassin vine can move about, albeit very slowly, but usually stays
-put unless it needs to seek prey in a new vicinity.
+An assassin vine can move about, albeit very slowly, but usually stays put unless it needs to seek prey in a new vicinity.
 
-A subterranean version of the assassin vine grows near hot springs,
-volcanic vents, and other sources of thermal energy. These plants have
-thin, wiry stems and gray leaves shot through with silver, brown, and
-white veins so that they resemble mineral deposits. An assassin vine
-growing underground usually generates enough offal to support a thriving
-colony of mushrooms and other fungi, which spring up around the plant
-and help conceal it.
+A subterranean version of the assassin vine grows near hot springs, volcanic vents, and other sources of thermal energy. These plants have thin, wiry stems and gray leaves shot through with silver, brown, and white veins so that they resemble mineral deposits. An assassin vine growing underground usually generates enough offal to support a thriving colony of mushrooms and other fungi, which spring up around the plant and help conceal it.
 
-COMBAT
+### COMBAT
 
 An assassin vine uses simple tactics:
 
-It lies still until prey comes within reach, then attacks. It uses its
-entangle ability both to catch prey and to deter
-counterattacks.
+It lies still until prey comes within reach, then attacks. It uses its entangle ability both to catch prey and to deter counterattacks.
 
-**Constrict (Ex):** An assassin vine deals 1d6+7 points
-of damage with a successful grapple check.
+**Constrict (Ex):** An assassin vine deals 1d6+7 points of damage with a successful grapple check.
 
-**Entangle (Su): **An assassin vine can animate plants
-within 30 feet of itself as a free action (Ref DC 13
-partial).
+**Entangle (Su):** An assassin vine can animate plants within 30 feet of itself as a free action (Ref DC 13 partial).
 
-The effect lasts until the vine dies or decides to end it (also a free
-action). The save DC is Wisdom-based. The ability is otherwise similar
-to *[entangle *[(caster level
-4th).
+The effect lasts until the vine dies or decides to end it (also a free action). The save DC is Wisdom-based. The ability is otherwise similar to *entangle* (caster level 4th).
 
-**Improved Grab (Ex):** To use this ability, an assassin
-vine must hit with its slam attack.
+**Improved Grab (Ex):** To use this ability, an assassin vine must hit with its slam attack.
 
-It can then attempt to start a grapple as a free action without
-provoking an attack of opportunity.
+It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-If it wins the grapple check, it establishes a hold and can
-constrict.
+If it wins the grapple check, it establishes a hold and can constrict.
 
-**Blindsight (Ex): **Assassin vines have no visual organs
-but can ascertain all foes within 30 feet using sound, scent, and
-vibration.
+**Blindsight (Ex):** Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
 
-**Camouflage (Ex):** Since an assassin vine looks like a
-normal plant when at rest, it takes a DC 20 Spot check to notice it
-before it attacks.
+**Camouflage (Ex):** Since an assassin vine looks like a normal plant when at rest, it takes a DC 20 Spot check to notice it before it attacks.
 
-Anyone with ranks in Survival or Knowledge (nature) can use one of
-those skills instead of Spot to notice the plant. Dwarves can use
-stonecunning to notice the subterranean version.
+Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Spot to notice the plant. Dwarves can use stonecunning to notice the subterranean version.
 
-ATHACH
+## ATHACH
 
   ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Huge Aberration
@@ -1791,25 +1510,15 @@ ATHACH
                                            
   ---------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The athach is a hulking, misshapen biped. An adult stands some 18 feet
-tall and weighs about 4,500 pounds. Athachs speak a crude dialect of
-Giant.
+The athach is a hulking, misshapen biped. An adult stands some 18 feet tall and weighs about 4,500 pounds. Athachs speak a crude dialect of Giant.
 
-COMBAT
+### COMBAT
 
-Athachs charge into melee combat unless their opponents are out of
-reach, in which case they throw rocks. They sometimes try to overrun
-armored opponents to reach unarmored opponents in back ranks. With its
-first few melee attacks, an athach tends to flail about
-indiscriminately. After a few rounds, it concentrates on foes that have
-been hitting it most often and uses its bite on whoever has dealt it the
-most damage.
+Athachs charge into melee combat unless their opponents are out of reach, in which case they throw rocks. They sometimes try to overrun armored opponents to reach unarmored opponents in back ranks. With its first few melee attacks, an athach tends to flail about indiscriminately. After a few rounds, it concentrates on foes that have been hitting it most often and uses its bite on whoever has dealt it the most damage.
 
-**Poison (Ex): **Injury, Fortitude DC 22, initial damage
-1d6 Str, secondary damage 2d6 Str. The save DC is
-Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 22, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
-AVORAL
+## AVORAL
 
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           | Medium Outsider (Extraplanar, Good)
@@ -1839,64 +1548,31 @@ AVORAL
                                            
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-An avoral's bones are strong but hollow, so even the largest specimens
-weigh no more than 120 pounds. An avoral is about 7 feet tall. Each of
-an avoral's wings has a small hand at the midpoint. When the wings are
-folded, these appendages are about where human hands would be and can do
-nearly anything hands can do.
+An avoral's bones are strong but hollow, so even the largest specimens weigh no more than 120 pounds. An avoral is about 7 feet tall. Each of an avoral's wings has a small hand at the midpoint. When the wings are folded, these appendages are about where human hands would be and can do nearly anything hands can do.
 
-An avoral's visual acuity is virtually unmatched: It can see detail on
-objects up to 10 miles away and is said to be able to discern the color
-of a creature's eyes at 200 paces.
+An avoral's visual acuity is virtually unmatched: It can see detail on objects up to 10 miles away and is said to be able to discern the color of a creature's eyes at 200 paces.
 
-Avorals speak Celestial, Infernal, and Draconic, but can speak with
-almost any creature, thanks to their *[tongues
-*[ability.
+Avorals speak Celestial, Infernal, and Draconic, but can speak with almost any creature, thanks to their *tongues* ability.
 
-COMBAT
+### COMBAT
 
-On the ground, an avoral can lash out with its wings to deliver
-punishing blows. However, it prefers to meet its foes in the air, where
-it can employ its talons and make full use of its aerial speed and
-agility. It can't make wing attacks while flying, however.
+On the ground, an avoral can lash out with its wings to deliver punishing blows. However, it prefers to meet its foes in the air, where it can employ its talons and make full use of its aerial speed and agility. It can't make wing attacks while flying, however.
 
-An avoral's natural weapons, as well as any weapons it wields, are
-treated as good-aligned for the purpose of overcoming damage
-reduction.
+An avoral's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:** At will---*[aid,
-blur *[(self only), *[command
-*[(DC 14), *[detect magic, dimension door,
-dispel magic, gust of wind *[(DC 15), *[hold
-person *[(DC 16), *[light, magic circle
-against evil *[(self only), *[magic missile,
-see invisibility; *[3/day---*[lightning bolt
-*[(DC 16). Caster level 8th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will---*aid, blur* (self only), *command* (DC 14), *detect magic, dimension door, dispel magic, gust of wind* (DC 15), *hold person* (DC 16), *light, magic circle against evil* (self only), *magic missile, see invisibility;* 3/day---*lightning bolt* (DC 16). Caster level 8th. The save DCs are Charisma-based.
 
-**Fear Aura (Su):** Once per day an avoral can create an
-aura of fear in a 20-foot radius. It is otherwise identical with
-*[fear *[from an 8th-level caster (save DC
-17). The save DC is Charisma-based.
+**Fear Aura (Su):** Once per day an avoral can create an aura of fear in a 20-foot radius. It is otherwise identical with *fear* from an 8th-level caster (save DC 17). The save DC is Charisma-based.
 
-**Lay on Hands (Su):** As the paladin class feature,
-except that each day, an avoral can heal an amount of damage equal to
-its full normal hit points.
+**Lay on Hands (Su):** As the paladin class feature, except that each day, an avoral can heal an amount of damage equal to its full normal hit points.
 
-**Speak with Animals (Su):** This ability works like
-*[speak with animals *[(caster level 8th) but
-is a free action and does not require sound.
+**Speak with Animals (Su):** This ability works like *speak with animals* (caster level 8th) but is a free action and does not require sound.
 
-**True Seeing (Su):** This ability is identical with
-*[true seeing *[(caster level 14th), except
-that it has personal range and the avoral must concentrate for 1 full
-round before it takes effect. Thereafter the ability remains in effect
-as long as the avoral concentrates on it. 
+**True Seeing (Su):** This ability is identical with *true seeing* (caster level 14th), except that it has personal range and the avoral must concentrate for 1 full round before it takes effect. Thereafter the ability remains in effect as long as the avoral concentrates on it.
 
-**Skills:** An avoral's sharp eyes give it a +8 racial
-bonus on Spot checks.
+**Skills:** An avoral's sharp eyes give it a +8 racial bonus on Spot checks.
 
-AZER
+## AZER
 
   ----------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        | Medium Outsider (Extraplanar, Fire)
@@ -1927,30 +1603,21 @@ AZER
                                                         
   ----------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Azers are dwarflike beings native to the Elemental Plane of Fire. They
-wear kilts of brass, bronze, or copper, and speak Ignan and
-Common.
+Azers are dwarflike beings native to the Elemental Plane of Fire. They wear kilts of brass, bronze, or copper, and speak Ignan and Common.
 
-COMBAT
+### COMBAT
 
-Azers use broad-headed spears or well-crafted hammers in combat. When
-unarmed, they attempt to grapple foes.
+Azers use broad-headed spears or well-crafted hammers in combat. When unarmed, they attempt to grapple foes.
 
-Although unfriendly and taciturn, azers rarely provoke a fight except
-to relieve a foe of gems, which they love. If threatened, they fight to
-the death, but they see the value of taking prisoners
-themselves.
+Although unfriendly and taciturn, azers rarely provoke a fight except to relieve a foe of gems, which they love. If threatened, they fight to the death, but they see the value of taking prisoners themselves.
 
-**Heat (Ex):** An azer's body is intensely hot, so its
-unarmed attacks deal extra fire damage. Its metallic weapons also
-conduct this heat.
+**Heat (Ex):** An azer's body is intensely hot, so its unarmed attacks deal extra fire damage. Its metallic weapons also conduct this heat.
 
 ### AZERS AS CHARACTERS
 
 Azer characters possess the following racial traits.
 
---- +2 Strength, +2 Dexterity, +2 Constitution, +2 Intelligence, +2
-Wisdom, --2 Charisma.
+--- +2 Strength, +2 Dexterity, +2 Constitution, +2 Intelligence, +2 Wisdom, --2 Charisma.
 
 ---Medium size.
 
@@ -1958,26 +1625,19 @@ Wisdom, --2 Charisma.
 
 ---Darkvision: Azers can see in the dark up to 60 feet.
 
----Racial Hit Dice: An azer begins with two levels of outsider, which
-provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw
-bonuses of Fort +3, Ref +3, and Will +3.
+---Racial Hit Dice: An azer begins with two levels of outsider, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +3, Ref +3, and Will +3.
 
----Racial Skills: An azer's outsider levels give it skill points equal
-to 5 x (8 + Int modifier). Its class skills are Appraise, Climb, Craft,
-Hide, Jump, Listen, Search, and Spot.
+---Racial Skills: An azer's outsider levels give it skill points equal to 5 x (8 + Int modifier). Its class skills are Appraise, Climb, Craft, Hide, Jump, Listen, Search, and Spot.
 
----Racial Feats: An azer's outsider levels give it one
-feat.
+---Racial Feats: An azer's outsider levels give it one feat.
 
 --- +6 natural armor bonus.
 
 ---Special Attacks (see above): Heat.
 
----Special Qualities (see above): Immunity to fire, spell resistance
-equal to 13 + class levels, vulnerability to cold.
+---Special Qualities (see above): Immunity to fire, spell resistance equal to 13 + class levels, vulnerability to cold.
 
----Automatic Languages: Common, Ignan. Bonus Languages: Abyssal, Aquan,
-Auran, Celestial, Infernal, Terran.
+---Automatic Languages: Common, Ignan. Bonus Languages: Abyssal, Aquan, Auran, Celestial, Infernal, Terran.
 
 ---Favored Class: Fighter.
 
