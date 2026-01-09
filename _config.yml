@@ -7,8 +7,6 @@ github_username:  ericabxy
 
 theme: minima
 
-permalink: /:title
-
 defaults:
 - scope:
     path: ''
@@ -32,8 +30,14 @@ defaults:
     type: special_abilities
   values:
     layout: special-ability
-
+# Collections
+collections_dir: collections
 collections:
+  MSRD:
+    output: true
+  archetypes:
+    output: true
+    permalink: /:collection/:path
   artifacts:
     output: true
     permalink: /:collection/:path

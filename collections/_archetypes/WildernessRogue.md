@@ -1,3 +1,7 @@
+---
+title: Wilderness Rogue
+---
+
 Wilderness Rogue
 ----------------
 

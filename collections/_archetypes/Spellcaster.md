@@ -1,3 +1,7 @@
+---
+title: Spellcaster
+---
+
 Spellcaster
 -----------
 
@@ -45,3 +49,10 @@ To learn or cast a spell, the spellcaster must have an Intelligence score equal 
 A spellcaster can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Spellcaster. In addition, she receives bonus spells per day if she has a high Intelligence score.
 
 Unlike a bard or sorcerer, a wizard may know any number of spells. She must choose and prepare her spells ahead of time by getting a good night’s sleep and spending 1 hour studying her spellbook. While studying, the wizard decides which spells to prepare.
+
+Design Notes
+------------
+
+The spellcaster is a generalized class focusing on full access to daily spells at the same progression rate as the [wizard](/ClassesII#wizard), the [druid](/ClassesI#druid), and the [cleric](/ClassesI#cleric). It is most similar to the wizard and can be adapted to create other full spellcasters like the [channeler](/Channeler).
+
+The Modern advanced class [mage](msrdadvancedclassesII#mage) is derived from the wizard in a similar way.

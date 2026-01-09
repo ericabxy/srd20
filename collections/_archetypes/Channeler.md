@@ -1,6 +1,5 @@
----
-title: Channeler
----
+Channeler
+---------
 
 __Hit Die:__ d8.
 

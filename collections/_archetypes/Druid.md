@@ -1,3 +1,7 @@
+---
+title: Druid
+---
+
 Druid
 -----
 

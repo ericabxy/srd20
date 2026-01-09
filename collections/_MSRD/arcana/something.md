@@ -1,0 +1,6 @@
+---
+title: Something
+---
+
+Something
+=========

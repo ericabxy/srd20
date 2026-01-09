@@ -1,5 +1,0 @@
----
-title: Wizard's Willpower
----
-
-
