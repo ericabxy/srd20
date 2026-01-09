@@ -1,4 +1,5 @@
 ---
+layout: subpage
 title: Setting
 ---
 

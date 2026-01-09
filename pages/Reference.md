@@ -13,7 +13,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Basic Rules and Legal
 
 <p>
-{% for post in site.categories['Basic Rules and Legal'] %}
+{% for post in site.categories['Basic Rules and Legal'] | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -22,7 +22,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Spells
 
 <p>
-{% for post in site.categories.Spells %}
+{% for post in site.categories.Spells | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -31,7 +31,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Monsters
 
 <p>
-{% for post in site.categories.Monsters %}
+{% for post in site.categories.Monsters | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -40,7 +40,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Psionics
 
 <p>
-{% for post in site.categories.Psionics %}
+{% for post in site.categories.Psionics | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -49,7 +49,16 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Epic
 
 <p>
-{% for post in site.categories.Epic %}
+{% for post in site.categories.Epic | sort_by: 'title' %}
+  <a href='{{ post.url }}'>{{ post.title }}</a>
+  {% unless forloop.last %}&bull;{% endunless %}
+{% endfor %}
+</p>
+
+### Divine
+
+<p>
+{% for post in site.categories.Divine | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -60,7 +69,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Modern Basics
 
 <p>
-{% for post in site.categories['Modern Basics'] %}
+{% for post in site.categories['Modern Basics'] | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -69,7 +78,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Arcana
 
 <p>
-{% for post in site.categories.Arcana %}
+{% for post in site.categories.Arcana | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -78,7 +87,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Future
 
 <p>
-{% for post in site.categories.Future %}
+{% for post in site.categories.Future | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
@@ -87,7 +96,7 @@ Material published in the System Reference Document is considered Open Game Cont
 ### Menaces
 
 <p>
-{% for post in site.categories.Menaces %}
+{% for post in site.categories.Menaces | sort_by: 'title' %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
