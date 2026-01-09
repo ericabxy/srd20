@@ -2,7 +2,6 @@
 author: AKSmith
 date:   2004-04-09 10:51:00 -0800
 company: Wizards of the Coast
-category: Monsters
 title: Monsters (H-I)
 ---
 

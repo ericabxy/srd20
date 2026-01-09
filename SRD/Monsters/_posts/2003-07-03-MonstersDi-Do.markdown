@@ -2,7 +2,6 @@
 author: AKSmith
 date:   2003-07-03 09:35:00 -0800
 company: Wizards of the Coast
-category: Monsters
 title: Monsters (Di-Do)
 ---
 

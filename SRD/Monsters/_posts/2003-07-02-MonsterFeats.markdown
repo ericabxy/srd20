@@ -2,7 +2,6 @@
 author: AKSmith
 date:   2003-07-02 13:21:00 -0800
 company: Wizards of the Coast
-category: Monsters
 title: Monster Feats
 ---
 

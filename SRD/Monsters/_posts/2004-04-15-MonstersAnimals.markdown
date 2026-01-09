@@ -2,7 +2,6 @@
 author: AKSmith
 date:   2004-04-15 13:25:00 -0800
 company: Wizards of the Coast
-category: Monsters
 title: Monsters (Animals)
 ---
 

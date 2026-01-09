@@ -2,7 +2,6 @@
 author: AKSmith
 date:   2003-10-22 10:38:00 -0800
 company: Wizards of the Coast
-category: Monsters
 title: Monsters (B-C)
 ---
 
