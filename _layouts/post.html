@@ -19,16 +19,6 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if page.categories -%}
-    <p class="post-meta">
-      Categories: 
-      {% for category in page.categories %}
-        <span>{{ category }}</span>
-        {% unless forloop.last %}•{% endunless %}
-      {% endfor %}
-    </p>
-  {%- endif -%}
-
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+{{ content }}
+
+{%- if page.categories -%}
+<p class="post-meta">
+  Categories: 
+  {% for category in page.categories %}
+  <a href="/Reference#{{ category | slugify }}">{{ category }}</a>
+    {% unless forloop.last %}•{% endunless %}
+  {% endfor %}
+</p>
+{%- endif -%}

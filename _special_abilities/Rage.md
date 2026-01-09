@@ -13,3 +13,11 @@ In a rage, you temporarily gain a +4 bonus to Strength, a +4 bonus to Constituti
 You can fly into a rage only once per encounter. You can use your rage ability once per day. Entering a rage takes no time itself, but you can do it only during you action, not in response to someone else’s action.
 
 You can take this feat multiple times, once every four character levels. Each time you take this feat, you can use it one additional time per day.
+
+### Greater Rage
+
+### Indomitable Will
+
+### Tireless Rage
+
+### Mighty Rage

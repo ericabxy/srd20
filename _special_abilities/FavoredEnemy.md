@@ -20,4 +20,6 @@ Base attack bonus +20: 5th favored enemy.
 
 Ranger: 1st, 5th, 10th, 15th, and 20th level.
 
-Paladin Variant: as above, but limited to certain enemies, and lose lay on hands, turn undead, and remove disease.
+### Foul Huntress
+
+As above; but may only select aberrations, dragons, giants, monstrous humanoids, evil outsiders, or undead.

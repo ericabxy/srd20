@@ -7,6 +7,8 @@ github_username:  ericabxy
 
 theme: minima
 
+permalink: /:title
+
 defaults:
 - scope:
     path: ''
@@ -17,6 +19,14 @@ defaults:
     type: posts
   values:
     layout: post
+- scope:
+    path: 'SRD'
+  values:
+    layout: reference
+- scope:
+    path: 'MSRD'
+  values:
+    layout: reference
 - scope:
     path: ''
     type: special_abilities
@@ -30,49 +40,6 @@ collections:
   system:
     output: true
     permalink: /:title
-    order:
-    - BasicRules/Legal.md
-    - BasicRules/Basics.md
-    - BasicRules/Description.md
-    - BasicRules/Races.md
-    - BasicRules/ClassesI.md
-    - BasicRules/ClassesII.md
-    - BasicRules/SkillsI.md
-    - BasicRules/SkillsII.md
-    - BasicRules/Feats.md
-    - BasicRules/Equipment.md
-    - BasicRules/CombatI.md
-    - BasicRules/CombatII.md
-    - BasicRules/AbilitiesandConditions.md
-    - BasicRules/NPCClasses.md
-    - BasicRules/PrestigeClasses.md
-    - Spells/MagicOverview.md
-    - Spells/SpellListI.md
-    - Spells/SpellListII.md
-    - Spells/SpellsA-B.md
-    - Spells/SpellsC.md
-    - Spells/SpellsD-E.md
-    - Spells/SpellsF-G.md
-    - Spells/SpellsH-L.md
-    - Spells/SpellsM-O.md
-    - Spells/SpellsP-R.md
-    - Spells/SpellsS.md
-    - Spells/SpellsT-Z.md
-    - Monsters/MonstersIntro-A.md
-    - Monsters/MonstersB-C.md
-    - Monsters/MonstersD-De.md
-    - Monsters/MonstersDi-Do.md
-    - Monsters/MonstersDr-Dw.md
-    - Monsters/MonstersE-F.md
-    - Monsters/MonstersG.md
-    - Monsters/MonstersH-I.md
-    - Monsters/MonstersK-L.md
-    - Monsters/MonstersM-N.md
-    - Monsters/MonstersO-R.md
-    - Monsters/MonstersS.md
-    - Monsters/MonstersT-Z.md
-    - Monsters/MonstersAnimals.md
-    - Monsters/MonstersVermin.md
   modern:
     output: true
     permalink: /:title
