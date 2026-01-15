@@ -19,3 +19,8 @@ Locations
 ---------
 
 [Ione, Moon of Iovis](02-iovian-satellite-ione)
+
+Images
+------
+
+![](image-iovis.jpg)

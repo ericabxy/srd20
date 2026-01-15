@@ -23,7 +23,7 @@ _Spells Known:_ 0---*detect arcana, guidance, light, read magic, resistance;* 1s
 * A small following of believers and assistants
 * Records of the platform's behavior and past accidents
 
-Vaelor wears a long-sleeved tunic and soft leggings bound with flat cords, and over that a knee-length robe tied with a sash. The sleeves roll back to allow his arms freedom of motion while working. The folds of the robe conceal several small pockets. Over his shoulders he wears a sleeveless mantle with a high collar.
+Vaelor wears a long-sleeved tunic and soft leggings bound with flat cords, and over that a knee-length robe tied with a sash. The sleeves roll back to allow his arms freedom of motion while working. The folds of the robe conceal several small pockets. Over his shoulders he wears a sleeveless mantle with a high collar. His boots are of soft leather and lace high on the calf.
 
 He carries several items for testing the resonance, airflow, and electromagnetic fields emitted by the Old platfor, including a set of tuning rods and waxed cloth packets containing chalk powder. He also carries a smooth slate with a stylus he can use to take notes and write figures.
 
