@@ -1,9 +1,8 @@
 ---
+category: hub
+layout: location
 title: Kheret's Step
-artifact_type: hub
 ---
-
-[↰ back to Ashara Reach](region-05-ashara-reach)
 
 Kheret's Step
 =============
@@ -17,13 +16,20 @@ Its a semi-permanent habitation centered around an ancient, half-buried structur
 * The hub provides fuel, power, coolant, repair space and skilled manpower, food stockpiles, information and trading centers
 * Home to permanent and transient residents
 
+Crawlers and Caravans
+---------------------
+
+Surface crawlers are the backbone of long-distance travel across the Reach. They are large, slow vehicles propelled by four or six articulated treads that adjust to rough terrain. Crawlers stop at Kheret's Step to repair and resupply, queuing up in rows to wait for access to the Old Platform.
+
+Caravans are an older mode of travel made up of dozens of traders, guides, and migrants. They are accompanied by pack animals, sleds, and carts; and can always be found camping within and around Kheret's Step in preparation for the next leg of a journey.
+
 The Old Platform
 ----------------
 
 At the heart of Kheret's Step stands a circular platform with recessed bays and vertical pylons. Its function is only partially understood; a forgotten technology pulsing with power conduits and pressurized chambers. Locals play custodian to the platform, interpreting its functions and marking sections as off-limits depending on perceived modes.
 
-The People
-----------
+Non-player Characters
+---------------------
 
 * Operators with malfunctioning or aging crawlers
 * Free traders avoiding centralized authority
@@ -34,6 +40,12 @@ The People
 [Seret Kael](npc-01-seret-kael)
 
 [Vaelor Teth](npc-02-vaelor-teth)
+
+[Step Warden](npc-03-step-warden)
+
+[Reach Circulator](npc-04-reach-trader)
+
+[Supplies Attendant](npc-05-supplies-attendant)
 
 Possible Hooks
 --------------

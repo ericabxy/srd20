@@ -1,8 +1,7 @@
 ---
+layout: location
 title: Overview
 ---
-
-[↰ back to Artifacts](..)
 
 The Outer Sky of Iovis
 ----------------------
@@ -23,4 +22,4 @@ Locations
 Images
 ------
 
-![](image-iovis.jpg)
+![Iovis, a gas giant planet with swirling storms and colored bands.](image-iovis.jpg 'Iovis')

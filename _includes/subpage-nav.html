@@ -1,0 +1,6 @@
+<nav>
+  <div><a href='.'>↰ back to index</a></div>
+{% if page.parent %}
+  <div><a href='{{ page.parent[0] }}'>↰ back to {{ page.parent[1] }}</a></div>
+{% endif %}
+</nav>

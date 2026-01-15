@@ -1,13 +1,17 @@
 ---
+layout: subpage
 title: The Platform Restricts Access
 ---
 
-Three crawler failures have occurred within a short time window. Power fluctuations in the Old Platform have disrupted operations and delayed repairs and resupply. Several caravans and convoys traveling south have not been heard from or been forced to turn back after departing. Vaelor Teth and his followers have begun restricting access to the platform exacerbating the delays.
+Restricted Access
+=================
+
+Three crawler failures have occurred within a short time window. Power fluctuations in the Old Platform have disrupted operations and delayed repairs and resupply. Several caravans and convoys traveling south have not been heard from or have been forced to return after departing. Vaelor Teth and his followers have begun restricting access to the platform exacerbating the delays.
 
 Seret and Vaelor
 ----------------
 
-Seret Kael wants to resume normal repairs and end the traffic delays before trade routes are disrupted beyond control. Vaelor Teth insists the platform is responding to recent strain and misuse, and cannot be forced to comply.
+[Seret Kael](npc-01-seret-kael) wants to resume normal repairs and end the traffic delays before trade routes are disrupted beyond control. [Vaelor Teth](npc-02-vaelor-teth) insists the platform is responding to recent strain and misuse, and cannot be forced to comply.
 
 Quests
 ------

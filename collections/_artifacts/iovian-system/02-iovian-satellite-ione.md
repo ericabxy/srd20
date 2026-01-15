@@ -16,7 +16,15 @@ Regions
 
 [Ashara Reach](region-05-ashara-reach)
 
+The Pale Littoral
+
+[Glassward Uplands](region-03-glassward-uplands)
+
+[The Verdant Hollows](region-04-the-verdant-hollows)
+
 Images
 ------
 
-![](image-ione.jpg)
+![Ione, a pale yellow moon spotted with black marks.](image-ione.jpg 'Ione')
+
+[↰ back to Iovian System](01-iovian-system-overview)
