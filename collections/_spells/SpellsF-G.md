@@ -154,9 +154,9 @@ become panicked unless it succeeds on a Will save. If cornered, a
 panicked creature begins cowering. If the Will save succeeds, the
 creature is shaken for 1 round.
 
-*Material Component: *Either the heart of a hen or a white feather.
+*Material Component:* Either the heart of a hen or a white feather.
 
-Feather Fall
+### Feather Fall
 
 Transmutation
 
@@ -173,37 +173,21 @@ no two of which may be more than 20 ft. apart
 
 **Duration:** Until landing or 1 round/level
 
-**Saving Throw: **Will negates (harmless) or Will negates (object)
+**Saving Throw:** Will negates (harmless) or Will negates (object)
 
 **Spell Resistance:** Yes (object)
 
-The affected creatures or objects fall slowly. *Feather fall *instantly
-changes the rate at which the targets fall to a mere 60 feet per round
-(equivalent to the end of a fall from a few feet), and the subjects take
-no damage upon landing while the spell is in effect. However, when the
-spell duration expires, a normal rate of falling resumes.
+The affected creatures or objects fall slowly. *Feather fall* instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet), and the subjects take no damage upon landing while the spell is in effect. However, when the spell duration expires, a normal rate of falling resumes.
 
-The spell affects one or more Medium or smaller creatures (including
-gear and carried objects up to each creature’s maximum load) or objects,
-or the equivalent in larger creatures: A Large creature or object counts
-as two Medium creatures or objects, a Huge creature or object counts as
-two Large creatures or objects, and so forth.
+The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each creature’s maximum load) or objects, or the equivalent in larger creatures: A Large creature or object counts as two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth.
 
-You can cast this spell with an instant utterance, quickly enough to
-save yourself if you unexpectedly fall. Casting the spell is a free
-action, like casting a quickened spell, and it counts toward the normal
-limit of one quickened spell per round. You may even cast this spell
-when it isn’t your turn.
+You can cast this spell with an instant utterance, quickly enough to save yourself if you unexpectedly fall. Casting the spell is a free action, like casting a quickened spell, and it counts toward the normal limit of one quickened spell per round. You may even cast this spell when it isn’t your turn.
 
-This spell has no special effect on ranged weapons unless they are
-falling quite a distance. If the spell is cast on a falling item the
-object does half normal damage based on its weight, with no bonus for
-the height of the drop.
+This spell has no special effect on ranged weapons unless they are falling quite a distance. If the spell is cast on a falling item the object does half normal damage based on its weight, with no bonus for the height of the drop.
 
-*Feather fall *works only upon free-falling objects. It does not affect
-a sword blow or a charging or flying creature.
+*Feather fall* works only upon free-falling objects. It does not affect a sword blow or a charging or flying creature.
 
-Feeblemind
+### Feeblemind
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -219,24 +203,15 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Duration:** Instantaneous
 
-**Saving Throw: **Will negates; see text
+**Saving Throw:** Will negates; see text
 
 **Spell Resistance:** Yes
 
-If the target creature fails a Will saving throw, its Intelligence and
-Charisma scores each drop to 1. The affected creature is unable to use
-Intelligence- or Charisma-based skills, cast spells, understand
-language, or communicate coherently. Still, it knows who its friends are
-and can follow them and even protect them. The subject remains in this
-state until a *heal*, *limited wish*, *miracle*, or *wish *spell is used
-to cancel the effect of the *feeblemind*. A creature that can cast
-arcane spells, such as a sorcerer or a wizard, takes a –4 penalty on its
-saving throw.
+If the target creature fails a Will saving throw, its Intelligence and Charisma scores each drop to 1. The affected creature is unable to use Intelligence- or Charisma-based skills, cast spells, understand language, or communicate coherently. Still, it knows who its friends are and can follow them and even protect them. The subject remains in this state until a *heal*, *limited wish*, *miracle*, or *wish* spell is used to cancel the effect of the *feeblemind*. A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a –4 penalty on its saving throw.
 
-*Material Component: *A handful of clay, crystal, glass, or mineral
-spheres.
+*Material Component:* A handful of clay, crystal, glass, or mineral spheres.
 
-Find the Path
+### Find the Path
 
 Divination
 
@@ -256,29 +231,15 @@ Divination
 
 **Spell Resistance:** No or Yes (harmless)
 
-The recipient of this spell can find the shortest, most direct physical
-route to a specified destination, be it the way into or out of a locale.
-The locale can be outdoors, underground, or even inside a *maze *spell.
-*Find the path *works with respect to locations, not objects or
-creatures at a locale. The location must be on the same plane as you are
-at the time of casting.
+The recipient of this spell can find the shortest, most direct physical route to a specified destination, be it the way into or out of a locale. The locale can be outdoors, underground, or even inside a *maze* spell. *Find the path* works with respect to locations, not objects or creatures at a locale. The location must be on the same plane as you are at the time of casting.
 
-The spell enables the subject to sense the correct direction that will
-eventually lead it to its destination, indicating at appropriate times
-the exact path to follow or physical actions to take. For example, the
-spell enables the subject to sense trip wires or the proper word to
-bypass a *glyph of warding. *The spell ends when the destination is
-reached or the duration expires, whichever comes first. *Find the path
-*can be used to remove the subject and its companions from the effect of
-a *maze *spell in a single round.
+The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating at appropriate times the exact path to follow or physical actions to take. For example, the spell enables the subject to sense trip wires or the proper word to bypass a *glyph of warding.* The spell ends when the destination is reached or the duration expires, whichever comes first. *Find the path* can be used to remove the subject and its companions from the effect of a *maze* spell in a single round.
 
-This divination is keyed to the recipient, not its companions, and its
-effect does not predict or allow for the actions of creatures (including
-guardians).
+This divination is keyed to the recipient, not its companions, and its effect does not predict or allow for the actions of creatures (including guardians).
 
-*Focus: *A set of divination counters of the sort you favor.
+*Focus:* A set of divination counters of the sort you favor.
 
-Find Traps
+### Find Traps
 
 Divination
 
@@ -294,15 +255,11 @@ Divination
 
 **Duration:** 1 min./level
 
-You gain intuitive insight into the workings of traps. You can use the
-Search skill to detect traps just as a rogue can. In addition, you gain
-an insight bonus equal to one-half your caster level (maximum +10) on
-Search checks made to find traps while the spell is in effect.
+You gain intuitive insight into the workings of traps. You can use the Search skill to detect traps just as a rogue can. In addition, you gain an insight bonus equal to one-half your caster level (maximum +10) on Search checks made to find traps while the spell is in effect.
 
-Note that *find traps *grants no ability to disable the traps that you
-may find.
+Note that *find traps* grants no ability to disable the traps that you may find.
 
-Finger of Death
+### Finger of Death
 
 Necromancy \[Death\]
 
@@ -1614,18 +1571,17 @@ fades.
 
 Any creature covered by the dust takes a –40 penalty on Hide checks.
 
-*Material Component: *Ground mica.
+*Material Component:* Ground mica.
 
-Globe of Invulnerability
+### Globe of Invulnerability
 
 Abjuration
 
 **Level:** Sor/Wiz 6
 
-This spell functions like *lesser globe of invulnerability, *except that
-it also excludes 4th-level spells and spell-like effects.
+This spell functions like *lesser globe of invulnerability,* except that it also excludes 4th-level spells and spell-like effects.
 
-Globe of Invulnerability, Lesser
+### Globe of Invulnerability, Lesser
 
 Abjuration
 
@@ -1645,29 +1601,15 @@ Abjuration
 
 **Spell Resistance:** No
 
-An immobile, faintly shimmering magical sphere surrounds you and
-excludes all spell effects of 3rd level or lower. The area or effect of
-any such spells does not include the area of the *lesser globe of
-invulnerability*. Such spells fail to affect any target located within
-the globe. Excluded effects include spell-like abilities and spells or
-spell-like effects from items. However, any type of spell can be cast
-through or out of the magical globe. Spells of 4th level and higher are
-not affected by the globe, nor are spells already in effect when the
-globe is cast. The globe can be brought down by a targeted *dispel magic
-*spell, but not by an area *dispel magic. *You can leave and return to
-the globe without penalty.
+An immobile, faintly shimmering magical sphere surrounds you and excludes all spell effects of 3rd level or lower. The area or effect of any such spells does not include the area of the *lesser globe of invulnerability*. Such spells fail to affect any target located within the globe. Excluded effects include spell-like abilities and spells or spell-like effects from items. However, any type of spell can be cast through or out of the magical globe. Spells of 4th level and higher are not affected by the globe, nor are spells already in effect when the globe is cast. The globe can be brought down by a targeted *dispel magic* spell, but not by an area *dispel magic.* You can leave and return to the globe without penalty.
 
-Note that spell effects are not disrupted unless their effects enter the
-globe, and even then they are merely suppressed, not dispelled.
+Note that spell effects are not disrupted unless their effects enter the globe, and even then they are merely suppressed, not dispelled.
 
-If a given spell has more than one level depending on which character
-class is casting it, use the level appropriate to the caster to
-determine whether *lesser globe of invulnerability *stops it.
+If a given spell has more than one level depending on which character class is casting it, use the level appropriate to the caster to determine whether *lesser globe of invulnerability* stops it.
 
-*Material Component: *A glass or crystal bead that shatters at the
-expiration of the spell.
+*Material Component:* A glass or crystal bead that shatters at the expiration of the spell.
 
-Glyph of Warding
+### Glyph of Warding
 
 Abjuration
 
@@ -1687,79 +1629,35 @@ Abjuration
 
 **Spell Resistance:** No (object) and Yes; see text
 
-This powerful inscription harms those who enter, pass, or open the
-warded area or object. A *glyph of warding *can guard a bridge or
-passage, ward a portal, trap a chest or box, and so on.
+This powerful inscription harms those who enter, pass, or open the warded area or object. A *glyph of warding* can guard a bridge or passage, ward a portal, trap a chest or box, and so on.
 
-You set the conditions of the ward. Typically, any creature entering the
-warded area or opening the warded object without speaking a password
-(which you set when casting the spell) is subject to the magic it
-stores. Alternatively or in addition to a password trigger, *glyphs *can
-be set according to physical characteristics (such as height or weight)
-or creature type, subtype, or kind. *Glyphs *can also be set with
-respect to good, evil, law, or chaos, or to pass those of your religion.
-They cannot be set according to class, Hit Dice, or level. *Glyphs
-*respond to invisible creatures normally but are not triggered by those
-who travel past them ethereally. Multiple *glyphs *cannot be cast on the
-same area. However, if a cabinet has three drawers, each can be
-separately warded.
+You set the conditions of the ward. Typically, any creature entering the warded area or opening the warded object without speaking a password (which you set when casting the spell) is subject to the magic it stores. Alternatively or in addition to a password trigger, *glyphs* can be set according to physical characteristics (such as height or weight) or creature type, subtype, or kind. *Glyphs* can also be set with respect to good, evil, law, or chaos, or to pass those of your religion. They cannot be set according to class, Hit Dice, or level. *Glyphs* respond to invisible creatures normally but are not triggered by those who travel past them ethereally. Multiple *glyphs* cannot be cast on the same area. However, if a cabinet has three drawers, each can be separately warded.
 
-When casting the spell, you weave a tracery of faintly glowing lines
-around the warding sigil. A *glyph *can be placed to conform to any
-shape up to the limitations of your total square footage. When the spell
-is completed, the *glyph *and tracery become nearly invisible.
+When casting the spell, you weave a tracery of faintly glowing lines around the warding sigil. A *glyph* can be placed to conform to any shape up to the limitations of your total square footage. When the spell is completed, the *glyph* and tracery become nearly invisible.
 
-*Glyphs *cannot be affected or bypassed by such means as physical or
-magical probing, though they can be dispelled. *Mislead*, *polymorph*,
-and *nondetection *(and similar magical effects) can fool a *glyph*,
-though nonmagical disguises and the like can’t. *Read magic *allows you
-to identify a *glyph of warding *with a DC 13 Spellcraft check.
-Identifying the *glyph *does not discharge it and allows you to know the
-basic nature of the *glyph *(version, type of damage caused, what spell
-is stored).
+*Glyphs* cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. *Mislead*, *polymorph*, and *nondetection* (and similar magical effects) can fool a *glyph*, though nonmagical disguises and the like can’t. *Read magic* allows you to identify a *glyph of warding* with a DC 13 Spellcraft check. Identifying the *glyph* does not discharge it and allows you to know the basic nature of the *glyph* (version, type of damage caused, what spell is stored).
 
-*Note: *Magic traps such as *glyph of warding *are hard to detect and
-disable. A rogue (only) can use the Search skill to find the *glyph *and
-Disable Device to thwart it. The DC in each case is 25 + spell level, or
-28 for *glyph of warding*.
+*Note:* Magic traps such as *glyph of warding* are hard to detect and disable. A rogue (only) can use the Search skill to find the *glyph* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 28 for *glyph of warding*.
 
-Depending on the version selected, a *glyph *either blasts the intruder
-or activates a spell.
+Depending on the version selected, a *glyph* either blasts the intruder or activates a spell.
 
-*Blast Glyph: *A *blast glyph *deals 1d8 points of damage per two caster
-levels (maximum 5d8) to the intruder and to all within 5 feet of him or
-her. This damage is acid, cold, fire, electricity, or sonic (caster’s
-choice, made at time of casting). Each creature affected can attempt a
-Reflex save to take half damage. Spell resistance applies against this
-effect.
+*Blast Glyph:* A *blast glyph* deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell resistance applies against this effect.
 
-*Spell Glyph: *You can store any harmful spell of 3rd level or lower
-that you know. All level-dependent features of the spell are based on
-your caster level at the time of casting the *glyph. *If the spell has a
-target, it targets the intruder. If the spell has an area or an
-amorphous effect the area or effect is centered on the intruder. If the
-spell summons creatures, they appear as close as possible to the
-intruder and attack. Saving throws and spell resistance operate as
-normal, except that the DC is based on the level of the spell stored in
-the *glyph*.
+*Spell Glyph:* You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the *glyph.* If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Saving throws and spell resistance operate as normal, except that the DC is based on the level of the spell stored in the *glyph*.
 
-*Material Component: *You trace the *glyph *with incense, which must
-first be sprinkled with powdered diamond worth at least 200 gp.
+*Material Component:* You trace the *glyph* with incense, which must first be sprinkled with powdered diamond worth at least 200 gp.
 
-Glyph of Warding, Greater
+### Glyph of Warding, Greater
 
 Abjuration
 
 **Level:** Clr 6
 
-This spell functions like *glyph of warding, *except that a *greater
-blast glyph *deals up to 10d8 points of damage, and a *greater spell
-glyph *can store a spell of 6th level or lower.
+This spell functions like *glyph of warding,* except that a *greater blast glyph* deals up to 10d8 points of damage, and a *greater spell glyph* can store a spell of 6th level or lower.
 
-*Material Component: *You trace the *glyph *with incense, which must
-first be sprinkled with powdered diamond worth at least 400 gp.
+*Material Component:* You trace the *glyph* with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.
 
-Goodberry
+### Goodberry
 
 Transmutation
 
@@ -1779,14 +1677,9 @@ Transmutation
 
 **Spell Resistance:** Yes
 
-Casting *goodberry *upon a handful of freshly picked berries makes 2d4
-of them magical. You (as well as any other druid of 3rd or higher level)
-can immediately discern which berries are affected. Each transmuted
-berry provides nourishment as if it were a normal meal for a Medium
-creature. The berry also cures 1 point of damage when eaten, subject to
-a maximum of 8 points of such curing in any 24-hour period.
+Casting *goodberry* upon a handful of freshly picked berries makes 2d4 of them magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.
 
-Good Hope
+### Good Hope
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -1796,24 +1689,21 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Casting Time:** 1 standard action
 
-**Range: **Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:** One living creature/level, no two of which may be more than
-30 ft. apart
+**Targets:** One living creature/level, no two of which may be more than 30 ft. apart
 
 **Duration:** 1 min./level
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 
-This spell instills powerful hope in the subjects. Each affected
-creature gains a +2 morale bonus on saving throws, attack rolls, ability
-checks, skill checks, and weapon damage rolls.
+This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
 
-*Good hope *counters and dispels *crushing despair*.
+*Good hope* counters and dispels *crushing despair*.
 
-Grasping Hand
+### Grasping Hand
 
 Evocation \[Force\]
 
@@ -1821,29 +1711,19 @@ Evocation \[Force\]
 
 **Components:** V, S, F/DF
 
-This spell functions like *interposing hand, *except the hand can also
-grapple one opponent that you select. The *grasping hand *gets one
-grapple attack per round.
+This spell functions like *interposing hand,* except the hand can also grapple one opponent that you select. The *grasping hand* gets one grapple attack per round.
 
-Its attack bonus to make contact equals your caster level + your
-Intelligence, Wisdom, or Charisma modifier (for wizards, clerics, and
-sorcerers, respectively), +10 for the hand’s Strength score (31), –1 for
-being Large. Its grapple bonus is this same figure, except with a +4
-modifier for being Large instead of –1. The hand holds but does not harm
-creatures it grapples.
+Its attack bonus to make contact equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for wizards, clerics, and sorcerers, respectively), +10 for the hand’s Strength score (31), –1 for being Large. Its grapple bonus is this same figure, except with a +4 modifier for being Large instead of –1. The hand holds but does not harm creatures it grapples.
 
 Directing the spell to a new target is a move action.
 
-The *grasping hand *can also bull rush an opponent as *forceful hand
-*does, but at a +16 bonus on the Strength check (+10 for Strength 35, +4
-for being Large, and a +2 bonus for charging, which it always gets), or
-interpose itself as *interposing hand *does.
+The *grasping hand* can also bull rush an opponent as *forceful hand* does, but at a +16 bonus on the Strength check (+10 for Strength 35, +4 for being Large, and a +2 bonus for charging, which it always gets), or interpose itself as *interposing hand* does.
 
 Clerics who cast this spell name it for their deities.
 
-*Arcane Focus: *A leather glove.
+*Arcane Focus:* A leather glove.
 
-Grease
+### Grease
 
 Conjuration (Creation)
 
@@ -1855,7 +1735,7 @@ Conjuration (Creation)
 
 **Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target or Area: **One object or a 10-ft. square
+**Target or Area:** One object or a 10-ft. square
 
 **Duration:** 1 round/level (D)
 
@@ -1863,39 +1743,17 @@ Conjuration (Creation)
 
 **Spell Resistance:** No
 
-A *grease *spell covers a solid surface with a layer of slippery grease.
-Any creature in the area when the spell is cast must make a successful
-Reflex save or fall. This save is repeated on your turn each round that
-the creature remains within the area. A creature can walk within or
-through the area of grease at half normal speed with a DC 10 Balance
-check. Failure means it can’t move that round (and must then make a
-Reflex save or fall), while failure by 5 or more means it falls (see the
-Balance skill for details).
+A *grease* spell covers a solid surface with a layer of slippery grease. Any creature in the area when the spell is cast must make a successful Reflex save or fall. This save is repeated on your turn each round that the creature remains within the area. A creature can walk within or through the area of grease at half normal speed with a DC 10 Balance check. Failure means it can’t move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Balance skill for details).
 
-The spell can also be used to create a greasy coating on an item.
-Material objects not in use are always affected by this spell, while an
-object wielded or employed by a creature receives a Reflex saving throw
-to avoid the effect. If the initial saving throw fails, the creature
-immediately drops the item. A saving throw must be made in each round
-that the creature attempts to pick up or use the *greased *item. A
-creature wearing *greased *armor or clothing gains a +10 circumstance
-bonus on Escape Artist checks and on grapple checks made to resist or
-escape a grapple or to escape a pin.
+The spell can also be used to create a greasy coating on an item. Material objects not in use are always affected by this spell, while an object wielded or employed by a creature receives a Reflex saving throw to avoid the effect. If the initial saving throw fails, the creature immediately drops the item. A saving throw must be made in each round that the creature attempts to pick up or use the *greased* item. A creature wearing *greased* armor or clothing gains a +10 circumstance bonus on Escape Artist checks and on grapple checks made to resist or escape a grapple or to escape a pin.
 
-*Material Component: *A bit of pork rind or butter.
+*Material Component:* A bit of pork rind or butter.
 
-Greater (Spell Name)
+### Greater (Spell Name)
 
-Any spell whose name begins with *greater *is alphabetized in this
-chapter according to the second word of the spell name. Thus, the
-description of a *greater *spell appears near the description of the
-spell on which it is based. Spell chains that have *greater *spells in
-them include those based on the spells *arcane sight, command, dispel
-magic, glyph of warding, invisibility, magic fang, magic weapon, planar
-ally, planar binding, prying eyes, restoration, scrying, shadow
-conjuration, shadow evocation, shout, *and *teleport.*
+Any spell whose name begins with *greater* is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a *greater* spell appears near the description of the spell on which it is based. Spell chains that have *greater* spells in them include those based on the spells *arcane sight, command, dispel magic, glyph of warding, invisibility, magic fang, magic weapon, planar ally, planar binding, prying eyes, restoration, scrying, shadow conjuration, shadow evocation, shout,* and *teleport.*
 
-Guards and Wards
+### Guards and Wards
 
 Abjuration
 
@@ -1915,73 +1773,37 @@ Abjuration
 
 **Spell Resistance:** See text
 
-This powerful spell is primarily used to defend your stronghold. The
-ward protects 200 square feet per caster level. The warded area can be
-as much as 20 feet high, and shaped as you desire. You can ward several
-stories of a stronghold by dividing the area among them; you must be
-somewhere within the area to be warded to cast the spell. The spell
-creates the following magical effects within the warded area.
+This powerful spell is primarily used to defend your stronghold. The ward protects 200 square feet per caster level. The warded area can be as much as 20 feet high, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them; you must be somewhere within the area to be warded to cast the spell. The spell creates the following magical effects within the warded area.
 
-*Fog: *Fog fills all corridors, obscuring all sight, including
-darkvision, beyond 5 feet. A creature within 5 feet has concealment
-(attacks have a 20% miss chance). Creatures farther away have total
-concealment (50% miss chance, and the attacker cannot use sight to
-locate the target). Saving Throw: None. Spell Resistance: No.
+*Fog:* Fog fills all corridors, obscuring all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). Saving Throw: None. Spell Resistance: No.
 
-*Arcane Locks: *All doors in the warded area are *arcane locked. *Saving
-Throw: None. Spell Resistance: No.
+*Arcane Locks:* All doors in the warded area are *arcane locked.* Saving Throw: None. Spell Resistance: No.
 
-*Webs: *Webs fill all stairs from top to bottom. These strands are
-identical with those created by the *web *spell, except that they regrow
-in 10 minutes if they are burned or torn away while the *guards and
-wards *spell lasts. Saving Throw: Reflex negates; see text for *web*.
-Spell Resistance: No.
+*Webs:* Webs fill all stairs from top to bottom. These strands are identical with those created by the *web* spell, except that they regrow in 10 minutes if they are burned or torn away while the *guards and wards* spell lasts. Saving Throw: Reflex negates; see text for *web*. Spell Resistance: No.
 
-*Confusion: *Where there are choices in direction—such as a corridor
-intersection or side passage—a minor *confusion-*type effect functions
-so as to make it 50% probable that intruders believe they are going in
-the opposite direction from the one they actually chose. This is an
-enchantment, mind-affecting effect. Saving Throw: None. Spell
-Resistance: Yes.
+*Confusion:* Where there are choices in direction—such as a corridor intersection or side passage—a minor *confusion-* type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is an enchantment, mind-affecting effect. Saving Throw: None. Spell Resistance: Yes.
 
-*Lost Doors: *One door per caster level is covered by a *silent image
-*to appear as if it were a plain wall. Saving Throw: Will disbelief (if
-interacted with). Spell Resistance: No.
+*Lost Doors:* One door per caster level is covered by a *silent image* to appear as if it were a plain wall. Saving Throw: Will disbelief (if interacted with). Spell Resistance: No.
 
-In addition, you can place your choice of one of the following five
-magical effects.
+In addition, you can place your choice of one of the following five magical effects.
 
-1\. *Dancing lights *in four corridors. You can designate a simple
-program that causes the lights to repeat as long as the *guards and
-wards *spell lasts. Saving Throw: None. Spell Resistance: No.
+1\. *Dancing lights* in four corridors. You can designate a simple program that causes the lights to repeat as long as the *guards and wards* spell lasts. Saving Throw: None. Spell Resistance: No.
 
-2\. A *magic mouth *in two places. Saving Throw: None. Spell Resistance:
-No.
+2\. A *magic mouth* in two places. Saving Throw: None. Spell Resistance: No.
 
-3\. A *stinking cloud *in two places. The vapors appear in the places
-you designate; they return within 10 minutes if dispersed by wind while
-the *guards and wards *spell lasts. Saving Throw: Fortitude negates; see
-text for *stinking cloud. *Spell Resistance: No.
+3\. A *stinking cloud* in two places. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while the *guards and wards* spell lasts. Saving Throw: Fortitude negates; see text for *stinking cloud.* Spell Resistance: No.
 
-4\. A *gust of wind *in one corridor or room. Saving Throw: Fortitude
-negates. Spell Resistance: Yes.
+4\. A *gust of wind* in one corridor or room. Saving Throw: Fortitude negates. Spell Resistance: Yes.
 
-5\. A *suggestion *in one place. You select an area of up to 5 feet
-square, and any creature who enters or passes through the area receives
-the *suggestion *mentally. Saving Throw: Will negates. Spell Resistance:
-Yes.
+5\. A *suggestion* in one place. You select an area of up to 5 feet square, and any creature who enters or passes through the area receives the *suggestion* mentally. Saving Throw: Will negates. Spell Resistance: Yes.
 
-The whole warded area radiates strong magic of the abjuration school. A
-*dispel magic *cast on a specific effect, if successful, removes only
-that effect. A successful *Mage’s disjunction *destroys the entire
-*guards and wards *effect.
+The whole warded area radiates strong magic of the abjuration school. A *dispel magic* cast on a specific effect, if successful, removes only that effect. A successful *Mage’s disjunction* destroys the entire *guards and wards* effect.
 
-*Material Component: *Burning incense, a small measure of brimstone and
-oil, a knotted string, and a small amount of blood.
+*Material Component:* Burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood.
 
-*Focus: *A small silver rod.
+*Focus:* A small silver rod.
 
-Guidance
+### Guidance
 
 Divination
 
@@ -1997,16 +1819,13 @@ Divination
 
 **Duration:** 1 minute or until discharged
 
-**Saving Throw: **Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes
 
-This spell imbues the subject with a touch of divine guidance. The
-creature gets a +1 competence bonus on a single attack roll, saving
-throw, or skill check. It must choose to use the bonus before making the
-roll to which it applies.
+This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
 
-Gust of Wind
+### Gust of Wind
 
 Evocation \[Air\]
 

@@ -52,8 +52,7 @@ Necromancy \[Fear, Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-This spell functions like *cause fear,* except that it causes al 
-targeted creatures of less than 6 HD to become frightened.
+This spell functions like *cause fear,* except that it causes all targeted creatures of less than 6 HD to become frightened.
 
 *Material Component:* A bit of bone from an undead skeleton, zombie, ghoul, ghast, or mummy.
 
@@ -161,59 +160,57 @@ Divination (Scrying)
 
 You can see and hear some creature, which may be at any distance. If the subject succeeds on a Will save, the scrying attempt simply fails. The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.
 
-+--------------------------------------------+------------------------+
-| ## Knowledge                               | ## Will Save Modifier  |
-+--------------------------------------------+------------------------+
-|                                            |                        |
-+--------------------------------------------+------------------------+
-| None**^1^**                                | +10                    |
-+--------------------------------------------+------------------------+
-| Secondhand (you have heard of the subject) | +5                     |
-+--------------------------------------------+------------------------+
-| Firsthand (you have met the subject)       | +0                     |
-+--------------------------------------------+------------------------+
-| Familiar (you know the subject well)       | --5                    |
-+--------------------------------------------+------------------------+
-|                                            |                        |
-+--------------------------------------------+------------------------+
-| 1 You must have some sort of connection to |                        |
-| a creature you have no knowledge of.       |                        |
-+--------------------------------------------+------------------------+
-|                                            |                        |
-+--------------------------------------------+------------------------+
-| **Connection**                             | ### Will Save Modifier |
-+--------------------------------------------+------------------------+
-| Likeness or picture                        | --2                    |
-+--------------------------------------------+------------------------+
-| Possession or garment                      | --4                    |
-+--------------------------------------------+------------------------+
-|                                            |                        |
-+--------------------------------------------+------------------------+
-| Body part, lock of hair, bit of nail, etc. | --10                   |
-+--------------------------------------------+------------------------+
-|                                            |                        |
-+--------------------------------------------+------------------------+
+<table>
+<tr>
+  <th>Knowledge</th>
+  <th>Will Save Modifier</th>
+</tr>
+<tr>
+  <td>None<sup>1</sup></td>
+  <td>+10</td>
+</tr>
+<tr>
+  <td>Secondhand (you have heard of the subject)</td>
+  <td>+5</td>
+</tr>
+<tr>
+  <td>Firsthand (you have met the subject)</td>
+  <td>+0</td>
+</tr>
+<tr>
+  <td>Familiar (you know the subject well)</td>
+  <td>–5</td>
+</tr>
+<tr>
+  <td colspan=2>1 You must have some sort of connection to a creature you have no knowledge of.</td>
+</tr>
+<tr>
+  <th>Connection</th>
+  <th>Will Save Modifier</th>
+</tr>
+<tr>
+  <td>Likeness or picture</td>
+  <td>–2</td>
+</tr>
+<tr>
+  <td>Possession or garment</td>
+  <td>–4</td>
+</tr>
+<tr>
+  <td>Body part, lock of hair, bit of nail, etc.</td>
+  <td>–10</td>
+</tr>
+</table>
 
-If the save fails, you can see and hear the subject and the subject's
-immediate surroundings (approximately 10 feet in all directions of the
-subject). If the subject moves, the sensor follows at a speed of up to
-150 feet.
+If the save fails, you can see and hear the subject and the subject's immediate surroundings (approximately 10 feet in all directions of the subject). If the subject moves, the sensor follows at a speed of up to 150 feet.
 
-As with all divination (scrying) spells, the sensor has your full visual
-acuity, including any magical effects. In addition, the following spells
-have a 5% chance per caster level of operating through the sensor:
-*detect chaos*, *detect evil*, *detect good*, *detect law*, *detect
-magic*, and *message*.
+As with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects. In addition, the following spells have a 5% chance per caster level of operating through the sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*, *detect magic*, and *message*.
 
-If the save succeeds, you can't attempt to scry on that subject again
-for at least 24 hours.
+If the save succeeds, you can't attempt to scry on that subject again for at least 24 hours.
 
-*Arcane Material Component: *The eye of a hawk, an eagle, or a roc, plus
-nitric acid, copper, and zinc.
+*Arcane Material Component:* The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc.
 
-*Wizard, Sorcerer, or Bard Focus: *A mirror of finely wrought and highly
-polished silver costing not less than 1,000 gp. The mirror must be at
-least 2 feet by 4 feet.
+*Wizard, Sorcerer, or Bard Focus:* A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet.
 
 *Cleric Focus:* A holy water font costing not less than 100 gp.
 
@@ -231,10 +228,7 @@ Divination (Scrying)
 
 **Duration:** 1 hour/level
 
-This spell functions like *scrying*, except as noted above.
-Additionally, all of the following spells function reliably through the
-sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*,
-*detect magic*, *message*, *read magic*, and *tongues*.
+This spell functions like *scrying*, except as noted above. Additionally, all of the following spells function reliably through the sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*, *detect magic*, *message*, *read magic*, and *tongues*.
 
 ### Sculpt Sound
 
@@ -248,8 +242,7 @@ Transmutation
 
 **Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:** One creature or object/level, no two of which can be more
-than 30 ft. apart
+**Targets:** One creature or object/level, no two of which can be more than 30 ft. apart
 
 **Duration:** 1 hour/level (D)
 
@@ -257,16 +250,11 @@ than 30 ft. apart
 
 **Spell Resistance:** Yes (object)
 
-You change the sounds that creatures or objects make. You can create
-sounds where none exist, deaden sounds, or transform sounds into other
-sounds. All affected creatures or objects must be transmuted in the same
-way. Once the transmutation is made, you cannot change it.
+You change the sounds that creatures or objects make. You can create sounds where none exist, deaden sounds, or transform sounds into other sounds. All affected creatures or objects must be transmuted in the same way. Once the transmutation is made, you cannot change it.
 
-You can change the qualities of sounds but cannot create words with
-which you are unfamiliar yourself.
+You can change the qualities of sounds but cannot create words with which you are unfamiliar yourself.
 
-A spellcaster whose voice is changed dramatically is unable to cast
-spells with verbal components.
+A spellcaster whose voice is changed dramatically is unable to cast spells with verbal components.
 
 ### Searing Light
 
@@ -288,15 +276,7 @@ Evocation
 
 **Spell Resistance:** Yes
 
-Focusing divine power like a ray of the sun, you project a blast of
-light from your open palm. You must succeed on a ranged touch attack to
-strike your target. A creature struck by this ray of light takes 1d8
-points of damage per two caster levels (maximum 5d8). An undead creature
-takes 1d6 points of damage per caster level (maximum 10d6), and an
-undead creature particularly vulnerable to bright light takes 1d8 points
-of damage per caster level (maximum 10d8). A construct or inanimate
-object takes only 1d6 points of damage per two caster levels (maximum
-5d6).
+Focusing divine power like a ray of the sun, you project a blast of light from your open palm. You must succeed on a ranged touch attack to strike your target. A creature struck by this ray of light takes 1d8 points of damage per two caster levels (maximum 5d8). An undead creature takes 1d6 points of damage per caster level (maximum 10d6), and a undead creature particularly vulnerable to bright light takes 1d8 points of damage per caster level (maximum 10d8). A construct or inanimate object takes only 1d6 points of damage per two caster levels (maximum 5d6).
 
 ### Secret Chest
 
@@ -318,37 +298,17 @@ Conjuration (Summoning)
 
 **Spell Resistance:** No
 
-You hide a chest on the Ethereal Plane for as long as sixty days and can
-retrieve it at will. The chest can contain up to 1 cubic foot of
-material per caster level (regardless of the chest's actual size, which
-is about 3 feet by 2 feet by 2 feet). If any living creatures are in the
-chest, there is a 75% chance that the spell simply fails. Once the chest
-is hidden, you can retrieve it by concentrating (a standard action), and
-it appears next to you.
+You hide a chest on the Ethereal Plane for as long as sixty days and can retrieve it at will. The chest can contain up to 1 cubic foot of material per caster level (regardless of the chest's actual size, which is about 3 feet by 2 feet by 2 feet). If any living creatures are in the chest, there is a 75% chance that the spell simply fails. Once the chest is hidden, you can retrieve it by concentrating (a standard action), and it appears next to you.
 
-The chest must be exceptionally well crafted and expensive, constructed
-for you by master crafters. The cost of such a chest is never less than
-5,000 gp. Once it is constructed, you must make a tiny replica (of the
-same materials and perfect in every detail), so that the miniature of
-the chest appears to be a perfect copy. (The replica costs 50 gp.) You
-can have but one pair of these chests at any given time---even a *wish
-*spell does not allow more. The chests are nonmagical and can be fitted
-with locks, wards, and so on, just as any normal chest can be.
+The chest must be exceptionally well crafted and expensive, constructed for you by master crafters. The cost of such a chest is never less than 5,000 gp. Once it is constructed, you must make a tiny replica (of the same materials and perfect in every detail), so that the miniature of the chest appears to be a perfect copy. (The replica costs 50 gp.) You can have but one pair of these chests at any given time---even a *wish* spell does not allow more. The chests are nonmagical and can be fitted with locks, wards, and so on, just as any normal chest can be.
 
-To hide the chest, you cast the spell while touching both the chest and
-the replica. The chest vanishes into the Ethereal Plane. You need the
-replica to recall the chest. After sixty days, there is a cumulative
-chance of 5% per day that the chest is irretrievably lost. If the
-miniature of the chest is lost or destroyed, there is no way, not even
-with a *wish *spell, that the large chest can be summoned back, although
-an extraplanar expedition might be mounted to find it.
+To hide the chest, you cast the spell while touching both the chest and the replica. The chest vanishes into the Ethereal Plane. You need the replica to recall the chest. After sixty days, there is a cumulative chance of 5% per day that the chest is irretrievably lost. If the miniature of the chest is lost or destroyed, there is no way, not even with a *wish* spell, that the large chest can be summoned back, although an extraplanar expedition might be mounted to find it.
 
-Living things in the chest eat, sleep, and age normally, and they die if
-they run out of food, air, water, or whatever they need to survive.
+Living things in the chest eat, sleep, and age normally, and they die if they run out of food, air, water, or whatever they need to survive.
 
-*Focus: *The chest and its replica.
+*Focus:* The chest and its replica.
 
-Secret Page
+### Secret Page
 
 Transmutation
 
@@ -368,23 +328,11 @@ Transmutation
 
 **Spell Resistance:** No
 
-S*ecret page *alters the contents of a page so that they appear to be
-something entirely different. The text of a spell can be changed to show
-even another spell. *Explosive runes *or *sepia snake sigil *can be cast
-upon the *secret page.*
+*Secret page* alters the contents of a page so that they appear to be something entirely different. The text of a spell can be changed to show even another spell. *Explosive runes* or *sepia snake sigil* can be cast upon the *secret page.*
 
-A *comprehend languages *spell alone cannot reveal a *secret page*'s
-contents. You are able to reveal the original contents by speaking a
-special word. You can then peruse the actual page, and return it to its
-*secret page *form at will. You can also remove the spell by double
-repetition of the special word. A *detect magic *spell reveals dim magic
-on the page in question but does not reveal its true contents. T*rue
-seeing *reveals the presence of the hidden material but does not reveal
-the contents unless cast in combination with *comprehend languages. *A
-*secret page *spell can be dispelled, and the hidden writings can be
-destroyed by means of an *erase *spell.
+A *comprehend languages* spell alone cannot reveal a *secret page*'s contents. You are able to reveal the original contents by speaking a special word. You can then peruse the actual page, and return it to its *secret page* form at will. You can also remove the spell by double repetition of the special word. A *detect magic* spell reveals dim magic on the page in question but does not reveal its true contents. *True seeing* reveals the presence of the hidden material but does not reveal the contents unless cast in combination with *comprehend languages.* A *secret page* spell can be dispelled, and the hidden writings can be destroyed by means of an *erase* spell.
 
-*Material Component: *Powdered herring scales and will-o'-wisp essence.
+*Material Component:* Powdered herring scales and will-o'-wisp essence.
 
 ### Secure Shelter
 
@@ -406,36 +354,17 @@ Conjuration (Creation)
 
 **Spell Resistance:** No
 
-You conjure a sturdy cottage or lodge made of material that is common in
-the area where the spell is cast. The floor is level, clean, and dry. In
-all respects the lodging resembles a normal cottage, with a sturdy door,
-two shuttered windows, and a small fireplace.
+You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. In all respects the lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.
 
-The shelter has no heating or cooling source (other than natural
-insulation qualities). Therefore, it must be heated as a normal
-dwelling, and extreme heat adversely affects it and its occupants. The
-dwelling does, however, provide considerable security otherwise---it is
-as strong as a normal stone building, regardless of its material
-composition. The dwelling resists flames and fire as if it were stone.
-It is impervious to normal missiles (but not the sort cast by siege
-engines or giants).
+The shelter has no heating or cooling source (other than natural insulation qualities). Therefore, it must be heated as a normal dwelling, and extreme heat adversely affects it and its occupants. The dwelling does, however, provide considerable security otherwise---it is as strong as a normal stone building, regardless of its material composition. The dwelling resists flames and fire as if it were stone. It is impervious to normal missiles (but not the sort cast by siege engines or giants).
 
-The door, shutters, and even chimney are secure against intrusion, the
-former two being *arcane locked *and the latter secured by an iron grate
-at the top and a narrow flue. In addition, these three areas are
-protected by an *alarm *spell. Finally, an *unseen servant *is conjured
-to provide service to you for the duration of the shelter.
+The door, shutters, and even chimney are secure against intrusion, the former two being *arcane locked* and the latter secured by an iron grate at the top and a narrow flue. In addition, these three areas are protected by an *alarm* spell. Finally, an *unseen servant* is conjured to provide service to you for the duration of the shelter.
 
-The *secure shelter *contains rude furnishings ---eight bunks, a trestle
-table, eight stools, and a writing desk.
+The *secure shelter* contains rude furnishings ---eight bunks, a trestle table, eight stools, and a writing desk.
 
-*Material Component: *A square chip of stone, crushed lime, a few grains
-of sand, a sprinkling of water, and several splinters of wood. These
-must be augmented by the components of the *unseen servant *spell
-(string and a bit of wood) if this benefit is to be included.
+*Material Component:* A square chip of stone, crushed lime, a few grains of sand, a sprinkling of water, and several splinters of wood. These must be augmented by the components of the *unseen servant* spell (string and a bit of wood) if this benefit is to be included.
 
-*Focus: *The focus of the *alarm *spell (silver wire and a tiny bell) if
-this benefit is to be included.
+*Focus:* The focus of the *alarm* spell (silver wire and a tiny bell) if this benefit is to be included.
 
 ### See Invisibility
 
@@ -453,21 +382,13 @@ Divination
 
 **Duration:** 10 min./level (D)
 
-You can see any objects or beings that are invisible within your range
-of vision, as well as any that are ethereal, as if they were normally
-visible. Such creatures are visible to you as translucent shapes,
-allowing you easily to discern the difference between visible,
-invisible, and ethereal creatures.
+You can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.
 
-The spell does not reveal the method used to obtain invisibility. It
-does not reveal illusions or enable you to see through opaque objects.
-It does not reveal creatures who are simply hiding, concealed, or
-otherwise hard to see.
+The spell does not reveal the method used to obtain invisibility. It does not reveal illusions or enable you to see through opaque objects. It does not reveal creatures who are simply hiding, concealed, or otherwise hard to see.
 
-*See invisibility *can be made permanent with a *permanency *spell.
+*See invisibility* can be made permanent with a *permanency* spell.
 
-*Material Component: *A pinch of talc and a small sprinkling of powdered
-silver.
+*Material Component:* A pinch of talc and a small sprinkling of powdered silver.
 
 ### Seeming
 
@@ -490,12 +411,9 @@ than 30 ft. apart
 
 **Spell Resistance:** Yes or No; see text
 
-This spell functions like *disguise self, *except that you can change
-the appearance of other people as well. Affected creatures resume their
-normal appearances if slain.
+This spell functions like *disguise self,* except that you can change the appearance of other people as well. Affected creatures resume their normal appearances if slain.
 
-Unwilling targets can negate the spell's effect on them by making Will
-saves or with spell resistance.
+Unwilling targets can negate the spell's effect on them by making Will saves or with spell resistance.
 
 ### Sending
 
@@ -517,19 +435,11 @@ Evocation
 
 **Spell Resistance:** No
 
-You contact a particular creature with which you are familiar and send a
-short message of twenty-five words or less to the subject. The subject
-recognizes you if it knows you. It can answer in like manner
-immediately. A creature with an Intelligence score as low as 1 can
-understand the *sending, *though the subject's ability to react is
-limited as normal by its Intelligence score. Even if the *sending *is
-received, the subject is not obligated to act upon it in any manner.
+You contact a particular creature with which you are familiar and send a short message of twenty-five words or less to the subject. The subject recognizes you if it knows you. It can answer in like manner immediately. A creature with an Intelligence score as low as 1 can understand the *sending,* though the subject's ability to react is limited as normal by its Intelligence score. Even if the *sending* is received, the subject is not obligated to act upon it in any manner.
 
-If the creature in question is not on the same plane of existence as you
-are, there is a 5% chance that the *sending *does not arrive. (Local
-conditions on other planes may worsen this chance considerably.)
+If the creature in question is not on the same plane of existence as you are, there is a 5% chance that the *sending* does not arrive. (Local conditions on other planes may worsen this chance considerably.)
 
-*Arcane Material Component: *A short piece of fine copper wire.
+*Arcane Material Component:* A short piece of fine copper wire.
 
 ### Sepia Snake Sigil
 
@@ -545,35 +455,17 @@ Conjuration (Creation) \[Force\]
 
 **Target:** One touched book or written work
 
-**Duration:** Permanent or until discharged; until released or 1d4
-days + one day/level; see text
+**Duration:** Permanent or until discharged; until released or 1d4 days + one day/level; see text
 
 **Saving Throw:** Reflex negates
 
 **Spell Resistance:** No
 
-When you cast *sepia snake sigil, *a small symbol appears in the text of
-one written work such as a book, scroll, or map. The text containing the
-symbol must be at least twenty-five words long. When anyone reads the
-text containing the symbol, the *sepia snake *springs into being and
-strikes the reader, provided there is line of effect between the symbol
-and the reader.
+When you cast *sepia snake sigil,* a small symbol appears in the text of one written work such as a book, scroll, or map. The text containing the symbol must be at least twenty-five words long. When anyone reads the text containing the symbol, the *sepia snake* springs into being and strikes the reader, provided there is line of effect between the symbol and the reader.
 
-Simply seeing the enspelled text is not sufficient to trigger the spell;
-the subject must deliberately read it. The target is entitled to a save
-to evade the snake's strike. If it succeeds, the *sepia snake
-*dissipates in a flash of brown light accompanied by a puff of
-dun-colored smoke and a loud noise. If the target fails its save, it is
-engulfed in a shimmering amber field of force and immobilized until
-released, either at your command or when 1d4 days + one day per caster
-level have elapsed.
+Simply seeing the enspelled text is not sufficient to trigger the spell; the subject must deliberately read it. The target is entitled to a save to evade the snake's strike. If it succeeds, the *sepia snake* dissipates in a flash of brown light accompanied by a puff of dun-colored smoke and a loud noise. If the target fails its save, it is engulfed in a shimmering amber field of force and immobilized until released, either at your command or when 1d4 days + one day per caster level have elapsed.
 
-While trapped in the amber field of force, the subject does not age,
-breathe, grow hungry, sleep, or regain spells. It is preserved in a
-state of suspended animation, unaware of its surroundings. It can be
-damaged by outside forces (and perhaps even killed), since the field
-provides no protection against physical injury. However, a dying subject
-does not lose hit points or become stable until the spell ends.
+While trapped in the amber field of force, the subject does not age, breathe, grow hungry, sleep, or regain spells. It is preserved in a state of suspended animation, unaware of its surroundings. It can be damaged by outside forces (and perhaps even killed), since the field provides no protection against physical injury. However, a dying subject does not lose hit points or become stable until the spell ends.
 
 The hidden sigil cannot be detected by normal observation, and *detect magic* reveals only that the entire text is magical.
 
@@ -595,8 +487,7 @@ Abjuration
 
 **Range:** Touch
 
-**Target:** One willing creature or object (up to a 2-ft. cube/level)
-touched
+**Target:** One willing creature or object (up to a 2-ft. cube/level) touched
 
 **Duration:** One day/level (D)
 
@@ -604,18 +495,9 @@ touched
 
 **Spell Resistance:** No or Yes (object)
 
-When cast, this spell not only prevents divination spells from working
-to detect or locate the creature or object affected by *sequester, *it
-also renders the affected creature or object invisible to any form of
-sight or seeing (as the *invisibility *spell). The spell does not
-prevent the subject from being discovered through tactile means or
-through the use of devices. Creatures affected by *sequester *become
-comatose and are effectively in a state of suspended animation until the
-spell wears off or is dispelled.
+When cast, this spell not only prevents divination spells from working to detect or locate the creature or object affected by *sequester,* it also renders the affected creature or object invisible to any form of sight or seeing (as the *invisibility* spell). The spell does not prevent the subject from being discovered through tactile means or through the use of devices. Creatures affected by *sequester* become comatose and are effectively in a state of suspended animation until the spell wears off or is dispelled.
 
-*Note: *The Will save prevents an attended or magical object from being
-*sequestered. *There is no save to see the *sequestered *creature or
-object or to detect it with a divination spell.
+*Note:* The Will save prevents an attended or magical object from being *sequestered.* There is no save to see the *sequestered* creature or object or to detect it with a divination spell.
 
 *Material Component:* A basilisk eyelash, gum arabic, and a dram of whitewash.
 
@@ -625,11 +507,7 @@ Illusion (Shadow)
 
 **Level:** Sor/Wiz 9
 
-This spell functions like *shadow conjuration, *except that it mimics
-sorcerer and wizard conjuration spells of 8th level or lower. The
-illusory conjurations created deal four-fifths (80%) damage to
-nonbelievers, and nondamaging effects are 80% likely to work against
-nonbelievers.
+This spell functions like *shadow conjuration,* except that it mimics sorcerer and wizard conjuration spells of 8th level or lower. The illusory conjurations created deal four-fifths (80%) damage to nonbelievers, and nondamaging effects are 80% likely to work against nonbelievers.
 
 ### Shadow Conjuration
 
@@ -651,43 +529,19 @@ Illusion (Shadow)
 
 **Spell Resistance:** Yes; see text
 
-You use material from the Plane of Shadow to shape quasi-real illusions
-of one or more creatures, objects, or forces. *Shadow conjuration *can
-mimic any sorcerer or wizard conjuration (summoning) or conjuration
-(creation) spell of 3rd level or lower.
+You use material from the Plane of Shadow to shape quasi-real illusions of one or more creatures, objects, or forces. *Shadow conjuration* can mimic any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 3rd level or lower.
 
-*Shadow conjurations *are actually one-fifth (20%) as strong as the real
-things, though creatures who believe the *shadow conjurations *to be
-real are affected by them at full strength.
+*Shadow conjurations* are actually one-fifth (20%) as strong as the real things, though creatures who believe the *shadow conjurations* to be real are affected by them at full strength.
 
-Any creature that interacts with the conjured object, force, or creature
-can make a Will save to recognize its true nature.
+Any creature that interacts with the conjured object, force, or creature can make a Will save to recognize its true nature.
 
-Spells that deal damage have normal effects unless the affected creature
-succeeds on a Will save. Each disbelieving creature takes only one-fifth
-(20%) damage from the attack. If the disbelieved attack has a special
-effect other than damage, that effect is only 20% likely to occur.
-Regardless of the result of the save to disbelieve, an affected creature
-is also allowed any save that the spell being simulated allows, but the
-save DC is set according to *shadow conjuration*'s level (4th) rather
-than the spell's normal level. In addition, any effect created by
-*shadow conjuration *allows spell resistance, even if the spell it is
-simulating does not. Shadow objects or substances have normal effects
-except against those who disbelieve them.
+Spells that deal damage have normal effects unless the affected creature succeeds on a Will save. Each disbelieving creature takes only one-fifth (20%) damage from the attack. If the disbelieved attack has a special effect other than damage, that effect is only 20% likely to occur. Regardless of the result of the save to disbelieve, an affected creature is also allowed any save that the spell being simulated allows, but the save DC is set according to *shadow conjuration*'s level (4th) rather than the spell's normal level. In addition, any effect created by *shadow conjuration* allows spell resistance, even if the spell it is simulating does not. Shadow objects or substances have normal effects except against those who disbelieve them.
 
 Against disbelievers, they are 20% likely to work.
 
-A shadow creature has one-fifth the hit points of a normal creature of
-its kind (regardless of whether it's recognized as shadowy). It deals
-normal damage and has all normal abilities and weaknesses. Against a
-creature that recognizes it as a shadow creature, however, the shadow
-creature's damage is one-fifth (20%) normal, and all special abilities
-that do not deal lethal damage are only 20% likely to work. (Roll for
-each use and each affected character separately.) Furthermore, the
-shadow creature's AC bonuses are one-fifth as large.
+A shadow creature has one-fifth the hit points of a normal creature of its kind (regardless of whether it's recognized as shadowy). It deals normal damage and has all normal abilities and weaknesses. Against a creature that recognizes it as a shadow creature, however, the shadow creature's damage is one-fifth (20%) normal, and all special abilities that do not deal lethal damage are only 20% likely to work. (Roll for each use and each affected character separately.) Furthermore, the shadow creature's AC bonuses are one-fifth as large.
 
-A creature that succeeds on its save sees the *shadow conjurations *as
-transparent images superimposed on vague, shadowy forms.
+A creature that succeeds on its save sees the *shadow conjurations* as transparent images superimposed on vague, shadowy forms.
 
 Objects automatically succeed on their Will saves against this spell.
 
@@ -697,11 +551,7 @@ Illusion (Shadow)
 
 **Level:** Sor/Wiz 7
 
-This spell functions like *shadow conjuration, *except that it can
-duplicate any sorcerer or wizard conjuration (summoning) or conjuration
-(creation) spell of 6th level or lower. The illusory conjurations
-created deal three-fifths (60%) damage to nonbelievers, and nondamaging
-effects are 60% likely to work against nonbelievers.
+This spell functions like *shadow conjuration,* except that it can duplicate any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.
 
 ### Shadow Evocation
 
@@ -723,24 +573,11 @@ Illusion (Shadow)
 
 **Spell Resistance:** Yes
 
-You tap energy from the Plane of Shadow to cast a quasi-real, illusory
-version of a sorcerer or wizard evocation spell of 4th level or lower.
-(For a spell with more than one level, use the best one applicable to
-you.)
+You tap energy from the Plane of Shadow to cast a quasi-real, illusory version of a sorcerer or wizard evocation spell of 4th level or lower. (For a spell with more than one level, use the best one applicable to you.)
 
-Spells that deal damage have normal effects unless an affected creature
-succeeds on a Will save. Each disbelieving creature takes only one-fifth
-damage from the attack. If the disbelieved attack has a special effect
-other than damage, that effect is one-fifth as strong (if applicable) or
-only 20% likely to occur. If recognized as a *shadow evocation, *a
-damaging spell deals only one-fifth (20%) damage. Regardless of the
-result of the save to disbelieve, an affected creature is also allowed
-any save (or spell resistance) that the spell being simulated allows,
-but the save DC is set according to *shadow evocation'*s level (5th)
-rather than the spell's normal level.
+Spells that deal damage have normal effects unless an affected creature succeeds on a Will save. Each disbelieving creature takes only one-fifth damage from the attack. If the disbelieved attack has a special effect other than damage, that effect is one-fifth as strong (if applicable) or only 20% likely to occur. If recognized as a *shadow evocation,* a damaging spell deals only one-fifth (20%) damage. Regardless of the result of the save to disbelieve, an affected creature is also allowed any save (or spell resistance) that the spell being simulated allows, but the save DC is set according to *shadow evocation'*s level (5th) rather than the spell's normal level.
 
-Nondamaging effects have normal effects except against those who
-disbelieve them. Against disbelievers, they have no effect.
+Nondamaging effects have normal effects except against those who disbelieve them. Against disbelievers, they have no effect.
 
 Objects automatically succeed on their Will saves against this spell.
 
@@ -750,11 +587,7 @@ Illusion (Shadow)
 
 **Level:** Sor/Wiz 8
 
-This spell functions like *shadow evocation, *except that it enables you
-to create partially real, illusory versions of sorcerer or wizard
-evocation spells of 7th level or lower. If recognized as a *greater
-shadow evocation*, a damaging spell deals only three-fifths (60%)
-damage.
+This spell functions like *shadow evocation,* except that it enables you to create partially real, illusory versions of sorcerer or wizard evocation spells of 7th level or lower. If recognized as a *greater shadow evocation*, a damaging spell deals only three-fifths (60%) damage.
 
 ### Shadow Walk
 
@@ -776,45 +609,17 @@ Illusion (Shadow)
 
 **Spell Resistance:** Yes
 
-To use the *shadow walk *spell, you must be in an area of shadowy
-illumination. You and any creature you touch are then transported along
-a coiling path of shadowstuff to the edge of the Material Plane where it
-borders the Plane of Shadow. The effect is largely illusory, but the
-path is quasi-real. You can take more than one creature along with you
-(subject to your level limit), but all must be touching each other.
+To use the *shadow walk* spell, you must be in an area of shadowy illumination. You and any creature you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real. You can take more than one creature along with you (subject to your level limit), but all must be touching each other.
 
-In the region of shadow, you move at a rate of 50 miles per hour, moving
-normally on the borders of the Plane of Shadow but much more rapidly
-relative to the Material Plane. Thus, you can use this spell to travel
-rapidly by stepping onto the Plane of Shadow, moving the desired
-distance, and then stepping back onto the Material Plane.
+In the region of shadow, you move at a rate of 50 miles per hour, moving normally on the borders of the Plane of Shadow but much more rapidly relative to the Material Plane. Thus, you can use this spell to travel rapidly by stepping onto the Plane of Shadow, moving the desired distance, and then stepping back onto the Material Plane.
 
-Because of the blurring of reality between the Plane of Shadow and the
-Material Plane, you can't make out details of the terrain or areas you
-pass over during transit, nor can you predict perfectly where your
-travel will end. It's impossible to judge distances accurately, making
-the spell virtually useless for scouting or spying. Furthermore, when
-the spell effect ends, you are shunted 1d10x100 feet in a random
-horizontal direction from your desired endpoint. If this would place you
-within a solid object, you are shunted 1d10x1,000 feet in the same
-direction. If this would still place you within a solid object, you (and
-any creatures with you) are shunted to the nearest empty space
-available, but the strain of this activity renders each creature
-fatigued (no save).
+Because of the blurring of reality between the Plane of Shadow and the Material Plane, you can't make out details of the terrain or areas you pass over during transit, nor can you predict perfectly where your travel will end. It's impossible to judge distances accurately, making the spell virtually useless for scouting or spying. Furthermore, when the spell effect ends, you are shunted 1d10x100 feet in a random horizontal direction from your desired endpoint. If this would place you within a solid object, you are shunted 1d10x1,000 feet in the same direction. If this would still place you within a solid object, you (and any creatures with you) are shunted to the nearest empty space available, but the strain of this activity renders each creature fatigued (no save).
 
-*Shadow walk *can also be used to travel to other planes that border on
-the Plane of Shadow, but this usage requires the transit of the Plane of
-Shadow to arrive at a border with another plane of reality. The transit
-of the Plane of Shadow requires 1d4 hours.
+*Shadow walk* can also be used to travel to other planes that border on the Plane of Shadow, but this usage requires the transit of the Plane of Shadow to arrive at a border with another plane of reality. The transit of the Plane of Shadow requires 1d4 hours.
 
-Any creatures touched by you when *shadow walk *is cast also make the
-transition to the borders of the Plane of Shadow.
+Any creatures touched by you when *shadow walk* is cast also make the transition to the borders of the Plane of Shadow.
 
-They may opt to follow you, wander off through the plane, or stumble
-back into the Material Plane (50% chance for either of the latter
-results if they are lost or abandoned by you). Creatures unwilling to
-accompany you into the Plane of Shadow receive a Will saving throw,
-negating the effect if successful.
+They may opt to follow you, wander off through the plane, or stumble back into the Material Plane (50% chance for either of the latter results if they are lost or abandoned by you). Creatures unwilling to accompany you into the Plane of Shadow receive a Will saving throw, negating the effect if successful.
 
 ### Shambler
 
@@ -828,8 +633,7 @@ Conjuration (Creation)
 
 **Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:** Three or more shambling mounds, no two of which can be more
-than 30 ft. apart; see text
+**Effect:** Three or more shambling mounds, no two of which can be more than 30 ft. apart; see text
 
 **Duration:** Seven days or seven months (D); see text
 
@@ -837,18 +641,9 @@ than 30 ft. apart; see text
 
 **Spell Resistance:** No
 
-The *shambler *spell creates 1d4+2 shambling mounds with 11 HD each. The
-creatures willingly aid you in combat or battle, perform a specific
-mission, or serve as bodyguards. The creatures remain with you for seven
-days unless you dismiss them. If the shamblers are created only for
-guard duty, however, the duration of the spell is seven months. In this
-case, the shamblers can only be ordered to guard a specific site or
-location. Shamblers summoned to guard duty cannot move outside the
-spell's range, which is measured from the point where each first
-appeared.
+The *shambler* spell creates 1d4+2 shambling mounds with 11 HD each. The creatures willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for seven days unless you dismiss them. If the shamblers are created only for guard duty, however, the duration of the spell is seven months. In this case, the shamblers can only be ordered to guard a specific site or location. Shamblers summoned to guard duty cannot move outside the spell's range, which is measured from the point where each first appeared.
 
-The shamblers have resistance to fire as normal shambling mounds do only
-if the terrain is rainy, marshy, or damp.
+The shamblers have resistance to fire as normal shambling mounds do only if the terrain is rainy, marshy, or damp.
 
 ### Shapechange
 
@@ -866,24 +661,11 @@ Transmutation
 
 **Duration:** 10 min./level (D)
 
-This spell functions like *polymorph, *except that it enables you to
-assume the form of any single nonunique creature (of any type) from Fine
-to Colossal size. The assumed form cannot have more than your caster
-level in Hit Dice (to a maximum of 25 HD). Unlike *polymorph, *this
-spell allows incorporeal or gaseous forms to be assumed.
+This spell functions like *polymorph,* except that it enables you to assume the form of any single nonunique creature (of any type) from Fine to Colossal size. The assumed form cannot have more than your caster level in Hit Dice (to a maximum of 25 HD). Unlike *polymorph,* this spell allows incorporeal or gaseous forms to be assumed.
 
-You gain all extraordinary and supernatural abilities (both attacks and
-qualities) of the assumed form, but you lose your own supernatural
-abilities. You also gain the type of the new form in place of your own.
-The new form does not disorient you. Parts of your body or pieces of
-equipment that are separated from you do not revert to their original
-forms.
+You gain all extraordinary and supernatural abilities (both attacks and qualities) of the assumed form, but you lose your own supernatural abilities. You also gain the type of the new form in place of your own. The new form does not disorient you. Parts of your body or pieces of equipment that are separated from you do not revert to their original forms.
 
-You can become just about anything you are familiar with. You can change
-form once each round as a free action. The change takes place either
-immediately before your regular action or immediately after it, but not
-during the action. If you use this spell to create a disguise, you get a
-+10 bonus on your Disguise check.
+You can become just about anything you are familiar with. You can change form once each round as a free action. The change takes place either immediately before your regular action or immediately after it, but not during the action. If you use this spell to create a disguise, you get a +10 bonus on your Disguise check.
 
 *Focus:* A jade circlet worth no less than 1,500 gp, which you must place on your head when casting the spell. (The focus melds into your new form when you change shape.)
 
@@ -1010,25 +792,11 @@ Abjuration
 
 **Spell Resistance:** Yes (harmless)
 
-This spell wards the subject and creates a mystic connection between you
-and the subject so that some of its wounds are transferred to you. The
-subject gains a +1 deflection bonus to AC and a +1 resistance bonus on
-saves. Additionally, the subject takes only half damage from all wounds
-and attacks (including that dealt by special abilities) that deal hit
-point damage. The amount of damage not taken by the warded creature is
-taken by you. Forms of harm that do not involve hit points, such as
-*charm *effects, temporary ability damage, level draining, and death
-effects, are not affected. If the subject suffers a reduction of hit
-points from a lowered Constitution score, the reduction is not split
-with you because it is not hit point damage. When the spell ends,
-subsequent damage is no longer divided between the subject and you, but
-damage already split is not reassigned to the subject.
+This spell wards the subject and creates a mystic connection between you and the subject so that some of its wounds are transferred to you. The subject gains a +1 deflection bonus to AC and a +1 resistance bonus on saves. Additionally, the subject takes only half damage from all wounds and attacks (including that dealt by special abilities) that deal hit point damage. The amount of damage not taken by the warded creature is taken by you. Forms of harm that do not involve hit points, such as *charm* effects, temporary ability damage, level draining, and death effects, are not affected. If the subject suffers a reduction of hit points from a lowered Constitution score, the reduction is not split with you because it is not hit point damage. When the spell ends, subsequent damage is no longer divided between the subject and you, but damage already split is not reassigned to the subject.
 
-If you and the subject of the spell move out of range of each other, the
-spell ends.
+If you and the subject of the spell move out of range of each other, the spell ends.
 
-*Focus:* A pair of platinum rings (worth at least 50 gp each) worn by
-both you and the warded creature.
+*Focus:* A pair of platinum rings (worth at least 50 gp each) worn by both you and the warded creature.
 
 ### Shillelagh
 
@@ -1050,14 +818,7 @@ Transmutation
 
 **Spell Resistance:** Yes (object)
 
-Your own nonmagical club or quarterstaff becomes a weapon with a +1
-enhancement bonus on attack and damage rolls. (A quarterstaff gains this
-enhancement for both ends of the weapon.) It deals damage as if it were
-two size categories larger (a Small club or quarterstaff so transmuted
-deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its
-enhancement bonus. These effects only occur when the weapon is wielded
-by you. If you do not wield it, the weapon behaves as if unaffected by
-this spell.
+Your own nonmagical club or quarterstaff becomes a weapon with a +1 enhancement bonus on attack and damage rolls. (A quarterstaff gains this enhancement for both ends of the weapon.) It deals damage as if it were two size categories larger (a Small club or quarterstaff so transmuted deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its enhancement bonus. These effects only occur when the weapon is wielded by you. If you do not wield it, the weapon behaves as if unaffected by this spell.
 
 ### Shocking Grasp
 
@@ -1079,10 +840,7 @@ Evocation \[Electricity\]
 
 **Spell Resistance:** Yes
 
-Your successful melee touch attack deals 1d6 points of electricity
-damage per caster level (maximum 5d6). When delivering the jolt, you
-gain a +3 bonus on attack rolls if the opponent is wearing metal armor
-(or made out of metal, carrying a lot of metal, or the like).
+Your successful melee touch attack deals 1d6 points of electricity damage per caster level (maximum 5d6). When delivering the jolt, you gain a +3 bonus on attack rolls if the opponent is wearing metal armor (or made out of metal, carrying a lot of metal, or the like).
 
 ### Shout
 
@@ -1681,16 +1439,12 @@ If you and a spellcasting attacker are both warded by *spell turning* effects in
 
 Roll randomly to determine the result.
 
-  --------- ------------------------------------------------------------------
-  **d%**    **Effect**
-            
-  01--70    Spell drains away without effect.
-  71--80    Spell affects both of you equally at full effect.
-  81--97    Both turning effects are rendered nonfunctional for 1d4 minutes.
-            
-  98--100   Both of you go through a rift into another plane.
-            
-  --------- ------------------------------------------------------------------
+| d%      | Effect
+|---------|------------------------------------------------------------------
+| 01--70  | Spell drains away without effect.
+| 71--80  | Spell affects both of you equally at full effect.
+| 81--97  | Both turning effects are rendered nonfunctional for 1d4 minutes.
+| 98--100 | Both of you go through a rift into another plane.
 
 *Arcane Material Component:* A small silver mirror.
 
@@ -2190,144 +1944,525 @@ Conjuration (Summoning) \[see text for *summon monster I*\]
 
 This spell functions like *summon monster I,* except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
-  --------------------------------------------------------------- ----
-  **Summon Monster**                                              
-                                                                  
-  **1st Level**                                                   
-  Celestial dog                                                   LG
-  Celestial owl                                                   LG
-  Celestial giant fire beetle                                     NG
-  Celestial porpoise**^1^**                                       NG
-  Celestial badger                                                CG
-  Celestial monkey                                                CG
-  Fiendish dire rat                                               LE
-  Fiendish raven                                                  LE
-  Fiendish monstrous centipede, Medium                            NE
-  Fiendish monstrous scorpion, Small                              NE
-  Fiendish hawk                                                   CE
-  Fiendish monstrous spider, Small                                CE
-  Fiendish octopus**^1^**                                         CE
-  Fiendish snake, Small viper                                     CE
-  **2nd Level**                                                   
-  Celestial giant bee                                             LG
-  Celestial giant bombardier beetle                               NG
-  Celestial riding dog                                            NG
-  Celestial eagle                                                 CG
-  Lemure (devil)                                                  LE
-  Fiendish squid**^1^**                                           LE
-  Fiendish wolf                                                   LE
-  Fiendish monstrous centipede, Large                             NE
-  Fiendish monstrous scorpion, Medium                             NE
-  Fiendish shark, Medium**^1^**                                   NE
-  Fiendish monstrous spider, Medium                               CE
-  Fiendish snake, Medium viper                                    CE
-  **3rd Level**                                                   
-  Celestial black bear                                            LG
-  Celestial bison                                                 NG
-  Celestial dire badger                                           CG
-  Celestial hippogriff                                            CG
-  Elemental, Small (any)                                          N
-  Fiendish ape                                                    LE
-  Fiendish dire weasel                                            LE
-  Hell hound                                                      LE
-  Fiendish snake, constrictor                                     LE
-  Fiendish boar                                                   NE
-  Fiendish dire bat                                               NE
-  Fiendish monstrous centipede, Huge                              NE
-  Fiendish crocodile                                              CE
-  Dretch (demon)                                                  CE
-  Fiendish snake, Large viper                                     CE
-  Fiendish wolverine                                              CE
-  **4th Level**                                                   
-  Archon, lantern                                                 LG
-  Celestial giant owl                                             LG
-  Celestial giant eagle                                           CG
-  Celestial lion                                                  CG
-  Mephit (any)                                                    N
-  Fiendish dire wolf                                              LE
-  Fiendish giant wasp                                             LE
-  Fiendish giant praying mantis                                   NE
-  Fiendish shark, Large**^1^**                                    NE
-  Yeth hound                                                      NE
-  Fiendish monstrous spider, Large                                CE
-  Fiendish snake, Huge viper                                      CE
-  Howler                                                          CE
-  **5th Level**                                                   
-  Archon, hound                                                   LG
-  Celestial brown bear                                            LG
-  Celestial giant stag beetle                                     NG
-  Celestial sea cat**^1^**                                        NG
-  Celestial griffon                                               CG
-  Elemental, Medium (any)                                         N
-  Achaierai                                                       LE
-  Devil, bearded                                                  LE
-  Fiendish deinonychus                                            LE
-  Fiendish dire ape                                               LE
-  Fiendish dire boar                                              NE
-  Fiendish shark, Huge                                            NE
-  Fiendish monstrous scorpion, Large                              NE
-  Shadow mastiff                                                  NE
-  Fiendish dire wolverine                                         CE
-  Fiendish giant crocodile                                        CE
-  Fiendish tiger                                                  CE
-  **6th Level**                                                   
-  Celestial polar bear                                            LG
-  Celestial orca whale**^1^**                                     NG
-  Bralani (eladrin)                                               CG
-  Celestial dire lion                                             CG
-  Elemental, Large (any)                                          N
-  Janni (genie)                                                   N
-  Chaos beast                                                     CN
-  Devil, chain                                                    LE
-  Xill                                                            LE
-  Fiendish monstrous centipede, Gargantuan                        NE
-  Fiendish rhinoceros                                             NE
-  Fiendish elasmosaurus**^1^**                                    CE
-  Fiendish monstrous spider, Huge                                 CE
-  Fiendish snake, giant constrictor                               CE
-  **7th Level**                                                   
-  Celestial elephant                                              LG
-  Avoral (guardinal)                                              NG
-  Celestial baleen whale**^1^**                                   NG
-  Djinni (genie)                                                  CG
-  Elemental, Huge (any)                                           N
-  Invisible stalker                                               N
-  Devil, bone                                                     LE
-  Fiendish megaraptor                                             LE
-  Fiendish monstrous scorpion, Huge                               NE
-  Babau (demon)                                                   CE
-  Fiendish giant octopus**^1^**                                   CE
-  Fiendish girallon                                               CE
-  **8th Level**                                                   
-  Celestial dire bear                                             LG
-  Celestial cachalot whale**^1^**                                 NG
-  Celestial triceratops                                           NG
-  Lillend                                                         CG
-  Elemental, greater (any)                                        N
-  Fiendish giant squid**^1^**                                     LE
-  Hellcat                                                         LE
-  Fiendish monstrous centipede, Colossal                          NE
-  Fiendish dire tiger                                             CE
-  Fiendish monstrous spider, Gargantuan                           CE
-  Fiendish tyrannosaurus                                          CE
-  Vrock (demon)                                                   CE
-  **9th Level**                                                   
-  Couatl                                                          LG
-  Leonal (guardinal)                                              NG
-  Celestial roc                                                   CG
-  Elemental, elder (any)                                          N
-  Devil, barbed                                                   LE
-  Fiendish dire shark**^1^**                                      NE
-  Fiendish monstrous scorpion, Gargantuan                         NE
-  Night hag                                                       NE
-  Bebilith (demon)                                                CE
-  Fiendish monstrous spider, Colossal                             CE
-                                                                  
-  Hezrou (demon)                                                  CE
-                                                                  
-  1 May be summoned only into an aquatic or watery environment.   
-                                                                  
-  --------------------------------------------------------------- ----
+<table>
+<tr>
+  <th colspan=2>Summon Monster</th>
+</tr>
+<tr>
+  <th colspan=2>1st Level</th>
+</tr>
+<tr>
+  <td>Celestial dog</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial owl</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial giant fire beetle</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial porpoise1</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial badger</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Celestial monkey</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Fiendish dire rat</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish raven</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous centipede, Medium</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous scorpion, Small</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish hawk</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Small</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish octopus1</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, Small viper</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>2nd Level</th>
+</tr>
+<tr>
+  <td>Celestial giant bee</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial giant bombardier beetle</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial riding dog</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial eagle</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Lemure (devil)</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish squid1</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish wolf</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous centipede, Large</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous scorpion, Medium</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish shark, Medium1</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Medium</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, Medium viper</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>3rd Level</th>
+</tr>
+<tr>
+  <td>Celestial black bear</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial bison</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial dire badger</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Celestial hippogriff</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, Small (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Fiendish ape</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish dire weasel</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Hell hound</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, constrictor</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish boar</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish dire bat</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous centipede, Huge</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish crocodile</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Dretch (demon)</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, Large viper</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish wolverine</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>4th Level</th>
+</tr>
+<tr>
+  <td>Archon, lantern</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial giant owl</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial giant eagle</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Celestial lion</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Mephit (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Fiendish dire wolf</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish giant wasp</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish giant praying mantis</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish shark, Large1</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Yeth hound</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Large</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, Huge viper</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Howler</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>5th Level</th>
+</tr>
+<tr>
+  <td>Archon, hound</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial brown bear</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial giant stag beetle</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial sea cat1</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial griffon</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, Medium (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Achaierai</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Devil, bearded</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish deinonychus</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish dire ape</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish dire boar</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish shark, Huge</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous scorpion, Large</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Shadow mastiff</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish dire wolverine</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish giant crocodile</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish tiger</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>6th Level</th>
+</tr>
+<tr>
+  <td>Celestial polar bear</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial orca whale1</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Bralani (eladrin)</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Celestial dire lion</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, Large (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Janni (genie)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Chaos beast</td>
+  <td>CN</td>
+</tr>
+<tr>
+  <td>Devil, chain</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Xill</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous centipede, Gargantuan</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish rhinoceros</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish elasmosaurus1</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Huge</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish snake, giant constrictor</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>7th Level</th>
+</tr>
+<tr>
+  <td>Celestial elephant</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Avoral (guardinal)</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial baleen whale1</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Djinni (genie)</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, Huge (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Invisible stalker</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Devil, bone</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish megaraptor</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous scorpion, Huge</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Babau (demon)</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish giant octopus1</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish girallon</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>8th Level</th>
+</tr>
+<tr>
+  <td>Celestial dire bear</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Celestial cachalot whale1</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial triceratops</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Lillend</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, greater (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Fiendish giant squid1</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Hellcat</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous centipede, Colossal</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish dire tiger</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Gargantuan</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish tyrannosaurus</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Vrock (demon)</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <th colspan=2>9th Level</th>
+</tr>
+<tr>
+  <td>Couatl</td>
+  <td>LG</td>
+</tr>
+<tr>
+  <td>Leonal (guardinal)</td>
+  <td>NG</td>
+</tr>
+<tr>
+  <td>Celestial roc</td>
+  <td>CG</td>
+</tr>
+<tr>
+  <td>Elemental, elder (any)</td>
+  <td>N</td>
+</tr>
+<tr>
+  <td>Devil, barbed</td>
+  <td>LE</td>
+</tr>
+<tr>
+  <td>Fiendish dire shark1</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous scorpion, Gargantuan</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Night hag</td>
+  <td>NE</td>
+</tr>
+<tr>
+  <td>Bebilith (demon)</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Fiendish monstrous spider, Colossal</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td>Hezrou (demon)</td>
+  <td>CE</td>
+</tr>
+<tr>
+  <td colspan=2>1 May be summoned only into an aquatic or watery environment.</td>
+</tr>
+</table>
 
 ### Summon Nature's Ally I
 
@@ -2383,12 +2518,9 @@ Conjuration (Summoning) \[see text\]
 
 **Level:** Animal 4, Drd 4, Rgr 4
 
-**Effect:** One or more creatures, no two of which can be more than 30
-ft. apart
+**Effect:** One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like *summon nature's ally I, *except that you can
-summon one 4th-level creature, 1d3 3rd-level creatures of the same kind,
-or 1d4+1 lower-level creatures of the same kind.
+This spell functions like *summon nature's ally I,* except that you can summon one 4th-level creature, 1d3 3rd-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
@@ -2452,109 +2584,311 @@ This spell functions like *summon nature's ally I,* except that you can summon o
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-  ---------------------------------------------------------------
-  **Summon Nature's Ally**
-  **1st Level**
-  Dire rat
-  Eagle (animal)
-  Monkey (animal)
-  Octopus**^1^ **(animal)
-  Owl (animal)
-  Porpoise**^1^ **(animal)
-  Snake, Small viper (animal)
-  Wolf (animal)
-  **2nd Level**
-  Bear, black (animal)
-  Crocodile (animal)
-  Dire badger
-  Dire bat
-  Elemental, Small (any)
-  Hippogriff
-  Shark, Medium**^1^ **(animal)
-  Snake, Medium viper (animal)
-  Squid**^1^ **(animal)
-  Wolverine (animal)
-  **3rd Level**
-  Ape (animal)
-  Dire weasel
-  Dire wolf
-  Eagle, giant \[NG\]
-  Lion
-  Owl, giant \[NG\]
-  Satyr \[CN; without pipes\]
-  Shark, Large**^1^ **(animal)
-  Snake, constrictor (animal)
-  Snake, Large viper (animal)
-  Thoqqua
-  **4th Level**
-  Arrowhawk, juvenile
-  Bear, brown (animal)
-  Crocodile, giant (animal)
-  Deinonychus (dinosaur)
-  Dire ape
-  Dire boar
-  Dire wolverine
-  Elemental, Medium (any)
-  Salamander, flamebrother \[NE\]
-  Sea cat**^1^**
-  Shark, Huge**^1^ **(animal)
-  Snake, Huge viper (animal)
-  Tiger (animal)
-  Tojanida, juvenile**^1^**
-  Unicorn \[CG\]
-  Xorn, minor
-  **5th Level**
-  Arrowhawk, adult
-  Bear, polar (animal)
-  Dire lion
-  Elasmosaurus**^1^ **(dinosaur)
-  Elemental, Large (any)
-  Griffon
-  Janni (genie)
-  Rhinoceros (animal)
-  Satyr \[CN; with pipes\]
-  Snake, giant constrictor (animal)
-  Nixie (sprite)
-  Tojanida, adult**^1^**
-  Whale, orca**^1^ **(animal)
-  **6th Level**
-  Dire bear
-  Elemental, Huge (any)
-  Elephant (animal)
-  Girallon
-  Megaraptor (dinosaur)
-  Octopus, giant**^1^ **(animal)
-  Pixie\* (sprite) \[NG; no special arrows\]
-  Salamander, average \[NE\]
-  Whale, baleen**^1^**
-  Xorn, average
-  \*Can't cast *irresistible dance*
-  **7th Level**
-  Arrowhawk, elder
-  Dire tiger
-  Elemental, greater (any)
-  Djinni (genie) \[NG\]
-  Invisible stalker
-  Pixie\* (sprite) \[NG; with sleep arrows\]
-  Squid, giant**^1^ **(animal)
-  Triceratops (dinosaur)
-  Tyrannosaurus (dinosaur)
-  Whale, cachalot**^1^ **(animal)
-  Xorn, elder
-  \*Can't cast *irresistible dance*
-  **8th Level**
-  Dire shark**^1^**
-  Roc
-  Salamander, noble \[NE\]
-  Tojanida, elder
-  **9th Level**
-  Elemental, elder
-  Grig \[NG; with fiddle\] (sprite)
-  Pixie\* (sprite) \[NG; with sleep and memory loss arrows\]
-  Unicorn, celestial charger
-  \*Can cast *irresistible dance*
-  1 May be summoned only into an aquatic or watery environment.
-  ---------------------------------------------------------------
+<table>
+<tr>
+  <th>Summon Nature's Ally</th>
+</tr>
+<tr>
+  <th>1st Level</th>
+</tr>
+<tr>
+  <td>Dire rat</td>
+</tr>
+<tr>
+  <td>Eagle (animal)</td>
+</tr>
+<tr>
+  <td>Monkey (animal)</td>
+</tr>
+<tr>
+  <td>Octopus<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Owl (animal)</td>
+</tr>
+<tr>
+  <td>Porpoise<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Snake, Small viper (animal)</td>
+</tr>
+<tr>
+  <td>Wolf (animal)</td>
+</tr>
+<tr>
+  <th>2nd Level</th>
+</tr>
+<tr>
+  <td>Bear, black (animal)</td>
+</tr>
+<tr>
+  <td>Crocodile (animal)</td>
+</tr>
+<tr>
+  <td>Dire badger</td>
+</tr>
+<tr>
+  <td>Dire bat</td>
+</tr>
+<tr>
+  <td>Elemental, Small (any)</td>
+</tr>
+<tr>
+  <td>Hippogriff</td>
+</tr>
+<tr>
+  <td>Shark, Medium<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Snake, Medium viper (animal)</td>
+</tr>
+<tr>
+  <td>Squid<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Wolverine (animal)</td>
+</tr>
+<tr>
+  <th>3rd Level</th>
+</tr>
+<tr>
+  <td>Ape (animal)</td>
+</tr>
+<tr>
+  <td>Dire weasel</td>
+</tr>
+<tr>
+  <td>Dire wolf</td>
+</tr>
+<tr>
+  <td>Eagle, giant [NG]</td>
+</tr>
+<tr>
+  <td>Lion</td>
+</tr>
+<tr>
+  <td>Owl, giant [NG]</td>
+</tr>
+<tr>
+  <td>Satyr [CN; without pipes]</td>
+</tr>
+<tr>
+  <td>Shark, Large<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Snake, constrictor (animal)</td>
+</tr>
+<tr>
+  <td>Snake, Large viper (animal)</td>
+</tr>
+<tr>
+  <td>Thoqqua</td>
+</tr>
+<tr>
+  <th>4th Level</th>
+</tr>
+<tr>
+  <td>Arrowhawk, juvenile</td>
+</tr>
+<tr>
+  <td>Bear, brown (animal)</td>
+</tr>
+<tr>
+  <td>Crocodile, giant (animal)</td>
+</tr>
+<tr>
+  <td>Deinonychus (dinosaur)</td>
+</tr>
+<tr>
+  <td>Dire ape</td>
+</tr>
+<tr>
+  <td>Dire boar</td>
+</tr>
+<tr>
+  <td>Dire wolverine</td>
+</tr>
+<tr>
+  <td>Elemental, Medium (any)</td>
+</tr>
+<tr>
+  <td>Salamander, flamebrother [NE]</td>
+</tr>
+<tr>
+  <td>Sea cat<sup>1</sup></td>
+</tr>
+<tr>
+  <td>Shark, Huge<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Snake, Huge viper (animal)</td>
+</tr>
+<tr>
+  <td>Tiger (animal)</td>
+</tr>
+<tr>
+  <td>Tojanida, juvenile<sup>1</sup></td>
+</tr>
+<tr>
+  <td>Unicorn [CG]</td>
+</tr>
+<tr>
+  <td>Xorn, minor</td>
+</tr>
+<tr>
+  <th>5th Level</th>
+</tr>
+<tr>
+  <td>Arrowhawk, adult</td>
+</tr>
+<tr>
+  <td>Bear, polar (animal)</td>
+</tr>
+<tr>
+  <td>Dire lion</td>
+</tr>
+<tr>
+  <td>Elasmosaurus<sup>1</sup> (dinosaur)</td>
+</tr>
+<tr>
+  <td>Elemental, Large (any)</td>
+</tr>
+<tr>
+  <td>Griffon</td>
+</tr>
+<tr>
+  <td>Janni (genie)</td>
+</tr>
+<tr>
+  <td>Rhinoceros (animal)</td>
+</tr>
+<tr>
+  <td>Satyr [CN; with pipes]</td>
+</tr>
+<tr>
+  <td>Snake, giant constrictor (animal)</td>
+</tr>
+<tr>
+  <td>Nixie (sprite)</td>
+</tr>
+<tr>
+  <td>Tojanida, adult<sup>1</sup></td>
+</tr>
+<tr>
+  <td>Whale, orca<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <th>6th Level</th>
+</tr>
+<tr>
+  <td>Dire bear</td>
+</tr>
+<tr>
+  <td>Elemental, Huge (any)</td>
+</tr>
+<tr>
+  <td>Elephant (animal)</td>
+</tr>
+<tr>
+  <td>Girallon</td>
+</tr>
+<tr>
+  <td>Megaraptor (dinosaur)</td>
+</tr>
+<tr>
+  <td>Octopus, giant<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Pixie* (sprite) [NG; no special arrows]</td>
+</tr>
+<tr>
+  <td>Salamander, average [NE]</td>
+</tr>
+<tr>
+  <td>Whale, baleen<sup>1</sup></td>
+</tr>
+<tr>
+  <td>Xorn, average</td>
+</tr>
+<tr>
+  <td>*Can't cast <em>irresistible dance</em></td>
+</tr>
+<tr>
+  <th>7th Level</th>
+</tr>
+<tr>
+  <td>Arrowhawk, elder</td>
+</tr>
+<tr>
+  <td>Dire tiger</td>
+</tr>
+<tr>
+  <td>Elemental, greater (any)</td>
+</tr>
+<tr>
+  <td>Djinni (genie) [NG]</td>
+</tr>
+<tr>
+  <td>Invisible stalker</td>
+</tr>
+<tr>
+  <td>Pixie* (sprite) [NG; with sleep arrows]</td>
+</tr>
+<tr>
+  <td>Squid, giant<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Triceratops (dinosaur)</td>
+</tr>
+<tr>
+  <td>Tyrannosaurus (dinosaur)</td>
+</tr>
+<tr>
+  <td>Whale, cachalot<sup>1</sup> (animal)</td>
+</tr>
+<tr>
+  <td>Xorn, elder</td>
+</tr>
+<tr>
+  <td>*Can't cast <em>irresistible dance</em></td>
+</tr>
+<tr>
+  <td>8th Level</td>
+</tr>
+<tr>
+  <td>Dire shark<sup>1</sup></td>
+</tr>
+<tr>
+  <td>Roc</td>
+</tr>
+<tr>
+  <td>Salamander, noble [NE]</td>
+</tr>
+<tr>
+  <td>Tojanida, elder</td>
+</tr>
+<tr>
+  <td>9th Level</td>
+</tr>
+<tr>
+  <td>Elemental, elder</td>
+</tr>
+<tr>
+  <td>Grig [NG; with fiddle] (sprite)</td>
+</tr>
+<tr>
+  <td>Pixie* (sprite) [NG; with sleep and memory loss arrows]</td>
+</tr>
+<tr>
+  <td>Unicorn, celestial charger</td>
+</tr>
+<tr>
+  <td>*Can cast <em>irresistible dance</em></td>
+</tr>
+<tr>
+  <td>1 May be summoned only into an aquatic or watery environment.</td>
+</tr>
+</table>
 
 ### Summon Swarm
 
@@ -2766,7 +3100,7 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Saving Throw:** Will negates
 
-This spell functions like *symbol of death*, except that all creatures within 60 feet of a *symbol of stunning *instead become stunned for 1d6 rounds.
+This spell functions like *symbol of death*, except that all creatures within 60 feet of a *symbol of stunning* instead become stunned for 1d6 rounds.
 
 *Note:* Magic traps such as *symbol of stunning* are hard to detect and disable. A rogue (only) can use the Search skill to find a *symbol of stunning* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 32 for *symbol of stunning*.
 
@@ -2806,21 +3140,13 @@ Evocation \[Sonic\]
 
 **Spell Resistance:** Yes
 
-By attuning yourself to a freestanding structure such you can create a
-damaging vibration within it. Once it begins, the vibration deals 2d10
-points of damage per round to the target structure. (Hardness has no
-effect on the spell's damage.) You can choose at the time of casting to
-limit the duration of the spell; otherwise it lasts for 1 round/ level.
-If the spell is cast upon a target that is not freestanding the
-surrounding stone dissipates the effect and no damage occurs.
+By attuning yourself to a freestanding structure such you can create a damaging vibration within it. Once it begins, the vibration deals 2d10 points of damage per round to the target structure. (Hardness has no effect on the spell's damage.) You can choose at the time of casting to limit the duration of the spell; otherwise it lasts for 1 round/ level. If the spell is cast upon a target that is not freestanding the surrounding stone dissipates the effect and no damage occurs.
 
-*Sympathetic vibration *cannot affect creatures (including constructs).
-Since a structure is an unattended object, it gets no saving throw to
-resist the effect.
+*Sympathetic vibration* cannot affect creatures (including constructs). Since a structure is an unattended object, it gets no saving throw to resist the effect.
 
-*Focus: *A tuning fork.
+*Focus:* A tuning fork.
 
-Sympathy
+### Sympathy
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
@@ -2840,20 +3166,10 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-You cause an object or location to emanate magical vibrations that
-attract either a specific kind of intelligent creature or creatures of a
-particular alignment, as defined by you. The particular kind of creature
-to be affected must be named specifically. A creature subtype is not
-specific enough. Likewise, the specific alignment must be named.
+You cause an object or location to emanate magical vibrations that attract either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The particular kind of creature to be affected must be named specifically. A creature subtype is not specific enough. Likewise, the specific alignment must be named.
 
-Creatures of the specified kind or alignment feel elated and pleased to
-be in the area or desire to touch or to possess the object. The
-compulsion to stay in the area or touch the object is overpowering. If
-the save is successful, the creature is released from the enchantment,
-but a subsequent save must be made 1d6x10 minutes later. If this save
-fails, the affected creature attempts to return to the area or object.
+Creatures of the specified kind or alignment feel elated and pleased to be in the area or desire to touch or to possess the object. The compulsion to stay in the area or touch the object is overpowering. If the save is successful, the creature is released from the enchantment, but a subsequent save must be made 1d6x10 minutes later. If this save fails, the affected creature attempts to return to the area or object.
 
-*Sympathy *counters and dispels *antipathy*.
+*Sympathy* counters and dispels *antipathy*.
 
-*Material Component: *1,500 gp worth of crushed pearls and a drop of
-honey.
+*Material Component:* 1,500 gp worth of crushed pearls and a drop of honey.
