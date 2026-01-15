@@ -4,12 +4,8 @@ layout: post
 
 {{ content }}
 
-{%- if page.categories -%}
+{%- if page.group -%}
 <p class="post-meta">
-  Categories: 
-  {% for category in page.categories %}
-  <a href="/Reference#{{ category | slugify }}">{{ category }}</a>
-    {% unless forloop.last %}•{% endunless %}
-  {% endfor %}
+  Group: <a href="/Reference#{{ page.group | slugify }}">{{ page.group }}</a>
 </p>
 {%- endif -%}

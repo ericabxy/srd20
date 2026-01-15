@@ -4,9 +4,55 @@ description: An Open Game Content documentation project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srd20.radicalgnu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ericabxy
-
 theme: minima
-
+# Collections
+collections_dir: collections
+collections:
+  arcana:
+    output: true
+    permalink: /:title
+  artifacts:
+    output: true
+  creatures:
+    output: true
+    permalink: /:title
+  crown_of_the_outer_sky:
+    output: true
+  basic_rules:
+    output: true
+    permalink: /:title
+  divine:
+    output: true
+    permalink: /:title
+  docs:
+    output: true
+    permalink: /:title
+  epic:
+    output: true
+    permalink: /:title
+  future:
+    output: true
+    permalink: /:title
+  magic_items:
+    output: true
+    permalink: /:title
+  menaces:
+    output: true
+    permalink: /:title
+  modern_basics:
+    output: true
+    permalink: /:title
+  monsters:
+    output: true
+    permalink: /:title
+  psionics:
+    output: true
+    permalink: /:title
+  spells:
+    output: true
+    permalink: /:title
+# End of collections
+# Defaults
 defaults:
 - scope:
     path: ''
@@ -14,56 +60,68 @@ defaults:
    layout: default
 - scope:
     path: ''
-    type: posts
+    type: arcana
   values:
-    layout: post
-- scope:
-    path: 'SRD'
-  values:
-    layout: reference
-- scope:
-    path: 'MSRD'
-  values:
+    group: Arcana
     layout: reference
 - scope:
     path: ''
-    type: special_abilities
+    type: basic_rules
   values:
-    layout: special-ability
-# Collections
-collections_dir: collections
-collections:
-  MSRD:
-    output: true
-  archetypes:
-    output: true
-    permalink: /:collection/:path
-  artifacts:
-    output: true
-    permalink: /:collection/:path
-  system:
-    output: true
-    permalink: /:title
-  modern:
-    output: true
-    permalink: /:title
-  arcana_unearthed:
-    output: true
-    permalink: /:title
-  backgrounds:
-    output: true
-    permalink: /:title
-  special_abilities:
-    output: true
-    permalink: /:title
-# end of collections
-# collections for just-the-docs theme
-just_the_docs:
-  collections:
-    posts:
-      name: Posts
-    reference:
-      name: Reference
-    arcana_unearthed:
-      name: Arcana Unearthed
-# end of collections for just-the-docs theme
+    group: Basic Rules and Legal
+    layout: reference
+- scope:
+    path: ''
+    type: divine
+  values:
+    group: Divine
+    layout: reference
+- scope:
+    path: ''
+    type: epic
+  values:
+    group: Epic
+    layout: reference
+- scope:
+    path: ''
+    type: future
+  values:
+    group: Future
+    layout: reference
+- scope:
+    path: ''
+    type: magic_items
+  values:
+    group: Magic Items
+    layout: reference
+- scope:
+    path: ''
+    type: menaces
+  values:
+    group: Menaces
+    layout: reference
+- scope:
+    path: ''
+    type: modern_basics
+  values:
+    group: Modern Basics
+    layout: reference
+- scope:
+    path: ''
+    type: monsters
+  values:
+    group: Monsters
+    layout: reference
+- scope:
+    path: ''
+    type: psionics
+  values:
+    group: Psionics
+    layout: reference
+- scope:
+    path: ''
+    type: spells
+  values:
+    group: Spells
+    layout: reference
+# End of defaults

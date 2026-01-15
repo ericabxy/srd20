@@ -8,104 +8,100 @@ title: Reference
 
 Material published in the System Reference Document is considered Open Game Content under the Open Game License, and anyone may use, modify, and distribute it.
 
-## SRD
-
-### Basic Rules and Legal
+## Basic Rules and Legal
 
 <p>
-{% for post in site.categories['Basic Rules and Legal'] %}
+{% for post in site.basic_rules %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Spells
+## Spells
 
 <p>
-{% for post in site.categories.Spells %}
+{% for post in site.spells %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Magic Items
+## Magic Items
 
 <p>
-{% for post in site.categories['Magic Items'] %}
+{% for post in site.magic_items %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Monsters
+## Monsters
 
 <p>
-{% for post in site.categories.Monsters %}
+{% for post in site.monsters %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Psionics
+## Psionics
 
 <p>
-{% for post in site.categories.Psionics %}
+{% for post in site.psionics %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Epic
+## Epic
 
 <p>
-{% for post in site.categories.Epic %}
+{% for post in site.epic %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Divine
+## Divine
 
 <p>
-{% for post in site.categories.Divine %}
+{% for post in site.divine %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-## MSRD
-
-### Modern Basics
+## Modern Basics
 
 <p>
-{% for post in site.categories['Modern Basics'] %}
+{% for post in site.modern_basics %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Arcana
+## Arcana
 
 <p>
-{% for post in site.categories.Arcana %}
+{% for post in site.arcana %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Future
+## Future
 
 <p>
-{% for post in site.categories.Future %}
+{% for post in site.future %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
 
-### Menaces
+## Menaces
 
 <p>
-{% for post in site.categories.Menaces %}
+{% for post in site.menaces %}
   <a href='{{ post.url }}'>{{ post.title }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}

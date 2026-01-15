@@ -1,10 +1,11 @@
 ---
-permalink: /Archetypes
-title: Archetypes
+permalink: /Documents
+published: false
+title: Documents
 ---
 
 <ul>
-{% for item in site.archetypes %}
+{% for item in site.docs %}
   <li>
     <a href='{{ item.url }}'>{{ item.title }}</a>
   </li>

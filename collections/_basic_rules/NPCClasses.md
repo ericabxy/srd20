@@ -15,109 +15,334 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 #### Class Skills
 
-The adept's class skills (and the key ability for each skill) are
-Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis),
-Knowledge (all skills taken individually) (Int), Profession (Wis),
-Spellcraft (Int), and Survival (Wis).
+The adept's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Profession (Wis), Spellcraft (Int), and Survival (Wis).
 
 **Skill Points at 1st Level:** (2 + Int modifier) × 4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-#### Table: The Adept
-
-| NPC Level | Base Attack  | Fort | Ref  | Will |\
-|           | Bonus        | Save | Save | Save | Special
-| --------- | ------------ | ---- | ---- | ---- | -------
-| 1st       | +0           | +0   | +0   | +2   |
-| 2nd       | +1           | +0   | +0   | +3   | Summon familiar
-| 3rd       | +1           | +1   | +1   | +3   |
-| 4th       | +2           | +1   | +1   | +4   |
-| 5th       | +2           | +1   | +1   | +4   |
-| 6th       | +3           | +2   | +2   | +5   |
-| 7th       | +3           | +2   | +2   | +5   |
-| 8th       | +4           | +2   | +2   | +6   |
-| 9th       | +4           | +3   | +3   | +6   |
-| 10th      | +5           | +3   | +3   | +7   |
-| 11th      | +5           | +3   | +3   | +7   |
-| 12th      | +6/+1        | +4   | +4   | +8   |
-| 13th      | +6/+1        | +4   | +4   | +8   |
-| 14th      | +7/+2        | +4   | +4   | +9   |
-| 15th      | +7/+2        | +5   | +5   | +9   |
-| 16th      | +8/+3        | +5   | +5   | +10  |
-| 17th      | +8/+3        | +5   | +5   | +10  |
-| 18th      | +9/+4        | +6   | +6   | +11  |
-| 19th      | +9/+4        | +6   | +6   | +11  |
-| 20th      | +10/+5       | +6   | +6   | +12  |
-{:aria-labelledby='table-the-adept'}
-
-#### Table: Adept Spells Per Day
-
-| NPC Level |   ——— Spells per Day ——––  ||||||
-| ^^        | 0 | 1st | 2nd | 3rd | 4th | 5th |
-| --------- | - | :-: | :-: | :-: | :-: | :-: |
-| 1st       | 3 |  1  |  —  |  —  |  —  |  —  |
-| 2nd       | 3 |  1  |  —  |  —  |  —  |  —  |
-| 3rd       | 3 |  2  |  —  |  —  |  —  |  —  |
-| 4th       | 3 |  2  |  0  |  —  |  —  |  —  |
-| 5th       | 3 |  2  |  1  |  —  |  —  |  —  |
-| 6th       | 3 |  2  |  1  |  —  |  —  |  —  |
-| 7th       | 3 |  3  |  2  |  —  |  —  |  —  |
-| 8th       | 3 |  3  |  2  |  0  |  —  |  —  |
-| 9th       | 3 |  3  |  2  |  1  |  —  |  —  |
-| 10th      | 3 |  3  |  2  |  1  |  —  |  —  |
-| 11th      | 3 |  3  |  3  |  2  |  —  |  —  |
-| 12th      | 3 |  3  |  3  |  2  |  0  |  —  |
-| 13th      | 3 |  3  |  3  |  2  |  1  |  —  |
-| 14th      | 3 |  3  |  3  |  2  |  1  |  —  |
-| 15th      | 3 |  3  |  3  |  3  |  2  |  —  |
-| 16th      | 3 |  3  |  3  |  3  |  2  |  0  |
-| 17th      | 3 |  3  |  3  |  3  |  2  |  1  |
-| 18th      | 3 |  3  |  3  |  3  |  2  |  1  |
-| 19th      | 3 |  3  |  3  |  3  |  3  |  2  |
-| 20th      | 3 |  3  |  3  |  3  |  3  |  2  |
-{:aria-labelledby='table-adept-spells-per-day'}
+<table>
+<tr>
+  <th colspan=12>Table: The Adept</th>
+</tr>
+<tr>
+  <th rowspan=2>NPC Level</th>
+  <th rowspan=2>Base Attack Bonus</th>
+  <th rowspan=2>Fort Save</th>
+  <th rowspan=2>Ref Save</th>
+  <th rowspan=2>Will Save</th>
+  <th rowspan=2>Special</th>
+  <th colspan=6>Spells per Day</th>
+</tr>
+<tr>
+  <th>0</th>
+  <th>1st</th>
+  <th>2nd</th>
+  <th>3rd</th>
+  <th>4th</th>
+  <th>5th</th>
+</tr>
+<tr>
+  <td>1st</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td></td>
+  <td>3</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>3</td>
+  <td>Summon familiar</td>
+  <td>3</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
+  <td>3</td>
+  <td></td>
+  <td>3</td>
+  <td>2</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>4th</td>
+  <td>2</td>
+  <td>1</td>
+  <td>1</td>
+  <td>4</td>
+  <td></td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>5th</td>
+  <td>2</td>
+  <td>1</td>
+  <td>1</td>
+  <td>4</td>
+  <td></td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>6th</td>
+  <td>3</td>
+  <td>2</td>
+  <td>2</td>
+  <td>5</td>
+  <td></td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>7th</td>
+  <td>3</td>
+  <td>2</td>
+  <td>2</td>
+  <td>5</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>8th</td>
+  <td>4</td>
+  <td>2</td>
+  <td>2</td>
+  <td>6</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>9th</td>
+  <td>4</td>
+  <td>3</td>
+  <td>3</td>
+  <td>6</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>10th</td>
+  <td>5</td>
+  <td>3</td>
+  <td>3</td>
+  <td>7</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>11th</td>
+  <td>5</td>
+  <td>3</td>
+  <td>3</td>
+  <td>7</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>12th</td>
+  <td>+6/+1</td>
+  <td>4</td>
+  <td>4</td>
+  <td>8</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>13th</td>
+  <td>+6/+1</td>
+  <td>4</td>
+  <td>4</td>
+  <td>8</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>14th</td>
+  <td>+7/+2</td>
+  <td>4</td>
+  <td>4</td>
+  <td>9</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>15th</td>
+  <td>+7/+2</td>
+  <td>5</td>
+  <td>5</td>
+  <td>9</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>16th</td>
+  <td>+8/+3</td>
+  <td>5</td>
+  <td>5</td>
+  <td>10</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+</tr>
+<tr>
+  <td>17th</td>
+  <td>+8/+3</td>
+  <td>5</td>
+  <td>5</td>
+  <td>10</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>18th</td>
+  <td>+9/+4</td>
+  <td>6</td>
+  <td>6</td>
+  <td>11</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>19th</td>
+  <td>+9/+4</td>
+  <td>6</td>
+  <td>6</td>
+  <td>11</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>20th</td>
+  <td>+10/+5</td>
+  <td>6</td>
+  <td>6</td>
+  <td>12</td>
+  <td></td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>3</td>
+  <td>2</td>
+</tr>
+</table>
 
 #### Class Features
 
 All of the following are class features of the adept NPC class.
 
-**Weapon and Armor Proficiency:** Adepts are skilled with all simple
-weapons. Adepts are not proficient with any type of armor nor with
-shields.
+**Weapon and Armor Proficiency:** Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor nor with shields.
 
-**Spells:** An adept casts divine spells which are drawn from the adept
-spell list (see below). Like a cleric, an adept must choose and prepare
-her spells in advance. Unlike a cleric, an adept cannot spontaneously
-cast *cure* or *inflict* spells.
+**Spells:** An adept casts divine spells which are drawn from the adept spell list (see below). Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously cast *cure* or *inflict* spells.
 
-To prepare or cast a spell, an adept must have a Wisdom score equal to
-at least 10 + the spell level. The Difficulty Class for a saving throw
-against an adept's spell is 10 + the spell level + the adept's Wisdom
-modifier.
+To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an adept's spell is 10 + the spell level + the adept's Wisdom modifier.
 
-Adepts, unlike wizards, do not acquire their spells from books or
-scrolls, nor do they prepare them through study. Instead, they meditate
-or pray for their spells, receiving them as divine inspiration or
-through their own strength of faith. Each adept must choose a time each
-day at which she must spend an hour in quiet contemplation or
-supplication to regain her daily allotment of spells. Time spent resting
-has no effect on whether an adept can prepare spells.
+Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study. Instead, they meditate or pray for their spells, receiving them as divine inspiration or through their own strength of faith. Each adept must choose a time each day at which she must spend an hour in quiet contemplation or supplication to regain her daily allotment of spells. Time spent resting has no effect on whether an adept can prepare spells.
 
-Like other spellcasters, an adept can cast only a certain number of
-spells of each spell level per day. Her base daily spell allotment is
-given on Table: The Adept. In addition, she receives bonus spells per
-day if she has a high Wisdom score.
+Like other spellcasters, an adept can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Adept. In addition, she receives bonus spells per day if she has a high Wisdom score.
 
-When Table: The Adept indicates that the adept gets 0 spells per day of
-a given spell level, she gains only the bonus spells she would be
-entitled to based on her Wisdom score for that spell level.
+When Table: The Adept indicates that the adept gets 0 spells per day of a given spell level, she gains only the bonus spells she would be entitled to based on her Wisdom score for that spell level.
 
-Each adept has a particular holy symbol (as a divine focus) depending on
-the adept's magical tradition.
+Each adept has a particular holy symbol (as a divine focus) depending on the adept's magical tradition.
 
-**Summon Familiar:** At 2nd level, an adept can call a familiar, just as
-a sorcerer or wizard can.
+**Summon Familiar:** At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
 
 #### Adept Spell List
 

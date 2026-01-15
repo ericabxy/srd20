@@ -48,20 +48,46 @@ Druids are proficient with light and medium armor but are prohibited from wearin
 
 A druid who wears prohibited armor or carries a prohibited shield is unable to cast druid spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
-"Verdant Scholar"
+Special Abilities
 -----------------
 
-Controller druid, battlefield shaper, ritualist.
+_AC Bonus:_ As monk.
 
-"Balanced Grove"
-----------------
+_Fast Movement:_ As monk.
 
-Classic druid, generalist.
+_Improved Animal Companion:_ Prerequisite: Animal companion.
 
-"Primal Channeler"
-------------------
+_Swift Tracker:_ As ranger.
 
-Gish druids, shapeshifters, frontliners.
+_Tireless Rage:_ As barbarian. Prerequisite: Rage.
+
+_Track:_ As bonus feat.
+
+Primal Energy
+-------------
+
+Choose one.
+
+### Primal Bond
+
+- Gain an animal companion and scale with level.
+- Can channel stored spell energy into _summon nature's ally_.
+
+### Primal Shape
+
+- Wild shape at 3rd level and scale with level.
+- Can channel stored spell energy into _summon nature's ally_.
+
+### Primal Rage
+
+- Fast Movement (as barbarian).
+- Rage at 1st, 6th, 11th, and 16th level.
+- &minus;4 penalty to wild empathy checks.
+
+### Primal Mastery
+
+- AC Bonus (as monk).
+- Favored enemy at 1st, 5th, 10th, 15th, and 20th level.
 
 Camel Druid References
 ----------------------

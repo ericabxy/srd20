@@ -970,13 +970,13 @@ A cleric may attempt to turn undead a number of times per day equal to 3 + his C
 
 A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the *atonement* spell description).
 
-## DRUID
+### DRUID
 
 **Alignment:** Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil.
 
 **Hit Die:** d8.
 
-### Class Skills
+#### Class Skills
 
 The druid's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str).
 
@@ -1371,7 +1371,7 @@ The druid's class skills (and the key ability for each skill) are Concentration 
 </tr>
 </table>
 
-### Class Features
+#### Class Features
 
 All of the following are class features of the druid.
 
@@ -1445,24 +1445,80 @@ At 18th level, a druid becomes able to assume elemental form twice per day, and 
 
 Bonuses still accrue, and the druid still dies of old age when her time is up.
 
-### Ex-Druids
+#### Ex-Druids
 
 A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the *atonement* spell description).
 
-#### THE DRUID'S ANIMAL COMPANION
+### THE DRUID'S ANIMAL COMPANION
 
 A druid's animal companion is different from a normal animal of its kind in many ways. A druid's animal companion is superior to a normal animal of its kind and has special powers, as described below.
 
-|   Class   | Bonus | Natural    | Str/Dex | Bonus  |                    \
-|   Level   | HD    | Armor Adj. |   Adj.  | Tricks | Special            |
-| --------- | ----- | ---------- | ------- | ------ | ------------------ |
-| 1st–2nd   | +0    | +0         | +0      | 1      | Link, share spells |
-| 3rd–5th   | +2    | +2         | +1      | 2      | Evasion            |
-| 6th–8th   | +4    | +4         | +2      | 3      | Devotion           |
-| 9th–11th  | +6    | +6         | +3      | 4      | Multiattack        |
-| 12th–14th | +8    | +8         | +4      | 5      |                    |
-| 15th–17th | +10   | +10        | +5      | 6      | Improved evasion   |
-| 18th–20th | +12   | +12        | +6      | 7      |                    |
+<table>
+<tr>
+  <th>Class Level</th>
+  <th>Bonus HD</th>
+  <th>Natural Armor Adj.</th>
+  <th>Str/Dex Adj.</th>
+  <th>Bonus Tricks</th>
+  <th>Special</th>
+</tr>
+<tr>
+  <td>1st–2nd</td>
+  <td>+0</td>
+  <td>+0</td>
+  <td>+0</td>
+  <td>1</td>
+  <td>Link, share spells</td>
+</tr>
+<tr>
+  <td>3rd–5th</td>
+  <td>+2</td>
+  <td>+2</td>
+  <td>+1</td>
+  <td>2</td>
+  <td>Evasion</td>
+</tr>
+<tr>
+  <td>6th–8th</td>
+  <td>+4</td>
+  <td>+4</td>
+  <td>+2</td>
+  <td>3</td>
+  <td>Devotion</td>
+</tr>
+<tr>
+  <td>9th–11th</td>
+  <td>+6</td>
+  <td>+6</td>
+  <td>+3</td>
+  <td>4</td>
+  <td>Multiattack</td>
+</tr>
+<tr>
+  <td>12th–14th</td>
+  <td>+8</td>
+  <td>+8</td>
+  <td>+4</td>
+  <td>5</td>
+  <td></td>
+</tr>
+<tr>
+  <td>15th–17th</td>
+  <td>+10</td>
+  <td>+10</td>
+  <td>+5</td>
+  <td>6</td>
+  <td>Improved evasion</td>
+</tr>
+<tr>
+  <td>18th–20th</td>
+  <td>+12</td>
+  <td>+12</td>
+  <td>+6</td>
+  <td>7</td>
+  <td></td>
+</tr>
+</table>
 
 **Animal Companion Basics:** Use the base statistics for a creature of the companion's kind, but make the following changes.
 
