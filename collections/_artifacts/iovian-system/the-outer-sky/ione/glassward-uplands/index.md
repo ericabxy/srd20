@@ -1,8 +1,7 @@
 ---
+layout: location
 title: Glassward Uplands
 ---
-
-[↰ back to Ione](02-iovian-satellite-ione)
 
 Glassward Uplands
 =================
@@ -17,5 +16,3 @@ Hooks
 - Caravan politics and escort missions
 - Conflicts over routes and infrastructure
 - maybe put schools, government buildings, and cultist temples here
-
-[↰ back to Ione](02-iovian-satellite-ione)

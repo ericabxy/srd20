@@ -1,8 +1,7 @@
 ---
+layout: location
 title: The Verdant Hollow
 ---
-
-[↰ back to Ione](02-iovian-satellite-ione)
 
 The Verdant Hollow
 ==================
@@ -31,5 +30,3 @@ Hooks
 - Disputes over land-use timing
 - Pressure from external powers on local communities
 - Tension between tradition and technological advance
-
-[↰ back to Ione](02-iovian-satellite-ione)
