@@ -1,11 +1,9 @@
 ---
 category: hub
-layout: location
+layout: artifact
+status: Finished
 title: Kheret's Step
 ---
-
-Kheret's Step
-=============
 
 Kheret's Step is situated between two long ridges of broken stone, funneling crawlers and caravans into a shared corridor. The land slopes gently downward into a basin, creating a natural shelter against wind and dust. From a distance it is recognizable as a cluster of lights at night, and from the outlines of crawlers parked in uneven rows during the day.
 
@@ -26,26 +24,20 @@ Caravans are an older mode of travel made up of dozens of traders, guides, and m
 The Old Platform
 ----------------
 
-At the heart of Kheret's Step stands a circular platform with recessed bays and vertical pylons. Its function is only partially understood; a forgotten technology pulsing with power conduits and pressurized chambers. Locals play custodian to the platform, interpreting its functions and marking sections as off-limits depending on perceived modes.
+At the heart of Kheret's Step stands an irregularly-shaped platform with recessed bays and vertical pylons. Its function is only partially understood; a forgotten technology pulsing with power conduits and pressurized chambers. Locals play custodian to the platform, interpreting its functions and marking sections as off-limits depending on perceived modes.
 
 Non-player Characters
 ---------------------
+
+[Step Warden](npc-03-step-warden) &bull; [Reach Circulator](npc-04-reach-trader) &bull; [Supplies Attendant](npc-05-supplies-attendant)
+
+[Seret Kael](npc-01-seret-kael) &bull; [Vaelor Teth](npc-02-vaelor-teth)
 
 * Operators with malfunctioning or aging crawlers
 * Free traders avoiding centralized authority
 * Pilgrims and scholars who study the Reach or Iovis
 * Refugees fleeing ecological or economic collapse
 * Influence belongs to those who control water access, repair crews, route knowledge, security
-
-[Seret Kael](npc-01-seret-kael)
-
-[Vaelor Teth](npc-02-vaelor-teth)
-
-[Step Warden](npc-03-step-warden)
-
-[Reach Circulator](npc-04-reach-trader)
-
-[Supplies Attendant](npc-05-supplies-attendant)
 
 Possible Hooks
 --------------

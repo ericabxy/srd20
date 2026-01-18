@@ -1,10 +1,8 @@
 ---
-layout: location
+layout: artifact
+status: Drafted
 title: The Verdant Hollow
 ---
-
-The Verdant Hollow
-==================
 
 Here the land dips into a broad, shallow basin. Areas like this collect moisture and warmth, supporting dense plant life and ecologies. The ashen soil is deep and dark, enriched by natural processes and ancient terraforming systems.
 
@@ -23,6 +21,14 @@ Cultivators and stewards (not farmers). Many arrive as part of circulation oblig
 Mantra: "Growth must be temporary to remain healthy."
 
 Clothing is made of plant fibers and dyed with plant residue. Structures are uniform and no building dominates the landscape. Tools and supplies are carefully maintained and shared.
+
+Specifics
+---------
+
+- Narrow, terraced fungal beds and root gardens
+- Brackish irrigation pools for saltwater flora
+- Windbreaks naturally grown from plants
+- Ash-based soil mixtures
 
 Hooks
 -----

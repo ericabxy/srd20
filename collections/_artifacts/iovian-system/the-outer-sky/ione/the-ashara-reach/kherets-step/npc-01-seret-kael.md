@@ -1,5 +1,6 @@
 ---
 layout: subpage
+status: Finished
 title: Seret Kael
 ---
 

@@ -1,10 +1,8 @@
 ---
 layout: subpage
-title: The Platform Restricts Access
+status: Drafted
+title: Restricted Access
 ---
-
-Restricted Access
-=================
 
 Three crawler failures have occurred within a short time window. Power fluctuations in the Old Platform have disrupted operations and delayed repairs and resupply. Several caravans and convoys traveling south have not been heard from or have been forced to return after departing. Vaelor Teth and his followers have begun restricting access to the platform exacerbating the delays.
 

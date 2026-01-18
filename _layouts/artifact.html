@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include go-back.html %}
+
+<p class="post-meta">
+{%- if page.status -%}
+  <span class="p-author h-card">Artifact Status: {{ page.status }}</span>
+{%- endif -%}
+</p>
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% include go-back.html %}

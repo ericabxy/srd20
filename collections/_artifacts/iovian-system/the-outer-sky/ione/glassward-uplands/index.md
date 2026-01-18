@@ -1,10 +1,8 @@
 ---
-layout: location
+layout: artifact
+status: Drafted
 title: Glassward Uplands
 ---
-
-Glassward Uplands
-=================
 
 The uplands rise gently into broad plateaus of volcanic stone. The ground sparkles faintly under Iovis' light, a consequence of silica-rich soil. Ecology is sparse but resilient, consisting of crystal-stemmed plants, hardy grasses, and burrowing animals.
 
