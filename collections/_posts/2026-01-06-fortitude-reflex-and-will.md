@@ -2,6 +2,7 @@
 layout: post
 title: Fortitude, Reflex, and Will
 date: 2026-01-06 18:00:00 -0800
+published: false
 ---
 
 Saving throws follow a simple progression pattern that gets very complex when multi-classing comes into play. For something as simple as a number that can be defined as "Good" or "Poor" or somewhere in-between, the fine-grained bonus resulting from multiple class tables added together doesn't add much of value to the game. I propose that any character's save bonuses should be easily calculable at any given time---instead of totaling up bonuses from different tables---with edge cases requiring multiple table lookup replaced by a single penalty for mixing classes.
