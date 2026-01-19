@@ -1,9 +1,12 @@
 ---
+ability_type: extraordinary
 title: Archery
 ---
 
 Archery
 -------
+
+### Archery
 
 When wearing light armor or no armor, you gain the benefits of one or more feats even if you don't meet the prerequisites.
 
@@ -17,7 +20,7 @@ __Prerequisites:__ Archery, base attack bonus +6.
 
 __Benefit:__ You are treated as having the [manyshot](/Feats#manyshot-general) feat when wearing light armor or no armor.
 
-### Mastered Archery
+### Archer Mastery
 
 __Prerequisites:__ Archery, improved archery, base attack bonus +11.
 

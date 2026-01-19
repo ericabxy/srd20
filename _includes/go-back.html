@@ -1,5 +1,12 @@
 {% assign parents = page.url | remove:'/index.html' | split: '/' %}
-{% assign last = parents.size | minus: 2 %}
+{% assign last2 = parents.size | minus: 2 %}
+{% assign last3 = parents.size | minus: 3 %}
+
 <p>
-  <a href='..'>↰ Go back to {{ parents[last] | replace:'-',' ' | capitalize }}</a>
+{% if page.index %}
+  <a href='..'>↰ Go back to {{ parents[last3] - | replace:'-',' ' | capitalize }}</a>
+  <a href='.'>↰ Go back to {{ parents[last2] - | replace:'-',' ' | capitalize }}</a>
+{% else %}
+  <a href='..'>↰ Go back to {{ parents[last2] | replace:'-',' ' | capitalize }}</a>
+{% endif %}
 </p>

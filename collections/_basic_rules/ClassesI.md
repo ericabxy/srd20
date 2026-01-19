@@ -425,32 +425,227 @@ The bard's class skills (and the key ability for each skill) are Appraise (Int),
   </tbody>
 </table>
 
-| Table: Bard Spells Known
-| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
-| ----- |:-:| :-: | :-: | :-: | :-: | :-: | :-:
-| 1st   | 4 |  —  |  —  |  —  |  —  |  —  |  —
-| 2nd   | 5 |  2¹ |  —  |  —  |  —  |  —  |  —
-| 3rd   | 6 |  3  |  —  |  —  |  —  |  —  |  —
-| 4th   | 6 |  3  |  2¹ |  —  |  —  |  —  |  —
-| 5th   | 6 |  4  |  3  |  —  |  —  |  —  |  —
-| 6th   | 6 |  4  |  3  |  —  |  —  |  —  |  —
-| 7th   | 6 |  4  |  4  |  2¹ |  —  |  —  |  —
-| 8th   | 6 |  4  |  4  |  3  |  —  |  —  |  —
-| 9th   | 6 |  4  |  4  |  3  |  —  |  —  |  —
-| 10th  | 6 |  4  |  4  |  4  |  2¹ |  —  |  —
-| 11th  | 6 |  4  |  4  |  4  |  3  |  —  |  —
-| 12th  | 6 |  4  |  4  |  4  |  3  |  —  |  —
-| 13th  | 6 |  4  |  4  |  4  |  4  |  2¹ |  —
-| 14th  | 6 |  4  |  4  |  4  |  4  |  3  |  —
-| 15th  | 6 |  4  |  4  |  4  |  4  |  3  |  —
-| 16th  | 6 |  5  |  4  |  4  |  4  |  4  |  2¹
-| 17th  | 6 |  5  |  5  |  4  |  4  |  4  |  3
-| 18th  | 6 |  5  |  5  |  5  |  4  |  4  |  3
-| 19th  | 6 |  5  |  5  |  5  |  5  |  4  |  4
-| 20th  | 6 |  5  |  5  |  5  |  5  |  5  |  4
-
-1. Provided the bard has a high enough Charisma score to have a bonus spell of this level.
-
+<table>
+  <tr>
+    <th colspan=8>Table: Bard Spells Known</th>
+  </tr>
+  <tr>
+    <th rowspan=2>Level</th>
+    <th colspan=7>Spells Known</th>
+  </tr>
+  <tr>
+    <th>0</th>
+    <th>1st</th>
+    <th>2nd</th>
+    <th>3rd</th>
+    <th>4th</th>
+    <th>5th</th>
+    <th>6th</th>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td>4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td>5</td>
+    <td>2<sup>1</sup></td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td>6</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td>6</td>
+    <td>3</td>
+    <td>2<sup>1</sup></td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>5th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2<sup>1</sup></td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>9th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2<sup>1</sup></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>11th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>12th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>13th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2<sup>1</sup></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>14th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>16th</td>
+    <td>6</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2<sup>1</sup></td>
+  </tr>
+  <tr>
+    <td>17th</td>
+    <td>6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18th</td>
+    <td>6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19th</td>
+    <td>6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td>6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan=8>1 Provided the bard has a high enough Charisma score to have a bonus spell of this level.</td>
+  </tr>
+</table>
 ### Class Features
 
 All of the following are class features of the bard.

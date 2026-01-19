@@ -1,5 +1,6 @@
 ---
 title: Artifacts
+published: false
 ---
 
 * [_The Weight of Authority_](/artifacts/artifact-01-historical-fantasy/)

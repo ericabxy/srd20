@@ -13,11 +13,12 @@ collections:
     permalink: /:title
   artifacts:
     output: true
+  chassis:
+    output: true
+    permalink: /:collection/:title
   creatures:
     output: true
     permalink: /:title
-  crown_of_the_outer_sky:
-    output: true
   basic_rules:
     output: true
     permalink: /:title
@@ -45,6 +46,8 @@ collections:
   monsters:
     output: true
     permalink: /:title
+  iovian_system:
+    output: true
   psionics:
     output: true
     permalink: /:title
