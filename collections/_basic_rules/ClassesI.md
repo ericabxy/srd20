@@ -21,31 +21,179 @@ The barbarian's class skills (and the key ability for each skill) are Climb (Str
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-#### Table: The Barbarian
-
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
-| ----- | ----------------- | --------- | -------- | --------- | -------
-| 1st   | +1             | +2   | +0   | +0   | Fast movement, illiteracy, rage 1/day
-| 2nd   | +2             | +3   | +0   | +0   | Uncanny dodge
-| 3rd   | +3             | +3   | +1   | +1   | Trap sense +1
-| 4th   | +4             | +4   | +1   | +1   | Rage 2/day
-| 5th   | +5             | +4   | +1   | +1   | Improved uncanny dodge
-| 6th   | +6/+1          | +5   | +2   | +2   | Trap sense +2
-| 7th   | +7/+2          | +5   | +2   | +2   | Damage reduction 1/—
-| 8th   | +8/+3          | +6   | +2   | +2   | Rage 3/day
-| 9th   | +9/+4          | +6   | +3   | +3   | Trap sense +3
-| 10th  | +10/+5         | +7   | +3   | +3   | Damage reduction 2/—
-| 11th  | +11/+6/+1      | +7   | +3   | +3   | Greater rage
-| 12th  | +12/+7/+2      | +8   | +4   | +4   | Rage 4/day, trap sense +4
-| 13th  | +13/+8/+3      | +8   | +4   | +4   | Damage reduction 3/—
-| 14th  | +14/+9/+4      | +9   | +4   | +4   | Indomitable will
-| 15th  | +15/+10/+5     | +9   | +5   | +5   | Trap sense +5
-| 16th  | +16/+11/+6/+1  | +10  | +5   | +5   | Damage reduction 4/—, rage 5/day
-| 17th  | +17/+12/+7/+2  | +10  | +5   | +5   | Tireless rage
-| 18th  | +18/+13/+8/+3  | +11  | +6   | +6   | Trap sense +6
-| 19th  | +19/+14/+9/+4  | +11  | +6   | +6   | Damage reduction 5/—
-| 20th  | +20/+15/+10/+5 | +12  | +6   | +6   | Mighty rage, rage 6/day
-{:aria-labelledby='table-the-barbarian'}
+<table>
+  <tr>
+    <th colspan=6>Table: The Barbarian</th>
+  </tr>
+  <tr>
+    <th>Level</th>
+    <th>Base Attack Bonus</th>
+    <th>Fort Save</th>
+    <th>Ref Save</th>
+    <th>Will Save</th>
+    <th>Special</th>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>Fast movement, illiteracy, rage 1/day</td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>Uncanny dodge</td>
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>Trap sense +1</td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>Rage 2/day</td>
+  </tr>
+  <tr>
+    <td>5th</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>Improved uncanny dodge</td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Trap sense +2</td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Damage reduction 1/—</td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Rage 3/day</td>
+  </tr>
+  <tr>
+    <td>9th</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Trap sense +3</td>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Damage reduction 2/—</td>
+  </tr>
+  <tr>
+    <td>11th</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Greater rage</td>
+  </tr>
+  <tr>
+    <td>12th</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Rage 4/day, trap sense +4</td>
+  </tr>
+  <tr>
+    <td>13th</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Damage reduction 3/—</td>
+  </tr>
+  <tr>
+    <td>14th</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Indomitable will</td>
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Trap sense +5</td>
+  </tr>
+  <tr>
+    <td>16th</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Damage reduction 4/—, rage 5/day</td>
+  </tr>
+  <tr>
+    <td>17th</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Tireless rage</td>
+  </tr>
+  <tr>
+    <td>18th</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Trap sense +6</td>
+  </tr>
+  <tr>
+    <td>19th</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Damage reduction 5/—</td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Mighty rage, rage 6/day</td>
+  </tr>
+</table>
 
 ### Class Features
 
@@ -1853,30 +2001,178 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-#### Table: The Fighter
-
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special
-| ----- | ----------------- | --------- | -------- | --------- | -------
-| 1st   | +1                | +2        | +0       | +0        | Bonus feat
-| 2nd   | +2                | +3        | +0       | +0        | Bonus feat
-| 3rd   | +3                | +3        | +1       | +1        |
-| 4th   | +4                | +4        | +1       | +1        | Bonus feat
-| 5th   | +5                | +4        | +1       | +1        |
-| 6th   | +6/+1             | +5        | +2       | +2        | Bonus feat
-| 7th   | +7/+2             | +5        | +2       | +2        |
-| 8th   | +8/+3             | +6        | +2       | +2        | Bonus feat
-| 9th   | +9/+4             | +6        | +3       | +3        |
-| 10th  | +10/+5            | +7        | +3       | +3        | Bonus feat
-| 11th  | +11/+6/+1         | +7        | +3       | +3        |
-| 12th  | +12/+7/+2         | +8        | +4       | +4        | Bonus feat
-| 13th  | +13/+8/+3         | +8        | +4       | +4        |
-| 14th  | +14/+9/+4         | +9        | +4       | +4        | Bonus feat
-| 15th  | +15/+10/+5        | +9        | +5       | +5        |
-| 16th  | +16/+11/+6/+1     | +10       | +5       | +5        | Bonus feat
-| 17th  | +17/+12/+7/+2     | +10       | +5       | +5        |
-| 18th  | +18/+13/+8/+3     | +11       | +6       | +6        | Bonus feat
-| 19th  | +19/+14/+9/+4     | +11       | +6       | +6        |
-| 20th  | +20/+15/+10/+5    | +12       | +6       | +6        | Bonus feat
+<table>
+  <tr>
+    <th colspan=6>Table: The Fighter</th>
+  </tr>
+  <tr>
+    <th>Level</th>
+    <th>Base Attack Bonus</th>
+    <th>Fort Save</th>
+    <th>Ref Save</th>
+    <th>Will Save</th>
+    <th>Special</th>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>Bonus feat
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>Bonus feat
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>Bonus feat
+  </tr>
+  <tr>
+    <td>5th</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Bonus feat</td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Bonus feat</td>
+  </tr>
+  <tr>
+    <td>9th</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Bonus feat</td>
+  </tr>
+  <tr>
+    <td>11th</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12th</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Bonus feat</td>
+  </tr>
+  <tr>
+    <td>13th</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14th</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Bonus feat
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16th</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Bonus feat</td>
+  </tr>
+  <tr>
+    <td>17th</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18th</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Bonus feat
+  </tr>
+  <tr>
+    <td>19th</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Bonus feat</td>
+  </tr>
+</table>
 
 ### Class Features
 
@@ -1902,69 +2198,266 @@ The monk's class skills (and the key ability for each skill) are Balance (Dex), 
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-#### Table: The Monk
-
-|       | Base         | Fort | Ref  | Will |                            \
-| Level | Attack Bonus | Save | Save | Save | Special                    |
-| ----- | ------------ | ---- | ---- | ---- | -------------------------- |
-| 1st   | +0           | +2   | +2   | +2   | Bonus feat,                \
-|       |              |      |      |      | flurry of blows,           \
-|       |              |      |      |      | unarmed strike             |
-| 2nd   | +1           | +3   | +3   | +3   | Bonus feat, evasion        |
-| 3rd   | +2           | +3   | +3   | +3   | Still mind                 |
-| 4th   | +3           | +4   | +4   | +4   | Ki strike (magic),         \
-|       |              |      |      |      | slow fall 20 ft.           |
-| 5th   | +3           | +4   | +4   | +4   | Purity of body             |
-| 6th   | +4           | +5   | +5   | +5   | Bonus feat,                \
-|       |              |      |      |      | slow fall 30 ft.           |
-| 7th   | +5           | +5   | +5   | +5   | Wholeness of body          |
-| 8th   | +6/+1        | +6   | +6   | +6   | Slow fall 40 ft.           |
-| 9th   | +6/+1        | +6   | +6   | +6   | Improved evasion           |
-| 10th  | +7/+2        | +7   | +7   | +7   | Ki strike (lawful),        \
-|       |              |      |      |      | slow fall 50 ft.           |
-| 11th  | +8/+3        | +7   | +7   | +7   | Diamond body,              \
-|       |              |      |      |      | greater flurry             |
-| 12th  | +9/+4        | +8   | +8   | +8   | Abundant step,             \
-|       |              |      |      |      | slow fall 60 ft.           |
-| 13th  | +9/+4        | +8   | +8   | +8   | Diamond soul               |
-| 14th  | +10/+5       | +9   | +9   | +9   | Slow fall 70 ft.           |
-| 15th  | +11/+6/+1    | +9   | +9   | +9   | Quivering palm             |
-| 16th  | +12/+7/+2    | +10  | +10  | +10  | Ki strike (adamantine),    \
-|       |              |      |      |      | slow fall 80 ft.           |
-| 17th  | +12/+7/+2    | +10  | +10  | +10  | Timeless body,             \
-|       |              |      |      |      | tongue of the sun and moon |
-| 18th  | +13/+8/+3    | +11  | +11  | +11  | Slow fall 90 ft.           |
-| 19th  | +14/+9/+4    | +11  | +11  | +11  | Empty body                 |
-| 20th  | +15/+10/+5   | +12  | +12  | +12  | Perfect self,              \
-|       |              |      |      |      | slow fall any distance     |
-
-1. The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.
-
-#### Table: The Monk Continued
-
-|       |                    | Unarmed | AC    | Unarmored   \
-| Level | Flurry of Blows    | Damage¹ | Bonus | Speed Bonus |
-| ----- | ------------------ | ------- | ----- | ----------- |
-| 1st   | –2/–2              | 1d6     | +0    | +0 ft.      |
-| 2nd   | –1/–1              | 1d6     | +0    | +0 ft.      |
-| 3rd   | +0/+0              | 1d6     | +0    | +10 ft.     |
-| 4th   | +1/+1              | 1d8     | +0    | +10 ft.     |
-| 5th   | +2/+2              | 1d8     | +1    | +10 ft.     |
-| 6th   | +3/+3              | 1d8     | +1    | +20 ft.     |
-| 7th   | +4/+4              | 1d8     | +1    | +20 ft.     |
-| 8th   | +5/+5/+0           | 1d10    | +1    | +20 ft.     |
-| 9th   | +6/+6/+1           | 1d10    | +1    | +30 ft.     |
-| 10th  | +7/+7/+2           | 1d10    | +2    | +30 ft.     |
-| 11th  | +8/+8/+8/+3        | 1d10    | +2    | +30 ft.     |
-| 12th  | +9/+9/+9/+4        | 2d6     | +2    | +40 ft.     |
-| 13th  | +9/+9/+9/+4        | 2d6     | +2    | +40 ft.     |
-| 14th  | +10/+10/+10/+5     | 2d6     | +2    | +40 ft.     |
-| 15th  | +11/+11/+11/+6/+1  | 2d6     | +3    | +50 ft.     |
-| 16th  | +12/+12/+12/+7/+2  | 2d8     | +3    | +50 ft.     |
-| 17th  | +12/+12/+12/+7/+2  | 2d8     | +3    | +50 ft.     |
-| 18th  | +13/+13/+13/+8/+3  | 2d8     | +3    | +60 ft.     |
-| 19th  | +14/+14/+14/+9/+4  | 2d8     | +3    | +60 ft.     |
-| 20th  | +15/+15/+15/+10/+5 | 2d10    | +4    | +60 ft.     |
+<table>
+  <tr>
+    <th colspan=10>Table: The Monk</th>
+  </tr>
+  <tr>
+    <th>Level</th>
+    <th>Base Attack Bonus</th>
+    <th>Fort Save</th>
+    <th>Ref Save</th>
+    <th>Will Save</th>
+    <th>Special</th>
+    <th>Flurry of Blows Attack Bonus</th>
+    <th>Unarmed Damage<sup>1</sup></th>
+    <th>AC Bonus</th>
+    <th>Unarmored  Speed Bonus</th>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>Bonus feat, flurry of blows, unarmed strike</td>
+    <td>–2/–2</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 ft.</td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Bonus feat, evasion</td>
+    <td>–1/–1</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 ft.</td>
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>Still mind</td>
+    <td>+0/+0</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+10 ft.</td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Ki strike (magic), slow fall 20 ft.</td>
+    <td>+1/+1</td>
+    <td>1d8</td>
+    <td>+0</td>
+    <td>+10 ft.</td>
+  </tr>
+  <tr>
+    <td>5th</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>Purity of body</td>
+    <td>+2/+2</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+10 ft.</td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Bonus feat, slow fall 30 ft.</td>
+    <td>+3/+3</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+20 ft.</td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>Wholeness of body</td>
+    <td>+4/+4</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+20 ft.</td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Slow fall 40 ft.</td>
+    <td>+5/+5/+0</td>
+    <td>1d10</td>
+    <td>+1</td>
+    <td>+20 ft.</td>
+  </tr>
+  <tr>
+    <td>9th</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>Improved evasion</td>
+    <td>+6/+6/+1</td>
+    <td>1d10</td>
+    <td>+1</td>
+    <td>+30 ft.</td>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>Ki strike (lawful), slow fall 50 ft.</td>
+    <td>+7/+7/+2</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+30 ft.</td>
+  </tr>
+  <tr>
+    <td>11th</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>Diamond body, greater flurry</td>
+    <td>+8/+8/+8/+3</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+30 ft.</td>
+  </tr>
+  <tr>
+    <td>12th</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>Abundant step, slow fall 60 ft.</td>
+    <td>+9/+9/+9/+4</td>
+    <td>2d6</td>
+    <td>+2</td>
+    <td>+40 ft.</td>
+  </tr>
+  <tr>
+    <td>13th</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>Diamond soul</td>
+    <td>+9/+9/+9/+4</td>
+    <td>2d6</td>
+    <td>+2</td>
+    <td>+40 ft.</td>
+  </tr>
+  <tr>
+    <td>14th</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>Slow fall 70 ft.</td>
+    <td>+10/+10/+10/+5</td>
+    <td>2d6</td>
+    <td>+2</td>
+    <td>+40 ft.</td>
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>Quivering palm</td>
+    <td>+11/+11/+11/+6/+1</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+50 ft.</td>
+  </tr>
+  <tr>
+    <td>16th</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>Ki strike (adamantine), slow fall 80 ft.</td>
+    <td>+12/+12/+12/+7/+2</td>
+    <td>2d8</td>
+    <td>+3</td>
+    <td>+50 ft.</td>
+  </tr>
+  <tr>
+    <td>17th</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>Timeless body, tongue of the sun and moon</td>
+    <td>+12/+12/+12/+7/+2</td>
+    <td>2d8</td>
+    <td>+3</td>
+    <td>+50 ft.</td>
+  </tr>
+  <tr>
+    <td>18th</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>Slow fall 90 ft.</td>
+    <td>+13/+13/+13/+8/+3</td>
+    <td>2d8</td>
+    <td>+3</td>
+    <td>+60 ft.</td>
+  </tr>
+  <tr>
+    <td>19th</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>Empty body</td>
+    <td>+14/+14/+14/+9/+4</td>
+    <td>2d8</td>
+    <td>+3</td>
+    <td>+60 ft.</td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>Perfect self, slow fall any distance</td>
+    <td>+15/+15/+15/+10/+5</td>
+    <td>2d10</td>
+    <td>+4</td>
+    <td>+60 ft.</td>
+  </tr>
+  <tr>
+    <td colspan=10>1 The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.</td>
+  </tr>
+</table>
 
 ### Class Features
 
@@ -1996,16 +2489,46 @@ A monk's unarmed strike is treated both as a manufactured weapon and a natural w
 
 A monk also deals more damage with her unarmed strikes than a normal person would, as shown on Table: The Monk. The unarmed damage on Table: The Monk is for Medium monks. A Small monk deals less damage than the amount given there with her unarmed attacks, while a Large monk deals more damage; see Table: Small or Large Monk Unarmed Damage.
 
-#### Table: Small or Large Monk Unarmed Damage
-
-| Level      | Damage (Small Monk) | Damage (Large Monk)
-| ---------- | ------------------- | -------------------
-| 1st–3rd    | 1d4                 | 1d8
-| 4th–7th    | 1d6                 | 2d6
-| 8th–11th   | 1d8                 | 2d8
-| 12th–15th  | 1d10                | 3d6
-| 16th–19th  | 2d6                 | 3d8
-| 20th       | 2d8                 | 4d8
+<table>
+  <tr>
+    <th colspan=3>Table: Small or Large Monk Unarmed Damage</th>
+  </tr>
+  <tr>
+    <th>Level</th>
+    <th>Damage (Small Monk)</th>
+    <th>Damage (Large Monk)</th>
+  </tr>
+  <tr>
+    <td>1st–3rd</td>
+    <td>1d4</td>
+    <td>1d8</td>
+  </tr>
+  <tr>
+    <td>4th–7th</td>
+    <td>1d6</td>
+    <td>2d6</td>
+  </tr>
+  <tr>
+    <td>8th–11th</td>
+    <td>1d8</td>
+    <td>2d8</td>
+  </tr>
+  <tr>
+    <td>12th–15th</td>
+    <td>1d10</td>
+    <td>3d6</td>
+  </tr>
+  <tr>
+    <td>16th–19th</td>
+    <td>2d6</td>
+    <td>3d8</td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td>2d8</td>
+    <td>4d8</td>
+  </tr>
+</table>
 
 **Bonus Feat:** At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
 
