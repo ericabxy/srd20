@@ -754,32 +754,140 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 **Level Adjustment:** —.
 
-|                                                                                               |                                                                                           |                                                                                                               |                                                                                                                             |
-|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-|                                                                                               | **Human Warrior Skeleton **                                                        | **Wolf Skeleton **                                                                                     | **Owlbear Skeleton**                                                                                                 |
-|                                                                                               |                                                                                           |                                                                                                               |                                                                                                                             |
-|                                                                                               | Medium Undead                                                                      | Medium Undead                                                                                          | Large Undead                                                                                                         |
-| **Hit Dice: **                                                                         | 1d12 (6 hp)                                                                        | 2d12 (13 hp)                                                                                           | 5d12 (32 hp)                                                                                                         |
-| **Initiative: **                                                                       | +5                                                                                 | +7                                                                                                     | +6                                                                                                                   |
-| **Speed: **                                                                            | 30 ft. (6 squares)                                                                 | 50 ft. (10 squares)                                                                                    | 30 ft. (6 squares)                                                                                                   |
-| **Armor Class: **                                                                      | 15 (+1 Dex, +2 natural, +2 heavy steel shield), touch 11, flat-footed 14           | 15 (+3 Dex, +2 natural), touch 13, flat-footed 12                                                      | 13 (–1 size, +2 Dex, +2 natural), touch 11, flat-footed 11                                                           |
-| **Base Attack/Grapple:**                                                               | +0/+1                                                                              | +1/+2                                                                                                  | +2/+11                                                                                                               |
-| **Attack:**                                                                            | Scimitar +1 melee (1d6+1/18–20) or claw +1 melee (1d4+1)                           | Bite +2 melee (1d6+1)                                                                                  | Claw +6 melee (1d6+5)                                                                                                |
-| **Full Attack:**                                                                       | Scimitar +1 melee (1d6+1/18–20) or 2 claws +1 melee (1d4+1)                        | Bite +2 melee (1d6+1)                                                                                  | 2 claws +6 melee (1d6+5) and bite +1 melee (1d8+2)                                                                   |
-| **Space/Reach:**                                                                       | 5 ft./5 ft.                                                                        | 5 ft./5 ft.                                                                                            | 10 ft./5 ft.                                                                                                         |
-| **Special Attacks: —**                                                          | —                                                                                  | —                                                                                                      |                                                                                                                             |
-| **Special Qualities:**                                                                 | Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits | Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits                     | Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits                                   |
-| **Saves:**                                                                             | Fort +0, Ref +1, Will +2                                                           | Fort +0, Ref +3, Will +3                                                                               | Fort +1, Ref +3, Will +4                                                                                             |
-| **Abilities: Str 13, Dex 13, Con —, Int —, Wis 10, Cha 1** | Str 13, Dex 17, Con —, Int —, Wis 10, Cha 1                                        | Str 21, Dex 14, Con —, Int —, Wis 10, Cha 1                                                            |                                                                                                                             |
-| **Feats:**                                                                             | Improved Initiative                                                                | Improved Initiative                                                                                    | Improved Initiative                                                                                                  |
-| **Environment:**                                                                       | Temperate plains                                                                   | Temperate forests                                                                                      | Temperate forests                                                                                                    |
-| **Organization:**                                                                      | Any                                                                                | Any                                                                                                    | Any                                                                                                                  |
-| **Challenge Rating:**                                                                  | 1/3                                                                                | 1                                                                                                      | 2                                                                                                                    |
-| **Treasure:**                                                                          | None                                                                               | None                                                                                                   | None                                                                                                                 |
-| **Alignment:**                                                                         | Always neutral evil                                                                | Always neutral evil                                                                                    | Always neutral evil                                                                                                  |
-| **Advancement:**                                                                       | —                                                                                  | 3 HD (Medium); 4–6 HD (Large)                                                                          | 6–8 HD (Large); 9–15 HD (Huge)                                                                                       |
-|                                                                                               |                                                                                           |                                                                                                               |                                                                                                                             |
-| **Level Adjustment:**                                                                  | —                                                                                  | —                                                                                                      | —                                                                                                                    |
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Human Warrior Skeleton</th>
+    <th>Wolf Skeleton</th>
+    <th>Owlbear Skeleton</th>
+  </tr>
+  <tr>
+    <td>Medium Undead</td>
+    <td>Medium Undead</td>
+    <td>Large Undead</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1d12 (6 hp)</td>
+    <td>2d12 (13 hp)</td>
+    <td>5d12 (32 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+5</td>
+    <td>+7</td>
+    <td>+6</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. (6 squares)</td>
+    <td>50 ft. (10 squares)</td>
+    <td>30 ft. (6 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (+1 Dex, +2 natural, +2 heavy steel shield), touch 11, flat-footed 14</td>
+    <td>15 (+3 Dex, +2 natural), touch 13, flat-footed 12</td>
+    <td>13 (&ndash;1 size, +2 Dex, +2 natural), touch 11, flat-footed 11</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+0/+1</td>
+    <td>+1/+2</td>
+    <td>+2/+11</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Scimitar +1 melee (1d6+1/18&ndash;20) or claw +1 melee (1d4+1)</td>
+    <td>Bite +2 melee (1d6+1)</td>
+    <td>Claw +6 melee (1d6+5)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Scimitar +1 melee (1d6+1/18&ndash;20) or 2 claws +1 melee (1d4+1)</td>
+    <td>Bite +2 melee (1d6+1)</td>
+    <td>2 claws +6 melee (1d6+5) and bite +1 melee (1d8+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+    <td>5 ft./5 ft.</td>
+    <td>10 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>&mdash;</td>
+    <td>&mdash;</td>
+    <td>&mdash;</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits</td>
+    <td>Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits</td>
+    <td>Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +0, Ref +1, Will +2</td>
+    <td>Fort +0, Ref +3, Will +3</td>
+    <td>Fort +1, Ref +3, Will +4</td>
+  </tr>
+  <tr>
+    <th>Abilities: Str 13, Dex 13, Con &mdash;, Int &mdash;, Wis 10, Cha 1</th>
+    <td>Str 13, Dex 17, Con &mdash;, Int &mdash;, Wis 10, Cha 1</td>
+    <td>Str 21, Dex 14, Con &mdash;, Int &mdash;, Wis 10, Cha 1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Improved Initiative</td>
+    <td>Improved Initiative</td>
+    <td>Improved Initiative</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate plains</td>
+    <td>Temperate forests</td>
+    <td>Temperate forests</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Any</td>
+    <td>Any</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>&frac13;</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always neutral evil</td>
+    <td>Always neutral evil</td>
+    <td>Always neutral evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>&mdash;</td>
+    <td>3 HD (Medium); 4&ndash;6 HD (Large)</td>
+    <td>6&ndash;8 HD (Large); 9&ndash;15 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>&mdash;</td>
+    <td>&mdash;</td>
+    <td>&mdash;</td>
+  </tr>
+</table>
+
 |                                                                                               |                                                                                           |                                                                                                               |                                                                                                                             |
 |                                                                                               | **Troll Skeleton**                                                                 | **Chimera Skeleton**                                                                                   | **Ettin Skeleton**                                                                                                   |
 |                                                                                               |                                                                                           |                                                                                                               |                                                                                                                             |
@@ -834,28 +942,96 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 ## SKUM
 
-|                          | Medium Aberration (Aquatic)                                   |
-| **Hit Dice:**            | 2d8+2 (11 hp)                                                 |
-| **Initiative:**          | +1                                                            |
-| **Speed:**               | 20 ft. (4 squares), swim 40 ft.                               |
-| **Armor Class:**         | 13 (+1 Dex, +2 natural), touch 11, flat-footed 12             |
-| **Base Attack/Grapple:** | +1/+5                                                         |
-| **Attack:**              | Bite +5 melee (2d6+4)                                         |
-| **Full Attack:**         | Bite +5 melee (2d6+4) and 2 claws +0 melee (1d4+2)            |
-| **Space/Reach:**         | 5 ft./5 ft.                                                   |
-| **Special Attacks:**     | Rake 1d6+2                                                    |
-| **Special Qualities:**   | Darkvision 60 ft., amphibious                                 |
-| **Saves:**               | Fort +1, Ref +1, Will +3                                      |
-| **Abilities:**           | Str 19, Dex 13, Con 13, Int 10, Wis 10, Cha 6                 |
-| **Skills:**              | Hide +6\*, Listen +7\*, Move Silently +6, Spot +7\*, Swim +12 |
-| **Feats:**               | Alertness                                                     |
-| **Environment:**         | Underground                                                   |
-| **Organization:**        | Brood (2–5) or pack (6–15)                                    |
-| **Challenge Rating:**    | 2                                                             |
-| **Treasure:**            | None                                                          |
-| **Alignment:**           | Usually lawful evil                                           |
-| **Advancement:**         | 3–4 HD (Medium); 5–6 HD (Large)                               |
-| **Level Adjustment:**    | +3                                                            |
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Aberration (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>2d8+2 (11 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 40 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>13 (+1 Dex, +2 natural), touch 11, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+5</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +5 melee (2d6+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +5 melee (2d6+4) and 2 claws +0 melee (1d4+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Rake 1d6+2</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., amphibious</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +1, Ref +1, Will +3</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 19, Dex 13, Con 13, Int 10, Wis 10, Cha 6</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +6*, Listen +7*, Move Silently +6, Spot +7*, Swim +12</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Underground</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Brood (2&ndash;5) or pack (6&ndash;15)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually lawful evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>3&ndash;4 HD (Medium); 5&ndash;6 HD (Large)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+3</td>
+  </tr>
+</table>
 
 A skum is about the same height and weight as a human. Skum speak Aquan.
 

@@ -942,28 +942,96 @@ threatened.
 
 ## CHUUL
 
-|                          | Large Aberration (Aquatic)
-| **Hit Dice:**            | 11d8+44 (93 hp)
-| **Initiative:**          | +7
-| **Speed:**               | 30 ft. (6 squares), swim 20 ft.
-| **Armor Class:**         | 22 (–1 size, +3 Dex, +10 natural), touch 12, flat-footed 19
-| **Base Attack/Grapple:** | +8/+17
-| **Attack:**              | Claw +12 melee (2d6+5)
-| **Full Attack:**         | 2 claws +12 melee (2d6+5)
-| **Space/Reach:**         | 10 ft./5 ft.
-| **Special Attacks:**     | Constrict 3d6+5, improved grab, paralytic tentacles
-| **Special Qualities:**   | Amphibious, darkvision 60 ft., immunity to poison
-| **Saves:**               | Fort +7, Ref +6, Will +9
-| **Abilities:**           | Str 20, Dex 16, Con 18, Int 10, Wis 14, Cha 5
-| **Skills:**              | Hide +13, Listen +11, Spot +11, Swim +13
-| **Feats:**               | Alertness, Blind-Fight,Combat Reflexes, Improved Initiative
-| **Environment:**         | Temperate marshes
-| **Organization:**        | Solitary, pair, or pack (3–5)
-| **Challenge Rating:**    | 7
-| **Treasure:**            | 1/10th coins; 50% goods; standard items
-| **Alignment:**           | Usually chaotic evil
-| **Advancement:**         | 12–16 HD (Large); 17–33 HD (Huge)
-| **Level Adjustment:**    | —
+<table>
+  <tr>
+    <td></td>
+    <td>Large Aberration (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>11d8+44 (93 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+7</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. (6 squares), swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>22 (&ndash;1 size, +3 Dex, +10 natural), touch 12, flat-footed 19</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+8/+17</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Claw +12 melee (2d6+5)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 claws +12 melee (2d6+5)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Constrict 3d6+5, improved grab, paralytic tentacles</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Amphibious, darkvision 60 ft., immunity to poison</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +7, Ref +6, Will +9</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 20, Dex 16, Con 18, Int 10, Wis 14, Cha 5</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +13, Listen +11, Spot +11, Swim +13</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Blind-Fight,Combat Reflexes, Improved Initiative</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, pair, or pack (3&ndash;5)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>1/10th coins; 50% goods; standard items</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually chaotic evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>12&ndash;16 HD (Large); 17&ndash;33 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>&mdash;</td>
+  </tr>
+</table>
 
 A horrible mix of crustacean, insect, and serpent, the chuul is an
 abomination that lurks submerged or partially submerged, awaiting

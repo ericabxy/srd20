@@ -140,29 +140,122 @@ This line is included in the entries of creatures suitable for use as player cha
 
 ## ABOLETH
 
-|                           | **Aboleth**                                                                | **Aboleth Mage, 10th-Level Wizard**
-|                           | Huge Aberration (Aquatic)                                                  | Huge Aberration (Aquatic)
-| **Hit Dice:**             | 8d8+40 (76 hp)                                                             | 8d8+56 plus 10d4+70 (177 hp)
-| **Initiative:**           | +1                                                                         | +7
-| **Speed:**                | 10 ft. (2 squares), swim 60 ft.                                            | 10 ft. (2 squares), swim 60 ft.
-| **Armor Class:**          | 16 (--2 size, +1 Dex, +7 natural), touch 9, flat-footed 15                 | 18 (--2 size, +3 Dex, +7 natural), touch 11, flat-footed 15
-| **Base Attack/Grapple:**  | +6/+22                                                                     | +11/+28
-| **Attack:**               | Tentacle +12 melee (1d6+8 plus slime)                                      | Tentacle +18 melee (1d6+9 plus slime)
-| **Full Attack:**          | 4 tentacles +12 melee (1d6+8 plus slime)                                   | 4 tentacles +18 melee (1d6+9 plus slime)
-| **Space/Reach:**          | 15 ft./10 ft.                                                              | 15 ft./10 ft.
-| **Special Attacks:**      | Enslave, psionics, slime                                                   | Enslave, psionics, slime, spells 
-| **Special Qualities:**    | Aquatic subtype, darkvision 60 ft., mucus cloud                            | Aquatic subtype, darkvision 60 ft., mucus cloud, summon familiar
-| **Saves:**                | Fort +7, Ref +3, Will +11                                                  | Fort +15, Ref +10, Will +15
-| **Abilities:**            |  Str 26, Dex 12, Con 20, Int 15, Wis 17, Cha 17                            | Str 28, Dex 16, Con 24, Int 20, Wis 16, Cha 14
-| **Skills:**               | Concentration +16, Knowledge (any one) +13, Listen +16, Spot +16, Swim +8  | Bluff +13, Concentration +25, Decipher Script +15, Diplomacy +6, Disguise +2 (+4 acting), Intimidate +4, Knowledge (arcana) +15, Knowledge (dungeoneering) +25, Knowledge (history) +15, Knowledge (the planes) +15, Listen +15, Search +10, Sense Motive +15, Spellcraft +20, Spot +17, Survival +3 (+5 following tracks, on other planes, and underground), Swim +8
-| **Feats: **               | Alertness, Combat Casting, Iron Will                                       | Combat Casting, Empower Spell, Eschew Materials, Great Fortitude, Improved Initiative, Lightning Reflexes, Scribe Scroll, Spell Focus (illusion), Spell Focus (enchantment), Spell Penetration
-| **Environment**           | Underground                                                                | Underground
-| **Organization:**         | Solitary, brood (2--4),or slaver brood (1d3+1 plus 7--12 skum)             | Solitary
-| **Challenge Rating:**     | 7                                                                          | 17
-| **Treasure:**             | Double standard                                                            | Double standard
-| **Alignment:**            | Usually lawful evil                                                        | Usually lawful evil
-| **Advancement:**          | 9--16 HD (Huge); 17--24 HD (Gargantuan)                                    | By character class
-| **Level Adjustment:**     | ---                                                                        | ---
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Aboleth</th>
+    <th>Aboleth Mage, 10th-Level Wizard</th>
+  </tr>
+  <tr>
+    <td>Huge Aberration (Aquatic)</td>
+    <td>Huge Aberration (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>8d8+40 (76 hp)</td>
+    <td>8d8+56 plus 10d4+70 (177 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+    <td>+7</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>10 ft. (2 squares), swim 60 ft.</td>
+    <td>10 ft. (2 squares), swim 60 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15</td>
+    <td>18 (–2 size, +3 Dex, +7 natural), touch 11, flat-footed 15</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+6/+22</td>
+    <td>+11/+28</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Tentacle +12 melee (1d6+8 plus slime)</td>
+    <td>Tentacle +18 melee (1d6+9 plus slime)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>4 tentacles +12 melee (1d6+8 plus slime)</td>
+    <td>4 tentacles +18 melee (1d6+9 plus slime)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Enslave, psionics, slime</td>
+    <td>Enslave, psionics, slime, spells</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Aquatic subtype, darkvision 60 ft., mucus cloud</td>
+    <td>Aquatic subtype, darkvision 60 ft., mucus cloud, summon familiar</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +7, Ref +3, Will +11</td>
+    <td>Fort +15, Ref +10, Will +15</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 26, Dex 12, Con 20, Int 15, Wis 17, Cha 17</td>
+    <td>Str 28, Dex 16, Con 24, Int 20, Wis 16, Cha 14</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Concentration +16, Knowledge (any one) +13, Listen +16, Spot +16, Swim +8</td>
+    <td>Bluff +13, Concentration +25, Decipher Script +15, Diplomacy +6, Disguise +2 (+4 acting), Intimidate +4, Knowledge (arcana) +15, Knowledge (dungeoneering) +25, Knowledge (history) +15, Knowledge (the planes) +15, Listen +15, Search +10, Sense Motive +15, Spellcraft +20, Spot +17, Survival +3 (+5 following tracks, on other planes, and underground), Swim +8</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Combat Casting, Iron Will</td>
+    <td>Combat Casting, Empower Spell, Eschew Materials, Great Fortitude, Improved Initiative, Lightning Reflexes, Scribe Scroll, Spell Focus (illusion), Spell Focus (enchantment), Spell Penetration</td>
+  </tr>
+  <tr>
+    <th>Environment</th>
+    <td>Underground</td>
+    <td>Underground</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, brood (2–4),or slaver brood (1d3+1 plus 7–12 skum)</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>7</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Double standard</td>
+    <td>Double standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually lawful evil</td>
+    <td>Usually lawful evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>9–16 HD (Huge); 17–24 HD (Gargantuan)</td>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
 
 The aboleth is a revolting fishlike amphibian found primarily in subterranean lakes and rivers. An aboleth has a pink belly. Four pulsating blueblack orifices line the bottom of its body and secrete gray slime that smells like rancid grease. It uses its tail for propulsion in the water and drags itself along with its tentacles on land. An aboleth weighs about 6,500 pounds.
 

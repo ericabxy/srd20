@@ -43,33 +43,21 @@ Hags are tremendously strong. They are naturally resistant to spells and can cas
 | **Advancement:**          | By character class
 | **Level Adjustment:**     | ---
 
-An annis commonly uses its *disguise self* ability to take the form
-of an exceptionally tall human, a fair giant, or an ogre.
+An annis commonly uses its *disguise self* ability to take the form of an exceptionally tall human, a fair giant, or an ogre.
 
 An annis stands some 8 feet tall and weighs about 325 pounds.
 
 #### Combat
 
-Though physically powerful, these hags do not favor simple assaults but
-try to divide and confuse their foes before combat. They love to pose as
-commoners or gentlefolk to lull their victims into a sense of false
-security before they attack.
+Though physically powerful, these hags do not favor simple assaults but try to divide and confuse their foes before combat. They love to pose as commoners or gentlefolk to lull their victims into a sense of false security before they attack.
 
-**Improved Grab (Ex):** To use this ability, an annis
-must hit a Large or smaller opponent with a claw attack. It can then
-attempt to start a grapple as a free action without provoking an attack
-of opportunity.
+**Improved Grab (Ex):** To use this ability, an annis must hit a Large or smaller opponent with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-**Rake (Ex):** Attack bonus +13 melee, damage 1d6+7. An
-annis can attack a grappled foe with both claws at no
-penalty.
+**Rake (Ex):** Attack bonus +13 melee, damage 1d6+7. An annis can attack a grappled foe with both claws at no penalty.
 
-**Rend (Ex):** An annis that hits with both claw attacks
-latches onto the opponent's body and tears the flesh. This attack
-automatically deals an extra 2d6+10 points of damage.
+**Rend (Ex):** An annis that hits with both claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d6+10 points of damage.
 
-**Spell-Like Abilities:** 3/day---*disguise self*, *fog cloud*.
-Caster level 8th.
+**Spell-Like Abilities:** 3/day---*disguise self*, *fog cloud*. Caster level 8th.
 
 ### GREEN HAG
 
@@ -102,9 +90,7 @@ A green hag is about the same height and weight as a female human.
 
 #### Combat
 
-Green hags prefer to attack from hiding, usually after distracting
-foes. They often use darkvision to their advantage by attacking during
-moonless nights.
+Green hags prefer to attack from hiding, usually after distracting foes. They often use darkvision to their advantage by attacking during moonless nights.
 
 **Spell-Like Abilities:** At will---*dancing lights*, *disguise self*, *ghost sound* (DC 12), *invisibility*, *pass without trace*, *tongues*, *water breathing*. Caster level 9th. The save DC is Charisma-based.
 
@@ -139,100 +125,51 @@ moonless nights.
 | **Advancement:**          | By character class
 | **Level Adjustment:**     | ---
                                            
-The sea hag is found in the water of seas or overgrown
-lakes.
+The sea hag is found in the water of seas or overgrown lakes.
 
-A sea hag is about the same height and weight as a female
-human.
+A sea hag is about the same height and weight as a female human.
 
 #### Combat
 
-Sea hags are not subtle and prefer a direct approach to
-combat.
+Sea hags are not subtle and prefer a direct approach to combat.
 
-They usually remain in hiding until they can affect as many foes as
-possible with their horrific appearance.
+They usually remain in hiding until they can affect as many foes as possible with their horrific appearance.
 
-**Horrific Appearance (Su):** The sight of a sea hag is
-so revolting that anyone (other than another hag) who sets eyes upon one
-must succeed on a DC 13 Fortitude save or instantly be weakened, taking
-2d6 points of Strength damage. This damage cannot reduce a victim's
-Strength score below 0, but anyone reduced to Strength 0 is helpless.
-Creatures that are affected by this power or that successfully save
-against it cannot be affected again by the same hag's horrific
-appearance for 24 hours. The save DC is Charisma-based.
+**Horrific Appearance (Su):** The sight of a sea hag is so revolting that anyone (other than another hag) who sets eyes upon one must succeed on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of Strength damage. This damage cannot reduce a victim's Strength score below 0, but anyone reduced to Strength 0 is helpless. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag's horrific appearance for 24 hours. The save DC is Charisma-based.
 
-**Evil Eye (Su):** Three times per day, a sea hag can
-cast its dire gaze upon any single creature within 30 feet. The target
-must succeed on a DC 13 Will save or be dazed for three days, although
-*remove curse* or *dispel evil* can restore sanity sooner. In addition, an affected
-creature must succeed on a DC 13 Fortitude save or die from fright.
-Creatures with immunity to fear effects are not affected by the sea
-hag's evil eye. The save DCs are Charisma-based.
+**Evil Eye (Su):** Three times per day, a sea hag can cast its dire gaze upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be dazed for three days, although *remove curse* or *dispel evil* can restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag's evil eye. The save DCs are Charisma-based.
 
-**Amphibious (Ex):** Although sea hags are aquatic, they
-can survive indefinitely on land.
+**Amphibious (Ex):** Although sea hags are aquatic, they can survive indefinitely on land.
 
-**Skills:** A sea hag has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line.
+**Skills:** A sea hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ### HAG COVEY
 
-From time to time, a trio of hags gathers as a covey. Usually this foul
-triune includes one hag of each type, but this is not always the
-case.
+From time to time, a trio of hags gathers as a covey. Usually this foul triune includes one hag of each type, but this is not always the case.
 
 #### Combat
 
-Hags in a covey rely on deception and their boosted magical abilities
-in combat.
+Hags in a covey rely on deception and their boosted magical abilities in combat.
 
-A covey of hags is 80% likely to be guarded by 1d8 ogres and 1d4 evil
-giants who do their bidding. These minions are often disguised with a
-*veil* spell to appear less threatening and sent forth as spies. Such
-minions often (60%) carry magic stones known as *hag eyes* (see below).
+A covey of hags is 80% likely to be guarded by 1d8 ogres and 1d4 evil giants who do their bidding. These minions are often disguised with a *veil* spell to appear less threatening and sent forth as spies. Such minions often (60%) carry magic stones known as *hag eyes* (see below).
 
-**Spell-Like Abilities:** 3/day---*animate dead*, *bestow curse*
-(DC 17), *control weather*, *dream*, *forcecage*, *mind blank*,
-*mirage arcana* (DC 18), *polymorph*, *veil* (DC 19), *vision*.
-Caster level 9th. The save DCs are based on a Charisma score of 16. To
-use one of these abilities (which requires a full-round action), all
-three hags must be within 10 feet of one another, and all must
-participate.
+**Spell-Like Abilities:** 3/day---*animate dead*, *bestow curse* (DC 17), *control weather*, *dream*, *forcecage*, *mind blank*, *mirage arcana* (DC 18), *polymorph*, *veil* (DC 19), *vision*. Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
 
-Once per month, a covey that does not have a *hag eye* can create one
-from a gem worth at least 20 gp (see below).
+Once per month, a covey that does not have a *hag eye* can create one from a gem worth at least 20 gp (see below).
 
 #### Hag Eye
 
-A *hag eye* is a magic gem created by a covey. It appears to be
-nothing more than a semiprecious stone, but a *gem of seeing* or other
-such effect reveals it as a disembodied eye. Often, a *hag eye* is worn
-as a ring, brooch, or other adornment. Any of the three hags who
-created the *hag eye* can see through it whenever they wish, so long as
-it is on the same plane of existence as the hag. A *hag eye* has
-hardness 5 and 10 hit points. Destroying a *hag eye* deals 1d10 points
-of damage to each member of the covey and causes the one who sustained
-the greatest damage to be blinded for 24 hours. 
+A *hag eye* is a magic gem created by a covey. It appears to be nothing more than a semiprecious stone, but a *gem of seeing* or other such effect reveals it as a disembodied eye. Often, a *hag eye* is worn as a ring, brooch, or other adornment. Any of the three hags who created the *hag eye* can see through it whenever they wish, so long as it is on the same plane of existence as the hag. A *hag eye* has hardness 5 and 10 hit points. Destroying a *hag eye* deals 1d10 points of damage to each member of the covey and causes the one who sustained the greatest damage to be blinded for 24 hours. 
 
 ## HALF-CELESTIAL
 
-No matter the form, half-celestials are always comely and delightful to
-the senses, having golden skin, sparkling eyes, angelic wings, or some
-other sign of their higher nature. 
+No matter the form, half-celestials are always comely and delightful to the senses, having golden skin, sparkling eyes, angelic wings, or some other sign of their higher nature. 
 
 ### CREATING A HALF-CELESTIAL
 
-"Half-celestial" is an inherited template that can be added to any
-living, corporeal creature with an Intelligence score of 4 or higher and
-nonevil alignment (referred to hereafter as the base
-creature).
+"Half-celestial" is an inherited template that can be added to any living, corporeal creature with an Intelligence score of 4 or higher and nonevil alignment (referred to hereafter as the base creature).
 
-A half-celestial uses all the base creature's statistics and special
-abilities except as noted here.
+A half-celestial uses all the base creature's statistics and special abilities except as noted here.
 
 **Size and Type:** The creature's type changes to outsider. Do not recalculate the creature's Hit Dice, base attack bonus, or saves. Size is unchanged. Half-celestials are normally native outsiders.
 
@@ -242,12 +179,9 @@ abilities except as noted here.
 
 **Special Attacks:** A half-celestial retains all the special attacks of the base creature and also gains the following special abilities. 
 
-*Daylight (Su):* Half-celestials can use a *daylight* effect (as the
-spell) at will.
+*Daylight (Su):* Half-celestials can use a *daylight* effect (as the spell) at will.
 
-*Smite Evil (Su):* Once per day a half-celestial can make a normal
-melee attack to deal extra damage equal to its HD (maximum of +20)
-against an evil foe.
+*Smite Evil (Su):* Once per day a half-celestial can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against an evil foe.
 
 **Spell-Like Abilities:** A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative
 
@@ -294,50 +228,30 @@ Unless otherwise noted, an ability is usable once per day. Caster level equals t
 
 ## HALF-DRAGON
 
-Half-dragon creatures are always more formidable than others of their
-kind that do not have dragon blood, and their appearance betrays their
-nature---scales, elongated features, reptilian eyes, and exaggerated
-teeth and claws. Sometimes they have wings.
+Half-dragon creatures are always more formidable than others of their kind that do not have dragon blood, and their appearance betrays their nature---scales, elongated features, reptilian eyes, and exaggerated teeth and claws. Sometimes they have wings.
 
 ### CREATING A HALF-DRAGON
 
-"Half-dragon" is an inherited template that can be added to any living,
-corporeal creature (referred to hereafter as the base creature).
+"Half-dragon" is an inherited template that can be added to any living, corporeal creature (referred to hereafter as the base creature).
 
-A half-dragon uses all the base creature's statistics and special
-abilities except as noted here.
+A half-dragon uses all the base creature's statistics and special abilities except as noted here.
 
-**Size and Type:** The creature's type changes to dragon. Size is
-unchanged. Do not recalculate base attack bonus or saves.
+**Size and Type:** The creature's type changes to dragon. Size is unchanged. Do not recalculate base attack bonus or saves.
 
-**Hit Dice:** Increase base creature's racial HD by one die size, to a
-maximum of d12. Do not increase class HD.
+**Hit Dice:** Increase base creature's racial HD by one die size, to a maximum of d12. Do not increase class HD.
 
-**Speed:** A half-dragon that is Large or larger has wings and can fly
-at twice its base land speed (maximum 120 ft.) with average
-maneuverability. A half-dragon that is Medium or smaller does not have
-wings.
+**Speed:** A half-dragon that is Large or larger has wings and can fly at twice its base land speed (maximum 120 ft.) with average maneuverability. A half-dragon that is Medium or smaller does not have wings.
 
 **Armor Class:** Natural armor improves by +4.
 
-**Attack:** A half-dragon has two claw attacks and a bite attack, and
-the claws are the primary natural weapon. If the base creature can use
-weapons, the half-dragon retains this ability. A half-dragon fighting
-without weapons uses a claw when making an attack action. When it has a
-weapon, it usually uses the weapon instead.
+**Attack:** A half-dragon has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-dragon retains this ability. A half-dragon fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
 
-**Full Attack:** A half-dragon fighting without weapons uses both claws
-and its bite when making a full attack. If armed with a weapon, it
-usually uses the weapon as its primary attack and its bite as a natural
-secondary attack. If it has a hand free, it uses a claw as an additional
-natural secondary attack.
+**Full Attack:** A half-dragon fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
 
-**Damage:** Half-dragons have bite and claw attacks. If the base
-creature does not have these attack forms, use the damage values in the
-table below. Otherwise, use the values below or the base creature's
-damage values, whichever are greater.
+**Damage:** Half-dragons have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature's damage values, whichever are greater.
 
-| **Size**   | **Bite Damage** | **Claw Damage**
+|   Size     |   Bite Damage   |   Claw Damage
+|------------|-----------------|-----------------
 | Fine       | 1               | ---
 | Diminutive | 1d2             | 1
 | Tiny       | 1d3             | 1d2
@@ -348,12 +262,7 @@ damage values, whichever are greater.
 | Gargantuan | 3d6             | 2d6
 | Colossal   | 4d6             | 3d6
 
-**Special Attacks:** A half-dragon retains all the
-special attacks of the base creature and gains a breath weapon based on
-the dragon variety (see the table below), usable once per day. A
-half-dragon's breath weapon deals 6d8 points of damage. A successful
-Reflex save (DC 10 + 1/2 half-dragon's racial HD + half-dragon's Con
-modifier) reduces damage by half.
+**Special Attacks:** A half-dragon retains all the special attacks of the base creature and gains a breath weapon based on the dragon variety (see the table below), usable once per day. A half-dragon's breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + 1/2 half-dragon's racial HD + half-dragon's Con modifier) reduces damage by half.
 
 | Dragon Variety | Breath Weapon                        |
 |----------------|--------------------------------------|
@@ -368,10 +277,7 @@ modifier) reduces damage by half.
 | Gold           | 30-foot cone of fire                 |
 | Silver         | 30-foot cone of cold                 |
 
-**Special Qualities:** A half-dragon has all the special
-qualities of the base creature, plus darkvision out to 60 feet and
-low-light vision. A half-dragon has immunity to *sleep* and paralysis
-effects, and an additional immunity based on its dragon variety.
+**Special Qualities:** A half-dragon has all the special qualities of the base creature, plus darkvision out to 60 feet and low-light vision. A half-dragon has immunity to *sleep* and paralysis effects, and an additional immunity based on its dragon variety.
 
 | Dragon Variety | Immunity    | Dragon Variety | Immunity
 | -------------- | ----------- | -------------- | --------
@@ -395,49 +301,29 @@ effects, and an additional immunity based on its dragon variety.
 
 ## HALF-FIEND 
 
-No matter its form, a half-fiend is always hideous to behold, having
-dark scales, horns, glowing red eyes, bat wings, a fetid odor, or some
-other obvious sign that it is tainted with evil.
+No matter its form, a half-fiend is always hideous to behold, having dark scales, horns, glowing red eyes, bat wings, a fetid odor, or some other obvious sign that it is tainted with evil.
 
 ### CREATING A HALF-FIEND
 
-"Half-fiend" is an inherited template that can be added to any living,
-corporeal creature with an Intelligence score of 4 or more and nongood
-alignment (referred to hereafter as the base creature).
+"Half-fiend" is an inherited template that can be added to any living, corporeal creature with an Intelligence score of 4 or more and nongood alignment (referred to hereafter as the base creature).
 
-A half-fiend uses all the base creature's statistics and special
-abilities except as noted here.
+A half-fiend uses all the base creature's statistics and special abilities except as noted here.
 
-**Size and Type:** The creature's type changes to
-outsider. Do not recalculate Hit Dice, base attack bonus, or saves. Size
-is unchanged. Half-fiends are normally native outsiders.
+**Size and Type:** The creature's type changes to outsider. Do not recalculate Hit Dice, base attack bonus, or saves. Size is unchanged. Half-fiends are normally native outsiders.
 
-**Speed:** A half-fiend has bat wings. Unless the base
-creature has a better fly speed, the creature can fly at the base
+**Speed:** A half-fiend has bat wings. Unless the base creature has a better fly speed, the creature can fly at the base
 creature's base land speed (average maneuverability).
 
-**Armor Class:** Natural armor improves by +1 (this
-stacks with any natural armor bonus the base creature has).
+**Armor Class:** Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
 
-**Attack:** A half-fiend has two claw attacks and a bite
-attack, and the claws are the primary natural weapon. If the base
-creature can use weapons, the half-fiend retains this ability. A
-half-fiend fighting without weapons uses a claw when making an attack
-action. When it has a weapon, it usually uses the weapon
-instead.
+**Attack:** A half-fiend has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-fiend retains this ability. A half-fiend fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
 
-**Full Attack:** A half-fiend fighting without weapons
-uses both claws and its bite when making a full attack. If armed with a
-weapon, it usually uses the weapon as its primary attack and its bite as
-a natural secondary attack. If it has a hand free, it uses a claw as an
-additional natural secondary attack.
+**Full Attack:** A half-fiend fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
 
-**Damage:** Half-fiends have bite and claw attacks. If
-the base creature does not have these attack forms, use the damage
-values in the table below. Otherwise, use the values below or the base
-creature's damage values, whichever are greater.
+**Damage:** Half-fiends have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature's damage values, whichever are greater.
 
-| **Size**   | **Bite Damage** | **Claw Damage**
+|   Size     |   Bite Damage   |   Claw Damage
+|------------|-----------------|-----------------
 | Fine       | 1               | ---
 | Diminutive | 1d2             | 1
 | Tiny       | 1d3             | 1d2
@@ -448,19 +334,11 @@ creature's damage values, whichever are greater.
 | Gargantuan | 3d6             | 2d6
 | Colossal   | 4d6             | 3d6
 
-**Special Attacks:** A half-fiend retains all the special
-attacks of the base creature and gains the following special
-attack.
+**Special Attacks:** A half-fiend retains all the special attacks of the base creature and gains the following special attack.
 
-*Smite Good (Su):* Once per day the creature can make a
-normal melee attack to deal extra damage equal to its HD (maximum of
-+20) against a good foe.
+*Smite Good (Su):* Once per day the creature can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against a good foe.
 
-Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score
-of 8 or higher has spell-like abilities depending on its Hit Dice, as
-indicated on the table below. The abilities are cumulative. Unless
-otherwise noted, an ability is usable once per day. Caster level equals
-the creature's HD, and the save DC is Charisma-based.
+Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or higher has spell-like abilities depending on its Hit Dice, as indicated on the table below. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature's HD, and the save DC is Charisma-based.
 
 | **HD** | **Abilities**
 | 1--2   | *Darkness* 3/day
@@ -474,40 +352,25 @@ the creature's HD, and the save DC is Charisma-based.
 | 17--18 | *Summon monster IX* (fiends only)
 | 19--20 | *Destruction*
 
-**Special Qualities:** A half-fiend has all the special
-qualities of the base creature, plus the following special
-qualities.
+**Special Qualities:** A half-fiend has all the special qualities of the base creature, plus the following special qualities.
 
 ---Darkvision out to 60 feet.
 
 ---Immunity to poison.
 
----Resistance to acid 10, cold 10, electricity 10, and fire
-10.
+---Resistance to acid 10, cold 10, electricity 10, and fire 10.
 
----Damage reduction: 5/magic (if HD 11 or less) or 10/magic (if HD 12
-or more).
+---Damage reduction: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
 
----A half-fiend's natural weapons are treated as magic weapons for the
-purpose of overcoming damage reduction.
+---A half-fiend's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
----Spell resistance equal to creature's HD + 10 (maximum
-35).
+---Spell resistance equal to creature's HD + 10 (maximum 35).
 
-**Abilities:** Increase from the base creature as
-follows: Str +4, Dex +4, Con +2, Int +4, Cha +2.
+**Abilities:** Increase from the base creature as follows: Str +4, Dex +4, Con +2, Int +4, Cha +2.
 
-**Skills:** A half-fiend gains skill points as an
-outsider and has skill points equal to (8 + Int modifier) x (HD + 3).
-Do not include Hit Dice from class levels in this calculation---the
-half-fiend gains outsider skill points only for its racial Hit Dice, and
-gains the normal amount of skill points for its class levels. Treat
-skills from the base creature's list as class skills, and other skills
-as cross-class.
+**Skills:** A half-fiend gains skill points as an outsider and has skill points equal to (8 + Int modifier) x (HD + 3). Do not include Hit Dice from class levels in this calculation---the half-fiend gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature's list as class skills, and other skills as cross-class.
 
-**Challenge Rating:** HD 4 or less, as base creature +1;
-HD 5 to 10, as base creature +2; HD 11 or more, as base creature
-+3.
+**Challenge Rating:** HD 4 or less, as base creature +1; HD 5 to 10, as base creature +2; HD 11 or more, as base creature +3.
 
 **Alignment:** Always evil (any).
 
@@ -515,121 +378,113 @@ HD 5 to 10, as base creature +2; HD 11 or more, as base creature
 
 ## HALFLING
 
-+----------------------------------+----------------------------------+
-|                                  | ####| Halfling                   |
-|                                  | , 1st-Level Warrior |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-|                                  || Small Humanoid                  |
-|                                  | (Halfling)          |
-+----------------------------------+----------------------------------+
-| **Hit Dice:**      || 1d8+1 (5 hp)       |
-+----------------------------------+----------------------------------+
-| **Initiative:**    || +1                 |
-+----------------------------------+----------------------------------+
-| **Speed:**         || 20 ft. (4 squares) |
-+----------------------------------+----------------------------------+
-| **Armor Class:**   || 16 (+1 size, +1 Dex, +3 studded |
-|                                  | leather, +1 light shield), touch |
-|                                  | 12, flat-footed 15  |
-+----------------------------------+----------------------------------+
-| **Base                          || +1/--3             |
-| Attack/Grapple:**   |                                  |
-+----------------------------------+----------------------------------+
-| **Attack:**        || Longsword +3 melee (1d6/19--20) |
-|                                  | or light crossbow +3 ranged      |
-|                                  | (1d6/19--20)        |
-+----------------------------------+----------------------------------+
-| **Full Attack:**   || Longsword +3 melee (1d6/19--20) |
-|                                  | or light crossbow +3 ranged      |
-|                                  | (1d6/19--20)        |
-+----------------------------------+----------------------------------+
-| **Space/Reach:**   || 5 ft./5 ft.        |
-+----------------------------------+----------------------------------+
-| **Special                       || Halfling traits    |
-| Attacks:**          |                                  |
-+----------------------------------+----------------------------------+
-| **Special                       || Halfling traits    |
-| Qualities:**        |                                  |
-+----------------------------------+----------------------------------+
-| **Saves:**         || Fort +4, Ref +2, Will           |
-|                                  | +0                  |
-+----------------------------------+----------------------------------+
-| **Abilities:**     || Str 11, Dex 13, Con 12, Int 10, |
-|                                  | Wis 9, Cha 8        |
-+----------------------------------+----------------------------------+
-| **Skills:**        || Climb +2, Hide +4, Jump --4,    |
-|                                  | Listen +3, Move Silently         |
-|                                  | +1                  |
-+----------------------------------+----------------------------------+
-| **Feats:**         || Weapon Focus                    |
-|                                  | (longsword)         |
-+----------------------------------+----------------------------------+
-| **Environment:**   || Warm plains        |
-|                                  |                                  |
-|                                  || (Deep halfling: Warm            |
-|                                  | hills)              |
-|                                  |                                  |
-|                                  || (Tallfellow: Temperate          |
-|                                  | forests)            |
-+----------------------------------+----------------------------------+
-| **Organization:**  || Company (2--4), squad (11--20   |
-|                                  | plus 2 3rd-level sergeants and 1 |
-|                                  | leader of 3rd--6th level), or    |
-|                                  | band (30--100 plus 100%          |
-|                                  | noncombatants plus 1 3rd-level   |
-|                                  | sergeant per 20 adults, 5        |
-|                                  | 5th-level lieutenants, 3         |
-|                                  | 7th-level captains, 6--10 dogs,  |
-|                                  | and 2--5 riding                  |
-|                                  | dogs)               |
-+----------------------------------+----------------------------------+
-| **Challenge                     || 1/2                |
-| Rating:**           |                                  |
-+----------------------------------+----------------------------------+
-| **Treasure:**      || Standard           |
-+----------------------------------+----------------------------------+
-| **Alignment:**     || Usually neutral    |
-+----------------------------------+----------------------------------+
-| **Advancement:**   || By character class |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
-| **Level                         || +0                 |
-| Adjustment:**       |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Halfling, 1st-Level Warrior</th>
+  </tr>
+  <tr>
+    <td>Small Humanoid (Halfling)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1d8+1 (5 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/&ndash;3</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Longsword +3 melee (1d6/19&ndash;20) or light crossbow +3 ranged (1d6/19&ndash;20)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Longsword +3 melee (1d6/19&ndash;20) or light crossbow +3 ranged (1d6/19&ndash;20)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Halfling traits</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Halfling traits</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +2, Will +0</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Climb +2, Hide +4, Jump &ndash;4, Listen +3, Move Silently +1</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Weapon Focus (longsword)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm plains (Deep halfling: Warm hills) (Tallfellow: Temperate forests)</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Company (2&ndash;4), squad (11&ndash;20 plus 2 3rd-level sergeants and 1 leader of 3rd&ndash;6th level), or band (30&ndash;100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6&ndash;10 dogs, and 2&ndash;5 riding dogs)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>01/02/2026</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+0</td>
+  </tr>
+</table>
 
-Halflings stand about 3 feet tall and usually weigh between 30 and 35
-pounds. They have brown or black eyes. Halfling men often have long
-sideburns, but beards are rare among them and mustaches almost unseen.
-Halflings prefer simple, comfortable, and practical clothes. Unlike
-members of most races, they prefer actual comfort to shows of wealth.
-Halflings reach adulthood in their early twenties and generally live
-into the middle of their second century. Halflings speak Halfling and
-Common.
+Halflings stand about 3 feet tall and usually weigh between 30 and 35 pounds. They have brown or black eyes. Halfling men often have long sideburns, but beards are rare among them and mustaches almost unseen. Halflings prefer simple, comfortable, and practical clothes. Unlike members of most races, they prefer actual comfort to shows of wealth. Halflings reach adulthood in their early twenties and generally live into the middle of their second century. Halflings speak Halfling and Common.
 
-Most halflings encountered outside their home are warriors; the
-information in the statistics block is for one of 1st
-level.
+Most halflings encountered outside their home are warriors; the information in the statistics block is for one of 1st level.
 
 ### COMBAT
 
-Halflings prefer to fight defensively, usually hiding and launching
-ranged attacks as the foe approaches. Their tactics are very much like
-those of elves but place more emphasis on cover and concealment and less
-on mobility.
+Halflings prefer to fight defensively, usually hiding and launching ranged attacks as the foe approaches. Their tactics are very much like those of elves but place more emphasis on cover and concealment and less on mobility.
 
-**Halfling Traits (Ex):** Halflings possess the following
-racial traits.
+**Halfling Traits (Ex):** Halflings possess the following racial traits.
 
 --- +2 Dexterity, --2 Strength.
 
----Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4
-bonus on Hide checks, --4 penalty on grapple checks, lifting and
-carrying limits 3/4 those of Medium characters.
+---Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, --4 penalty on grapple checks, lifting and carrying limits 3/4 those of Medium characters.
 
 ---A halfling's base land speed is 20 feet.
 
@@ -637,413 +492,335 @@ carrying limits 3/4 those of Medium characters.
 
 --- +1 racial bonus on all saving throws.
 
---- +2 morale bonus on saving throws against fear. This bonus stacks
-with the halfling's +1 bonus on saving throws in general.
+--- +2 morale bonus on saving throws against fear. This bonus stacks with the halfling's +1 bonus on saving throws in general.
 
 --- +1 racial bonus on attack rolls with thrown weapons and slings.
 
 --- +2 racial bonus on Listen checks.
 
----Automatic Languages: Common, Halfling. Bonus Languages: Dwarven,
-Elven, Gnome, Goblin, Orc.
+---Automatic Languages: Common, Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, Orc.
 
 ---Favored Class: Rogue.
 
-The halfling warrior presented here had the following ability scores
-before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
+The halfling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### SUBRACES
 
-The information above is for the lightfoot halfling, the most common
-halfling variety. There are two other major halfling subraces, which
-differ from lightfoot halflings as follows.
+The information above is for the lightfoot halfling, the most common halfling variety. There are two other major halfling subraces, which differ from lightfoot halflings as follows.
 
 #### Tallfellow
 
-Tallfellows are somewhat rare among halfling folk. Tallfellows are 4
-feet tall or more and weigh between 30 and 35 pounds. They generally
-speak Elven in addition to Common and Halfling.
+Tallfellows are somewhat rare among halfling folk. Tallfellows are 4 feet tall or more and weigh between 30 and 35 pounds. They generally speak Elven in addition to Common and Halfling.
 
-**Tallfellow Traits (Ex):** These traits are in addition to the
-lightfoot halfling traits, except where noted.
+**Tallfellow Traits (Ex):** These traits are in addition to the lightfoot halfling traits, except where noted.
 
---- +2 racial bonus on Search, Spot, and Listen checks. Like an elf, a
-tallfellow who merely passes within 5 feet of a secret or concealed door
-is entitled to a Search check as though actively looking for it. This
-trait replaces the lightfoot's +2 bonus on Listen checks.
+--- +2 racial bonus on Search, Spot, and Listen checks. Like an elf, a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to a Search check as though actively looking for it. This trait replaces the lightfoot's +2 bonus on Listen checks.
 
----Tallfellows are less athletic than lightfoot halflings and do not
-have a racial bonus on Climb, Jump, and Move Silently checks.
+---Tallfellows are less athletic than lightfoot halflings and do not have a racial bonus on Climb, Jump, and Move Silently checks.
 
 #### Deep Halfling
 
 These halflings are shorter and stockier than the more common lightfeet.
 
-Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds.
-Deep halflings speak Dwarven fluently.
+Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.
 
-**Deep Halfling Traits (Ex):** These traits are in addition to the
-lightfoot halfling traits, except where noted.
+**Deep Halfling Traits (Ex):** These traits are in addition to the lightfoot halfling traits, except where noted.
 
 ---Darkvision out to 60 feet.
 
----Stonecunning: Like dwarves, deep halflings have a +2 racial bonus on
-checks to notice unusual stonework. Something that isn't stone but that
-is disguised as stone also counts as unusual stonework. A deep halfling
-who merely comes within 10 feet of unusual stonework can make a check as
-though actively searching and can use the Search skill to find stonework
-traps as a rogue can. A deep halfling can also intuit depth, sensing the
-approximate distance underground as naturally as a human can sense which
-way is up.
+---Stonecunning: Like dwarves, deep halflings have a +2 racial bonus on checks to notice unusual stonework. Something that isn't stone but that is disguised as stone also counts as unusual stonework. A deep halfling who merely comes within 10 feet of unusual stonework can make a check as though actively searching and can use the Search skill to find stonework traps as a rogue can. A deep halfling can also intuit depth, sensing the approximate distance underground as naturally as a human can sense which way is up.
 
---- +2 racial bonus on Appraise checks and Craft checks that are related
-to stone or metal.
+--- +2 racial bonus on Appraise checks and Craft checks that are related to stone or metal.
 
----Deep halflings are less athletic than lightfoot halflings and do not
-have a racial bonus on Climb, Jump, and Move Silently checks.
+---Deep halflings are less athletic than lightfoot halflings and do not have a racial bonus on Climb, Jump, and Move Silently checks.
 
 ## HARPY
 
-+----------------------+----------------------+----------------------+
-|                      | ########             | ####| Harp           |
-|                      | | Harpy | y Archer, 7th-Level  |
-|                      |                      | Fighter |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      || Medium Monstrous    || Medium Monstrous    |
-|                      | H                    | H                    |
-|                      | umanoid | umanoid |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Hit               || 7d8 (31             || 7d8 + 7d10 + 28     |
-| Dice:** | hp)     | (103                 |
-|                      |                      | hp)     |
-+----------------------+----------------------+----------------------+
-| **Initia            || +2     || +9     |
-| tive:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **S                 || 20 ft. (4 squares), || 20 ft. (4 squares), |
-| peed:** | fly 80 ft.           | fly 80 ft.           |
-|                      | (a                   | (a                   |
-|                      | verage) | verage) |
-+----------------------+----------------------+----------------------+
-| **Armor             || 13 (+2 Dex, +1      || AC 23 (+5 Dex, +1   |
-| C                    | natural), touch 12,  | natural, +6          |
-| lass:** | flat-footed          | *+3    |
-|                      | 11      | studded leather,     |
-|                      |                      | *+1    |
-|                      |                      | *ring  |
-|                      |                      | of protection        |
-|                      |                      | +1*),  |
-|                      |                      | touch 16,            |
-|                      |                      | flat-footed          |
-|                      |                      | 18      |
-+----------------------+----------------------+----------------------+
-| **Base              || +7/+7  ||                     |
-| Attack/Gra           |                      | +14/+15 |
-| pple:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **At                || Club +7 melee       | *+1 frost composite |
-| tack:** | (1d6)   | longbow              |
-|                      |                      | *(+1   |
-|                      |                      | Str bonus) +22       |
-|                      |                      | ranged               |
-|                      |                      | (1d8+4/19--20/×3     |
-|                      |                      | plus 1d6 cold) or    |
-|                      |                      | claw +15 melee       |
-|                      |                      | (1d3+1) |
-+----------------------+----------------------+----------------------+
-| **Full              || Club +7/+2 melee    | *+1 frost composite |
-| At                   | (1d6) and 2 claws +2 | longbow              |
-| tack:** | melee                | *(+1   |
-|                      | (1d3)   | Str bonus)           |
-|                      |                      | +22/+17/+12 ranged   |
-|                      |                      | (1d8+4/19--20/×3     |
-|                      |                      | plus 1d6 cold) or 2  |
-|                      |                      | claws +15 melee      |
-|                      |                      | (1d3+1) |
-+----------------------+----------------------+----------------------+
-| **Space/R           || 5 ft./5             || 5 ft./5             |
-| each:** | ft.     | ft.     |
-+----------------------+----------------------+----------------------+
-| **Special           || Captivating         || Captivating         |
-| Att                  | song    | song    |
-| acks:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Special           || Darkvision 60       || Darkvision 60       |
-| Quali                | ft.     | ft.     |
-| ties:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **S                 || Fort +2, Ref +7,    || Fort +11, Ref +14,  |
-| aves:** | Will +6 | Will                 |
-|                      |                      | +11     |
-+----------------------+----------------------+----------------------+
-| **Abili             || Str 10, Dex 15, Con || Str 12, Dex 20, Con |
-| ties:** | 10, Int 7, Wis 12,   | 14, Int 6, Wis 11,   |
-|                      | Cha 17  | Cha 19  |
-+----------------------+----------------------+----------------------+
-| **Sk                || Bluff +11,          || Bluff +11,          |
-| ills:** | Intimidate +7,       | Intimidate +5,       |
-|                      | Listen +7, Perform   | Listen +7, Perform   |
-|                      | (oratory) +5, Spot   | (oratory) +10, Spot  |
-|                      | +3      | +5      |
-+----------------------+----------------------+----------------------+
-| **F                 || Dodge, Flyby        || Alertness, Improved |
-| eats:** | Attack,              | Critical (composite  |
-|                      | Per                  | longbow), Improved   |
-|                      | suasive | Initiative, Iron     |
-|                      |                      | Will, Manyshot,      |
-|                      |                      | Point Blank Shot,    |
-|                      |                      | Rapid Shot, Weapon   |
-|                      |                      | Focus (composite     |
-|                      |                      | longbow), Weapon     |
-|                      |                      | Specialization       |
-|                      |                      | (composite           |
-|                      |                      | l                    |
-|                      |                      | ongbow) |
-+----------------------+----------------------+----------------------+
-| **Environ           || Temperate           || Temperate           |
-| ment:** | marshes | marshes |
-+----------------------+----------------------+----------------------+
-| **Organiza          || Solitary, pair, or  || S                   |
-| tion:** | flight               | olitary |
-|                      | (7--12) |                      |
-+----------------------+----------------------+----------------------+
-| **Challenge         || 4      || 11     |
-| Ra                   |                      |                      |
-| ting:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Trea              || S                   || Standard (including |
-| sure:** | tandard | equ                  |
-|                      |                      | ipment) |
-+----------------------+----------------------+----------------------+
-| **Align             || Usually chaotic     || Usually chaotic     |
-| ment:** | evil    | evil    |
-+----------------------+----------------------+----------------------+
-| **Advance           || By character        || By character        |
-| ment:** | class   | class   |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Level             || +3     || +3     |
-| Adjust               |                      |                      |
-| ment:** |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Harpy</th>
+    <th>Harpy Archer, 7th-Level Fighter</th>
+  </tr>
+  <tr>
+    <td>Medium Monstrous Humanoid</td>
+    <td>Medium Monstrous Humanoid</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>7d8 (31 hp)</td>
+    <td>7d8 + 7d10 + 28 (103 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+2</td>
+    <td>+9</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), fly 80 ft. (average)</td>
+    <td>20 ft. (4 squares), fly 80 ft. (average)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>13 (+2 Dex, +1 natural), touch 12, flat-footed 11</td>
+    <td>AC 23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat-footed 18</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+7/+7</td>
+    <td>+14/+15</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Club +7 melee (1d6)</td>
+    <td>+1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19&ndash;20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Club +7/+2 melee (1d6) and 2 claws +2 melee (1d3)</td>
+    <td>+1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19&ndash;20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Captivating song</td>
+    <td>Captivating song</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft.</td>
+    <td>Darkvision 60 ft.</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +2, Ref +7, Will +6</td>
+    <td>Fort +11, Ref +14, Will +11</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 10, Dex 15, Con 10, Int 7, Wis 12, Cha 17</td>
+    <td>Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Bluff +11, Intimidate +7, Listen +7, Perform (oratory) +5, Spot +3</td>
+    <td>Bluff +11, Intimidate +5, Listen +7, Perform (oratory) +10, Spot +5</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Dodge, Flyby Attack, Persuasive</td>
+    <td>Alertness, Improved Critical (composite longbow), Improved Initiative, Iron Will, Manyshot, Point Blank Shot, Rapid Shot, Weapon Focus (composite longbow), Weapon Specialization (composite longbow)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes</td>
+    <td>Temperate marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, pair, or flight (7&ndash;12)</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>4</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+    <td>Standard (including equipment)</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually chaotic evil</td>
+    <td>Usually chaotic evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+3</td>
+    <td>+3</td>
+  </tr>
+</table>
 
-Harpies like to entrance hapless travelers with their magical songs and
-lead them to unspeakable torments. Only when a harpy has finished
-playing with its new "toys" will it release them from suffering by
-killing and consuming them.
+Harpies like to entrance hapless travelers with their magical songs and lead them to unspeakable torments. Only when a harpy has finished playing with its new "toys" will it release them from suffering by killing and consuming them.
 
 ### COMBAT
 
-When a harpy engages in battle, it prefers to use Flyby Attack and
-strike with a melee weapon.
+When a harpy engages in battle, it prefers to use Flyby Attack and strike with a melee weapon.
 
-**Captivating Song (Su):** The most insidious ability of
-the harpy is its song. When a harpy sings, all creatures (other than
-harpies) within a 300-foot spread must succeed on a DC 16 Will save or
-become captivated. This is a sonic mind-affecting charm effect. A
-creature that successfully saves cannot be affected again by the same
-harpy's song for 24 hours. The save DC is Charisma-based. 
+**Captivating Song (Su):** The most insidious ability of the harpy is its song. When a harpy sings, all creatures (other than harpies) within a 300-foot spread must succeed on a DC 16 Will save or become captivated. This is a sonic mind-affecting charm effect. A creature that successfully saves cannot be affected again by the same harpy's song for 24 hours. The save DC is Charisma-based. 
 
-A captivated victim walks toward the harpy, taking the most direct
-route available. If the path leads into a dangerous area (through flame,
-off a cliff, or the like), that creature gets a second saving throw.
-Captivated creatures can take no actions other than to defend
-themselves. (Thus, a fighter cannot run away or attack but takes no
-defensive penalties.) A victim within 5 feet of the harpy stands there
-and offers no resistance to the monster's attacks. The effect continues
-for as long as the harpy sings and for 1 round thereafter. A bard's
-countersong ability allows the captivated creature to attempt a new Will
-save.
+A captivated victim walks toward the harpy, taking the most direct route available. If the path leads into a dangerous area (through flame, off a cliff, or the like), that creature gets a second saving throw. Captivated creatures can take no actions other than to defend themselves. (Thus, a fighter cannot run away or attack but takes no defensive penalties.) A victim within 5 feet of the harpy stands there and offers no resistance to the monster's attacks. The effect continues for as long as the harpy sings and for 1 round thereafter. A bard's countersong ability allows the captivated creature to attempt a new Will save.
 
-**Skills:** Harpies have a +4 racial bonus on Bluff and
-Listen checks.
+**Skills:** Harpies have a +4 racial bonus on Bluff and Listen checks.
 
 ### HARPY ARCHER
 
-A cruel hunter and roaming brigand, the harpy archer has trained as a
-fighter specializing in ranged combat. Harpy archers often become
-mercenaries, selling their services to the highest bidder. When not
-employed, they make ends meet as highway robbers, forcing merchant
-caravans to pay protection money.
+A cruel hunter and roaming brigand, the harpy archer has trained as a fighter specializing in ranged combat. Harpy archers often become mercenaries, selling their services to the highest bidder. When not employed, they make ends meet as highway robbers, forcing merchant caravans to pay protection money.
 
 ### COMBAT
 
 **Captivating Song (Su):** Will DC 17 negates.
 
-*Possessions:* *+3 studded leather*, *+1 frost composite longbow* (+1
-Str bonus), 10 cold iron arrows, 10 silvered arrows, 5 *+2 arrows*,
-lesser bracers of archery, potion of *cure moderate wounds*, potion of
-*cat's grace*, *cloak of resistance +2*, *ring of protection +1*.
-(Different harpy archers may have different possessions.)
+*Possessions:* *+3 studded leather*, *+1 frost composite longbow* (+1 Str bonus), 10 cold iron arrows, 10 silvered arrows, 5 *+2 arrows*, lesser bracers of archery, potion of *cure moderate wounds*, potion of *cat's grace*, *cloak of resistance +2*, *ring of protection +1*. (Different harpy archers may have different possessions.)
 
 ## HELL HOUND
 
-+----------------------+----------------------+----------------------+
-|                      | ########| He         | **Nessian Warhound** |
-|                      | llhound |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      || Medium Outsider     || Large Outsider      |
-|                      | (Evil, Extraplanar,  | (Evil, Extraplanar,  |
-|                      | Fire,                | Fire,                |
-|                      | Lawful) | Lawful) |
-+----------------------+----------------------+----------------------+
-| **Hit               || 4d8+4 (22           || 12d8+60 (114        |
-| Dice:** | hp)     | hp)     |
-+----------------------+----------------------+----------------------+
-| **Initia            || +5     || +6     |
-| tive:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **S                 || 40 ft. (8           || 40 ft. (8           |
-| peed:** | s                    | s                    |
-|                      | quares) | quares) |
-+----------------------+----------------------+----------------------+
-| **Armor             || 16 (+1 Dex, +5      || 24 (--1 size, +2    |
-| C                    | natural), touch 11,  | Dex, +7 natural, +6  |
-| lass:** | flat-footed          | *+2    |
-|                      | 15      | chain shirt          |
-|                      |                      | bard                 |
-|                      |                      | ing*), |
-|                      |                      | touch 11,            |
-|                      |                      | flat-footed          |
-|                      |                      | 22      |
-+----------------------+----------------------+----------------------+
-| **Base              || +4/+5  ||                     |
-| Attack/Gra           |                      | +12/+24 |
-| pple:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **At                || Bite +5 melee       || Bite +20 melee      |
-| tack:** | (1d8+1 plus 1d6      | (2d6+12/19--20 plus  |
-|                      | fire)   | 1d8                  |
-|                      |                      | fire)   |
-+----------------------+----------------------+----------------------+
-| **Full              || Bite +5 melee       || Bite +20 melee      |
-| At                   | (1d8+1 plus 1d6      | (2d6+12/19--20 plus  |
-| tack:** | fire)   | 1d8                  |
-|                      |                      | fire)   |
-+----------------------+----------------------+----------------------+
-| **Space/R           || 5 ft./5             || 10 ft./10           |
-| each:** | ft.     | ft.     |
-+----------------------+----------------------+----------------------+
-| **Special           || Breath weapon,      || Breath weapon,      |
-| Att                  | fiery                | fiery                |
-| acks:** | bite    | bite    |
-+----------------------+----------------------+----------------------+
-| **Special           || Darkvision 60 ft.,  || Darkvision 60 ft.,  |
-| Quali                | immunity to fire,    | immunity to fire,    |
-| ties:** | scent, vulnerability | scent, vulnerability |
-|                      | to cold | to cold |
-+----------------------+----------------------+----------------------+
-| **S                 || Fort +5, Ref +5,    || Fort +13, Ref +10,  |
-| aves:** | Will +4 | Will +9 |
-+----------------------+----------------------+----------------------+
-| **Abili             || Str 13, Dex 13, Con || Str 26, Dex 14, Con |
-| ties:** | 13, Int 6, Wis 10,   | 20, Int 4, Wis 12,   |
-|                      | Cha 6   | Cha 6   |
-+----------------------+----------------------+----------------------+
-| **Sk                || Hide +13, Jump +12, || Hide +17, Jump +19, |
-| ills:** | Listen +7, Move      | Listen +18, Move     |
-|                      | Silently +13, Spot   | Silently +21, Spot   |
-|                      | +7, Survival         | +18, Survival +8\*,  |
-|                      | +7\*    | Tumble               |
-|                      |                      | +3      |
-+----------------------+----------------------+----------------------+
-| **F                 || Improved            || Alertness, Improved |
-| eats:** | Initiative, Run,     | Critical (bite),     |
-|                      | Track]{.underli      | Improved Initiative, |
-|                      | ne}^[B^ | Track, Weapon Focus  |
-|                      |                      | (bite)  |
-+----------------------+----------------------+----------------------+
-| **Environ           || A lawful            | A lawful evil plane  |
-| ment:** | evil-aligned         |                      |
-|                      | plane   |                      |
-+----------------------+----------------------+----------------------+
-| **Organiza          || Solitary, pair, or  || Solitary, pair, or  |
-| tion:** | pack                 | pack (1--2 Nessian   |
-|                      | (5--12) | warhounds and 5--12  |
-|                      |                      | hell                 |
-|                      |                      | hounds) |
-+----------------------+----------------------+----------------------+
-| **Challenge         || 3      || 9      |
-| Ra                   |                      |                      |
-| ting:** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Trea              || None   | *+2 chain shirt     |
-| sure:** |                      | b                    |
-|                      |                      | arding* |
-+----------------------+----------------------+----------------------+
-| **Align             || Always lawful       || Always lawful       |
-| ment:** | evil    | evil    |
-+----------------------+----------------------+----------------------+
-| **Advance           || 5--8 HD (Medium);   || 13--17 HD (Large);  |
-| ment:** | 9--12 HD             | 18--24 HD            |
-|                      | (Large) | (Huge)  |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Level             || +3                  || +4                  |
-| Adjust               | (                    | (                    |
-| ment:** | cohort) | cohort) |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Hellhound</th>
+    <th>Nessian Warhound</th>
+  </tr>
+  <tr>
+    <td>Medium Outsider (Evil, Extraplanar, Fire, Lawful)</td>
+    <td>Large Outsider (Evil, Extraplanar, Fire, Lawful)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>4d8+4 (22 hp)</td>
+    <td>12d8+60 (114 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+5</td>
+    <td>+6</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>40 ft. (8 squares)</td>
+    <td>40 ft. (8 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (+1 Dex, +5 natural), touch 11, flat-footed 15</td>
+    <td>24 (&ndash;1 size, +2 Dex, +7 natural, +6 +2 chain shirt barding), touch 11, flat-footed 22</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+4/+5</td>
+    <td>+12/+24</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +5 melee (1d8+1 plus 1d6 fire)</td>
+    <td>Bite +20 melee (2d6+12/19&ndash;20 plus 1d8 fire)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +5 melee (1d8+1 plus 1d6 fire)</td>
+    <td>Bite +20 melee (2d6+12/19&ndash;20 plus 1d8 fire)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Breath weapon, fiery bite</td>
+    <td>Breath weapon, fiery bite</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., immunity to fire, scent, vulnerability to cold</td>
+    <td>Darkvision 60 ft., immunity to fire, scent, vulnerability to cold</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +5, Ref +5, Will +4</td>
+    <td>Fort +13, Ref +10, Will +9</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 13, Dex 13, Con 13, Int 6, Wis 10, Cha 6</td>
+    <td>Str 26, Dex 14, Con 20, Int 4, Wis 12, Cha 6</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +13, Jump +12, Listen +7, Move Silently +13, Spot +7, Survival +7*</td>
+    <td>Hide +17, Jump +19, Listen +18, Move Silently +21, Spot +18, Survival +8*, Tumble +3</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Improved Initiative, Run, TrackB</td>
+    <td>Alertness, Improved Critical (bite), Improved Initiative, Track, Weapon Focus (bite)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>A lawful evil-aligned plane</td>
+    <td>A lawful evil plane</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, pair, or pack (5&ndash;12)</td>
+    <td>Solitary, pair, or pack (1&ndash;2 Nessian warhounds and 5&ndash;12 hell hounds)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>3</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+    <td>+2 chain shirt barding</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always lawful evil</td>
+    <td>Always lawful evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>5&ndash;8 HD (Medium); 9&ndash;12 HD (Large)</td>
+    <td>13&ndash;17 HD (Large); 18&ndash;24 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+3 (cohort)</td>
+    <td>+4 (cohort)</td>
+  </tr>
+</table>
 
-A typical hell hound stands 4-1/2 feet high at the shoulder and weighs
-120 pounds.
+A typical hell hound stands 4-1/2 feet high at the shoulder and weighs 120 pounds.
 
 Hell hounds do not speak but understand Infernal.
 
 ### COMBAT
 
-Hell hounds are efficient hunters. A favorite pack tactic is to
-surround prey quietly, then attack with one or two hounds, driving it
-toward the rest with their fiery breath. If the prey doesn't run, the
-pack closes in. Hell hounds track fleeing prey
-relentlessly.
+Hell hounds are efficient hunters. A favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving it toward the rest with their fiery breath. If the prey doesn't run, the pack closes in. Hell hounds track fleeing prey relentlessly.
 
-A hell hound's natural weapons, as well as any weapons it wields, are
-treated as evil-aligned
+A hell hound's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
-and lawful-aligned for the purpose of overcoming damage
-reduction.
+**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 2d6 fire, Reflex DC 13 half. The save DC is Constitution-based.
 
-**Breath Weapon (Su):** 10-foot cone, once every 2d4
-rounds, damage 2d6 fire, Reflex DC 13 half. The save DC is
-Constitution-based.
+**Fiery Bite (Su):** A hell hound deals an extra 1d6 points of fire damage every time it bites an opponent, as if its bite were a flaming weapon.
 
-**Fiery Bite (Su):** A hell hound deals an extra 1d6
-points of fire damage every time it bites an opponent, as if its bite
-were a flaming weapon.
+**Skills:** Hell hounds have a +5 racial bonus on Hide and Move Silently checks.
 
-**Skills:** Hell hounds have a +5 racial bonus on Hide
-and Move Silently checks.
-
-\*They also receive a +8 racial bonus on Survival checks when tracking
-by scent, due to their keen sense of smell.
+\*They also receive a +8 racial bonus on Survival checks when tracking by scent, due to their keen sense of smell.
 
 ### NESSIAN WARHOUND
 
-Nessian warhounds are coalblack mastiffs the size of draft horses,
-often fitted with shirts of infernal chainmail.
+Nessian warhounds are coalblack mastiffs the size of draft horses, often fitted with shirts of infernal chainmail.
 
-Nessian warhounds resemble hell hounds, except as otherwise
-noted.
+Nessian warhounds resemble hell hounds, except as otherwise noted.
 
-**Breath Weapon (Su):** 10-foot cone, once every 2d4
-rounds, damage 3d6 fire, Reflex DC 21 half. The save DC is Constitution-
-based.
+**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 3d6 fire, Reflex DC 21 half. The save DC is Constitution- based.
 
-**Fiery Bite (Su):** A Nessian warhound deals an extra
-1d8 points of fire d a m a g e every time it bites an opponent, as if
-its bite were a flaming weapon. 
+**Fiery Bite (Su):** A Nessian warhound deals an extra 1d8 points of fire damage every time it bites an opponent, as if its bite were a flaming weapon. 
 
 ## HIPPOGRIFF
 
@@ -1821,334 +1598,468 @@ does.
 
 ## INEVITABLE
 
-Inevitables are constructs whose sole aim is to enforce the natural laws
-of the universe.
+Inevitables are constructs whose sole aim is to enforce the natural laws of the universe.
 
-Each type of inevitable is designed to find and punish a particular kind
-of transgression, hunting down a person or group that has violated a
-fundamental principle. When an inevitable is created, it receives its
-first mission, then finds the transgressors and metes out appropriate
-punishment. The sentence is usually death, although some inevitables
-insist on compensation to the wronged party instead, using *geas* and
-*mark of justice* to ensure compliance. From its first step, an
-inevitable focuses totally on its target. It continues its efforts no
-matter how cold the trail or hopeless the task. Inevitables are
-single-minded in pursuit of their quarry, but they are under orders to
-leave innocents alone. Accomplices to their prey are fair game, however,
-which sometimes creates conflicts within their programming.
+Each type of inevitable is designed to find and punish a particular kind of transgression, hunting down a person or group that has violated a fundamental principle. When an inevitable is created, it receives its first mission, then finds the transgressors and metes out appropriate punishment. The sentence is usually death, although some inevitables insist on compensation to the wronged party instead, using *geas* and *mark of justice* to ensure compliance. From its first step, an inevitable focuses totally on its target. It continues its efforts no matter how cold the trail or hopeless the task. Inevitables are single-minded in pursuit of their quarry, but they are under orders to leave innocents alone. Accomplices to their prey are fair game, however, which sometimes creates conflicts within their programming.
 
-Inevitables gladly sacrifice themselves to complete a mission, but they
-aren't suicidal. Faced with impending defeat, they are likely to
-withdraw and seek a way to even the odds. They are determined but
-patient foes. They ally with others if that helps accomplish their
-mission, but they have a hard time keeping allies for long.
+Inevitables gladly sacrifice themselves to complete a mission, but they aren't suicidal. Faced with impending defeat, they are likely to withdraw and seek a way to even the odds. They are determined but patient foes. They ally with others if that helps accomplish their mission, but they have a hard time keeping allies for long.
 
-Inevitables tend to stick out in a crowd while they're in observation
-mode, but they seem oblivious to the attention. Their forms vary, but
-all inevitables are gold-and-silver clockwork creatures, with gears and
-pistons where muscles would be on flesh-and-blood creatures. Their eyes
-glow with a golden radiance.
+Inevitables tend to stick out in a crowd while they're in observation mode, but they seem oblivious to the attention. Their forms vary, but all inevitables are gold-and-silver clockwork creatures, with gears and pistons where muscles would be on flesh-and-blood creatures. Their eyes glow with a golden radiance.
 
-Note that unlike most constructs, inevitables have an Intelligence score
-and can think, learn, and remember.
+Note that unlike most constructs, inevitables have an Intelligence score and can think, learn, and remember.
 
-Inevitables speak Abyssal, Celestial, Infernal, and the native language
-of their first target.
+Inevitables speak Abyssal, Celestial, Infernal, and the native language of their first target.
 
 ### COMBAT
 
-Unless their very existence is threatened, inevitables focus completely
-on the transgressor they've been assigned to, ignoring other combatants
-completely. An inevitable might attack anyone who hinders its progress,
-but it won't tarry beyond the point where it can reengage its quarry.
-Inevitables take self-defense very seriously; anyone who attacks an
-inevitable with what the creature perceives as deadly force is met with
-deadly force in return.
+Unless their very existence is threatened, inevitables focus completely on the transgressor they've been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won't tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
-An inevitable's natural weapons, as well as any weapons it wields, are
-treated as lawful-aligned for the purpose of overcoming damage
-reduction.
+An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Fast Healing (Ex):** An inevitable heals a certain amount of damage
-each round (specified in each variety's description) as long as it has
-at least 1 hit point. However, damage dealt by chaotic weapons heals at
-the normal rate.
+**Fast Healing (Ex):** An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 
 ### KOLYARUT
 
-|                       | Medium Construct (Extraplanar, Lawful)
-| Hit Dice:             | 13d10+20 (91 hp)
-| Initiative:           | +1
-| Speed:                | 20 ft. in banded mail (4 squares); base speed 30 ft.
-| Armor Class:          | 27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26
-| Base Attack/Grapple:  | +9/+11
-| Attack:               | Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or *+2 longsword* +13 melee (1d8+5/19--20) or slam +11 melee (1d6+3)
-| Full Attack:          | Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or *+2 longsword *+13/+8 melee (1d8+5/19--20) or slam +11/+6 melee (1d6+3)
-| Space/Reach:          | 5 ft./5 ft.
-| Special Attacks:      | Enervation ray, spell-like abilities, vampiric touch
-| Special Qualities:    | Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 22
-| Saves:                | Fort +6, Ref +7, Will +7
-| Abilities:            | Str 14, Dex 13, Con ---, Int 10, Wis 17, Cha 16
-| Skills:               | Diplomacy +5, Disguise +12, Gather Information +12, Listen +11, Search +5, Sense Motive +12, Spot +11, Survival +3 (+5 following tracks)
-| Feats:                | Alertness, Combat Casting, Great Fortitude, Lightning Reflexes, Quickened Spell-Like Ability (*suggestion*)
-| Environment:          | A lawful-aligned plane
-| Organization:         | Solitary
-| Challenge Rating:     | 12
-| Treasure:             | None
-| Alignment:            | Always lawful neutral
-| Advancement:          | 14--22 HD (Medium); 23--39 HD (Large)
-| Level Adjustment:     | ---
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Construct (Extraplanar, Lawful)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>13d10+20 (91 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. in banded mail (4 squares); base speed 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+9/+11</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19&ndash;20) or slam +11 melee (1d6+3)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19&ndash;20) or slam +11/+6 melee (1d6+3)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Enervation ray, spell-like abilities, vampiric touch</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 22</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +7, Will +7</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 14, Dex 13, Con &mdash;, Int 10, Wis 17, Cha 16</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Diplomacy +5, Disguise +12, Gather Information +12, Listen +11, Search +5, Sense Motive +12, Spot +11, Survival +3 (+5 following tracks)</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Combat Casting, Great Fortitude, Lightning Reflexes, Quickened Spell-Like Ability (<em>suggestion</em>)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>A lawful-aligned plane</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>12</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always lawful neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>14&ndash;22 HD (Medium); 23&ndash;39 HD (Large)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>&mdash;</td>
+  </tr>
+</table>
                                        
 Kolyaruts mete out punishment to those who break bargains and oaths.
 
-Before beginning a mission against a deal-breaker, a kolyarut learns as
-much about the contract or oath as possible. It's not interested in
-those who break deals accidentally or against their will--- only those
-who willingly break contracts violate the principle that kolyaruts are
-created to uphold. If a written contract was broken, the kolyarut
-typically carries a copy of the contract with it.
+Before beginning a mission against a deal-breaker, a kolyarut learns as much about the contract or oath as possible. It's not interested in those who break deals accidentally or against their will---only those who willingly break contracts violate the principle that kolyaruts are created to uphold. If a written contract was broken, the kolyarut typically carries a copy of the contract with it.
 
-Kolyaruts are the most talkative of the inevitables, making credible
-attempts at social niceties such as proper greetings before getting down
-to the matter at hand. They can use *disguise self *to appear as almost
-any kind of humanoid---useful if they need to go undercover to catch
-their quarry.
+Kolyaruts are the most talkative of the inevitables, making credible attempts at social niceties such as proper greetings before getting down to the matter at hand. They can use *disguise self* to appear as almost any kind of humanoid---useful if they need to go undercover to catch their quarry.
 
 #### Combat
 
-Like all inevitables, a kolyarut is patient enough to study a target
-before striking. It has a good idea of the deal-breaker's abilities and
-defenses before it enters battle. When it fights, it tries to get the
-conflict over as soon as possible, minimizing excess bloodshed and
-mayhem. It doesn't let concern for innocents delay or endanger its
-mission, however.
+Like all inevitables, a kolyarut is patient enough to study a target before striking. It has a good idea of the deal-breaker's abilities and defenses before it enters battle. When it fights, it tries to get the conflict over as soon as possible, minimizing excess bloodshed and mayhem. It doesn't let concern for innocents delay or endanger its mission, however.
 
-A kolyarut's favorite tactic is to use *invisibility *or *disguise self
-*to sneak close, then eliminate the quarry with its vampiric touch
-ability before it can react. A kolyarut has no compunctions about using
-its vampiric touch ability on allies to increase its own power, if doing
-so helps it complete its mission.
+A kolyarut's favorite tactic is to use *invisibility* or *disguise self* to sneak close, then eliminate the quarry with its vampiric touch ability before it can react. A kolyarut has no compunctions about using its vampiric touch ability on allies to increase its own power, if doing so helps it complete its mission.
 
-A kolyarut's natural weapons, as well as any weapons it wields, are
-treated as lawful-aligned for the purpose of overcoming damage
-reduction.
+A kolyarut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Enervation Ray (Su):** A kolyarut can fire a black enervation ray at
-targets within 200 feet. The effect is identical with the *enervation
-*spell (caster level 13th).
+**Enervation Ray (Su):** A kolyarut can fire a black enervation ray at targets within 200 feet. The effect is identical with the *enervation* spell (caster level 13th).
 
-**Spell-Like Abilities:** At will---*discern lies* (DC 17), *disguise
-self*, *fear* (DC 17), *hold person* (DC 16), *invisibility*, *locate
-creature*, *suggestion* (DC 16); 1/day---*hold monster* (DC 17), *mark
-of justice*; 1/week--- *geas/quest*. Caster level 13th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will---*discern lies* (DC 17), *disguise self, fear* (DC 17), *hold person* (DC 16), *invisibility, locate creature, suggestion* (DC 16); 1/day---*hold monster* (DC 17), *mark of justice;* 1/week---*geas/quest*. Caster level 13th. The save DCs are Charisma-based.
 
-**Vampiric Touch (Su):** As a melee touch attack, a kolyarut can steal
-life force from its foe, as the *vampiric touch* spell (caster level
-13th).
+**Vampiric Touch (Su):** As a melee touch attack, a kolyarut can steal life force from its foe, as the *vampiric touch* spell (caster level 13th).
 
-**Skills:** A kolyarut has a +4 racial bonus on Disguise, Gather
-Information, and Sense Motive checks.
+**Skills:** A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Motive checks.
 
 ### MARUT
 
-|                           | Large Construct (Extraplanar, Lawful)
-| **Hit Dice:**             | 15d10+30 (112 hp)
-| **Initiative:**           | +1
-| **Speed:**                | 30 ft. in full plate armor (6 squares); base speed 40 ft.
-| **Armor Class:**          | 34 (--1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33
-| **Base Attack/Grapple:**  | +11/+27
-| **Attack:**               | Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)
-| **Full Attack:**          | 2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)
-| **Space/Reach:**          | 10 ft./10 ft.
-| **Special Attacks:**      | Fists of thunder and lightning, spell-like abilities
-| **Special Qualities:**    | Construct traits, damage reduction 15/chaotic, darkvision 60 ft., fast healing 10, low-light vision, spell resistance 25
-| **Saves:**                | Fort +7, Ref +6, Will +8
-| **Abilities:**            | Str 35, Dex 13, Con ---, Int 12, Wis 17, Cha 18
-| **Skills:**               | Concentration +13, Diplomacy +6, Knowledge (religion) +10, Listen +16, Search +10, Sense Motive +12, Spot +16, Survival +3 (+5 following tracks)
-| **Feats:**                | Ability Focus (fists), Awesome Blow, Combat Casting, Great Fortitude, Improved Bull Rush, Power Attack
-| **Environment:**          | A lawful-aligned plane
-| **Organization:**         | Solitary
-| **Challenge Rating:**     | 15
-| **Treasure:**             | None
-| **Alignment:**            | Always lawful neutral
-| **Advancement:**          | 16--28 HD (Large); 29--45 HD (Huge)
-| **Level Adjustment:**     | ---
+<table>
+  <tr>
+    <td></td>
+    <td>Large Construct (Extraplanar, Lawful)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>15d10+30 (112 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. in full plate armor (6 squares); base speed 40 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>34 (&ndash;1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+11/+27</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Fists of thunder and lightning, spell-like abilities</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Construct traits, damage reduction 15/chaotic, darkvision 60 ft., fast healing 10, low-light vision, spell resistance 25</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +7, Ref +6, Will +8</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 35, Dex 13, Con &mdash;, Int 12, Wis 17, Cha 18</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Concentration +13, Diplomacy +6, Knowledge (religion) +10, Listen +16, Search +10, Sense Motive +12, Spot +16, Survival +3 (+5 following tracks)</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Ability Focus (fists), Awesome Blow, Combat Casting, Great Fortitude, Improved Bull Rush, Power Attack</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>A lawful-aligned plane</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>15</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always lawful neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>16&ndash;28 HD (Large); 29&ndash;45 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>&mdash;</td>
+  </tr>
+</table>
                                            
 Maruts confront those who would try to deny the grave itself.
 
-Any who use unnatural means to extend their life span could be targeted
-by a marut. Those who take extraordinary measures to cheat death in some
-other way might be labeled transgressors as well. Those who use magic to
-reverse death aren't worthy of a marut's attention unless they do so
-repeatedly or on a massive scale.
+Any who use unnatural means to extend their life span could be targeted by a marut. Those who take extraordinary measures to cheat death in some other way might be labeled transgressors as well. Those who use magic to reverse death aren't worthy of a marut's attention unless they do so repeatedly or on a massive scale.
 
-When a marut has identified its target, it walks surely and implacably
-toward the foe, never resting.
+When a marut has identified its target, it walks surely and implacably toward the foe, never resting.
 
 #### Combat
 
-Once it has found its target, a marut brings it the death it has been
-trying to avoid. Those who defile death through necromancy may instead
-receive a *geas* and/or *mark of justice* to enforce proper respect. It
-typically uses *wall of force* to shut off any escape routes, then opens
-up with *chain lightning* while it closes to melee range. Once there, it
-strikes with its massive fists, using *circle of death* if beset by
-numbers of defenders. It hits spellcasting opponents with repeated uses of
-*greater dispel magic*, and it uses *dimension door* and *locate creature*
-to track down foes who flee.
+Once it has found its target, a marut brings it the death it has been trying to avoid. Those who defile death through necromancy may instead receive a *geas* and/or *mark of justice* to enforce proper respect. It typically uses *wall of force* to shut off any escape routes, then opens up with *chain lightning* while it closes to melee range. Once there, it strikes with its massive fists, using *circle of death* if beset by numbers of defenders. It hits spellcasting opponents with repeated uses of *greater dispel magic*, and it uses *dimension door* and *locate creature* to track down foes who flee.
 
-A marut's natural weapons, as well as any weapons it wields, are
-treated as lawful-aligned for the purpose of overcoming damage
-reduction.
+A marut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Fists of Thunder and Lightning (Su):** A marut's left
-fist delivers a loud thunderclap whenever it hits something, dealing an
-extra 3d6 points of sonic damage and causing the target to be deafened
-for 2d6 rounds (Fortitude DC 31 negates the deafness). Its right fist
-delivers a shock for an extra 3d6 points of electricity damage, and the
-flash of lightning causes the target to be blinded for 2d6 rounds
-(Fortitude DC 31 negates the blindness). The save DCs are Strength-based
-and include the marut's Ability Focus feat.
+**Fists of Thunder and Lightning (Su):** A marut's left fist delivers a loud thunderclap whenever it hits something, dealing an extra 3d6 points of sonic damage and causing the target to be deafened for 2d6 rounds (Fortitude DC 31 negates the deafness). Its right fist delivers a shock for an extra 3d6 points of electricity damage, and the flash of lightning causes the target to be blinded for 2d6 rounds (Fortitude DC 31 negates the blindness). The save DCs are Strength-based and include the marut's Ability Focus feat.
 
-**Spell-Like Abilities:** At will---*air
-walk, dimension door, fear *(DC 18)*,
-greater command *(DC 19)*, greater dispel
-magic, mass inflict light wounds *(DC 19),
-*locate creature, true seeing;
-*1/day---*chain lightning *(DC
-20)*, circle of death *(DC
-20)*, mark of justice, wall of force;
-*1/week--- *earthquake *(DC
-22)*, geas/quest, plane shift *(DC
-21)*. *Caster level 14th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will---*air walk, dimension door, fear* (DC 18), *greater command* (DC 19), *greater dispel magic, mass inflict light wounds* (DC 19), *locate creature, true seeing;* 1/day---*chain lightning* (DC 20), *circle of death* (DC 20), *mark of justice, wall of force;* 1/week--- *earthquake* (DC 22), *geas/quest, plane shift* (DC 21). Caster level 14th. The save DCs are Charisma-based.
 
-**Skills:** A marut has a +4 racial bonus on
-Concentration, Listen, and Spot checks.
+**Skills:** A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.
 
 ### ZELEKHUT
 
-|                           | Large Construct (Extraplanar, Lawful)
-| **Hit Dice:**             | 8d10+30 (74 hp)
-| **Initiative:**           | +0
-| **Speed:**                | 35 ft. in plate barding (7 squares), fly 40 ft. (average) in plate barding (8 squares); base speed 50 ft., fly 60 ft. (average)
-| **Armor Class:**          | 27 (--1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27
-| **Base Attack/Grapple:**  | +6/+15
-| **Attack:**               | Spiked chain +10 melee (2d6+5 plus 1d6 electricity)
-| **Full Attack:**          | 2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)
-| **Space/Reach:**          | 10 ft./10 ft.
-| **Special Attacks:**      | Spell-like abilities
-| **Special Qualities:**    | Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 20
-| **Saves:**                | Fort +4, Ref +2, Will +5
-| **Abilities:**            | Str 21, Dex 11, Con ---, Int 10, Wis 17, Cha 15
-| **Skills:**               | Diplomacy +4, Listen +9, Search +9, Sense Motive +12, Spot +9, Survival +3 (+5 following tracks)
-| **Feats:**                | Great Fortitude, Ride-By Attack, Spirited Charge
-| **Environment:**          | A lawful-aligned plane
-| **Organization:**         | Solitary
-| **Challenge Rating:**     | 9
-| **Treasure:**             | None
-| **Alignment:**            | Always lawful neutral
-| **Advancement:**          | 9--16 HD (Large); 17--24 HD (Huge)
-| **Level Adjustment:**     | +7
+<table>
+  <tr>
+    <td></td>
+    <td>Large Construct (Extraplanar, Lawful)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>8d10+30 (74 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+0</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>35 ft. in plate barding (7 squares), fly 40 ft. (average) in plate barding (8 squares); base speed 50 ft., fly 60 ft. (average)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>27 (&ndash;1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+6/+15</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Spiked chain +10 melee (2d6+5 plus 1d6 electricity)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Spell-like abilities</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 20</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +2, Will +5</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 21, Dex 11, Con , Int 10, Wis 17, Cha 15</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Diplomacy +4, Listen +9, Search +9, Sense Motive +12, Spot +9, Survival +3 (+5 following tracks)</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Great Fortitude, Ride-By Attack, Spirited Charge</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>A lawful-aligned plane</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always lawful neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>9&ndash;16 HD (Large); 17&ndash;24 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+7</td>
+  </tr>
+</table>
 
-Zelekhuts are charged with hunting down those who would deny
-justice---especially those who flee to escape punishment. Expert
-trackers, they use a combination of natural skill and magic to find
-fugitives wherever they may hide.
+Zelekhuts are charged with hunting down those who would deny justice---especially those who flee to escape punishment. Expert trackers, they use a combination of natural skill and magic to find fugitives wherever they may hide.
 
-A zelekhut may initially appear rather non-threatening---but when it is
-about to enter combat, it can cause two spiked chains to spring forth
-from its forearms as a free action. In similar fashion, it can cause a
-pair of golden metallic wings to emerge from its back. Retracting the
-chains or the wings is also a free action.
+A zelekhut may initially appear rather non-threatening---but when it is about to enter combat, it can cause two spiked chains to spring forth from its forearms as a free action. In similar fashion, it can cause a pair of golden metallic wings to emerge from its back. Retracting the chains or the wings is also a free action.
 
 #### Combat
 
-Once it has found its fugitive, a zelekhut uses its speed and its
-spell-like abilities to cover the most likely escape routes. Then it
-immobilizes any defenders while attempting to protect any innocent
-bystanders. Finally, it apprehends the fugitive with its spiked chains,
-tripping or disarming the foe as needed.
+Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, tripping or disarming the foe as needed.
 
-A zelekhut's natural weapons, as well as any weapons it wields, are
-treated as lawful-aligned for the purpose of overcoming damage
-reduction.
+A zelekhut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities: **At
-will---*clairaudience/clairvoyance, dimensional anchor,
-dispel magic, fear *(DC 16)*, hold person
-*(DC 15)*, locate creature, true seeing;
-*3/day---*hold monster *(DC
-17)*, mark of justice*; 1/week---
-*lesser geas *(DC 16)*.
-*Caster level 8th. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will---*clairaudience/clairvoyance, dimensional anchor, dispel magic, fear* (DC 16), *hold person* (DC 15), *locate creature, true seeing;* 3/day---*hold monster* (DC 17), *mark of justice;* 1/week--- *lesser geas* (DC 16). Caster level 8th. The save DCs are Charisma-based.
 
-**Skills:** A zelekhut has a +4 racial bonus on Search
-and Sense Motive checks.
+**Skills:** A zelekhut has a +4 racial bonus on Search and Sense Motive checks.
 
-**Feats:** Due to its centaur-like construction, a
-zelekhut qualifies for feats as if it had the Mounted Combat
-feat.
+**Feats:** Due to its centaur-like construction, a zelekhut qualifies for feats as if it had the Mounted Combat feat.
 
 ## INVISIBLE STALKER
 
-|                           | Large Elemental (Air, Extraplanar)
-| **Hit Dice:**             | 8d8+16 (52 hp)
-| **Initiative:**           | +8
-| **Speed:**                | 30 ft. (6 squares), fly 30 ft. (perfect)
-| **Armor Class:**          | 17 (--1 size, +4 Dex, +4 natural), touch 13, flat-footed 13
-| **Base Attack/Grapple:**  | +6/+14
-| **Attack:**               | Slam +10 melee (2d6+4)
-| **Full Attack:**          | 2 slams +10 melee (2d6+4)
-| **Space/Reach:**          | 10 ft./10 ft.
-| **Special Attacks:**      | ---
-| **Special Qualities:**    | Darkvision 60 ft., elemental traits, natural invisibility, improved tracking
-| **Saves:**                | Fort +4, Ref +10, Will +4
-| **Abilities:**            | Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 11
-| **Skills:**               | Listen +13, Move Silently +15, Search +13, Spot +13, Survival +2 (+4 following tracks)
-| **Feats:**                | Combat Reflexes, Improved Initiative, Weapon Focus (slam)
-| **Environment:**          | Elemental Plane of Air
-| **Organization:**         | Solitary
-| **Challenge Rating:**     | 7
-| **Treasure:**             | None
-| **Alignment:**            | Usually neutral
-| **Advancement:**          | 9--12 HD (Large); 13--24 HD (Huge)
-| **Level Adjustment:**     | ---
+<table>
+  <tr>
+    <td></td>
+    <td>Large Elemental (Air, Extraplanar)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>8d8+16 (52 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+8</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. (6 squares), fly 30 ft. (perfect)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>17 (&ndash;1 size, +4 Dex, +4 natural), touch 13, flat-footed 13</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+6/+14</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Slam +10 melee (2d6+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 slams +10 melee (2d6+4)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>&mdash;</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., elemental traits, natural invisibility, improved tracking</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +10, Will +4</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 11</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +13, Move Silently +15, Search +13, Spot +13, Survival +2 (+4 following tracks)</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Combat Reflexes, Improved Initiative, Weapon Focus (slam)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Elemental Plane of Air</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>9&ndash;12 HD (Large); 13&ndash;24 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>&mdash;</td>
+  </tr>
+</table>
                                            
-Invisible stalkers are creatures native to the Elemental Plane of Air.
-They sometimes serve wizards and sorcerers, who summon them to perform
-specific tasks.
+Invisible stalkers are creatures native to the Elemental Plane of Air. They sometimes serve wizards and sorcerers, who summon them to perform specific tasks.
 
-A summoned invisible stalker undertakes whatever task the summoner
-commands, even if the task sends it hundreds or thousands of miles away.
-The creature follows a command until the task is completed and obeys
-only the summoner. However, it resents protracted missions or complex
-tasks and seeks to pervert its instructions accordingly.
+A summoned invisible stalker undertakes whatever task the summoner commands, even if the task sends it hundreds or thousands of miles away. The creature follows a command until the task is completed and obeys only the summoner. However, it resents protracted missions or complex tasks and seeks to pervert its instructions accordingly.
 
-Invisible stalkers have an amorphous form. A *see invisibility* spell
-shows only a dim outline of a cloud, while a *true seeing* spell reveals
-a roiling cloud of vapor.
+Invisible stalkers have an amorphous form. A *see invisibility* spell shows only a dim outline of a cloud, while a *true seeing* spell reveals a roiling cloud of vapor.
 
 These creatures speak only Auran but can understand Common.
 
 ### COMBAT
 
-An invisible stalker attacks by using the air itself as a weapon. It
-creates a sudden, intense blast of wind that pounds a single target on
-the same plane as the creature.
+An invisible stalker attacks by using the air itself as a weapon. It creates a sudden, intense blast of wind that pounds a single target on the same plane as the creature.
 
-An invisible stalker can be killed only when it is on the Elemental
-Plane of Air. When performing a task elsewhere, it automatically returns
-to its home plane when it takes damage sufficient to destroy
-it.
+An invisible stalker can be killed only when it is on the Elemental Plane of Air. When performing a task elsewhere, it automatically returns to its home plane when it takes damage sufficient to destroy it.
 
-**Natural Invisibility (Su):** This ability is constant,
-allowing a stalker to remain invisible even when attacking. This ability
-is inherent and not subject to the *invisibility purge
-*spell.
+**Natural Invisibility (Su):** This ability is constant, allowing a stalker to remain invisible even when attacking. This ability is inherent and not subject to the *invisibility purge* spell.
 
-**Improved Tracking (Ex):** An invisible stalker is a
-consummate tracker and makes Spot checks instead of the usual Survival
-checks to trace a creature's passage.
+**Improved Tracking (Ex):** An invisible stalker is a consummate tracker and makes Spot checks instead of the usual Survival checks to trace a creature's passage.
