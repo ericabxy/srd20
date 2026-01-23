@@ -2019,7 +2019,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+2</td>
     <td>+0</td>
     <td>+0</td>
-    <td>Bonus feat
+    <td>Bonus feat</td>
   </tr>
   <tr>
     <td>2nd</td>
@@ -2027,7 +2027,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+3</td>
     <td>+0</td>
     <td>+0</td>
-    <td>Bonus feat
+    <td>Bonus feat</td>
   </tr>
   <tr>
     <td>3rd</td>
@@ -2035,7 +2035,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+3</td>
     <td>+1</td>
     <td>+1</td>
-    <td>
+    <td></td>
   </tr>
   <tr>
     <td>4th</td>
@@ -2043,7 +2043,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+4</td>
     <td>+1</td>
     <td>+1</td>
-    <td>Bonus feat
+    <td>Bonus feat</td>
   </tr>
   <tr>
     <td>5th</td>
@@ -2051,7 +2051,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+4</td>
     <td>+1</td>
     <td>+1</td>
-    <td>
+    <td></td>
   </tr>
   <tr>
     <td>6th</td>
@@ -2123,7 +2123,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+9</td>
     <td>+4</td>
     <td>+4</td>
-    <td>Bonus feat
+    <td>Bonus feat</td>
   </tr>
   <tr>
     <td>15th</td>
@@ -2155,7 +2155,7 @@ The fighter's class skills (and the key ability for each skill) are Climb (Str),
     <td>+11</td>
     <td>+6</td>
     <td>+6</td>
-    <td>Bonus feat
+    <td>Bonus feat</td>
   </tr>
   <tr>
     <td>19th</td>
@@ -2256,7 +2256,7 @@ The monk's class skills (and the key ability for each skill) are Balance (Dex), 
     <td>+4</td>
     <td>+4</td>
     <td>+4</td>
-    <td>Ki strike (magic), slow fall 20 ft.</td>
+    <td><em>Ki</em> strike (magic), slow fall 20 ft.</td>
     <td>+1/+1</td>
     <td>1d8</td>
     <td>+0</td>
@@ -2328,7 +2328,7 @@ The monk's class skills (and the key ability for each skill) are Balance (Dex), 
     <td>+7</td>
     <td>+7</td>
     <td>+7</td>
-    <td>Ki strike (lawful), slow fall 50 ft.</td>
+    <td><em>Ki</em> strike (lawful), slow fall 50 ft.</td>
     <td>+7/+7/+2</td>
     <td>1d10</td>
     <td>+2</td>
@@ -2400,7 +2400,7 @@ The monk's class skills (and the key ability for each skill) are Balance (Dex), 
     <td>+10</td>
     <td>+10</td>
     <td>+10</td>
-    <td>Ki strike (adamantine), slow fall 80 ft.</td>
+    <td><em>Ki</em> strike (adamantine), slow fall 80 ft.</td>
     <td>+12/+12/+12/+7/+2</td>
     <td>2d8</td>
     <td>+3</td>

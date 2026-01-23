@@ -863,86 +863,344 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 | 23rd      | +4              | 27th      | +17             | 30th      | +42             |
 | 24th      | +6              |           |                 |           |                 |
 
-| **Table: Gems**          |                                                 |             |                                                                                                                                                                                          |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| **d%**                   | **Value**                                       | **Average** | **Examples**                                                                                                                                                                             |           |                 |
-| 01–25                    | 4d4 gp                                          | 10 gp       | Banded, eye, or moss agate; azurite; blue quartz; hematite; lapis lazuli; malachite; obsidian; rhodochrosite; tiger eye turquoise; freshwater (irregular) pearl                          |           |                 |
-| 26–50                    | 2d4 x 10 gp                                     | 50 gp       | Bloodstone; carnelian; chalcedony; chrysoprase; citrine; iolite, jasper; moonstone; onyx; peridot; rock crystal (clear quartz); sard; sardonyx; rose, smoky, or star rose quartz; zircon |           |                 |
-| 51–70                    | 4d4 x 10 gp                                     | 100 gp      | Amber; amethyst; chrysoberyl; coral; red or brown-green garnet; jade; jet; white, golden, pink, or silver pearl; red spinel, red-brown or deep green spinel; tourmaline                  |           |                 |
-| 71–90                    | 2d4 x 100 gp                                    | 500 gp      | Alexandrite; aquamarine; violet garnet; black pearl; deep blue spinel; golden yellow topaz                                                                                               |           |                 |
-| 91–99                    | 4d4 x 100 gp                                    | 1,000 gp    | Emerald; white, black, or fire opal; blue sapphire; fiery yellow or rich purple corundum; blue or black star sapphire; star ruby                                                         |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| 100                      | 2d4 x 1,000 gp                                  | 5,000 gp    | Clearest bright green emerald; blue-white, canary, pink, brown, or blue diamond; jacinth                                                                                                 |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| **Table: Art Objects**   |                                                 |             |                                                                                                                                                                                          |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| **d%**                   | **Value**                                       | **Average** | **Examples**                                                                                                                                                                             |           |                 |
-| 01–10                    | 1d10 x 10 gp                                    | 55 gp       | Silver ewer; carved bone or ivory statuette; finely wrought small gold bracelet                                                                                                          |           |                 |
-| 11–25                    | 3d6 x 10 gp                                     | 105 gp      | Cloth of gold vestments; black velvet mask with numerous citrines; silver chalice with lapis lazuli gems                                                                                 |           |                 |
-| 26–40                    | 1d6 x 100 gp                                    | 350 gp      | Large well-done wool tapestry; brass mug with jade inlays                                                                                                                                |           |                 |
-| 41–50                    | 1d10 x 100 gp                                   | 550 gp      | Silver comb with moonstones; silver-plated steel longsword with jet jewel in hilt                                                                                                        |           |                 |
-| 51–60                    | 2d6 x 100 gp                                    | 700 gp      | Carved harp of exotic wood with ivory inlay and zircon gems; solid gold idol (10 lb.)                                                                                                    |           |                 |
-| 61–70                    | 3d6 x 100 gp                                    | 1,050 gp    | Gold dragon comb with red garnet eye; gold and topaz bottle stopper cork; ceremonial electrum dagger with a star ruby in the pommel                                                      |           |                 |
-| 71–80                    | 4d6 x 100 gp                                    | 1,400 gp    | Eyepatch with mock eye of sapphire and moonstone; fire opal pendant on a fine gold chain; old masterpiece painting                                                                       |           |                 |
-| 81–85                    | 5d6 x 100 gp                                    | 1,750 gp    | Embroidered silk and velvet mantle with numerous moonstones; sapphire pendant on gold chain                                                                                              |           |                 |
-| 86–90                    | 1d4 x 1,000 gp                                  | 2,500 gp    | Embroidered and bejeweled glove; jeweled anklet; gold music box                                                                                                                          |           |                 |
-| 91–95                    | 1d6 x 1,000 gp                                  | 3,500 gp    | Golden circlet with four aquamarines; a string of small pink pearls (necklace)                                                                                                           |           |                 |
-| 96–99                    | 2d4 x 1,000 gp                                  | 5,000 gp    | Jeweled gold crown; jeweled electrum ring                                                                                                                                                |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| 100                      | 2d6 x 1,000 gp                                  | 7,000 gp    | Gold and ruby ring; gold cup set with emeralds                                                                                                                                           |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| **Table: Mundane Items** |                                                 |             |                                                                                                                                                                                          |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| **d%**                   | **Mundane Item**                                |             |                                                                                                                                                                                          |           |                 |
-| 01–17                    | Alchemical item                                 |             |                                                                                                                                                                                          |           |                 |
-| 01–12                    | Alchemist’s fire (1d4 flasks, 20 gp each)       |             |                                                                                                                                                                                          |           |                 |
-| 13–24                    | Acid (2d4 flasks, 10 gp each)                   |             |                                                                                                                                                                                          |           |                 |
-| 25–36                    | Smokesticks (1d4 sticks, 20 gp each)            |             |                                                                                                                                                                                          |           |                 |
-| 37–48                    | Holy water (1d4 flasks, 25 gp each)             |             |                                                                                                                                                                                          |           |                 |
-| 49–62                    | Antitoxin (1d4 doses, 50 gp each)               |             |                                                                                                                                                                                          |           |                 |
-| 63–74                    | Everburning torch                               |             |                                                                                                                                                                                          |           |                 |
-| 75–88                    | Tanglefoot bags (1d4 bags, 50 gp each)          |             |                                                                                                                                                                                          |           |                 |
-| 89–100                   | Thunderstones (1d4 stones, 30 gp each)          |             |                                                                                                                                                                                          |           |                 |
-| 18–50                    | Armor (roll d%: 01–10 = Small, 11–100 = Medium) |             |                                                                                                                                                                                          |           |                 |
-| 01–12                    | Chain shirt (100 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 13–18                    | Masterwork studded leather (175 gp)             |             |                                                                                                                                                                                          |           |                 |
-| 19–26                    | Breastplate (200 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 27–34                    | Banded mail (250 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 35–54                    | Half-plate (600 gp)                             |             |                                                                                                                                                                                          |           |                 |
-| 55–80                    | Full plate (1,500 gp)                           |             |                                                                                                                                                                                          |           |                 |
-| 81–90                    | Darkwood                                        |             |                                                                                                                                                                                          |           |                 |
-| 01–50                    | Buckler (205 gp)                                |             |                                                                                                                                                                                          |           |                 |
-| 51–100                   | Shield (257 gp)                                 |             |                                                                                                                                                                                          |           |                 |
-| 91–100                   | Masterwork shield                               |             |                                                                                                                                                                                          |           |                 |
-| 01–17                    | Buckler (165 gp)                                |             |                                                                                                                                                                                          |           |                 |
-| 18–40                    | Light wooden shield (153 gp)                    |             |                                                                                                                                                                                          |           |                 |
-| 41–60                    | Light steel shield (159 gp)                     |             |                                                                                                                                                                                          |           |                 |
-| 61–83                    | Heavy wooden shield (157 gp)                    |             |                                                                                                                                                                                          |           |                 |
-| 84–100                   | Heavy steel shield (170 gp)                     |             |                                                                                                                                                                                          |           |                 |
-| 51–83                    | Weapons                                         |             |                                                                                                                                                                                          |           |                 |
-| 01–50                    | Masterwork common melee weapon                  |             |                                                                                                                                                                                          |           |                 |
-| 51–70                    | Masterwork uncommon weapon                      |             |                                                                                                                                                                                          |           |                 |
-| 71–100                   | Masterwork common ranged weapon                 |             |                                                                                                                                                                                          |           |                 |
-| 84–100                   | Tools and gear                                  |             |                                                                                                                                                                                          |           |                 |
-| 01–03                    | Backpack, empty (2 gp)                          |             |                                                                                                                                                                                          |           |                 |
-| 04–06                    | Crowbar (2 gp)                                  |             |                                                                                                                                                                                          |           |                 |
-| 07–11                    | Lantern, bullseye (12 gp)                       |             |                                                                                                                                                                                          |           |                 |
-| 12–16                    | Lock, simple (20 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 17–21                    | Lock, average (40 gp)                           |             |                                                                                                                                                                                          |           |                 |
-| 22–28                    | Lock, good (80 gp)                              |             |                                                                                                                                                                                          |           |                 |
-| 29–35                    | Lock, superior (150 gp)                         |             |                                                                                                                                                                                          |           |                 |
-| 36–40                    | Manacles, masterwork (50 gp)                    |             |                                                                                                                                                                                          |           |                 |
-| 41–43                    | Mirror, small steel (10 gp)                     |             |                                                                                                                                                                                          |           |                 |
-| 44–46                    | Rope, silk (50 ft.) (10 gp)                     |             |                                                                                                                                                                                          |           |                 |
-| 47–53                    | Spyglass (1,000 gp)                             |             |                                                                                                                                                                                          |           |                 |
-| 54–58                    | Artisan’s tools, masterwork (55 gp)             |             |                                                                                                                                                                                          |           |                 |
-| 59–63                    | Climber’s kit (80 gp)                           |             |                                                                                                                                                                                          |           |                 |
-| 64–68                    | Disguise kit (50 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 69–73                    | Healer’s kit (50 gp)                            |             |                                                                                                                                                                                          |           |                 |
-| 74–77                    | Holy symbol, silver (25 gp)                     |             |                                                                                                                                                                                          |           |                 |
-| 78–81                    | Hourglass (25 gp)                               |             |                                                                                                                                                                                          |           |                 |
-| 82–88                    | Magnifying glass (100 gp)                       |             |                                                                                                                                                                                          |           |                 |
-| 89–95                    | Musical instrument, masterwork (100 gp)         |             |                                                                                                                                                                                          |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
-| 96–100                   | Thieves’ tools, masterwork (50 gp)              |             |                                                                                                                                                                                          |           |                 |
-|                          |                                                 |             |                                                                                                                                                                                          |           |                 |
+<table>
+  <tr>
+    <th colspan=4>Table: Gems</th>
+  </tr>
+  <tr>
+    <th>d%</th>
+    <th>Value</th>
+    <th>Average</th>
+    <th>Examples</th>
+  </tr>
+  <tr>
+    <td>01–25</td>
+    <td>4d4 gp</td>
+    <td>10 gp</td>
+    <td>Banded, eye, or moss agate; azurite; blue quartz; hematite; lapis lazuli; malachite; obsidian; rhodochrosite; tiger eye turquoise; freshwater (irregular) pearl</td>
+  </tr>
+  <tr>
+    <td>26–50</td>
+    <td>2d4 × 10 gp</td>
+    <td>50 gp</td>
+    <td>Bloodstone; carnelian; chalcedony; chrysoprase; citrine; iolite, jasper; moonstone; onyx; peridot; rock crystal (clear quartz); sard; sardonyx; rose, smoky, or star rose quartz; zircon</td>
+  </tr>
+  <tr>
+    <td>51–70</td>
+    <td>4d4 × 10 gp</td>
+    <td>100 gp</td>
+    <td>Amber; amethyst; chrysoberyl; coral; red or brown-green garnet; jade; jet; white, golden, pink, or silver pearl; red spinel, red-brown or deep green spinel; tourmaline</td>
+  </tr>
+  <tr>
+    <td>71–90</td>
+    <td>2d4 × 100 gp</td>
+    <td>500 gp</td>
+    <td>Alexandrite; aquamarine; violet garnet; black pearl; deep blue spinel; golden yellow topaz</td>
+  </tr>
+  <tr>
+    <td>91–99</td>
+    <td>4d4 × 100 gp</td>
+    <td>1,000 gp</td>
+    <td>Emerald; white, black, or fire opal; blue sapphire; fiery yellow or rich purple corundum; blue or black star sapphire; star ruby</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>2d4 × 1,000 gp</td>
+    <td>5,000 gp</td>
+    <td>Clearest bright green emerald; blue-white, canary, pink, brown, or blue diamond; jacinth</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan=4>Table: Art Objects</th>
+  </tr>
+  <tr>
+    <th>d%</th>
+    <th>Value</th>
+    <th>Average</th>
+    <th>Examples</th>
+  </tr>
+  <tr>
+    <td>01–10</td>
+    <td>1d10 × 10 gp</td>
+    <td>55 gp</td>
+    <td>Silver ewer; carved bone or ivory statuette; finely wrought small gold bracelet</td>
+  </tr>
+  <tr>
+    <td>11–25</td>
+    <td>3d6 × 10 gp</td>
+    <td>105 gp</td>
+    <td>Cloth of gold vestments; black velvet mask with numerous citrines; silver chalice with lapis lazuli gems</td>
+  </tr>
+  <tr>
+    <td>26–40</td>
+    <td>1d6 × 100 gp</td>
+    <td>350 gp</td>
+    <td>Large well-done wool tapestry; brass mug with jade inlays</td>
+  </tr>
+  <tr>
+    <td>41–50</td>
+    <td>1d10 × 100 gp</td>
+    <td>550 gp</td>
+    <td>Silver comb with moonstones; silver-plated steel longsword with jet jewel in hilt</td>
+  </tr>
+  <tr>
+    <td>51–60</td>
+    <td>2d6 × 100 gp</td>
+    <td>700 gp</td>
+    <td>Carved harp of exotic wood with ivory inlay and zircon gems; solid gold idol (10 lb.)</td>
+  </tr>
+  <tr>
+    <td>61–70</td>
+    <td>3d6 × 100 gp</td>
+    <td>1,050 gp</td>
+    <td>Gold dragon comb with red garnet eye; gold and topaz bottle stopper cork; ceremonial electrum dagger with a star ruby in the pommel</td>
+  </tr>
+  <tr>
+    <td>71–80</td>
+    <td>4d6 × 100 gp</td>
+    <td>1,400 gp</td>
+    <td>Eyepatch with mock eye of sapphire and moonstone; fire opal pendant on a fine gold chain; old masterpiece painting</td>
+  </tr>
+  <tr>
+    <td>81–85</td>
+    <td>5d6 × 100 gp</td>
+    <td>1,750 gp</td>
+    <td>Embroidered silk and velvet mantle with numerous moonstones; sapphire pendant on gold chain</td>
+  </tr>
+  <tr>
+    <td>86–90</td>
+    <td>1d4 × 1,000 gp</td>
+    <td>2,500 gp</td>
+    <td>Embroidered and bejeweled glove; jeweled anklet; gold music box</td>
+  </tr>
+  <tr>
+    <td>91–95</td>
+    <td>1d6 × 1,000 gp</td>
+    <td>3,500 gp</td>
+    <td>Golden circlet with four aquamarines; a string of small pink pearls (necklace)</td>
+  </tr>
+  <tr>
+    <td>96–99</td>
+    <td>2d4 × 1,000 gp</td>
+    <td>5,000 gp</td>
+    <td>Jeweled gold crown; jeweled electrum ring</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>2d6 × 1,000 gp</td>
+    <td>7,000 gp</td>
+    <td>Gold and ruby ring; gold cup set with emeralds</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan=4 role=caption>Table: Mundane Items</th>
+  </tr>
+  <tr>
+    <th>d%</th>
+    <th colspan=3>Mundane Item</th>
+  </tr>
+  <tr>
+    <td rowspan=9>01–17</td>
+    <td colspan=3>Alchemical item</td>
+  </tr>
+  <tr>
+    <td colspan=2>01–12</td>
+    <td colspan=2>Alchemist’s fire (1d4 flasks, 20 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>13–24</td>
+    <td colspan=2>Acid (2d4 flasks, 10 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>25–36</td>
+    <td colspan=2>Smokesticks (1d4 sticks, 20 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>37–48</td>
+    <td colspan=2>Holy water (1d4 flasks, 25 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>49–62</td>
+    <td colspan=2>Antitoxin (1d4 doses, 50 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>63–74</td>
+    <td colspan=2>Everburning torch</td>
+  </tr>
+  <tr>
+    <td colspan=2>75–88</td>
+    <td colspan=2>Tanglefoot bags (1d4 bags, 50 gp each)</td>
+  </tr>
+  <tr>
+    <td colspan=2>89–100</td>
+    <td colspan=2>Thunderstones (1d4 stones, 30 gp each)</td>
+  </tr>
+  <tr>
+    <td rowspan=16>18–50</td>
+    <td colspan=3>Armor (roll d%: 01–10 = Small, 11–100 = Medium)</td>
+  </tr>
+  <tr>
+    <td colspan=2>01–12</td>
+    <td colspan=2>Chain shirt (100 gp)</td>
+  </tr>
+  <tr>
+    <td colspan=2>13–18</td>
+    <td colspan=2>Masterwork studded leather (175 gp)</td>
+  </tr>
+  <tr>
+    <td colspan=2>19–26</td>
+    <td colspan=2>Breastplate (200 gp)</td>
+  </tr>
+  <tr>
+    <td colspan=2>27–34</td>
+    <td colspan=2>Banded mail (250 gp)</td>
+  </tr>
+  <tr>
+    <td colspan=2>35–54</td>
+    <td colspan=2>Half-plate (600 gp)</td>
+  </tr>
+  <tr>
+    <td colspan=2>55–80</td>
+    <td colspan=2>Full plate (1,500 gp)</td>
+  </tr>
+  <tr>
+    <td rowspan=3>81–90</td>
+    <td colspan=3>Darkwood</td>
+  </tr>
+  <tr>
+    <td>01–50</td>
+    <td>Buckler (205 gp)</td>
+  </tr>
+  <tr>
+    <td>51–100</td>
+    <td>Shield (257 gp)</td>
+  </tr>
+  <tr>
+    <td rowspan=6>91–100</td>
+    <td colspan=3>Masterwork shield</td>
+  </tr>
+  <tr>
+    <td>01–17</td>
+    <td>Buckler (165 gp)</td>
+  </tr>
+  <tr>
+    <td>18–40</td>
+    <td>Light wooden shield (153 gp)</td>
+  </tr>
+  <tr>
+    <td>41–60</td>
+    <td>Light steel shield (159 gp)</td>
+  </tr>
+  <tr>
+    <td>61–83</td>
+    <td>Heavy wooden shield (157 gp)</td>
+  </tr>
+  <tr>
+    <td>84–100</td>
+    <td>Heavy steel shield (170 gp)</td>
+  </tr>
+  <tr>
+    <td rowspan=4>51–83</td>
+    <td colspan=3>Weapons</td>
+  </tr>
+  <tr>
+    <td>01–50</td>
+    <td colspan=2>Masterwork common melee weapon</td>
+  </tr>
+  <tr>
+    <td>51–70</td>
+    <td colspan=2>Masterwork uncommon weapon</td>
+  </tr>
+  <tr>
+    <td>71–100</td>
+    <td colspan=2>Masterwork common ranged weapon</td>
+  </tr>
+  <tr>
+    <td rowspan=21>84–100</td>
+    <td colspan=3>Tools and gear</td>
+  </tr>
+  <tr>
+    <td>01–03</td>
+    <td colspan=2>Backpack, empty (2 gp)</td>
+  </tr>
+  <tr>
+    <td>04–06</td>
+    <td colspan=2>Crowbar (2 gp)</td>
+  </tr>
+  <tr>
+    <td>07–11</td>
+    <td colspan=2>Lantern, bullseye (12 gp)</td>
+  </tr>
+  <tr>
+    <td>12–16</td>
+    <td colspan=2>Lock, simple (20 gp)</td>
+  </tr>
+  <tr>
+    <td>17–21</td>
+    <td colspan=2>Lock, average (40 gp)</td>
+  </tr>
+  <tr>
+    <td>22–28</td>
+    <td colspan=2>Lock, good (80 gp)</td>
+  </tr>
+  <tr>
+    <td>29–35</td>
+    <td colspan=2>Lock, superior (150 gp)</td>
+  </tr>
+  <tr>
+    <td>36–40</td>
+    <td colspan=2>Manacles, masterwork (50 gp)</td>
+  </tr>
+  <tr>
+    <td>41–43</td>
+    <td colspan=2>Mirror, small steel (10 gp)</td>
+  </tr>
+  <tr>
+    <td>44–46</td>
+    <td colspan=2>Rope, silk (50 ft.) (10 gp)</td>
+  </tr>
+  <tr>
+    <td>47–53</td>
+    <td colspan=2>Spyglass (1,000 gp)</td>
+  </tr>
+  <tr>
+    <td>54–58</td>
+    <td colspan=2>Artisan’s tools, masterwork (55 gp)</td>
+  </tr>
+  <tr>
+    <td>59–63</td>
+    <td colspan=2>Climber’s kit (80 gp)</td>
+  </tr>
+  <tr>
+    <td>64–68</td>
+    <td colspan=2>Disguise kit (50 gp)</td>
+  </tr>
+  <tr>
+    <td>69–73</td>
+    <td colspan=2>Healer’s kit (50 gp)</td>
+  </tr>
+  <tr>
+    <td>74–77</td>
+    <td colspan=2>Holy symbol, silver (25 gp)</td>
+  </tr>
+  <tr>
+    <td>78–81</td>
+    <td colspan=2>Hourglass (25 gp)</td>
+  </tr>
+  <tr>
+    <td>82–88</td>
+    <td colspan=2>Magnifying glass (100 gp)</td>
+  </tr>
+  <tr>
+    <td>89–95</td>
+    <td colspan=2>Musical instrument, masterwork (100 gp)</td>
+  </tr>
+  <tr>
+    <td>96–100</td>
+    <td colspan=2>Thieves’ tools, masterwork (50 gp)</td>
+  </tr>
+</table>
