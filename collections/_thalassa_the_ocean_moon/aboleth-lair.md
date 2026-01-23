@@ -1,6 +1,6 @@
 ---
 layout: artifact
-status: Drafted
+status: Finished
 title: The Aboleth's Lair
 ---
 
@@ -26,6 +26,8 @@ _Skills and Feats:_ Hide +13, Listen +1, Spot +11, Swim +13; alertness, blind-fi
 _Treasure:_ The chuul will yield 1d4 paralytic gland sacs worth 300 gp each, chitin plates worth 1,000 gp total, and nerve fibers worth 500 gp total; A horde hidden on the silt-clouded floor contains coral-encrusted metal plates, sculpted bone charms, and polished shells worth 1,200 gp total, plus 1d3 bioluminescent nodules (treat as scrolls of _light_ with 1d3 uses each).
 
 ### 3. Forked Passage
+
+At the rear of the grotto the passage narrows to 20 feet again, continuing roughly forward and slightly to the right while a dark branch opens up leading down and to the left. The walls in this tunnel are nearly covered with thick slime.
    
 ### 4. Slave Grotto
 
