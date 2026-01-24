@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: terminology
+published: false
 ---
 
 "Races" in the SRD refers to a choice of genetic and cultural background for player characters. Race boils everything down to "racial" traits and bonuses, yet an elf raised away from traditional elven society is less likely to have an inherent affinity for martial weapons, and half-elves racial bonus to Diplomacy and Gather Information checks are more circumstantial than innate.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Patterns"
 date:   2025-12-22 16:00:00 -0800
+published: false
 ---
 
 The classes in the SRD employ some hidden patterns, or at least contain emergent patterns, during character advancement.
