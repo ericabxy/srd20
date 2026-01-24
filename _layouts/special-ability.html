@@ -2,8 +2,14 @@
 layout: default
 ---
 
-<h2>{{ page.title }} [{{ page.type }}]</h2>
+{% if page.classes %}
+  {% assign as_class = page.classes[0] %}
+{% endif %}
 
-<p>{{ page.category | capitalize }} Ability</p>
+<h2>{{ page.title }} ({{ page.type }})</h2>
+
+{% if as_class %}
+<p>As the <a href='{{ site.data.classes[as_class].url }}'>{{ as_class }}</a> ability.</p>
+{% endif %}
 
 {{ content }}

@@ -12,8 +12,6 @@ Elan
 
 Elans are formerly human creatures sustained by and infused with supernatural energies. The typical elan stands just under 6 feet tall and weighs in the neighborhood of 180 pounds, with men sometimes taller and heavier than women, but not always.
 
-Elans generally favor the wizard class.
-
 ### Elan Traits
 
 * +2 Wisdom, −2 Charisma.
@@ -29,8 +27,3 @@ Experimental
 ------------
 
 __Channeling:__ Elan spellcasters gain bonus spells as if the governing ability score were 2 points higher. This benefit does not grant them the ability to cast spells unless they gain that ability through levels in a spellcaster class.
-
-References
-----------
-
-This background is based on the SRD [elan](PsionicRaces#elans) and _Arcana Unleashed_ [verrik](Verrik).
