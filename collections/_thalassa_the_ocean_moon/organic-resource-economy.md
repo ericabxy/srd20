@@ -86,7 +86,7 @@ Resource Equivalents
 
 ### "Coins" Column
 
-Practically fungible harvest materials. Adventurers will bring preservatives and containers to harvest and transport these materials from an expedition.
+Practically fungible harvest materials. Adventurers will bring preservatives and containers to harvest and transport these materials from an expedition: ampoules, skins, presses, phials.
 
 1. CP: Bulk Stock, Yield, Drift
 2. SP: Trade Stock, Refined Yield, Current
@@ -380,3 +380,115 @@ Infiltration Kit: Fine picks, probes, tensioners, and micro-tools adapted to pre
 ### Medium
 
 ### Major
+
+Metals & Gems on Thalassa
+-------------------------
+
+Metals on Thalassa are rare out of the water, but in the depths of the sea form differently due to the fluid, pressurized environment. Accretions, nodules, and filaments.
+
+Maybe: Bio-alloys, metallic coral
+
+Rubies and sapphires (corundrum): Pressure crystals. Fire-phase. Cold-phase.
+
+* Gold -> Sunmetal (sheets).
+* Electrum -> Phase alloy (rods).
+* Emeralds -> Green silicate blooms (vent-blooms).
+* Rubies -> Fire-phase pressure crystals.
+* Sapphires -> Cold-phase pressure crystals.
+* Diamonds -> Compression lattice (shards).
+
+Diamonds: Compression lattice.
+
+Pearls: Memory pearls, void pearls, tide pearls, etc..
+
+Maybe: Pressure crystals, noble accretions, vent-grown alloys.
+
+Other Common Valuables
+----------------------
+
+Encoded shells, resonant artifacts, memory substrates.
+
+<table>
+  <tr>
+    <th colspan=4>Table: Art Objects</th>
+  </tr>
+  <tr>
+    <th>d%</th>
+    <th>Value</th>
+    <th>Average</th>
+    <th>Examples</th>
+  </tr>
+  <tr>
+    <td>01–10</td>
+    <td>1d10 × 10 gp</td>
+    <td>55 gp</td>
+    <td>Etched shell decanter with a silvered rim; hand-carved bone or coral figurine of local significance; braided kelp-fiber torque with gold-thread binding</td>
+  </tr>
+  <tr>
+    <td>11–25</td>
+    <td>3d6 × 10 gp</td>
+    <td>105 gp</td>
+    <td>Habitat vestments woven with reflective biothreads; rebreather-mask inlaid with pressure crystals; silver drinking vessel seeded with cold-phase mineral growths</td>
+  </tr>
+  <tr>
+    <td>26–40</td>
+    <td>1d6 × 100 gp</td>
+    <td>350 gp</td>
+    <td>Large woven map-tapestry depicting historic tides; sealed brass mug with green silicate inlays</td>
+  </tr>
+  <tr>
+    <td>41–50</td>
+    <td>1d10 × 100 gp</td>
+    <td>550 gp</td>
+    <td>Silver grooming tool with tide-metal nodules; ceremonial blade (steel core) with jet-black deep-sea jewel</td>
+  </tr>
+  <tr>
+    <td>51–60</td>
+    <td>2d6 × 100 gp</td>
+    <td>700 gp</td>
+    <td>Resonance harp carved from exotic salt-wood with bone inlay; ritual idol cast in solid sunmetal</td>
+  </tr>
+  <tr>
+    <td>61–70</td>
+    <td>3d6 × 100 gp</td>
+    <td>1,050 gp</td>
+    <td>Aurum grooming tool with crystallized abyssal eye; Sunmetal-opal bottle seal; ritual dagger made of phase-alloy with red-pearl pommel</td>
+  </tr>
+  <tr>
+    <td>71–80</td>
+    <td>4d6 × 100 gp</td>
+    <td>1,400 gp</td>
+    <td>Adaptive eyepatch with cold-phase pressure crystals; fire-phase corundrum pendant with an aurum chain; animated visual masterpiece recorded in memory substrate</td>
+  </tr>
+  <tr>
+    <td>81–85</td>
+    <td>5d6 × 100 gp</td>
+    <td>1,750 gp</td>
+    <td>Embroidered mantle of sea-silk and moss-velvet, studded with tide-stones; cold-phase corundrum pendant with an aurum chain</td>
+  </tr>
+  <tr>
+    <td>86–90</td>
+    <td>1d4 × 1,000 gp</td>
+    <td>2,500 gp</td>
+    <td>Embroidered and crystal-encrusted ritual glove; multi-colored pearl anklet; sunmetal audio-memory box</td>
+  </tr>
+  <tr>
+    <td>91–95</td>
+    <td>1d6 × 1,000 gp</td>
+    <td>3,500 gp</td>
+    <td>Sunmetal circlet with varied-depth aquamarines; necklace of small pink mollusk pearls</td>
+  </tr>
+  <tr>
+    <td>96–99</td>
+    <td>2d4 × 1,000 gp</td>
+    <td>5,000 gp</td>
+    <td>Jeweled sunmetal crown; jeweled phase-alloy signet ring</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>2d6 × 1,000 gp</td>
+    <td>7,000 gp</td>
+    <td>Sunmetal and fire-phase corundrum ring; sunmetal cup set with green silicate blooms</td>
+  </tr>
+</table>
+
