@@ -95,7 +95,7 @@ On average, the PCs should earn one treasure suitable to their level for each en
 
 <table>
   <tr>
-    <th colspan=2>Table: Average Treasure Results</th>
+    <th>Table: Average Treasure Results</th>
   </tr>
   <tr>
     <th>Type</th>
@@ -997,210 +997,210 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 
 <table>
   <tr>
-    <th colspan=4 role=caption>Table: Mundane Items</th>
+    <th colspan=2 role=caption>Table: Mundane Items</th>
   </tr>
   <tr>
     <th>d%</th>
-    <th colspan=3>Mundane Item</th>
-  </tr>
-  <tr>
-    <td rowspan=9>01–17</td>
-    <td colspan=3>Alchemical item</td>
-  </tr>
-  <tr>
-    <td colspan=2>01–12</td>
-    <td colspan=2>Alchemist’s fire (1d4 flasks, 20 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>13–24</td>
-    <td colspan=2>Acid (2d4 flasks, 10 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>25–36</td>
-    <td colspan=2>Smokesticks (1d4 sticks, 20 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>37–48</td>
-    <td colspan=2>Holy water (1d4 flasks, 25 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>49–62</td>
-    <td colspan=2>Antitoxin (1d4 doses, 50 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>63–74</td>
-    <td colspan=2>Everburning torch</td>
-  </tr>
-  <tr>
-    <td colspan=2>75–88</td>
-    <td colspan=2>Tanglefoot bags (1d4 bags, 50 gp each)</td>
-  </tr>
-  <tr>
-    <td colspan=2>89–100</td>
-    <td colspan=2>Thunderstones (1d4 stones, 30 gp each)</td>
-  </tr>
-  <tr>
-    <td rowspan=16>18–50</td>
-    <td colspan=3>Armor (roll d%: 01–10 = Small, 11–100 = Medium)</td>
-  </tr>
-  <tr>
-    <td colspan=2>01–12</td>
-    <td colspan=2>Chain shirt (100 gp)</td>
-  </tr>
-  <tr>
-    <td colspan=2>13–18</td>
-    <td colspan=2>Masterwork studded leather (175 gp)</td>
-  </tr>
-  <tr>
-    <td colspan=2>19–26</td>
-    <td colspan=2>Breastplate (200 gp)</td>
-  </tr>
-  <tr>
-    <td colspan=2>27–34</td>
-    <td colspan=2>Banded mail (250 gp)</td>
-  </tr>
-  <tr>
-    <td colspan=2>35–54</td>
-    <td colspan=2>Half-plate (600 gp)</td>
-  </tr>
-  <tr>
-    <td colspan=2>55–80</td>
-    <td colspan=2>Full plate (1,500 gp)</td>
-  </tr>
-  <tr>
-    <td rowspan=3>81–90</td>
-    <td colspan=3>Darkwood</td>
-  </tr>
-  <tr>
-    <td>01–50</td>
-    <td>Buckler (205 gp)</td>
-  </tr>
-  <tr>
-    <td>51–100</td>
-    <td>Shield (257 gp)</td>
-  </tr>
-  <tr>
-    <td rowspan=6>91–100</td>
-    <td colspan=3>Masterwork shield</td>
+    <th>Mundane Item</th>
   </tr>
   <tr>
     <td>01–17</td>
+    <td>Alchemical item</td>
+  </tr>
+  <tr>
+    <td align=center>01–12</td>
+    <td>Alchemist’s fire (1d4 flasks, 20 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>13–24</td>
+    <td>Acid (2d4 flasks, 10 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>25–36</td>
+    <td>Smokesticks (1d4 sticks, 20 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>37–48</td>
+    <td>Holy water (1d4 flasks, 25 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>49–62</td>
+    <td>Antitoxin (1d4 doses, 50 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>63–74</td>
+    <td>Everburning torch</td>
+  </tr>
+  <tr>
+    <td align=center>75–88</td>
+    <td>Tanglefoot bags (1d4 bags, 50 gp each)</td>
+  </tr>
+  <tr>
+    <td align=center>89–100</td>
+    <td>Thunderstones (1d4 stones, 30 gp each)</td>
+  </tr>
+  <tr>
+    <td>18–50</td>
+    <td>Armor (roll d%: 01–10 = Small, 11–100 = Medium)</td>
+  </tr>
+  <tr>
+    <td align=center>01–12</td>
+    <td>Chain shirt (100 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>13–18</td>
+    <td>Masterwork studded leather (175 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>19–26</td>
+    <td>Breastplate (200 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>27–34</td>
+    <td>Banded mail (250 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>35–54</td>
+    <td>Half-plate (600 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>55–80</td>
+    <td>Full plate (1,500 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>81–90</td>
+    <td>Darkwood</td>
+  </tr>
+  <tr>
+    <td align=right>01–50</td>
+    <td>Buckler (205 gp)</td>
+  </tr>
+  <tr>
+    <td align=right>51–100</td>
+    <td>Shield (257 gp)</td>
+  </tr>
+  <tr>
+    <td align=center>91–100</td>
+    <td>Masterwork shield</td>
+  </tr>
+  <tr>
+    <td align=right>01–17</td>
     <td>Buckler (165 gp)</td>
   </tr>
   <tr>
-    <td>18–40</td>
+    <td align=right>18–40</td>
     <td>Light wooden shield (153 gp)</td>
   </tr>
   <tr>
-    <td>41–60</td>
+    <td align=right>41–60</td>
     <td>Light steel shield (159 gp)</td>
   </tr>
   <tr>
-    <td>61–83</td>
+    <td align=right>61–83</td>
     <td>Heavy wooden shield (157 gp)</td>
   </tr>
   <tr>
-    <td>84–100</td>
+    <td align=right>84–100</td>
     <td>Heavy steel shield (170 gp)</td>
   </tr>
   <tr>
-    <td rowspan=4>51–83</td>
-    <td colspan=3>Weapons</td>
+    <td>51–83</td>
+    <td>Weapons</td>
   </tr>
   <tr>
-    <td>01–50</td>
-    <td colspan=2>Masterwork common melee weapon</td>
+    <td align=center>01–50</td>
+    <td>Masterwork common melee weapon</td>
   </tr>
   <tr>
-    <td>51–70</td>
-    <td colspan=2>Masterwork uncommon weapon</td>
+    <td align=center>51–70</td>
+    <td>Masterwork uncommon weapon</td>
   </tr>
   <tr>
-    <td>71–100</td>
-    <td colspan=2>Masterwork common ranged weapon</td>
+    <td align=center>71–100</td>
+    <td>Masterwork common ranged weapon</td>
   </tr>
   <tr>
-    <td rowspan=21>84–100</td>
-    <td colspan=3>Tools and gear</td>
+    <td>84–100</td>
+    <td>Tools and gear</td>
   </tr>
   <tr>
-    <td>01–03</td>
-    <td colspan=2>Backpack, empty (2 gp)</td>
+    <td align=center>01–03</td>
+    <td>Backpack, empty (2 gp)</td>
   </tr>
   <tr>
-    <td>04–06</td>
-    <td colspan=2>Crowbar (2 gp)</td>
+    <td align=center>04–06</td>
+    <td>Crowbar (2 gp)</td>
   </tr>
   <tr>
-    <td>07–11</td>
-    <td colspan=2>Lantern, bullseye (12 gp)</td>
+    <td align=center>07–11</td>
+    <td>Lantern, bullseye (12 gp)</td>
   </tr>
   <tr>
-    <td>12–16</td>
-    <td colspan=2>Lock, simple (20 gp)</td>
+    <td align=center>12–16</td>
+    <td>Lock, simple (20 gp)</td>
   </tr>
   <tr>
-    <td>17–21</td>
-    <td colspan=2>Lock, average (40 gp)</td>
+    <td align=center>17–21</td>
+    <td>Lock, average (40 gp)</td>
   </tr>
   <tr>
-    <td>22–28</td>
-    <td colspan=2>Lock, good (80 gp)</td>
+    <td align=center>22–28</td>
+    <td>Lock, good (80 gp)</td>
   </tr>
   <tr>
-    <td>29–35</td>
-    <td colspan=2>Lock, superior (150 gp)</td>
+    <td align=center>29–35</td>
+    <td>Lock, superior (150 gp)</td>
   </tr>
   <tr>
-    <td>36–40</td>
-    <td colspan=2>Manacles, masterwork (50 gp)</td>
+    <td align=center>36–40</td>
+    <td>Manacles, masterwork (50 gp)</td>
   </tr>
   <tr>
-    <td>41–43</td>
-    <td colspan=2>Mirror, small steel (10 gp)</td>
+    <td align=center>41–43</td>
+    <td>Mirror, small steel (10 gp)</td>
   </tr>
   <tr>
-    <td>44–46</td>
-    <td colspan=2>Rope, silk (50 ft.) (10 gp)</td>
+    <td align=center>44–46</td>
+    <td>Rope, silk (50 ft.) (10 gp)</td>
   </tr>
   <tr>
-    <td>47–53</td>
-    <td colspan=2>Spyglass (1,000 gp)</td>
+    <td align=center>47–53</td>
+    <td>Spyglass (1,000 gp)</td>
   </tr>
   <tr>
-    <td>54–58</td>
-    <td colspan=2>Artisan’s tools, masterwork (55 gp)</td>
+    <td align=center>54–58</td>
+    <td>Artisan’s tools, masterwork (55 gp)</td>
   </tr>
   <tr>
-    <td>59–63</td>
-    <td colspan=2>Climber’s kit (80 gp)</td>
+    <td align=center>59–63</td>
+    <td>Climber’s kit (80 gp)</td>
   </tr>
   <tr>
-    <td>64–68</td>
-    <td colspan=2>Disguise kit (50 gp)</td>
+    <td align=center>64–68</td>
+    <td>Disguise kit (50 gp)</td>
   </tr>
   <tr>
-    <td>69–73</td>
-    <td colspan=2>Healer’s kit (50 gp)</td>
+    <td align=center>69–73</td>
+    <td>Healer’s kit (50 gp)</td>
   </tr>
   <tr>
-    <td>74–77</td>
-    <td colspan=2>Holy symbol, silver (25 gp)</td>
+    <td align=center>74–77</td>
+    <td>Holy symbol, silver (25 gp)</td>
   </tr>
   <tr>
-    <td>78–81</td>
-    <td colspan=2>Hourglass (25 gp)</td>
+    <td align=center>78–81</td>
+    <td>Hourglass (25 gp)</td>
   </tr>
   <tr>
-    <td>82–88</td>
-    <td colspan=2>Magnifying glass (100 gp)</td>
+    <td align=center>82–88</td>
+    <td>Magnifying glass (100 gp)</td>
   </tr>
   <tr>
-    <td>89–95</td>
-    <td colspan=2>Musical instrument, masterwork (100 gp)</td>
+    <td align=center>89–95</td>
+    <td>Musical instrument, masterwork (100 gp)</td>
   </tr>
   <tr>
-    <td>96–100</td>
-    <td colspan=2>Thieves’ tools, masterwork (50 gp)</td>
+    <td align=center>96–100</td>
+    <td>Thieves’ tools, masterwork (50 gp)</td>
   </tr>
 </table>
