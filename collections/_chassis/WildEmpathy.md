@@ -1,6 +1,9 @@
 ---
-category: extraordinary
+classes:
+- druid
+- ranger
 title: Wild Empathy
+type: Ex
 ---
 
 Wild Empathy
@@ -13,8 +16,3 @@ The typical domestic animal has a starting attitude of indifferent, while wild a
 To use wild empathy, you and the animal must be able to study each other, which means that you must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
 You can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you take a –4 penalty on the check.
-
-Notes
------
-
-Classes: Druid (1st), ranger (1st)

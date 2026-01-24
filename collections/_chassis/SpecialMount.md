@@ -1,6 +1,8 @@
 ---
-category: spell-like
+classes:
+- paladin
 title: Special Mount
+type: Sp
 ---
 
 Special Mount

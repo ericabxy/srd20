@@ -1,6 +1,6 @@
 ---
-ability_type: extraordinary
 title: Favored Environment
+type: Ex
 ---
 
 Favored Environment
