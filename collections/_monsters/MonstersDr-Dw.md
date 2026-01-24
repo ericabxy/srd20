@@ -48,23 +48,57 @@ A crush attack deals the indicated damage plus 1-1/2 times the dragon’s Streng
 
 Breath weapons come in two basic shapes, line and cone, whose areas vary with the dragon’s size.
 
-|                                                        |                            |                              |
-|--------------------------------------------------------|----------------------------|------------------------------|
-| **Dragon Breath Weapons**                       |                            |                              |
-|                                                        |                            |                              |
-| **Dragon Size**                                 | **Line\* (Length)** | **Cone\*\* (Length)** |
-| Tiny                                            | 30 ft.              | 15 ft.                |
-| Small                                           | 40 ft.              | 20 ft.                |
-| Medium                                          | 60 ft.              | 30 ft.                |
-| Large                                           | 80 ft.              | 40 ft.                |
-| Huge                                            | 100 ft.             | 50 ft.                |
-| Gargantuan                                      | 120 ft.             | 60 ft.                |
-| Colossal                                        | 140 ft.             | 70 ft.                |
-|                                                        |                            |                              |
-| \*A line is always 5 feet high and 5 feet wide. |                            |                              |
-|                                                        |                            |                              |
-| \*\*A cone is as high and wide as its length.   |                            |                              |
-|                                                        |                            |                              |
+<table>
+  <tr>
+    <th colspan=3>Dragon Breath Weapons</th>
+  </tr>
+  <tr>
+    <th>Dragon Size</th>
+    <th>Line* (Length)</th>
+    <th>Cone** (Length)</th>
+  </tr>
+  <tr>
+    <td>Tiny</td>
+    <td>30 ft.</td>
+    <td>15 ft.</td>
+  </tr>
+  <tr>
+    <td>Small</td>
+    <td>40 ft.</td>
+    <td>20 ft.</td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td>60 ft.</td>
+    <td>30 ft.</td>
+  </tr>
+  <tr>
+    <td>Large</td>
+    <td>80 ft.</td>
+    <td>40 ft.</td>
+  </tr>
+  <tr>
+    <td>Huge</td>
+    <td>100 ft.</td>
+    <td>50 ft.</td>
+  </tr>
+  <tr>
+    <td>Gargantuan</td>
+    <td>120 ft.</td>
+    <td>60 ft.</td>
+  </tr>
+  <tr>
+    <td>Colossal</td>
+    <td>140 ft.</td>
+    <td>70 ft.</td>
+  </tr>
+  <tr>
+    <td colspan=3>*A line is always 5 feet high and 5 feet wide.</td>
+  </tr>
+  <tr>
+    <td colspan=3>**A cone is as high and wide as its length.</td>
+  </tr>
+</table>
 
 **Frightful Presence (Ex):** A young adult or older dragon can unsettle foes with its mere presence. The ability takes effect automatically whenever the dragon attacks, charges, or flies overhead. Creatures within a radius of 30 feet x the dragon’s age category are subject to the effect if they have fewer HD than the dragon. A potentially affected creature that succeeds on a Will save (DC 10 + 1/2 dragon’s HD + dragon’s Cha modifier) remains immune to that dragon’s frightful presence for 24 hours. On a failure, creatures with 4 or less HD become panicked for 4d6 rounds and those with 5 or more HD become shaken for 4d6 rounds. Dragons ignore the frightful presence of other dragons.
 
@@ -86,57 +120,199 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 
 **Feats:** All dragons have one feat, plus additional feats based on Hit Dice just like any other creature. Dragons favor Alertness, Blind-Fight, Cleave, Flyby Attack, Hover, Improved Initiative, Improved Sunder, Power Attack, Snatch, Weapon Focus (claw or bite), Wingover, and any metamagic feat that is available and useful to sorcerers.
 
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|--------------------|--------------------|------------------------|-------------------|-------------------------|
-| **Dragon Age Categories**                                                                                                                                      |                                          |                   |                    |                    |                        |                   |                         |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-| **Category**                                                                                                                                                   | **Age (Years)**                   |                   |                    |                    |                        |                   |                         |
-| 1 Wyrmling                                                                                                                                                     | 0–5                               |                   |                    |                    |                        |                   |                         |
-| 2 Very young                                                                                                                                                   | 6–15                              |                   |                    |                    |                        |                   |                         |
-| 3 Young                                                                                                                                                        | 16–25                             |                   |                    |                    |                        |                   |                         |
-| 4 Juvenile                                                                                                                                                     | 26–50                             |                   |                    |                    |                        |                   |                         |
-| 5 Young adult                                                                                                                                                  | 51–100                            |                   |                    |                    |                        |                   |                         |
-| 6 Adult                                                                                                                                                        | 101–200                           |                   |                    |                    |                        |                   |                         |
-| 7 Mature adult                                                                                                                                                 | 201–400                           |                   |                    |                    |                        |                   |                         |
-| 8 Old                                                                                                                                                          | 401–600                           |                   |                    |                    |                        |                   |                         |
-| 9 Very old                                                                                                                                                     | 601–800                           |                   |                    |                    |                        |                   |                         |
-| 10 Ancient                                                                                                                                                     | 801–1,000                         |                   |                    |                    |                        |                   |                         |
-| 11 Wyrm                                                                                                                                                        | 1,001–1,200                       |                   |                    |                    |                        |                   |                         |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-| 12 Great wyrm                                                                                                                                                  | 1,201 or more                     |                   |                    |                    |                        |                   |                         |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-| **Dragon Space/Reach, Attacks, and Damage**                                                                                                                    |                                          |                   |                    |                    |                        |                   |                         |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-| **Size**                                                                                                                                                       | **Space/Reach\***                 | **1 Bite** | **2 Claws** | **2 Wings** | **1 Tail Slap** | **1Crush** | **1 Tail Sweep** |
-| Tiny                                                                                                                                                           | 2-1/2 ft./0 ft. (5 ft. with bite) | 1d4        | 1d3         | —           | —               | —          | —                |
-| Small                                                                                                                                                          | 5 ft./5 ft.                       | 1d6        | 1d4         | —           | —               | —          | —                |
-| Medium                                                                                                                                                         | 5 ft./5 ft.                       | 1d8        | 1d6         | 1d4         | —               | —          | —                |
-| Large                                                                                                                                                          | 10 ft./5 ft. (10 ft. with bite)   | 2d6        | 1d8         | 1d6         | 1d8             | —          | —                |
-| Huge                                                                                                                                                           | 15 ft./10 ft. (15 ft. with bite)  | 2d8        | 2d6         | 1d8         | 2d6             | 2d8        | —                |
-| Gargantuan                                                                                                                                                     | 20 ft./15 ft. (20 ft. with bite)  | 4d6        | 2d8         | 2d6         | 2d8             | 4d6        | 2d6              |
-| Colossal                                                                                                                                                       | 30 ft./20 ft. (30 ft. with bite)  | 4d8        | 4d6         | 2d8         | 4d6             | 4d8        | 2d8              |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
-| \*A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are made with the standard reach for the dragon’s size. |                                          |                   |                    |                    |                        |                   |                         |
-|                                                                                                                                                                       |                                          |                   |                    |                    |                        |                   |                         |
+<table>
+  <tr>
+    <th colspan=2>Dragon Age Categories</th>
+  </tr>
+  <tr>
+    <th>Category</th>
+    <th>Age (Years)</th>
+  </tr>
+  <tr>
+    <td>1 Wyrmling</td>
+    <td>0–5</td>
+  </tr>
+  <tr>
+    <td>2 Very young</td>
+    <td>6–15</td>
+  </tr>
+  <tr>
+    <td>3 Young</td>
+    <td>16–25</td>
+  </tr>
+  <tr>
+    <td>4 Juvenile</td>
+    <td>26–50</td>
+  </tr>
+  <tr>
+    <td>5 Young adult</td>
+    <td>51–100</td>
+  </tr>
+  <tr>
+    <td>6 Adult</td>
+    <td>101–200</td>
+  </tr>
+  <tr>
+    <td>7 Mature adult</td>
+    <td>201–400</td>
+  </tr>
+  <tr>
+    <td>8 Old</td>
+    <td>401–600</td>
+  </tr>
+  <tr>
+    <td>9 Very old</td>
+    <td>601–800</td>
+  </tr>
+  <tr>
+    <td>10 Ancient</td>
+    <td>801–1,000</td>
+  </tr>
+  <tr>
+    <td>11 Wyrm</td>
+    <td>1,001–1,200</td>
+  </tr>
+  <tr>
+    <td>12 Great wyrm</td>
+    <td>1,201 or more</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan=8>Dragon Space/Reach, Attacks, and Damage</th>
+  </tr>
+  <tr>
+    <th>Size</th>
+    <th>Space/Reach*</th>
+    <th>1 Bite</th>
+    <th>2 Claws</th>
+    <th>2 Wings</th>
+    <th>1 Tail Slap</th>
+    <th>1Crush</th>
+    <th>1 Tail Sweep</th>
+  </tr>
+  <tr>
+    <td>Tiny</td>
+    <td>2-1/2 ft./0 ft. (5 ft. with bite)</td>
+    <td>1d4</td>
+    <td>1d3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Small</td>
+    <td>5 ft./5 ft.</td>
+    <td>1d6</td>
+    <td>1d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td>5 ft./5 ft.</td>
+    <td>1d8</td>
+    <td>1d6</td>
+    <td>1d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Large</td>
+    <td>10 ft./5 ft. (10 ft. with bite)</td>
+    <td>2d6</td>
+    <td>1d8</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Huge</td>
+    <td>15 ft./10 ft. (15 ft. with bite)</td>
+    <td>2d8</td>
+    <td>2d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Gargantuan</td>
+    <td>20 ft./15 ft. (20 ft. with bite)</td>
+    <td>4d6</td>
+    <td>2d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>4d6</td>
+    <td>2d6</td>
+  </tr>
+  <tr>
+    <td>Colossal</td>
+    <td>30 ft./20 ft. (30 ft. with bite)</td>
+    <td>4d8</td>
+    <td>4d6</td>
+    <td>2d8</td>
+    <td>4d6</td>
+    <td>4d8</td>
+    <td>2d8</td>
+  </tr>
+  <tr>
+    <td colspan=8>*A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are made with the standard reach for the dragon’s size.</td>
+  </tr>
+</table>
 
 #### Dragon Overland Movement
 
 Chromatic and metallic dragons are exceedingly strong flyers and can cover vast distances quickly. A dragon’s overland flying speed is a function of its tactical fly speed, as shown on the table below.
 
-|                                          |                                                                                                                               |                     |                     |                     |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|---------------------|
-| **Dragon Overland Flying Speeds** |                                                                                                                               |                     |                     |                     |
-|                                          |                                                                                                                               |                     |                     |                     |
-|                                          | **————— Dragon’s Fly Speed —————** |                     |                     |                     |
-|                                          |                                                                                                                               |                     |                     |                     |
-|                                          | **100 feet**                                                                                                           | **150 feet** | **200 feet** | **250 feet** |
-| **One Hour**                      |                                                                                                                               |                     |                     |                     |
-| Normal                            | 15 miles                                                                                                               | 20 miles     | 30 miles     | 40 miles     |
-| Hustle                            | 24 miles                                                                                                               | 40 miles     | 60 miles     | 80 miles     |
-| **One Day**                       |                                                                                                                               |                     |                     |                     |
-|                                          |                                                                                                                               |                     |                     |                     |
-| Normal                            | 120 miles                                                                                                              | 160 miles    | 240 miles    | 320 miles    |
-|                                          |                                                                                                                               |                     |                     |                     |
+<table>
+  <tr>
+    <th colspan=5>Dragon Overland Flying Speeds</th>
+  </tr>
+  <tr>
+    <th rowspan=2></th>
+    <th colspan=4>Dragon’s Fly Speed</th>
+  </tr>
+  <tr>
+    <th>100 feet</th>
+    <th>150 feet</th>
+    <th>200 feet</th>
+    <th>250 feet</th>
+  </tr>
+  <tr>
+    <th colspan=5>One Hour</th>
+  </tr>
+  <tr>
+    <td>Normal</td>
+    <td>15 miles</td>
+    <td>20 miles</td>
+    <td>30 miles</td>
+    <td>40 miles</td>
+  </tr>
+  <tr>
+    <td>Hustle</td>
+    <td>24 miles</td>
+    <td>40 miles</td>
+    <td>60 miles</td>
+    <td>80 miles</td>
+  </tr>
+  <tr>
+    <th colspan=5>One Day</th>
+  </tr>
+  <tr>
+    <td>Normal</td>
+    <td>120 miles</td>
+    <td>160 miles</td>
+    <td>240 miles</td>
+    <td>320 miles</td>
+  </tr>
+</table>
 
 Dragons do not tire as quickly as other creatures when moving overland on the ground. If a dragon attempts a hustle or a forced march, check for nonlethal damage once every 2 hours instead of every hour.
 
@@ -167,639 +343,366 @@ Chromatic dragons form the evil branch of dragonkind. They are aggressive, greed
 **Level Adjustment:** Wyrmling +3; very young +3; young +3; juvenile +4; others —
 
 <table>
-<tbody>
-<tr class="odd">
-<td><p class="heading">Black Dragons by Age</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Age</strong></p></td>
-<td><p class="heading">Size</p></td>
-<td><p><strong>Hit Dice (hp)</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Base Attack/</strong></p>
-<p><strong>Grapple</strong></p></td>
-<td><p><strong>Attack</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Breath Weapon (DC)</strong></p></td>
-<td><p><strong>Frightful Presence DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Wyrmling</p></td>
-<td><p>T</p></td>
-<td><p>4d12+4 (30)</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-<td><p>8</p></td>
-<td><p>11</p></td>
-<td><p>8</p></td>
-<td><p>+4/–4</p></td>
-<td><p>+6</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>2d4 (13)</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Very young</p></td>
-<td><p>S</p></td>
-<td><p>7d12+7 (52)</p></td>
-<td><p>13</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-<td><p>8</p></td>
-<td><p>11</p></td>
-<td><p>8</p></td>
-<td><p>+7/+4</p></td>
-<td><p>+9</p></td>
-<td><p>+6</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>4d4 (14)</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Young</p></td>
-<td><p>M</p></td>
-<td><p>10d12+20 (85)</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>+10/+12</p></td>
-<td><p>+12</p></td>
-<td><p>+9</p></td>
-<td><p>+7</p></td>
-<td><p>+7</p></td>
-<td><p>6d4 (17)</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Juvenile</p></td>
-<td><p>M</p></td>
-<td><p>13d12+26 (110)</p></td>
-<td><p>17</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>+13/+16</p></td>
-<td><p>+16</p></td>
-<td><p>+10</p></td>
-<td><p>+8</p></td>
-<td><p>+8</p></td>
-<td><p>8d4 (18)</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Young adult</p></td>
-<td><p>L</p></td>
-<td><p>16d12+48 (152)</p></td>
-<td><p>19</p></td>
-<td><p>10</p></td>
-<td><p>17</p></td>
-<td><p>12</p></td>
-<td><p>13</p></td>
-<td><p>12</p></td>
-<td><p>+16/+24</p></td>
-<td><p>+19</p></td>
-<td><p>+13</p></td>
-<td><p>+10</p></td>
-<td><p>+11</p></td>
-<td><p>10d4 (21)</p></td>
-<td><p>19</p></td>
-</tr>
-<tr class="even">
-<td><p>Adult</p></td>
-<td><p>L</p></td>
-<td><p>19d12+76 (199)</p></td>
-<td><p>23</p></td>
-<td><p>10</p></td>
-<td><p>19</p></td>
-<td><p>12</p></td>
-<td><p>13</p></td>
-<td><p>12</p></td>
-<td><p>+19/+29</p></td>
-<td><p>+24</p></td>
-<td><p>+15</p></td>
-<td><p>+11</p></td>
-<td><p>+12</p></td>
-<td><p>12d4 (23)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mature adult</p></td>
-<td><p>H</p></td>
-<td><p>22d12+110 (253)</p></td>
-<td><p>27</p></td>
-<td><p>10</p></td>
-<td><p>21</p></td>
-<td><p>14</p></td>
-<td><p>15</p></td>
-<td><p>14</p></td>
-<td><p>+22/+38</p></td>
-<td><p>+28</p></td>
-<td><p>+18</p></td>
-<td><p>+13</p></td>
-<td><p>+15</p></td>
-<td><p>14d4 (26)</p></td>
-<td><p>23</p></td>
-</tr>
-<tr class="even">
-<td><p>Old</p></td>
-<td><p>H</p></td>
-<td><p>25d12+125 (287)</p></td>
-<td><p>29</p></td>
-<td><p>10</p></td>
-<td><p>21</p></td>
-<td><p>14</p></td>
-<td><p>15</p></td>
-<td><p>14</p></td>
-<td><p>+25/+42</p></td>
-<td><p>+32</p></td>
-<td><p>+19</p></td>
-<td><p>+14</p></td>
-<td><p>+16</p></td>
-<td><p>16d4 (27)</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="odd">
-<td><p>Very old</p></td>
-<td><p>H</p></td>
-<td><p>28d12+168 (350)</p></td>
-<td><p>31</p></td>
-<td><p>10</p></td>
-<td><p>23</p></td>
-<td><p>16</p></td>
-<td><p>17</p></td>
-<td><p>16</p></td>
-<td><p>+28/+46</p></td>
-<td><p>+36</p></td>
-<td><p>+22</p></td>
-<td><p>+16</p></td>
-<td><p>+19</p></td>
-<td><p>18d4 (30)</p></td>
-<td><p>27</p></td>
-</tr>
-<tr class="even">
-<td><p>Ancient</p></td>
-<td><p>H</p></td>
-<td><p>31d12+186 (387)</p></td>
-<td><p>33</p></td>
-<td><p>10</p></td>
-<td><p>23</p></td>
-<td><p>16</p></td>
-<td><p>17</p></td>
-<td><p>16</p></td>
-<td><p>+31/+50</p></td>
-<td><p>+40</p></td>
-<td><p>+23</p></td>
-<td><p>+17</p></td>
-<td><p>+20</p></td>
-<td><p>20d4 (31)</p></td>
-<td><p>28</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wyrm</p></td>
-<td><p>G</p></td>
-<td><p>34d12+238 (459)</p></td>
-<td><p>35</p></td>
-<td><p>10</p></td>
-<td><p>25</p></td>
-<td><p>18</p></td>
-<td><p>19</p></td>
-<td><p>18</p></td>
-<td><p>+34/+58</p></td>
-<td><p>+42</p></td>
-<td><p>+26</p></td>
-<td><p>+19</p></td>
-<td><p>+23</p></td>
-<td><p>22d4 (34)</p></td>
-<td><p>31</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Great wyrm</p></td>
-<td><p>G</p></td>
-<td><p>37d12+296 (536)</p></td>
-<td><p>37</p></td>
-<td><p>10</p></td>
-<td><p>27</p></td>
-<td><p>20</p></td>
-<td><p>21</p></td>
-<td><p>20</p></td>
-<td><p>+37/+62</p></td>
-<td><p>+46</p></td>
-<td><p>+28</p></td>
-<td><p>+20</p></td>
-<td><p>+25</p></td>
-<td><p>24d4 (36)</p></td>
-<td><p>33</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p class="heading">Black Dragon Abilities by Age</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h5>Age</h5></td>
-<td><h5>Speed</h5></td>
-<td><h5>Initiative</h5></td>
-<td><h5>AC</h5></td>
-<td><h5>Special Abilities</h5></td>
-<td><h5>Caster Level</h5></td>
-<td><h5>SR</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Wyrmling</p></td>
-<td><p>60 ft., fly 100 ft. (average), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>15 (+2 size,+3 natural), touch 12, flat-footed 15</p></td>
-<td><p>Immunity to acid, water breathing</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Very young</p></td>
-<td><p>60 ft., fly 100 ft. (average), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>17 (+1 size,+6 natural), touch 11, flat-footed 17</p></td>
-<td></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Young</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>19 (+9 natural), touch 10, flat-footed 19 </p></td>
-<td></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Juvenile</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>22 (+12 natural), touch 10, flat-footed 22</p></td>
-<td><p><em>Darkness</em></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Young adult</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>24 (–1 size,+15 natural), touch 9, flat-footed 24</p></td>
-<td><p>DR 5/magic</p></td>
-<td><p>1st</p></td>
-<td><p>17</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Adult</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>27 (–1 size,+18 natural), touch 9, flat-footed 27</p></td>
-<td><p><em>Corrupt water</em></p></td>
-<td><p>3rd</p></td>
-<td><p>18</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Mature adult</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>29 (–2 size,+21 natural), touch 8, flat-footed 29</p></td>
-<td><p>DR 10/magic</p></td>
-<td><p>5th</p></td>
-<td><p>21</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Old</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>32 (–2 size,+24 natural), touch 8, flat-footed 32</p></td>
-<td><p><em>Plant growth</em></p></td>
-<td><p>7th</p></td>
-<td><p>22</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Very old</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>35 (–2 size,+27 natural), touch 8, flat-footed 35</p></td>
-<td><p>DR 15/magic</p></td>
-<td><p>9th</p></td>
-<td><p>23</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ancient</p></td>
-<td><p>60 ft., fly 150 ft. (poor), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>38 (–2 size,+30 natural), touch 8, flat-footed 38</p></td>
-<td><p><em>Insect plague</em></p></td>
-<td><p>11th</p></td>
-<td><p>25</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Wyrm</p></td>
-<td><p>60 ft., fly 200 ft. (clumsy), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>39 (–4 size,+33 natural), touch 6, flat-footed 39</p></td>
-<td><p>DR 20/magic</p></td>
-<td><p>13th</p></td>
-<td><p>26</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Great wyrm</p></td>
-<td><p>60 ft., fly 200 ft. (clumsy), swim 60 ft.</p></td>
-<td><p>+0</p></td>
-<td><p>42 (–4 size,+36 natural), touch 6, flat-footed 42</p></td>
-<td><p><em>Charm reptiles</em></p></td>
-<td><p>15th</p></td>
-<td><p>28</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
+  <tr>
+    <th colspan=16>Black Dragons by Age</th>
+  </tr>
+  <tr>
+    <th>Age</th>
+    <th>Size</th>
+    <th>Hit Dice (hp)</th>
+    <th>Str</th>
+    <th>Dex</th>
+    <th>Con</th>
+    <th>Int</th>
+    <th>Wis</th>
+    <th>Cha</th>
+    <th>Base Attack/Grapple</th>
+    <th>Attack</th>
+    <th>Fort Save</th>
+    <th>Ref Save</th>
+    <th>Will Save</th>
+    <th>Breath Weapon (DC)</th>
+    <th>Frightful Presence DC</th>
+  </tr>
+  <tr>
+    <td>Wyrmling</td>
+    <td>T</td>
+    <td>4d12+4 (30)</td>
+    <td>11</td>
+    <td>10</td>
+    <td>13</td>
+    <td>8</td>
+    <td>11</td>
+    <td>8</td>
+    <td>+4/–4</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>2d4 (13)</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Very young</td>
+    <td>S</td>
+    <td>7d12+7 (52)</td>
+    <td>13</td>
+    <td>10</td>
+    <td>13</td>
+    <td>8</td>
+    <td>11</td>
+    <td>8</td>
+    <td>+7/+4</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>4d4 (14)</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Young</td>
+    <td>M</td>
+    <td>10d12+20 (85)</td>
+    <td>15</td>
+    <td>10</td>
+    <td>15</td>
+    <td>10</td>
+    <td>11</td>
+    <td>10</td>
+    <td>+10/+12</td>
+    <td>+12</td>
+    <td>+9</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>6d4 (17)</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Juvenile</td>
+    <td>M</td>
+    <td>13d12+26 (110)</td>
+    <td>17</td>
+    <td>10</td>
+    <td>15</td>
+    <td>10</td>
+    <td>11</td>
+    <td>10</td>
+    <td>+13/+16</td>
+    <td>+16</td>
+    <td>+10</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>8d4 (18)</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Young adult</td>
+    <td>L</td>
+    <td>16d12+48 (152)</td>
+    <td>19</td>
+    <td>10</td>
+    <td>17</td>
+    <td>12</td>
+    <td>13</td>
+    <td>12</td>
+    <td>+16/+24</td>
+    <td>+19</td>
+    <td>+13</td>
+    <td>+10</td>
+    <td>+11</td>
+    <td>10d4 (21)</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>Adult</td>
+    <td>L</td>
+    <td>19d12+76 (199)</td>
+    <td>23</td>
+    <td>10</td>
+    <td>19</td>
+    <td>12</td>
+    <td>13</td>
+    <td>12</td>
+    <td>+19/+29</td>
+    <td>+24</td>
+    <td>+15</td>
+    <td>+11</td>
+    <td>+12</td>
+    <td>12d4 (23)</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Mature adult</td>
+    <td>H</td>
+    <td>22d12+110 (253)</td>
+    <td>27</td>
+    <td>10</td>
+    <td>21</td>
+    <td>14</td>
+    <td>15</td>
+    <td>14</td>
+    <td>+22/+38</td>
+    <td>+28</td>
+    <td>+18</td>
+    <td>+13</td>
+    <td>+15</td>
+    <td>14d4 (26)</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Old</td>
+    <td>H</td>
+    <td>25d12+125 (287)</td>
+    <td>29</td>
+    <td>10</td>
+    <td>21</td>
+    <td>14</td>
+    <td>15</td>
+    <td>14</td>
+    <td>+25/+42</td>
+    <td>+32</td>
+    <td>+19</td>
+    <td>+14</td>
+    <td>+16</td>
+    <td>16d4 (27)</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>Very old</td>
+    <td>H</td>
+    <td>28d12+168 (350)</td>
+    <td>31</td>
+    <td>10</td>
+    <td>23</td>
+    <td>16</td>
+    <td>17</td>
+    <td>16</td>
+    <td>+28/+46</td>
+    <td>+36</td>
+    <td>+22</td>
+    <td>+16</td>
+    <td>+19</td>
+    <td>18d4 (30)</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>Ancient</td>
+    <td>H</td>
+    <td>31d12+186 (387)</td>
+    <td>33</td>
+    <td>10</td>
+    <td>23</td>
+    <td>16</td>
+    <td>17</td>
+    <td>16</td>
+    <td>+31/+50</td>
+    <td>+40</td>
+    <td>+23</td>
+    <td>+17</td>
+    <td>+20</td>
+    <td>20d4 (31)</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Wyrm</td>
+    <td>G</td>
+    <td>34d12+238 (459)</td>
+    <td>35</td>
+    <td>10</td>
+    <td>25</td>
+    <td>18</td>
+    <td>19</td>
+    <td>18</td>
+    <td>+34/+58</td>
+    <td>+42</td>
+    <td>+26</td>
+    <td>+19</td>
+    <td>+23</td>
+    <td>22d4 (34)</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>Great wyrm</td>
+    <td>G</td>
+    <td>37d12+296 (536)</td>
+    <td>37</td>
+    <td>10</td>
+    <td>27</td>
+    <td>20</td>
+    <td>21</td>
+    <td>20</td>
+    <td>+37/+62</td>
+    <td>+46</td>
+    <td>+28</td>
+    <td>+20</td>
+    <td>+25</td>
+    <td>24d4 (36)</td>
+    <td>33</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan=7>Black Dragon Abilities by Age</th>
+  </tr>
+  <tr>
+    <th>Age</th>
+    <th>Speed</th>
+    <th>Initiative</th>
+    <th>AC</th>
+    <th>Special Abilities</th>
+    <th>Caster Level</th>
+    <th>SR</th>
+  </tr>
+  <tr>
+    <td>Wyrmling</td>
+    <td>60 ft., fly 100 ft. (average), swim 60 ft.</td>
+    <td>+0</td>
+    <td>15 (+2 size,+3 natural), touch 12, flat-footed 15</td>
+    <td>Immunity to acid, water breathing</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Very young</td>
+    <td>60 ft., fly 100 ft. (average), swim 60 ft.</td>
+    <td>+0</td>
+    <td>17 (+1 size,+6 natural), touch 11, flat-footed 17</td>
+    <td></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Young</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>19 (+9 natural), touch 10, flat-footed 19</td>
+    <td></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Juvenile</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>22 (+12 natural), touch 10, flat-footed 22</td>
+    <td>Darkness</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Young adult</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>24 (–1 size,+15 natural), touch 9, flat-footed 24</td>
+    <td>DR 5/magic</td>
+    <td>1st</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>Adult</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>27 (–1 size,+18 natural), touch 9, flat-footed 27</td>
+    <td>Corrupt water</td>
+    <td>3rd</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>Mature adult</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>29 (–2 size,+21 natural), touch 8, flat-footed 29</td>
+    <td>DR 10/magic</td>
+    <td>5th</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Old</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>32 (–2 size,+24 natural), touch 8, flat-footed 32</td>
+    <td>Plant growth</td>
+    <td>7th</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>Very old</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>35 (–2 size,+27 natural), touch 8, flat-footed 35</td>
+    <td>DR 15/magic</td>
+    <td>9th</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Ancient</td>
+    <td>60 ft., fly 150 ft. (poor), swim 60 ft.</td>
+    <td>+0</td>
+    <td>38 (–2 size,+30 natural), touch 8, flat-footed 38</td>
+    <td>Insect plague</td>
+    <td>11th</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Wyrm</td>
+    <td>60 ft., fly 200 ft. (clumsy), swim 60 ft.</td>
+    <td>+0</td>
+    <td>39 (–4 size,+33 natural), touch 6, flat-footed 39</td>
+    <td>DR 20/magic</td>
+    <td>13th</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td>Great wyrm</td>
+    <td>60 ft., fly 200 ft. (clumsy), swim 60 ft.</td>
+    <td>+0</td>
+    <td>42 (–4 size,+36 natural), touch 6, flat-footed 42</td>
+    <td>Charm reptiles</td>
+    <td>15th</td>
+    <td>28</td>
+  </tr>
 </table>
 
 Black dragon are sometimes known as skull dragons because of their skeletal faces. Adding to the skeletal impression is the gradual deterioration of the hide around the base of the horn and the cheekbones. This deterioration increases with age and does not harm the dragon. On hatching, a black dragon’s scales are thin, small, and glossy. As the dragon ages, they become larger, thicker, and duller, helping it camouflage itself in swamps and marshes.

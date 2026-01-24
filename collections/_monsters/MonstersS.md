@@ -12,7 +12,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 <table>
   <tr>
     <td></td>
-    <th>Medium Monstrous Humanoid (Aquatic)</th>
+    <td>Medium Monstrous Humanoid (Aquatic)</td>
   </tr>
   <tr>
     <th>Hit Dice:</th>

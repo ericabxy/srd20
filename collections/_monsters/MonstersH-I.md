@@ -20,28 +20,96 @@ Hags are tremendously strong. They are naturally resistant to spells and can cas
 
 ### ANNIS
 
-|                           | Large Monstrous Humanoid
-| **Hit Dice:**             | 7d8+14 (45 hp)
-| **Initiative:**           | +1
-| **Speed:**                | 40 ft. (8 squares)
-| **Armor Class:**          | 20 (--1 size, +1 Dex, +10 natural), touch 10, flat-footed 19
-| **Base Attack/Grapple:**  | +7/+18
-| **Attack:**               | Claw +13 melee (1d6+7)
-| **Full Attack:**          | 2 claws +13 melee (1d6+7) and bite +8 melee (1d6+3)
-| **Space/Reach:**          | 10 ft./10 ft.
-| **Special Attacks:**      | Improved grab, rake 1d6+7, rend 2d6+10, spell-like abilities
-| **Special Qualities:**    | Damage reduction 2/bludgeoning, darkvision 60 ft., spell resistance 19
-| **Saves:**                | Fort +6, Ref +6, Will +6
-| **Abilities:**            | Str 25, Dex 12, Con 14, Int 13, Wis 13, Cha 10
-| **Skills:**               | Bluff +8, Diplomacy +2, Disguise +0 (+2 acting), Hide +5, Intimidate +2, Listen +10, Spot +10
-| **Feats:**                | Alertness, Blind-Fight, Great Fortitude
-| **Environment:**          | Cold marshes
-| **Organization:**         | Solitary or covey (3 hags of any kind plus 1--8 ogres and 1--4 evil giants)
-| **Challenge Rating:**     | 6
-| **Treasure:**             | Standard
-| **Alignment:**            | Usually chaotic evil
-| **Advancement:**          | By character class
-| **Level Adjustment:**     | ---
+<table>
+  <tr>
+    <td></td>
+    <td>Large Monstrous Humanoid</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>7d8+14 (45 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>40 ft. (8 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>20 (–1 size, +1 Dex, +10 natural), touch 10, flat-footed 19</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+7/+18</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Claw +13 melee (1d6+7)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 claws +13 melee (1d6+7) and bite +8 melee (1d6+3)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Improved grab, rake 1d6+7, rend 2d6+10, spell-like abilities</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Damage reduction 2/bludgeoning, darkvision 60 ft., spell resistance 19</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +6, Will +6</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 25, Dex 12, Con 14, Int 13, Wis 13, Cha 10</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Bluff +8, Diplomacy +2, Disguise +0 (+2 acting), Hide +5, Intimidate +2, Listen +10, Spot +10</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Blind-Fight, Great Fortitude</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Cold marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary or covey (3 hags of any kind plus 1–8 ogres and 1–4 evil giants)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually chaotic evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 An annis commonly uses its *disguise self* ability to take the form of an exceptionally tall human, a fair giant, or an ogre.
 
@@ -153,7 +221,7 @@ Hags in a covey rely on deception and their boosted magical abilities in combat.
 
 A covey of hags is 80% likely to be guarded by 1d8 ogres and 1d4 evil giants who do their bidding. These minions are often disguised with a *veil* spell to appear less threatening and sent forth as spies. Such minions often (60%) carry magic stones known as *hag eyes* (see below).
 
-**Spell-Like Abilities:** 3/day---*animate dead*, *bestow curse* (DC 17), *control weather*, *dream*, *forcecage*, *mind blank*, *mirage arcana* (DC 18), *polymorph*, *veil* (DC 19), *vision*. Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
+**Spell-Like Abilities:** 3/day---*animate dead, bestow curse* (DC 17), *control weather, dream, forcecage, mind blank, mirage arcana* (DC 18), *polymorph, veil* (DC 19), *vision*. Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
 
 Once per month, a covey that does not have a *hag eye* can create one from a gem worth at least 20 gp (see below).
 
@@ -340,7 +408,8 @@ creature's base land speed (average maneuverability).
 
 Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or higher has spell-like abilities depending on its Hit Dice, as indicated on the table below. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature's HD, and the save DC is Charisma-based.
 
-| **HD** | **Abilities**
+|   HD   |   Abilities
+|--------|---------------
 | 1--2   | *Darkness* 3/day
 | 3--4   | *Desecrate*
 | 5--6   | *Unholy blight*
@@ -404,15 +473,15 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
   </tr>
   <tr>
     <th>Base Attack/Grapple:</th>
-    <td>+1/&ndash;3</td>
+    <td>+1/–3</td>
   </tr>
   <tr>
     <th>Attack:</th>
-    <td>Longsword +3 melee (1d6/19&ndash;20) or light crossbow +3 ranged (1d6/19&ndash;20)</td>
+    <td>Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)</td>
   </tr>
   <tr>
     <th>Full Attack:</th>
-    <td>Longsword +3 melee (1d6/19&ndash;20) or light crossbow +3 ranged (1d6/19&ndash;20)</td>
+    <td>Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)</td>
   </tr>
   <tr>
     <th>Space/Reach:</th>
@@ -436,7 +505,7 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
   </tr>
   <tr>
     <th>Skills:</th>
-    <td>Climb +2, Hide +4, Jump &ndash;4, Listen +3, Move Silently +1</td>
+    <td>Climb +2, Hide +4, Jump –4, Listen +3, Move Silently +1</td>
   </tr>
   <tr>
     <th>Feats:</th>
@@ -448,11 +517,11 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
   </tr>
   <tr>
     <th>Organization:</th>
-    <td>Company (2&ndash;4), squad (11&ndash;20 plus 2 3rd-level sergeants and 1 leader of 3rd&ndash;6th level), or band (30&ndash;100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6&ndash;10 dogs, and 2&ndash;5 riding dogs)</td>
+    <td>Company (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6–10 dogs, and 2–5 riding dogs)</td>
   </tr>
   <tr>
     <th>Challenge Rating:</th>
-    <td>01/02/2026</td>
+    <td>1/2</td>
   </tr>
   <tr>
     <th>Treasure:</th>
@@ -574,12 +643,12 @@ Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep hal
   <tr>
     <th>Attack:</th>
     <td>Club +7 melee (1d6)</td>
-    <td>+1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19&ndash;20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)</td>
+    <td>+1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19–20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)</td>
   </tr>
   <tr>
     <th>Full Attack:</th>
     <td>Club +7/+2 melee (1d6) and 2 claws +2 melee (1d3)</td>
-    <td>+1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19&ndash;20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)</td>
+    <td>+1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19–20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)</td>
   </tr>
   <tr>
     <th>Space/Reach:</th>
@@ -623,7 +692,7 @@ Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep hal
   </tr>
   <tr>
     <th>Organization:</th>
-    <td>Solitary, pair, or flight (7&ndash;12)</td>
+    <td>Solitary, pair, or flight (7–12)</td>
     <td>Solitary</td>
   </tr>
   <tr>
@@ -705,7 +774,7 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
   <tr>
     <th>Armor Class:</th>
     <td>16 (+1 Dex, +5 natural), touch 11, flat-footed 15</td>
-    <td>24 (&ndash;1 size, +2 Dex, +7 natural, +6 +2 chain shirt barding), touch 11, flat-footed 22</td>
+    <td>24 (–1 size, +2 Dex, +7 natural, +6 +2 chain shirt barding), touch 11, flat-footed 22</td>
   </tr>
   <tr>
     <th>Base Attack/Grapple:</th>
@@ -715,12 +784,12 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
   <tr>
     <th>Attack:</th>
     <td>Bite +5 melee (1d8+1 plus 1d6 fire)</td>
-    <td>Bite +20 melee (2d6+12/19&ndash;20 plus 1d8 fire)</td>
+    <td>Bite +20 melee (2d6+12/19–20 plus 1d8 fire)</td>
   </tr>
   <tr>
     <th>Full Attack:</th>
     <td>Bite +5 melee (1d8+1 plus 1d6 fire)</td>
-    <td>Bite +20 melee (2d6+12/19&ndash;20 plus 1d8 fire)</td>
+    <td>Bite +20 melee (2d6+12/19–20 plus 1d8 fire)</td>
   </tr>
   <tr>
     <th>Space/Reach:</th>
@@ -764,8 +833,8 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
   </tr>
   <tr>
     <th>Organization:</th>
-    <td>Solitary, pair, or pack (5&ndash;12)</td>
-    <td>Solitary, pair, or pack (1&ndash;2 Nessian warhounds and 5&ndash;12 hell hounds)</td>
+    <td>Solitary, pair, or pack (5–12)</td>
+    <td>Solitary, pair, or pack (1–2 Nessian warhounds and 5–12 hell hounds)</td>
   </tr>
   <tr>
     <th>Challenge Rating:</th>
@@ -784,8 +853,8 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
   </tr>
   <tr>
     <th>Advancement:</th>
-    <td>5&ndash;8 HD (Medium); 9&ndash;12 HD (Large)</td>
-    <td>13&ndash;17 HD (Large); 18&ndash;24 HD (Huge)</td>
+    <td>5–8 HD (Medium); 9–12 HD (Large)</td>
+    <td>13–17 HD (Large); 18–24 HD (Huge)</td>
   </tr>
   <tr>
     <th>Level Adjustment:</th>
@@ -824,42 +893,102 @@ Nessian warhounds resemble hell hounds, except as otherwise noted.
 
 ## HIPPOGRIFF
 
-|                           | Large Magical Beast
-| **Hit Dice:**             | 3d10+9 (25 hp)
-| **Initiative:**           | +2
-| **Speed:**                | 50 ft. (10 squares), fly 100 ft. (average)
-| **Armor Class:**          | 15 (--1 size, +2 Dex, +4 natural), touch 11, flat-footed 13
-| **Base Attack/Grapple:**  | +3/+11
-| **Attack:**               | Claw +6 melee (1d4+4)
-| **Full Attack:**          | 2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)
-| **Space/Reach:**          | 10 ft./5 ft.
-| **Special Attacks:**      | ---
-| **Special Qualities:**    | Darkvision 60 ft., low-light vision, scent
-| **Saves:**                | Fort +6, Ref +5, Will +2
-| **Abilities:**            | Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8
-| **Skills:**               | Listen +4, Spot +8
-| **Feats:**                | Dodge, Wingover
-| **Environment:**          | Temperate hills
-| **Organization:**         | Solitary, pair, or flight (7--12)
-| **Challenge Rating:**     | 2
-| **Treasure:**             | None
-| **Alignment:**            | Always neutral
-| **Advancement:**          | 4--6 HD (Large); 7--9 HD (Huge)
-| **Level Adjustment:**     | ---
+<table>
+  <tr>
+    <td></td>
+    <td>Large Magical Beast</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>3d10+9 (25 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>50 ft. (10 squares), fly 100 ft. (average)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+3/+11</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Claw +6 melee (1d4+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +5, Will +2</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +4, Spot +8</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Dodge, Wingover</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate hills</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, pair, or flight (7–12)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>4–6 HD (Large); 7–9 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
-Hippogriffs are aggressive flying creatures that combine features of
-horses and giant eagles. Voracious omnivores, hippogriffs will hunt
-humanoids as readily as any other meal. A typical hippogriff is 9 feet
-long, has a wingspan of 20 feet, and weighs 1,000 pounds.
+Hippogriffs are aggressive flying creatures that combine features of horses and giant eagles. Voracious omnivores, hippogriffs will hunt humanoids as readily as any other meal. A typical hippogriff is 9 feet long, has a wingspan of 20 feet, and weighs 1,000 pounds.
 
 ### COMBAT
 
-Hippogriffs dive at their prey and strike with their clawed forelegs.
-When they cannot dive, they slash with claws and beak. Mated pairs and
-flights of these creatures attack in concert, diving repeatedly to drive
-away or kill intruders. Hippogriffs fight to the death to defend their
-nests and their hatchlings, which are prized as aerial mounts and fetch
-a handsome price in many civilized areas.
+Hippogriffs dive at their prey and strike with their clawed forelegs. When they cannot dive, they slash with claws and beak. Mated pairs and flights of these creatures attack in concert, diving repeatedly to drive away or kill intruders. Hippogriffs fight to the death to defend their nests and their hatchlings, which are prized as aerial mounts and fetch a handsome price in many civilized areas.
 
 **Skills:** Hippogriffs have a +4 racial bonus on Spot checks.
 
@@ -867,69 +996,117 @@ a handsome price in many civilized areas.
 
 A hippogriff requires training before it can bear a rider in combat.
 
-Training a hippogriff requires six weeks of work and a DC 25 Handle
-Animal check. Riding a hippogriff requires an exotic saddle. A
-hippogriff can fight while carrying a rider, but the rider cannot also
-attack unless he or she succeeds on a Ride check.
+Training a hippogriff requires six weeks of work and a DC 25 Handle Animal check. Riding a hippogriff requires an exotic saddle. A hippogriff can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
-Hippogriff eggs are worth 2,000 gp apiece on the open market, while
-young are worth 3,000 gp each. Professional trainers charge 1,000 gp to
-rear or train a hippogriff.
+Hippogriff eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 1,000 gp to rear or train a hippogriff.
 
-**Carrying Capacity:** A light load for a hippogriff is up to 300
-pounds; a medium load, 301--600 pounds; and a heavy load, 601--900
-pounds.
+**Carrying Capacity:** A light load for a hippogriff is up to 300 pounds; a medium load, 301--600 pounds; and a heavy load, 601--900 pounds.
 
 ## HOBGOBLIN
 
-|                           | **Hobgoblin, 1st-Level Warrior**
-|                           | Medium Humanoid (Goblinoid)
-| **Hit Dice:**             | 1d8+2 (6 hp)
-| **Initiative:**           | +1
-| **Speed:**                | 30 ft. (6 squares)
-| **Armor Class:**          | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14
-| **Base Attack/Grapple:**  | +1/+2
-| **Attack:**               | Longsword +2 melee (1d8+1/19--20) or javelin +2 ranged (1d6+1)
-| **Full Attack:**          | Longsword +2 melee (1d8+1/19--20) or javelin +2 ranged (1d6+1)
-| **Space/Reach:**          | 5 ft./5 ft.
-| **Special Attacks:**      | ---
-| **Special Qualities:**    | Darkvision 60 ft.
-| **Saves:**                | Fort +4, Ref +1, Will --1
-| **Abilities:**            | Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 8
-| **Skills:**               | Hide +3, Listen +2, Move Silently +3, Spot +2
-| **Feats:**                | Alertness
-| **Environment:**          | Warm hills
-| **Organization:**         | Gang (4--9), band (10--100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th--6th level), warband (10--24), or tribe (30--300 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th--8th level, 2--4 dire wolves, and 1--4 ogres or 1--2 trolls)
-| **Challenge Rating:**     | 1/2
-| **Treasure:**             | Standard
-| **Alignment:**            | Usually lawful evil
-| **Advancement:**          | By character class
-| **Level Adjustment:**     | +1
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Hobgoblin, 1st-Level Warrior</th>
+  </tr>
+  <tr>
+    <td>Medium Humanoid (Goblinoid)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1d8+2 (6 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. (6 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+2</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Longsword +2 melee (1d8+1/19–20) or javelin +2 ranged (1d6+1)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Longsword +2 melee (1d8+1/19–20) or javelin +2 ranged (1d6+1)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft.</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +1, Will –1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 8</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +3, Listen +2, Move Silently +3, Spot +2</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm hills</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Gang (4–9), band (10–100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24), or tribe (30–300 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 2–4 dire wolves, and 1–4 ogres or 1–2 trolls)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1/2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually lawful evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+1</td>
+  </tr>
+</table>
                                            
-Hobgoblins are larger cousins of goblins. Hobgoblins' hair color ranges
-from dark reddish-brown to dark gray. They have dark orange or
-red-orange skin. Large males have blue or red noses. Hobgoblins' eyes
-are yellowish or dark brown, while their teeth are yellow. Their
-garments tend to be brightly colored, often blood red with black-tinted
-leather. Their weaponry is kept polished and in good repair. Hobgoblins
-speak Goblin and Common. Most hobgoblins encountered outside their homes
-are warriors; the information in the statistics block is for one of 1st
-level.
+Hobgoblins are larger cousins of goblins. Hobgoblins' hair color ranges from dark reddish-brown to dark gray. They have dark orange or red-orange skin. Large males have blue or red noses. Hobgoblins' eyes are yellowish or dark brown, while their teeth are yellow. Their garments tend to be brightly colored, often blood red with black-tinted leather. Their weaponry is kept polished and in good repair. Hobgoblins speak Goblin and Common. Most hobgoblins encountered outside their homes are warriors; the information in the statistics block is for one of 1st level.
 
 ### COMBAT
 
-These creatures have a strong grasp of strategy and tactics and are
-capable of carrying out sophisticated battle plans. Under the leadership
-of a skilled strategist or tactician, their discipline can prove a
-deciding factor. Hobgoblins hate elves and attack them first, in
-preference to other opponents.
+These creatures have a strong grasp of strategy and tactics and are capable of carrying out sophisticated battle plans. Under the leadership of a skilled strategist or tactician, their discipline can prove a deciding factor. Hobgoblins hate elves and attack them first, in preference to other opponents.
 
-**Skills:** Hobgoblins have a +4 racial bonus on Move
-Silently checks.
+**Skills:** Hobgoblins have a +4 racial bonus on Move Silently checks.
 
-The hobgoblin warrior presented here had the following ability scores
-before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha
-8.
+The hobgoblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### HOBGOBLIN CHARACTERS
 
@@ -943,8 +1120,7 @@ Hobgoblin characters possess the following racial traits.
 
 --- +4 racial bonus on Move Silently checks.
 
----Automatic Languages: Common, Goblin. Bonus Languages: Draconic,
-Dwarven, Infernal, Giant, Orc.
+---Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Dwarven, Infernal, Giant, Orc.
 
 ---Favored Class: Fighter.
 
@@ -952,649 +1128,666 @@ Dwarven, Infernal, Giant, Orc.
 
 ## HOMUNCULUS
 
-|                           | Tiny Construct
-| **Hit Dice:**             | 2d10 (11 hp)
-| **Initiative:**           | +2
-| **Speed:**                | 20 ft. (4 squares), fly 50 ft. (good)
-| **Armor Class:**          | 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-| **Base Attack/Grapple:**  | +1/--8
-| **Attack:**               | Bite +2 melee (1d4--1 plus poison)
-| **Full Attack:**          | Bite +2 melee (1d4--1 plus poison)
-| **Space/Reach:**          | 2-1/2 ft./0 ft.
-| **Special Attacks:**      | Poison
-| **Special Qualities:**    | Construct traits, darkvision 60 ft., low-light vision
-| **Saves:**                | Fort +0, Ref +4, Will +1
-| **Abilities:**            | Str 8, Dex 15, Con ---, Int 10, Wis 12, Cha 7
-| **Skills:**               | Hide +14, Listen +4, Spot +4 
-| **Feats:**                | Lightning Reflexes
-| **Environment:**          | Any
-| **Organization:**         | Solitary
-| **Challenge Rating:**     | 1
-| **Treasure:**             | None
-| **Alignment:**            | Any (same as creator)
-| **Advancement:**          | 3--6 HD (Tiny)
-| **Level Adjustment:**     | ---
-                                           
-A homunculus is a miniature servant created by a wizard. These
-creatures are weak combatants but make effective spies, messengers, and
-scouts. A homunculus's creator determines its precise features.
-Homunculi are little more than tools designed to carry out assigned
-tasks. They are extensions of their creators, sharing the same alignment
-and basic nature. A homunculus cannot speak, but the process of creating
-one links it telepathically with its creator.
+<table>
+  <tr>
+    <td></td>
+    <td>Tiny Construct</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>2d10 (11 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), fly 50 ft. (good)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>14 (+2 Dex, +2 size), touch 14, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/–8</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +2 melee (1d4–1 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +2 melee (1d4–1 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>2-1/2 ft./0 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Poison</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Construct traits, darkvision 60 ft., low-light vision</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +0, Ref +4, Will +1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +14, Listen +4, Spot +4</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Lightning Reflexes</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Any (same as creator)</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>3–6 HD (Tiny)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
-It knows what its master knows and can convey to him or her everything
-it sees and hears, out to a distance of 1,500 feet. A homunculus never
-travels beyond this range willingly, though it can be removed forcibly.
-If this occurs, the creature does everything in its power to regain
-contact with its master. An attack that destroys a homunculus deals 2d10
-points of damage to its master.
+A homunculus is a miniature servant created by a wizard. These creatures are weak combatants but make effective spies, messengers, and scouts. A homunculus's creator determines its precise features. Homunculi are little more than tools designed to carry out assigned tasks. They are extensions of their creators, sharing the same alignment and basic nature. A homunculus cannot speak, but the process of creating one links it telepathically with its creator.
 
-If the creature's master is slain, the homunculus also dies, and its
-body swiftly melts away into a pool of ichor.
+It knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet. A homunculus never travels beyond this range willingly, though it can be removed forcibly. If this occurs, the creature does everything in its power to regain contact with its master. An attack that destroys a homunculus deals 2d10 points of damage to its master.
+
+If the creature's master is slain, the homunculus also dies, and its body swiftly melts away into a pool of ichor.
 
 ### COMBAT
 
-Homunculi land on their victims and bite with their venomous
-fangs.
+Homunculi land on their victims and bite with their venomous fangs.
 
-**Poison (Ex):** Injury, Fortitude DC 13, initial damage
-sleep for 1 minute, secondary damage sleep for another 5d6 minutes. The
-save DC is Constitution-based and includes a +2 racial
-bonus.
+**Poison (Ex):** Injury, Fortitude DC 13, initial damage sleep for 1 minute, secondary damage sleep for another 5d6 minutes. The save DC is Constitution-based and includes a +2 racial bonus.
 
 ### CONSTRUCTION
 
-A homunculus is shaped from a mixture of clay, ashes, mandrake root,
-spring water, and one pint of the creator's own blood. The materials
-cost 50 gp. The creature's master may assemble the body or hire someone
-else to do the job. Creating the body requires a DC 12 Craft (sculpting)
-check or a DC 12 Craft (pottery) check.
+A homunculus is shaped from a mixture of clay, ashes, mandrake root, spring water, and one pint of the creator's own blood. The materials cost 50 gp. The creature's master may assemble the body or hire someone else to do the job. Creating the body requires a DC 12 Craft (sculpting) check or a DC 12 Craft (pottery) check.
 
-After the body is sculpted, it is animated through an extended magical
-ritual that requires a specially prepared laboratory or workroom,
-similar to an alchemist's laboratory and costing 500 gp to establish. If
-the creator is personally constructing the creature's body, the building
-and ritual can be performed together.
+After the body is sculpted, it is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and ritual can be performed together.
 
-A homunculus with more than 2 Hit Dice can be created, but each
-additional Hit Die adds +2,000 gp to the cost to create. 
+A homunculus with more than 2 Hit Dice can be created, but each additional Hit Die adds +2,000 gp to the cost to create.
 
-Craft Construct, *arcane eye, mirror image, mending,
-*caster must be at least 4th level; Price --- (never
-sold); Cost 1,050 gp + 78 XP.
+Craft Construct, *arcane eye, mirror image, mending,* caster must be at least 4th level; Price --- (never sold); Cost 1,050 gp + 78 XP.
 
 ## HOWLER
 
-|                           | Large Outsider (Chaotic, Evil, Extraplanar)
-| **Hit Dice:**             | 6d8+12 (39 hp)
-| **Initiative:**           | +7
-| **Speed:**                | 60 ft. (12 squares)
-| **Armor Class:**          | 17 (--1 size, +3 Dex, +5 natural), touch 12, flat-footed 14
-| **Base Attack/Grapple:**  | +6/+15
-| **Attack:**               | Bite +10 melee (2d8+5)
-| **Full Attack:**          | Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2)
-| **Space/Reach:**          | 10 ft./5 ft.
-| **Special Attacks:**      | Quills, howl
-| **Special Qualities:**    | Darkvision 60 ft.
-| **Saves:**                | Fort +7, Ref +8, Will +7
-| **Abilities:**            | Str 21, Dex 17, Con 15, Int 6, Wis 14, Cha 8
-| **Skills:**               | Climb +14, Hide +8, Listen +13, Move Silently +12, Search +7, Spot +13, Survival +2 (+4 following tracks)
-| **Feats:**                | Alertness, Combat Reflexes, Improved Initiative
-| **Environment:**          | A chaotic-aligned plane
-| **Organization:**         | Solitary, gang (2--4), or pack (6--10)
-| **Challenge Rating:**     | 3
-| **Treasure:**             | None
-| **Alignment:**            | Always chaotic evil
-| **Advancement:**          | 7--9 HD (Large); 11--18 HD (Huge)
-| **Level Adjustment:**     | +3 (cohort)
-                                           
-Howlers live on planes where chaos and evil hold sway. A howler is
-about 8 feet long and weighs about 2,000 pounds. Although they are
-surprisingly intelligent, howlers do not speak---they only howl. If
-there is a language within the howls, as some have suggested, even
-spells cannot decipher it. Howlers understand Abyssal.
+<table>
+  <tr>
+    <td></td>
+    <td>Large Outsider (Chaotic, Evil, Extraplanar)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>6d8+12 (39 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+7</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>60 ft. (12 squares)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>17 (–1 size, +3 Dex, +5 natural), touch 12, flat-footed 14</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+6/+15</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +10 melee (2d8+5)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Quills, howl</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft.</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +7, Ref +8, Will +7</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 21, Dex 17, Con 15, Int 6, Wis 14, Cha 8</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Climb +14, Hide +8, Listen +13, Move Silently +12, Search +7, Spot +13, Survival +2 (+4 following tracks)</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Combat Reflexes, Improved Initiative</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>A chaotic-aligned plane</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, gang (2–4), or pack (6–10)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Always chaotic evil</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>7–9 HD (Large); 11–18 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+3 (cohort)</td>
+  </tr>
+</table>
+
+Howlers live on planes where chaos and evil hold sway. A howler is about 8 feet long and weighs about 2,000 pounds. Although they are surprisingly intelligent, howlers do not speak---they only howl. If there is a language within the howls, as some have suggested, even spells cannot decipher it. Howlers understand Abyssal.
 
 ### COMBAT
 
-Howlers attack in groups, for they are cowardly and cruel. They prefer
-to charge into combat, race out, and then charge in again. A howler's
-natural weapons, as well as any weapons it wields, are treated as
-chaotic-aligned and evil-aligned for the purpose of overcoming damage
-reduction.
+Howlers attack in groups, for they are cowardly and cruel. They prefer to charge into combat, race out, and then charge in again. A howler's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
 
-**Quills (Ex):** A howler's neck bristles with long quills. While
-biting, the creature thrashes about, striking with 1d4 of them. An
-opponent hit by a howler's quill attack must succeed on a DC 16 Reflex
-save or have the quill break off in his or her flesh. Lodged quills
-impose a --1 penalty on attacks, saves, and checks per quill. The save
-DC is Dexterity-based.
+**Quills (Ex):** A howler's neck bristles with long quills. While biting, the creature thrashes about, striking with 1d4 of them. An opponent hit by a howler's quill attack must succeed on a DC 16 Reflex save or have the quill break off in his or her flesh. Lodged quills impose a --1 penalty on attacks, saves, and checks per quill. The save DC is Dexterity-based.
 
-A quill can be removed safely with a DC 20 Heal check; otherwise,
-removing a quill deals an extra 1d6 points of damage.
+A quill can be removed safely with a DC 20 Heal check; otherwise, removing a quill deals an extra 1d6 points of damage.
 
-**Howl (Ex):** All beings other than outsiders that hear the creature's
-howling for an hour or longer are subject to its effect, though it does
-not help the howler in combat. Anyone within hearing range of a howler
-for a full hour must succeed on a DC 12 Will save or take 1 point of
-Wisdom damage. The save DC is Charisma-based. The save must be repeated
-for each hour of exposure. This is a sonic mind-affecting effect.
+**Howl (Ex):** All beings other than outsiders that hear the creature's howling for an hour or longer are subject to its effect, though it does not help the howler in combat. Anyone within hearing range of a howler for a full hour must succeed on a DC 12 Will save or take 1 point of Wisdom damage. The save DC is Charisma-based. The save must be repeated for each hour of exposure. This is a sonic mind-affecting effect.
 
 ### TRAINING A HOWLER
 
-Although intelligent, a howler requires training before it can bear a
-rider in combat. To be trained, a howler must have a friendly attitude
-toward the trainer (this can be achieved through a successful Diplomacy
-check). Training a friendly howler requires six weeks of work and a DC
-25 Handle Animal check. Riding a howler requires an exotic saddle. A
-howler can fight while carrying a rider, but the rider cannot also
-attack unless he or she succeeds on a Ride check.
+Although intelligent, a howler requires training before it can bear a rider in combat. To be trained, a howler must have a friendly attitude toward the trainer (this can be achieved through a successful Diplomacy check). Training a friendly howler requires six weeks of work and a DC 25 Handle Animal check. Riding a howler requires an exotic saddle. A howler can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
-**Carrying Capacity:** A light load for a howler is up to 460 pounds; a
-medium load, 461--920 pounds; and a heavy load, 921--1,380 pounds. A
-howler can drag 6,900 pounds.
+**Carrying Capacity:** A light load for a howler is up to 460 pounds; a medium load, 461--920 pounds; and a heavy load, 921--1,380 pounds. A howler can drag 6,900 pounds.
 
 ## HYDRA
 
-+----------------+----------------+----------------+----------------+
-|                | **Five-Headed | **Six-Headed  | *              |
-|                | Hydra]         | Hydra]         | *Seven-Headed |
-|                | {.underline}** | {.underline}** | Hydra]         |
-|                |                |                | {.underline}** |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                || Huge Magical  || Huge Magical  || Huge Magical  |
-|                | Beas           | Beas           | Beas           |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Hit         || 5d10+28 (55   || 6d10+33 (66   || 7d10+38 (77   |
-| Dice:]         | hp             | hp             | hp             |
-| {.underline}** | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| *              || +             || +             || +             |
-| *Initiative:] | 1 | 1 | 1 |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     || 20 ft. (4     || 20 ft. (4     || 20 ft. (4     |
-| {.underline}** | squares), swim | squares), swim | squares), swim |
-|                | 20             | 20             | 20             |
-|                | ft             | ft             | ft             |
-|                | . | . | . |
-+----------------+----------------+----------------+----------------+
-| **Armor       || 15 (--2 size, || 16 (--2 size, || 17 (--2 size, |
-| Class:]        | +1 Dex, +6     | +1 Dex, +7     | +1 Dex, +8     |
-| {.underline}** | natural),      | natural),      | natural),      |
-|                | touch 9,       | touch 9,       | touch 9,       |
-|                | flat-footed    | flat-footed    | flat-footed    |
-|                | 1              | 1              | 1              |
-|                | 4 | 5 | 6 |
-+----------------+----------------+----------------+----------------+
-| **Base        || +5/+1         || +6/+1         || +7/+1         |
-| At             | 6 | 7 | 9 |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    || 5 bites +6    || 6 bites +8    || 7 bites +10   |
-| {.underline}** | melee          | melee          | melee          |
-|                | (1d10+3        | (1d10+3        | (1d10+4        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **Full        || 5 bites +6    || 6 bites +8    || 7 bites +10   |
-| Attack:]       | melee          | melee          | melee          |
-| {.underline}** | (1d10+3        | (1d10+3        | (1d10+4        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **             || 15 ft./10     || 15 ft./10     || 15 ft./10     |
-|| Space/Reach:] | ft             | ft             | ft             |
-| {.underline}** | . | . | . |
-+----------------+----------------+----------------+----------------+
-| **Special     || --            || --            || --            |
-| Attacks:]      | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     || Darkvision 60 || Darkvision 60 || Darkvision 60 |
-| Qualities:]    | ft., fast      | ft., fast      | ft., fast      |
-| {.underline}** | healing 15,    | healing 16,    | healing 17,    |
-|                | low-light      | low-light      | low-light      |
-|                | vision,        | vision,        | vision,        |
-|                | scen           | scen           | scen           |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Saves:]     || Fort +9, Ref  || Fort +10, Ref || Fort +10, Ref |
-| {.underline}** | +5, Will       | +6, Will       | +6, Will       |
-|                | +              | +              | +              |
-|                | 3 | 4 | 4 |
-+----------------+----------------+----------------+----------------+
-| **Abilities:] || Str 17, Dex   || Str 17, Dex   || Str 19, Dex   |
-| {.underline}** | 12, Con 20,    | 12, Con 20,    | 12, Con 20,    |
-|                | Int 2, Wis 10, | Int 2, Wis 10, | Int 2, Wis 10, |
-|                | Cha            | Cha            | Cha            |
-|                | 9 | 9 | 9 |
-+----------------+----------------+----------------+----------------+
-| **Skills:]    || Listen +6,    || Listen +6,    || Listen +7,    |
-| {.underline}** | Spot +6, Swim  | Spot +7, Swim  | Spot +7, Swim  |
-|                | +1             | +1             | +1             |
-|                | 1 | 1 | 2 |
-+----------------+----------------+----------------+----------------+
-| **Feats:]     || Combat        || Combat        || Combat        |
-| {.underline}** | Reflexes]{.u   | Reflexes]{.u   | Reflexes]{.    |
-|                | nderline}^[B]{ | nderline}^[B]{ | underline}^[B] |
-|                | .underline}^[, | .underline}^[, | {.underline}^[ |
-|                | Iron Will,     | Iron Will,     | , Iron Will,   |
-|                | Toughnes       | Toughness,     | Toughness,     |
-|                | s | Weapon Focus   | Weapon Focus   |
-|                |                | (bite          | (bite          |
-|                |                | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **             || Temperate     || Temperate     || Temperate     |
-|| Environment:] | marshe         | marshes        | marshes        |
-| {.underline}** | s |   |   |
-|                |                |                |                |
-|                || (Pyro: Warm   || (Pyro: Warm   || (Pyro: Warm   |
-|                | marshes)       | marshes)       | marshes)       |
-|                |   |   |   |
-|                |                |                |                |
-|                || (Cryo: Cold   || (Cryo: Cold   || (Cryo: Cold   |
-|                | marshes        | marshes        | marshes        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **            || Solitar       || Solitar       || Solitar       |
-| Organization:] | y | y | y |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Challenge   || 4 (normal);   || 5 (normal);   || 6 (normal);   |
-| Rating:]       |   |   |   |
-| {.underline}** |                |                |                |
-|                || 6 (pyro- or   || 7 (pyro- or   || 8 (pyro- or   |
-|                | cryo-          | cryo-          | cryo-          |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **Treasure:]  || 1/10 coins;   || 1/10 coins;   || 1/10 coins;   |
-| {.underline}** | 50% goods; 50% | 50% goods; 50% | 50% goods; 50% |
-|                | item           | item           | item           |
-|                | s | s | s |
-+----------------+----------------+----------------+----------------+
-| **Alignment:] || Usually       || Usually       || Usually       |
-| {.underline}** | neutra         | neutra         | neutra         |
-|                | l | l | l |
-+----------------+----------------+----------------+----------------+
-| **             || --            || --            || --            |
-|| Advancement:] | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Level       || --            || --            || --            |
-| Adjustment:]   | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | *              | **Nine-Headed | **Ten-Headed  |
-|                | *Eight-Headed | Hydra]         | Hydra]         |
-|                | Hydra          | {.underline}** | {.underline}** |
-|                | ]              |                |                |
-|                | {.underline}** |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                || Huge Magical  || Huge Magical  || Huge Magical  |
-|                | Beas           | Beas           | Beas           |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Hit         || 8d10+43 (87   || 9d10+48 (97   || 10d10+53 (108 |
-| Dice:]         | hp             | hp             | hp             |
-| {.underline}** | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| *              || +             || +             || +             |
-| *Initiative:] | 1 | 1 | 1 |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     || 20 ft. (4     || 20 ft. (4     || 20 ft. (4     |
-| {.underline}** | squares), swim | squares), swim | squares), swim |
-|                | 20             | 20             | 20             |
-|                | ft             | ft             | ft             |
-|                | . | . | . |
-+----------------+----------------+----------------+----------------+
-| **Armor       || 18 (--2 size, || 19 (--2 size, || 20 (--2 size, |
-| Class:]        | +1 Dex, +9     | +1 Dex, +10    | +1 Dex, +11    |
-| {.underline}** | natural),      | natural),      | natural),      |
-|                | touch 9,       | touch 9,       | touch 9,       |
-|                | flat-footed    | flat-footed    | flat-footed    |
-|                | 1              | 1              | 1              |
-|                | 7 | 8 | 9 |
-+----------------+----------------+----------------+----------------+
-| **Base        || +8/+2         || +9/+2         || +10/+2        |
-| At             | 0 | 2 | 3 |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    || 8 bites +11   || 9 bites +13   || 10 bites +14  |
-| {.underline}** | melee          | melee          | melee          |
-|                | (1d10+4        | (1d10+5        | (1d10+5        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **Full        || 8 bites +11   || 9 bites +13   || 10 bites +14  |
-| Attack:]       | melee          | melee          | melee          |
-| {.underline}** | (1d10+4        | (1d10+5        | (1d10+5        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **             || 15 ft./10     || 15 ft./10     || 15 ft./10     |
-|| Space/Reach:] | ft             | ft             | ft             |
-| {.underline}** | . | . | . |
-+----------------+----------------+----------------+----------------+
-| **Special     || --            || --            || --            |
-| Attacks:]      | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     || Darkvision 60 || Darkvision 60 || Darkvision 60 |
-| Qualities:]    | ft., fast      | ft., fast      | ft., fast      |
-| {.underline}** | healing 18,    | healing 19,    | healing 20,    |
-|                | low-light      | low-light      | low-light      |
-|                | vision,        | vision,        | vision,        |
-|                | scen           | scen           | scen           |
-|                | t | t | t |
-+----------------+----------------+----------------+----------------+
-| **Saves:]     || Fort +11, Ref || Fort +11, Ref || Fort +12, Ref |
-| {.underline}** | +7, Will       | +7, Will       | +8, Will       |
-|                | +              | +              | +              |
-|                | 4 | 5 | 3 |
-+----------------+----------------+----------------+----------------+
-| **Abilities:] || Str 19, Dex   || Str 21, Dex   || Str 21, Dex   |
-| {.underline}** | 12, Con 20,    | 12, Con 20,    | 12, Con 20,    |
-|                | Int 2, Wis 10, | Int 2, Wis 10, | Int 2, Wis 10, |
-|                | Cha            | Cha            | Cha            |
-|                | 9 | 9 | 9 |
-+----------------+----------------+----------------+----------------+
-| **Skills:]    || Listen +7,    || Listen +8,    || Listen +8,    |
-| {.underline}** | Spot +8, Swim  | Spot +8, Swim  | Spot +9, Swim  |
-|                | +1             | +1             | +1             |
-|                | 2 | 3 | 3 |
-+----------------+----------------+----------------+----------------+
-| **Feats:]     || Combat        || Blind-Fight,  || Blind-Fight,  |
-| {.underline}** | Reflexes]{.    | Combat         | Combat         |
-|                | underline}^[B] | Reflexes]{.u   | Reflexes]{.u   |
-|                | {.underline}^[ | nderline}^[B]{ | nderline}^[B]{ |
-|                | , Iron Will,   | .underline}^[, | .underline}^[, |
-|                | Toughness,     | Iron Will,     | Iron Will,     |
-|                | Weapon Focus   | Toughness,     | Toughness,     |
-|                | (bite          | Weapon Focus   | Weapon Focus   |
-|                | ) | (bite          | (bite          |
-|                |                | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **             || Temperate     || Temperate     || Temperate     |
-|| Environment:] | marshes        | marshes        | marshes        |
-| {.underline}** |   |   |   |
-|                |                |                |                |
-|                || (Pyro: Warm   || (Pyro: Warm   || (Pyro: Warm   |
-|                | marshes)       | marshes)       | marshes)       |
-|                |   |   |   |
-|                |                |                |                |
-|                || (Cryo: Cold   || (Cryo: Cold   || (Cryo: Cold   |
-|                | marshes        | marshes        | marshes        |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **            || Solitar       || Solitar       || Solitar       |
-| Organization:] | y | y | y |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Challenge   || 7 (normal);   || 8 (normal);   || 9 (normal);   |
-| Rating:]       |   |   |   |
-| {.underline}** |                |                |                |
-|                || 9 (pyro- or   || 10 (pyro- or  || 11 (pyro- or  |
-|                | cryo-          | cryo-          | cryo-          |
-|                | ) | ) | ) |
-+----------------+----------------+----------------+----------------+
-| **Treasure:]  || 1/10 coins;   || 1/10 coins;   || 1/10 coins;   |
-| {.underline}** | 50% goods; 50% | 50% goods; 50% | 50% goods; 50% |
-|                | item           | item           | item           |
-|                | s | s | s |
-+----------------+----------------+----------------+----------------+
-| **Alignment:] || Usually       || Usually       || Usually       |
-| {.underline}** | neutra         | neutra         | neutra         |
-|                | l | l | l |
-+----------------+----------------+----------------+----------------+
-| **             || --            || --            || --            |
-|| Advancement:] | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Level       || --            || --            || --            |
-| Adjustment:]   | - | - | - |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                | **             | **             |                |
-|                || Eleven-Headed || Twelve-Headed |                |
-|                | Hydra]         | Hydra]         |                |
-|                | {.underline}** | {.underline}** |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                || Huge Magical  || Huge Magical  |                |
-|                | Beas           | Beas           |                |
-|                | t | t |                |
-+----------------+----------------+----------------+----------------+
-| **Hit         || 11d10+58 (118 || 12d10+63 (129 |                |
-| Dice:]         | hp             | hp             |                |
-| {.underline}** | ) | ) |                |
-+----------------+----------------+----------------+----------------+
-| *              || +             || +             |                |
-| *Initiative:] | 1 | 1 |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Speed:]     || 20 ft. (4     || 20 ft. (4     |                |
-| {.underline}** | squares), swim | squares), swim |                |
-|                | 20             | 20             |                |
-|                | ft             | ft             |                |
-|                | . | . |                |
-+----------------+----------------+----------------+----------------+
-| **Armor       || 21 (--2 size, || 22 (--2 size, |                |
-| Class:]        | +1 Dex, +12    | +1 Dex, +13    |                |
-| {.underline}** | natural),      | natural),      |                |
-|                | touch 9,       | touch 9,       |                |
-|                | flat-footed    | flat-footed    |                |
-|                | 2              | 2              |                |
-|                | 0 | 1 |                |
-+----------------+----------------+----------------+----------------+
-| **Base        || +11/+2        || +12/+2        |                |
-| At             | 5 | 6 |                |
-| tack/Grapple:] |                |                |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Attack:]    || 11 bites +16  || 12 bites +17  |                |
-| {.underline}** | melee          | melee          |                |
-|                | (1d10+6        | (2d8+6         |                |
-|                | ) | ) |                |
-+----------------+----------------+----------------+----------------+
-| **Full        || 11 bites +16  || 12 bites +17  |                |
-| Attack:]       | melee          | melee          |                |
-| {.underline}** | (1d10+6        | (2d8+6         |                |
-|                | ) | ) |                |
-+----------------+----------------+----------------+----------------+
-| **             || 15 ft./10     || 15 ft./10     |                |
-|| Space/Reach:] | ft             | ft             |                |
-| {.underline}** | . | . |                |
-+----------------+----------------+----------------+----------------+
-| **Special     || --            || --            |                |
-| Attacks:]      | - | - |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Special     || Darkvision 60 || Darkvision 60 |                |
-| Qualities:]    | ft., fast      | ft., fast      |                |
-| {.underline}** | healing 21,    | healing 22,    |                |
-|                | low-light      | low-light      |                |
-|                | vision,        | vision,        |                |
-|                | scen           | scen           |                |
-|                | t | t |                |
-+----------------+----------------+----------------+----------------+
-| **Saves:]     || Fort +12, Ref || Fort +13, Ref |                |
-| {.underline}** | +8, Will       | +9, Will       |                |
-|                | +              | +              |                |
-|                | 5 | 6 |                |
-+----------------+----------------+----------------+----------------+
-| **Abilities:] || Str 23, Dex   || Str 23, Dex   |                |
-| {.underline}** | 12, Con 20,    | 12, Con 20,    |                |
-|                | Int 2, Wis 10, | Int 2, Wis 10, |                |
-|                | Cha            | Cha            |                |
-|                | 9 | 9 |                |
-+----------------+----------------+----------------+----------------+
-| **Skills:]    || Listen +9,    || Listen +9,    |                |
-| {.underline}** | Spot +9, Swim  | Spot +10, Swim |                |
-|                | +1             | +1             |                |
-|                | 4 | 4 |                |
-+----------------+----------------+----------------+----------------+
-| **Feats:]     || Blind-Fight,  || Blind-Fight,  |                |
-| {.underline}** | Combat         | Combat         |                |
-|                | Reflexes]{.u   | Reflexes]{.    |                |
-|                | nderline}^[B]{ | underline}^[B] |                |
-|                | .underline}^[, | {.underline}^[ |                |
-|                | Iron Will,     | , Improved     |                |
-|                | Toughness,     | Natural Attack |                |
-|                | Weapon Focus   | (bite), Iron   |                |
-|                | (bite          | Will,          |                |
-|                | ) | Toughness,     |                |
-|                |                | Weapon Focus   |                |
-|                |                | (bite          |                |
-|                |                | ) |                |
-+----------------+----------------+----------------+----------------+
-| **             || Temperate     || Temperate     |                |
-|| Environment:] | marshes        | marshes        |                |
-| {.underline}** |   |   |                |
-|                |                |                |                |
-|                || (Pyro: Warm   || (Pyro: Warm   |                |
-|                | marshes)       | marshes)       |                |
-|                |   |   |                |
-|                |                |                |                |
-|                || (Cryo: Cold   || (Cryo: Cold   |                |
-|                | marshes        | marshes        |                |
-|                | ) | ) |                |
-+----------------+----------------+----------------+----------------+
-| **            || Solitar       || Solitar       |                |
-| Organization:] | y | y |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Challenge   || 10 (normal);  || 11 (normal);  |                |
-| Rating:]       |   |   |                |
-| {.underline}** |                |                |                |
-|                || 12 (pyro- or  || 13 (pyro- or  |                |
-|                | cryo-          | cryo-          |                |
-|                | ) | ) |                |
-+----------------+----------------+----------------+----------------+
-| **Treasure:]  || 1/10 coins;   || 1/10 coins;   |                |
-| {.underline}** | 50% goods; 50% | 50% goods; 50% |                |
-|                | item           | item           |                |
-|                | s | s |                |
-+----------------+----------------+----------------+----------------+
-| **Alignment:] || Usually       || Usually       |                |
-| {.underline}** | neutra         | neutra         |                |
-|                | l | l |                |
-+----------------+----------------+----------------+----------------+
-| **             || --            || --            |                |
-|| Advancement:] | - | - |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| **Level       || --            || --            |                |
-| Adjustment:]   | - | - |                |
-| {.underline}** |                |                |                |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Five-Headed Hydra</th>
+    <th>Six-Headed Hydra</th>
+    <th>Seven-Headed Hydra</th>
+  </tr>
+  <tr>
+    <td>Huge Magical Beast</td>
+    <td>Huge Magical Beast</td>
+    <td>Huge Magical Beast</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>5d10+28 (55 hp)</td>
+    <td>6d10+33 (66 hp)</td>
+    <td>7d10+38 (77 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (–2 size, +1 Dex, +6 natural), touch 9, flat-footed 14</td>
+    <td>16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15</td>
+    <td>17 (–2 size, +1 Dex, +8 natural), touch 9, flat-footed 16</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+5/+16</td>
+    <td>+6/+17</td>
+    <td>+7/+19</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>5 bites +6 melee (1d10+3)</td>
+    <td>6 bites +8 melee (1d10+3)</td>
+    <td>7 bites +10 melee (1d10+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>5 bites +6 melee (1d10+3)</td>
+    <td>6 bites +8 melee (1d10+3)</td>
+    <td>7 bites +10 melee (1d10+4)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., fast healing 15, low-light vision, scent</td>
+    <td>Darkvision 60 ft., fast healing 16, low-light vision, scent</td>
+    <td>Darkvision 60 ft., fast healing 17, low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +9, Ref +5, Will +3</td>
+    <td>Fort +10, Ref +6, Will +4</td>
+    <td>Fort +10, Ref +6, Will +4</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 17, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+    <td>Str 17, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+    <td>Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +6, Spot +6, Swim +11</td>
+    <td>Listen +6, Spot +7, Swim +11</td>
+    <td>Listen +7, Spot +7, Swim +12</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Combat ReflexesB, Iron Will, Toughness</td>
+    <td>Combat ReflexesB, Iron Will, Toughness, Weapon Focus (bite)</td>
+    <td>Combat ReflexesB , Iron Will, Toughness, Weapon Focus (bite)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+    <td>Solitary</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>4 (normal); 6 (pyro- or cryo-)</td>
+    <td>5 (normal); 7 (pyro- or cryo-)</td>
+    <td>6 (normal); 8 (pyro- or cryo-)</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>1/10 coins; 50% goods; 50% items</td>
+    <td>1/10 coins; 50% goods; 50% items</td>
+    <td>1/10 coins; 50% goods; 50% items</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+    <td>Usually neutral</td>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
 
-Hydras are reptile-like monsters with multiple heads. A hydra is
-gray-brown to dark brown, with a light yellow or tan underbelly. The
-eyes are amber and the teeth are yellow-white. It is about 20 feet long
-and weighs about 4,000 pounds. Hydras do not speak.
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Eight-Headed Hydra</th>
+    <th>Nine-Headed Hydra</th>
+    <th>Ten-Headed Hydra</th>
+  </tr>
+  <tr>
+    <td>Huge Magical Beast</td>
+    <td>Huge Magical Beast</td>
+    <td>Huge Magical Beast</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>8d10+43 (87 hp)</td>
+    <td>9d10+48 (97 hp)</td>
+    <td>10d10+53 (108 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>18 (–2 size, +1 Dex, +9 natural), touch 9, flat-footed 17</td>
+    <td>19 (–2 size, +1 Dex, +10 natural), touch 9, flat-footed 18</td>
+    <td>20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+8/+20</td>
+    <td>+9/+22</td>
+    <td>+10/+23</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>8 bites +11 melee (1d10+4)</td>
+    <td>9 bites +13 melee (1d10+5)</td>
+    <td>10 bites +14 melee (1d10+5)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>8 bites +11 melee (1d10+4)</td>
+    <td>9 bites +13 melee (1d10+5)</td>
+    <td>10 bites +14 melee (1d10+5)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., fast healing 18, low-light vision, scent</td>
+    <td>Darkvision 60 ft., fast healing 19, low-light vision, scent</td>
+    <td>Darkvision 60 ft., fast healing 20, low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +11, Ref +7, Will +4</td>
+    <td>Fort +11, Ref +7, Will +5</td>
+    <td>Fort +12, Ref +8, Will +3</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+    <td>Str 21, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+    <td>Str 21, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +7, Spot +8, Swim +12</td>
+    <td>Listen +8, Spot +8, Swim +13</td>
+    <td>Listen +8, Spot +9, Swim +13</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Combat ReflexesB , Iron Will, Toughness, Weapon Focus (bite)</td>
+    <td>Blind-Fight, Combat ReflexesB, Iron Will, Toughness, Weapon Focus (bite)</td>
+    <td>Blind-Fight, Combat ReflexesB, Iron Will, Toughness, Weapon Focus (bite)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+    <td>Solitary</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>7 (normal); 9 (pyro- or cryo-)</td>
+    <td>8 (normal); 10 (pyro- or cryo-)</td>
+    <td>9 (normal); 11 (pyro- or cryo-)</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>1/10 coins; 50% goods; 50% items</td>
+    <td>1/10 coins; 50% goods; 50% items</td>
+    <td>1/10 coins; 50% goods; 50% items</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+    <td>Usually neutral</td>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Eleven-Headed Hydra</th>
+    <th>Twelve-Headed Hydra</th>
+  </tr>
+  <tr>
+    <td>Huge Magical Beast</td>
+    <td>Huge Magical Beast</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>11d10+58 (118 hp)</td>
+    <td>12d10+63 (129 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+    <td>20 ft. (4 squares), swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>21 (–2 size, +1 Dex, +12 natural), touch 9, flat-footed 20</td>
+    <td>22 (–2 size, +1 Dex, +13 natural), touch 9, flat-footed 21</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+11/+25</td>
+    <td>+12/+26</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>11 bites +16 melee (1d10+6)</td>
+    <td>12 bites +17 melee (2d8+6)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>11 bites +16 melee (1d10+6)</td>
+    <td>12 bites +17 melee (2d8+6)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., fast healing 21, low-light vision, scent</td>
+    <td>Darkvision 60 ft., fast healing 22, low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +12, Ref +8, Will +5</td>
+    <td>Fort +13, Ref +9, Will +6</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+    <td>Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +9, Spot +9, Swim +14</td>
+    <td>Listen +9, Spot +10, Swim +14</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Blind-Fight, Combat ReflexesB, Iron Will, Toughness, Weapon Focus (bite)</td>
+    <td>Blind-Fight, Combat ReflexesB , Improved Natural Attack (bite), Iron Will, Toughness, Weapon Focus (bite)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+    <td>Temperate marshes (Pyro: Warm marshes) (Cryo: Cold marshes)</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>10 (normal); 12 (pyro- or cryo-)</td>
+    <td>11 (normal); 13 (pyro- or cryo-)</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>1/10 coins; 50% goods; 50% items</td>
+    <td>1/10 coins; 50% goods; 50% items</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
+
+Hydras are reptile-like monsters with multiple heads. A hydra is gray-brown to dark brown, with a light yellow or tan underbelly. The eyes are amber and the teeth are yellow-white. It is about 20 feet long and weighs about 4,000 pounds. Hydras do not speak.
 
 ### COMBAT
 
-Hydras can attack with all their heads at no penalty, even if they move
-or charge during the round.
+Hydras can attack with all their heads at no penalty, even if they move or charge during the round.
 
-A hydra can be killed either by severing all its heads or by slaying
-its body. To sever a head, an opponent must make a successful sunder
-attempt with a slashing weapon. (The player should declare where the
-attack is aimed before making the attack roll.) Making a sunder attempt
-provokes an attack of opportunity unless the foe has the Improved Sunder
-feat. An opponent can strike at a hydra's heads from any position in
-which he could strike at the hydra itself, because the hydra's head
-writhe and whip about in combat. An opponent can ready an action to
-attempt to sunder a hydra's head when the creature bites at him. Each of
-a hydra's heads has hit points equal to the creature's full normal hit
-point total, divided by its original number of heads. Losing a head
-deals damage to the body equal to half the head's full normal hit
-points. A natural reflex seals the neck shut to prevent further blood
-loss. A hydra can no longer attack with a severed head but takes no
-other penalties.
+A hydra can be killed either by severing all its heads or by slaying its body. To sever a head, an opponent must make a successful sunder attempt with a slashing weapon. (The player should declare where the attack is aimed before making the attack roll.) Making a sunder attempt provokes an attack of opportunity unless the foe has the Improved Sunder feat. An opponent can strike at a hydra's heads from any position in which he could strike at the hydra itself, because the hydra's head writhe and whip about in combat. An opponent can ready an action to attempt to sunder a hydra's head when the creature bites at him. Each of a hydra's heads has hit points equal to the creature's full normal hit point total, divided by its original number of heads. Losing a head deals damage to the body equal to half the head's full normal hit points. A natural reflex seals the neck shut to prevent further blood loss. A hydra can no longer attack with a severed head but takes no other penalties.
 
-Each time a head is severed, two new heads spring from the stump in 1d4
-rounds. A hydra can never have more than twice its original number of
-heads at any one time, and any extra heads it gains beyond its original
-number wither and die within a day. To prevent a severed head from
-growing back into two heads, at least 5 points of fire or acid damage
-must be dealt to the stump (a touch attack to hit) before the new heads
-appear. A flaming weapon (or similar effect) deals its energy damage to
-the stump in the same blow in which a head is severed. Fire or acid
-damage from an area effect may burn multiple stumps in addition to
-dealing damage to the hydra's body. A hydra does not die from losing its
-heads until all its heads have been cut off and the stumps seared by
-fire or acid. 
+Each time a head is severed, two new heads spring from the stump in 1d4 rounds. A hydra can never have more than twice its original number of heads at any one time, and any extra heads it gains beyond its original number wither and die within a day. To prevent a severed head from growing back into two heads, at least 5 points of fire or acid damage must be dealt to the stump (a touch attack to hit) before the new heads appear. A flaming weapon (or similar effect) deals its energy damage to the stump in the same blow in which a head is severed. Fire or acid damage from an area effect may burn multiple stumps in addition to dealing damage to the hydra's body. A hydra does not die from losing its heads until all its heads have been cut off and the stumps seared by fire or acid. 
 
-A hydra's body can be slain just like any other creature's, but hydras
-possess fast healing (see below) and are difficult to defeat in this
-fashion. Any attack that is not (or cannot be) an attempt to sunder a
-head affects the body.
+A hydra's body can be slain just like any other creature's, but hydras possess fast healing (see below) and are difficult to defeat in this fashion. Any attack that is not (or cannot be) an attempt to sunder a head affects the body.
 
-Targeted magical effects cannot sever a hydra's heads (and thus must be
-directed at the body) unless they deal slashing damage and could be used
-to make sunder attempts.
+Targeted magical effects cannot sever a hydra's heads (and thus must be directed at the body) unless they deal slashing damage and could be used to make sunder attempts.
 
-**Fast Healing (Ex):** Each round, a hydra heals damage
-equal to 10 + the number of its original heads. 
+**Fast Healing (Ex):** Each round, a hydra heals damage equal to 10 + the number of its original heads. 
 
-**Skills:** Hydras have a +2 racial bonus on Listen and
-Spot checks, thanks to their multiple heads.
+**Skills:** Hydras have a +2 racial bonus on Listen and Spot checks, thanks to their multiple heads.
 
-A hydra has a +8 racial bonus on any Swim check to perform some special
-action or avoid a hazard. It can always choose to take 10 on a Swim
-check, even if distracted or endangered. It can use the run action while
-swimming, provided it swims in a straight line.
+A hydra has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
-**Feats:** A hydra's Combat Reflexes feat allows it to
-use all its heads for attacks of opportunity.
+**Feats:** A hydra's Combat Reflexes feat allows it to use all its heads for attacks of opportunity.
 
 ### PYROHYDRA
 
 Huge Magical Beast (Fire)
 
-These reddish hydras can breathe jets of fire 10 feet high, 10 feet
-wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each
-jet deals 3d6 points of fire damage per head. A successful Reflex save
-halves the damage. The save DC is 10 + 1/2 hydra's original number of
-heads + hydra's Con modifier.
+These reddish hydras can breathe jets of fire 10 feet high, 10 feet wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each jet deals 3d6 points of fire damage per head. A successful Reflex save halves the damage. The save DC is 10 + 1/2 hydra's original number of heads + hydra's Con modifier.
 
-Fire attacks cannot prevent a pyrohydra's stump from growing new heads
-(since a pyrohydra has immunity to fire), but 5 points of cold damage
-does.
+Fire attacks cannot prevent a pyrohydra's stump from growing new heads (since a pyrohydra has immunity to fire), but 5 points of cold damage does.
 
 ### CRYOHYDRA
 
 Huge Magical Beast (Cold)
 
-These purplish hydras can breathe jets of frost 10 feet high, 10 feet
-wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each
-jet deals 3d6 points of cold damage per head. A successful Reflex save
-halves the damage. The save DC is 10 + 1/2 hydra's original number of
-heads + hydra's Con modifier.
+These purplish hydras can breathe jets of frost 10 feet high, 10 feet wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each jet deals 3d6 points of cold damage per head. A successful Reflex save halves the damage. The save DC is 10 + 1/2 hydra's original number of heads + hydra's Con modifier.
 
-Cold attacks cannot prevent a cryohydra's stump from growing new heads
-(since a cryohydra has immunity to cold), but 5 points of fire damage
-does.
+Cold attacks cannot prevent a cryohydra's stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does.
 
 ## INEVITABLE
 
@@ -1647,11 +1840,11 @@ An inevitable's natural weapons, as well as any weapons it wields, are treated a
   </tr>
   <tr>
     <th>Attack:</th>
-    <td>Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19&ndash;20) or slam +11 melee (1d6+3)</td>
+    <td>Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19–20) or slam +11 melee (1d6+3)</td>
   </tr>
   <tr>
     <th>Full Attack:</th>
-    <td>Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19&ndash;20) or slam +11/+6 melee (1d6+3)</td>
+    <td>Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)</td>
   </tr>
   <tr>
     <th>Space/Reach:</th>
@@ -1703,7 +1896,7 @@ An inevitable's natural weapons, as well as any weapons it wields, are treated a
   </tr>
   <tr>
     <th>Advancement:</th>
-    <td>14&ndash;22 HD (Medium); 23&ndash;39 HD (Large)</td>
+    <td>14–22 HD (Medium); 23–39 HD (Large)</td>
   </tr>
   <tr>
     <th>Level Adjustment:</th>
@@ -1754,7 +1947,7 @@ A kolyarut's natural weapons, as well as any weapons it wields, are treated as l
   </tr>
   <tr>
     <th>Armor Class:</th>
-    <td>34 (&ndash;1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33</td>
+    <td>34 (–1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33</td>
   </tr>
   <tr>
     <th>Base Attack/Grapple:</th>
@@ -1818,7 +2011,7 @@ A kolyarut's natural weapons, as well as any weapons it wields, are treated as l
   </tr>
   <tr>
     <th>Advancement:</th>
-    <td>16&ndash;28 HD (Large); 29&ndash;45 HD (Huge)</td>
+    <td>16–28 HD (Large); 29–45 HD (Huge)</td>
   </tr>
   <tr>
     <th>Level Adjustment:</th>
@@ -1865,7 +2058,7 @@ A marut's natural weapons, as well as any weapons it wields, are treated as lawf
   </tr>
   <tr>
     <th>Armor Class:</th>
-    <td>27 (&ndash;1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27</td>
+    <td>27 (–1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27</td>
   </tr>
   <tr>
     <th>Base Attack/Grapple:</th>
@@ -1929,7 +2122,7 @@ A marut's natural weapons, as well as any weapons it wields, are treated as lawf
   </tr>
   <tr>
     <th>Advancement:</th>
-    <td>9&ndash;16 HD (Large); 17&ndash;24 HD (Huge)</td>
+    <td>9–16 HD (Large); 17–24 HD (Huge)</td>
   </tr>
   <tr>
     <th>Level Adjustment:</th>
@@ -1974,7 +2167,7 @@ A zelekhut's natural weapons, as well as any weapons it wields, are treated as l
   </tr>
   <tr>
     <th>Armor Class:</th>
-    <td>17 (&ndash;1 size, +4 Dex, +4 natural), touch 13, flat-footed 13</td>
+    <td>17 (–1 size, +4 Dex, +4 natural), touch 13, flat-footed 13</td>
   </tr>
   <tr>
     <th>Base Attack/Grapple:</th>
@@ -2038,7 +2231,7 @@ A zelekhut's natural weapons, as well as any weapons it wields, are treated as l
   </tr>
   <tr>
     <th>Advancement:</th>
-    <td>9&ndash;12 HD (Large); 13&ndash;24 HD (Huge)</td>
+    <td>9–12 HD (Large); 13–24 HD (Huge)</td>
   </tr>
   <tr>
     <th>Level Adjustment:</th>
