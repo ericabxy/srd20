@@ -21,32 +21,94 @@ Some herbivorous animals do not normally use their natural weapons to attack. As
 
 —Low-light vision.
 
-—*Alignment:*vAlways neutral. Animals are not governed by a human sense of morality.
+—*Alignment:* Always neutral. Animals are not governed by a human sense of morality.
 
-—*Treasure:*vNone. Animals never possess treasure.
+—*Treasure:* None. Animals never possess treasure.
 
 ### APE
 
-|                          | Large Animal                                               |
-| **Hit Dice:**            | 4d8+11 (29 hp)                                             |
-| **Initiative:**          | +2                                                         |
-| **Speed:**               | 30 ft. (6 squares), climb 30 ft.                           |
-| **Armor Class:**         | 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12 |
-| **Base Attack/Grapple:** | +3/+12                                                     |
-| **Attack:**              | Claws +7 melee (1d6+5)                                     |
-| **Full Attack:**         | 2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)         |
-| **Space/Reach:**         | 10 ft./10 ft.                                              |
-| **Special Attacks:**     | —                                                          |
-| **Special Qualities:**   | Low-light vision, scent                                    |
-| **Saves:**               | Fort +6, Ref +6, Will +2                                   |
-| **Abilities:**           | Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7               |
-| **Skills:**              | Climb +14, Listen +6, Spot +6                              |
-| **Feats:**               | Alertness, Toughness                                       |
-| **Environment:**         | Warm forests                                               |
-| **Organization:**        | Solitary, pair, or company (3–5)                           |
-| **Challenge Rating:**    | 2                                                          |
-| **Advancement:**         | 5–8 HD (Large)                                             |
-| **Level Adjustment:**    | —                                                          |
+<table>
+  <tr>
+    <td></td>
+    <td>Large Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>4d8+11 (29 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>30 ft. (6 squares), climb 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+3/+12</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Claws +7 melee (1d6+5)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +6, Will +2</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Climb +14, Listen +6, Spot +6</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Toughness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm forests</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary, pair, or company (3–5)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>5–8 HD (Large)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 These powerful omnivores resemble gorillas but are far more aggressive; they kill and eat anything they can catch. An adult male ape is 5-1/2 to 6 feet tall and weighs 300 to 400 pounds.
 
@@ -56,26 +118,88 @@ These powerful omnivores resemble gorillas but are far more aggressive; they kil
 
 ### BABOON
 
-|                          | Medium Animal                                     |
-| **Hit Dice:**            | 1d8+1 (5 hp)                                      |
-| **Initiative:**          | +2                                                |
-| **Speed:**               | 40 ft. (8 squares), climb 30 ft.                  |
-| **Armor Class:**         | 13 (+2 Dex, +1 natural), touch 12, flat-footed 11 |
-| **Base Attack/Grapple:** | +0/+2                                             |
-| **Attack:**              | Bite +2 melee (1d6+3)                             |
-| **Full Attack:**         | Bite +2 melee (1d6+3)                             |
-| **Space/Reach:**         | 5 ft./5 ft.                                       |
-| **Special Attacks:**     | —                                                 |
-| **Special Qualities:**   | Low-light vision, scent                           |
-| **Saves:**               | Fort +3, Ref +4, Will +1                          |
-| **Abilities:**           | Str 15, Dex 14, Con 12, Int 2, Wis 12, Cha 4      |
-| **Skills:**              | Climb +10, Listen +5, Spot +5                     |
-| **Feats:**               | Alertness                                         |
-| **Environment:**         | Warm plains                                       |
-| **Organization:**        | Solitary or troop (10–40)                         |
-| **Challenge Rating:**    | 1/2                                               |
-| **Advancement:**         | 2–3 HD (Medium)                                   |
-| **Level Adjustment:**    | —                                                 |
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1d8+1 (5 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>40 ft. (8 squares), climb 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>13 (+2 Dex, +1 natural), touch 12, flat-footed 11</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+0/+2</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +2 melee (1d6+3)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +2 melee (1d6+3)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Low-light vision, scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +3, Ref +4, Will +1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 15, Dex 14, Con 12, Int 2, Wis 12, Cha 4</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Climb +10, Listen +5, Spot +5</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm plains</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary or troop (10–40)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1/2</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>2–3 HD (Medium)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 Baboons are powerful and aggressive primates adapted to life on the ground. They prefer open spaces but climb trees to find safe places to rest overnight. A typical baboon is the size of a big dog.
 
@@ -407,26 +531,88 @@ Cheetahs make sudden sprints to bring down prey.
 
 ### CROCODILE
 
-|                          | Medium Animal                                        |
-| **Hit Dice:**            | 3d8+9 (22 hp)                                        |
-| **Initiative:**          | +1                                                   |
-| **Speed:**               | 20 ft. (4 squares), swim 30 ft.                      |
-| **Armor Class:**         | 15 (+1 Dex, +4 natural), touch 11, flat-footed 14    |
-| **Base Attack/Grapple:** | +2/+6                                                |
-| **Attack:**              | Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6) |
-| **Full Attack:**         | Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6) |
-| **Space/Reach:**         | 5 ft./5 ft.                                          |
-| **Special Attacks:**     | Improved grab                                        |
-| **Special Qualities:**   | Hold breath, low-light vision                        |
-| **Saves:**               | Fort +6, Ref +4, Will +2                             |
-| **Abilities:**           | Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2         |
-| **Skills:**              | Hide +7\*, Listen +4, Spot +4, Swim +12              |
-| **Feats:**               | Alertness, Skill Focus (Hide)                        |
-| **Environment:**         | Warm marshes                                         |
-| **Organization:**        | Solitary or colony (6–11)                            |
-| **Challenge Rating:**    | 2                                                    |
-| **Advancement:**         | 4–5 HD (Medium)                                      |
-| **Level Adjustment:**    | —                                                    |
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>3d8+9 (22 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (+1 Dex, +4 natural), touch 11, flat-footed 14</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+2/+6</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Hold breath, low-light vision</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +4, Will +2</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +7*, Listen +4, Spot +4, Swim +12</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Skill Focus (Hide)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary or colony (6–11)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>4–5 HD (Medium)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerged in rivers or marshes, with only their eyes and nostrils showing, waiting for prey to come within reach.
 
@@ -435,32 +621,94 @@ Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerge
 **Improved Grab (Ex):** To use this ability, a crocodile must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, the crocodile establishes a hold on the opponent with its mouth and drags it into deep water, attempting to pin it to the
 bottom.
 
-**Hold Breath (Ex):** A crocodile can hold its breath for a number of rounds equal to 4 x its Constitution score before it risks drowning.
+**Hold Breath (Ex):** A crocodile can hold its breath for a number of rounds equal to 4 &times;its Constitution score before it risks drowning.
 
 **Skills:** A crocodile has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. \*A crocodile gains a +4 racial bonus on Hide checks when in the water. Further, a crocodile can lie in the water with only its eyes and nostrils showing, gaining a +10 cover bonus on Hide checks.
 
 ### CROCODILE, GIANT
 
-|                          | Huge Animal                                               |
-| **Hit Dice:**            | 7d8+28 (59 hp)                                            |
-| **Initiative:**          | +1                                                        |
-| **Speed:**               | 20 ft. (4 squares), swim 30 ft.                           |
-| **Armor Class:**         | 16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15 |
-| **Base Attack/Grapple:** | +5/+21                                                    |
-| **Attack:**              | Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)  |
-| **Full Attack:**         | Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)  |
-| **Space/Reach:**         | 15 ft./10 ft.                                             |
-| **Special Attacks:**     | Improved grab                                             |
-| **Special Qualities:**   | Hold breath, low-light vision                             |
-| **Saves:**               | Fort +9, Ref +6, Will +3                                  |
-| **Abilities:**           | Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2              |
-| **Skills:**              | Hide +1\*, Listen +5, Spot +5, Swim +16                   |
-| **Feats:**               | Alertness, Endurance, Skill Focus (Hide)                  |
-| **Environment:**         | Warm marshes                                              |
-| **Organization:**        | Solitary or colony (6–11)                                 |
-| **Challenge Rating:**    | 4                                                         |
-| **Advancement:**         | 8–14 HD (Huge)                                            |
-| **Level Adjustment:**    | —                                                         |
+<table>
+  <tr>
+    <td></td>
+    <td>Huge Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>7d8+28 (59 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+5/+21</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Hold breath, low-light vision</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +9, Ref +6, Will +3</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide +1*, Listen +5, Spot +5, Swim +16</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Endurance, Skill Focus (Hide)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary or colony (6–11)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>8–14 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 These huge creatures usually live in salt water and can be more than 20 feet long.
 
@@ -671,8 +919,8 @@ A horse not trained for war does not normally use its hooves to attack. Its hoof
 <table>
   <tbody>
     <tr>
-      <td rowspan=2>&nbsp;</td>
-      <td>Horse, Heavy</td>
+      <td rowspan=2></td>
+      <th>Horse, Heavy</th>
     </tr>
     <tr>
       <td>Large Animal</td>
@@ -763,8 +1011,8 @@ The statistics presented here describe large breeds of working horses such as Cl
 <table>
   <tbody>
     <tr>
-      <td rowspan=2>&nbsp;</td>
-      <td>Horse, Light</td>
+      <td rowspan=2></td>
+      <th>Horse, Light</th>
     </tr>
     <tr>
       <td>Large Animal</td>
@@ -856,7 +1104,7 @@ The statistics presented here describe smaller breeds of working horses such as 
   <tbody>
     <tr>
       <td rowspan=2>&nbsp;</td>
-      <td>Warhorse, Heavy</td>
+      <th>Warhorse, Heavy</th>
     </tr>
     <tr>
       <td>Large Animal</td>
@@ -948,7 +1196,7 @@ These animals are similar to heavy horses but are trained and bred for strength 
   <tbody>
     <tr>
       <td rowspan=2>&nbsp;</td>
-      <td>Warhorse, Light</td>
+      <th>Warhorse, Light</th>
     </tr>
     <tr>
       <td>Large Animal</td>
@@ -1298,26 +1546,88 @@ A mule’s powerful kick can be dangerous.
 
 ### OCTOPUS
 
-|                          | Small Animal (Aquatic)                                     |
-| **Hit Dice:**            | 2d8 (9 hp)                                                 |
-| **Initiative:**          | +3                                                         |
-| **Speed:**               | 20 ft. (4 squares), swim 30 ft.                            |
-| **Armor Class:**         | 16 (+1 size, +3 Dex, +2 natural), touch 14, flat-footed 13 |
-| **Base Attack/Grapple:** | +1/+2                                                      |
-| **Attack:**              | Arms +5 melee (0)                                          |
-| **Full Attack:**         | Arms +5 melee (0) and bite +0 melee (1d3)                  |
-| **Space/Reach:**         | 5 ft./5 ft.                                                |
-| **Special Attacks:**     | Improved grab                                              |
-| **Special Qualities:**   | Ink cloud, jet, low-light vision                           |
-| **Saves:**               | Fort +3, Ref +6, Will +1                                   |
-| **Abilities:**           | Str 12, Dex 17, Con 11, Int 2, Wis 12, Cha 3               |
-| **Skills:**              | Escape Artist +13, Hide +11, Listen +2, Spot +5, Swim +9   |
-| **Feats:**               | Weapon Finesse                                             |
-| **Environment:**         | Warm aquatic                                               |
-| **Organization:**        | Solitary                                                   |
-| **Challenge Rating:**    | 1                                                          |
-| **Advancement:**         | 3–6 HD (Medium)                                            |
-| **Level Adjustment:**    | —                                                          |
+<table>
+  <tr>
+    <td></td>
+    <td>Small Animal (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>2d8 (9 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+3</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), swim 30 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (+1 size, +3 Dex, +2 natural), touch 14, flat-footed 13</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+2</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Arms +5 melee (0)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Arms +5 melee (0) and bite +0 melee (1d3)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Ink cloud, jet, low-light vision</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +3, Ref +6, Will +1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 12, Dex 17, Con 11, Int 2, Wis 12, Cha 3</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Escape Artist +13, Hide +11, Listen +2, Spot +5, Swim +9</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Weapon Finesse</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm aquatic</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>3–6 HD (Medium)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 These bottom-dwelling sea creatures are dangerous only to their prey. If disturbed, they usually try to escape.
 
@@ -1496,7 +1806,7 @@ Porpoises are mammals that tend to be playful, friendly, and helpful. A typical 
 
 **Blindsight (Ex):** Porpoises can “see” by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the porpoise to rely on its vision, which is approximately as good as a human’s.
 
-**Hold Breath (Ex):** A porpoise can hold its breath for a number of rounds equal to 6 x its Constitution score before it risks drowning.
+**Hold Breath (Ex):** A porpoise can hold its breath for a number of rounds equal to 6 &times;its Constitution score before it risks drowning.
 
 **Skills:** A porpoise has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. \*A porpoise has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsight is negated.
 
@@ -1635,26 +1945,88 @@ Snakes usually are not aggressive and flee when confronted.
 
 #### Constrictor Snake
 
-|                          | Medium Animal                                                  |
-| **Hit Dice:**            | 3d8+6 (19 hp)                                                  |
-| **Initiative:**          | +3                                                             |
-| **Speed:**               | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                  |
-| **Armor Class:**         | 15 (+3 Dex, +2 natural), touch 13, flat-footed 12              |
-| **Base Attack/Grapple:** | +2/+5                                                          |
-| **Attack:**              | Bite +5 melee (1d3+4)                                          |
-| **Full Attack:**         | Bite +5 melee (1d3+4)                                          |
-| **Space/Reach:**         | 5 ft./5 ft.                                                    |
-| **Special Attacks:**     | Constrict 1d3+4, improved grab                                 |
-| **Special Qualities:**   | Scent                                                          |
-| **Saves:**               | Fort +4, Ref +6, Will +2                                       |
-| **Abilities:**           | Str 17, Dex 17, Con 13, Int 1, Wis 12, Cha 2                   |
-| **Skills:**              | Balance +11, Climb +14, Hide +10, Listen +7, Spot +7, Swim +11 |
-| **Feats:**               | Alertness, Toughness                                           |
-| **Environment:**         | Warm forests                                                   |
-| **Organization:**        | Solitary                                                       |
-| **Challenge Rating:**    | 2                                                              |
-| **Advancement:**         | 4–5 HD (Medium); 6–10 HD (Large)                               |
-| **Level Adjustment:**    | —                                                              |
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>3d8+6 (19 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+3</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (+3 Dex, +2 natural), touch 13, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+2/+5</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +5 melee (1d3+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +5 melee (1d3+4)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Constrict 1d3+4, improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +6, Will +2</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 17, Dex 17, Con 13, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Balance +11, Climb +14, Hide +10, Listen +7, Spot +7, Swim +11</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Toughness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm forests</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>4–5 HD (Medium); 6–10 HD (Large)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 Constrictor snakes usually are not aggressive and flee when confronted. They hunt for food but do not attempt to make a meal out of any creature that is too large to constrict.
 
@@ -1668,73 +2040,327 @@ Constrictor snakes hunt by grabbing prey with their mouths and then squeezing it
 
 #### Constrictor Snake, Giant
 
-|                          | Huge Animal                                                    |
-| **Hit Dice:**            | 11d8+14 (63 hp)                                                |
-| **Initiative:**          | +3                                                             |
-| **Speed:**               | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                  |
-| **Armor Class:**         | 15 (–2 size, +3 Dex, +4 natural), touch 11, flat-footed 12     |
-| **Base Attack/Grapple:** | +8/+23                                                         |
-| **Attack:**              | Bite +13 melee (1d8+10)                                        |
-| **Full Attack:**         | Bite +13 melee (1d8+10)                                        |
-| **Space/Reach:**         | 15 ft./10 ft.                                                  |
-| **Special Attacks:**     | Constrict 1d8+10, improved grab                                |
-| **Special Qualities:**   | Scent                                                          |
-| **Saves:**               | Fort +8, Ref +10, Will +4                                      |
-| **Abilities:**           | Str 25, Dex 17, Con 13, Int 1, Wis 12, Cha 2                   |
-| **Skills:**              | Balance +11, Climb +17, Hide +10, Listen +9, Spot +9, Swim +16 |
-| **Feats:**               | Alertness, Endurance, Skill Focus (Hide), Toughness            |
-| **Environment:**         | Warm forests                                                   |
-| **Organization:**        | Solitary                                                       |
-| **Challenge Rating:**    | 5                                                              |
-| **Advancement:**         | 12–16 HD (Huge); 17–33 HD (Gargantuan)                         |
-| **Level Adjustment:**    | —                                                              |
+<table>
+  <tr>
+    <td></td>
+    <td>Huge Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>11d8+14 (63 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+3</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>15 (–2 size, +3 Dex, +4 natural), touch 11, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+8/+23</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +13 melee (1d8+10)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +13 melee (1d8+10)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Constrict 1d8+10, improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +8, Ref +10, Will +4</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 25, Dex 17, Con 13, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Balance +11, Climb +17, Hide +10, Listen +9, Spot +9, Swim +16</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness, Endurance, Skill Focus (Hide), Toughness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm forests</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>12–16 HD (Huge); 17–33 HD (Gargantuan)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 Giant constrictor snakes are more aggressive than their smaller cousins, principally because they need a great amount of food to survive.
 
 #### Viper Snake
 
-|                          | **Snake, Tiny Viper **                                        | **Snake, Small Viper**                                        |                                                                      |
-|                          | Tiny Animal                                                   | Small Animal                                                  |                                                                      |
-| **Hit Dice:**            | 1/4 d8 (1 hp)                                                 | 1d8 (4 hp)                                                    |                                                                      |
-| **Initiative:**          | +3                                                            | +3                                                            |                                                                      |
-| **Speed:**               | 15 ft. (3 squares), climb 15 ft., swim 15 ft.                 | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                 |                                                                      |
-| **Armor Class:**         | 17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14    | 17 (+1 size, +3 Dex, +3 natural), touch 14, flat-footed 14    |                                                                      |
-| **Base Attack/Grapple:** | +0/–11                                                        | +0/–6                                                         |                                                                      |
-| **Attack:**              | Bite +5 melee (1 plus poison)                                 | Bite +4 melee (1d2–2 plus poison)                             |                                                                      |
-| **Full Attack:**         | Bite +5 melee (1 plus poison)                                 | Bite +4 melee (1d2–2 plus poison)                             |                                                                      |
-| **Space/Reach:**         | 2-1/2 ft./0 ft.                                               | 5 ft./5 ft.                                                   |                                                                      |
-| **Special Attacks:**     | Poison                                                        | Poison                                                        |                                                                      |
-| **Special Qualities:**   | Scent                                                         | Scent                                                         |                                                                      |
-| **Saves:**               | Fort +2, Ref +5, Will +1                                      | Fort +2, Ref +5, Will +1                                      |                                                                      |
-| **Abilities:**           | Str 4, Dex 17, Con 11, Int 1, Wis 12, Cha 2                   | Str 6, Dex 17, Con 11, Int 1, Wis 12, Cha 2                   |                                                                      |
-| **Skills:**              | Balance +11, Climb +11, Hide +15, Listen +6, Spot +6, Swim +5 | Balance +11, Climb +11, Hide +11, Listen +7, Spot +7, Swim +6 |                                                                      |
-| **Feats:**               | Weapon Finesse                                                | Weapon Finesse                                                |                                                                      |
-| **Environment:**         | Temperate marshes                                             | Temperate marshes                                             |                                                                      |
-| **Organization:**        | Solitary                                                      | Solitary                                                      |                                                                      |
-| **Challenge Rating:**    | 1/3                                                           | 1/2                                                           |                                                                      |
-| **Advancement:**         | —                                                             | —                                                             |                                                                      |
-| **Level Adjustment:**    | —                                                             | —                                                             |                                                                      |
-|                          | **Snake, Medium Viper**                                       | **Snake, Large Viper**                                        | **Snake, Huge Viper**                                         |
-|                          | Medium Animal                                                 | Large Animal                                                  | Huge Animal                                                   |
-| **Hit Dice:**            | 2d8 (9 hp)                                                    | 3d8 (13 hp)                                                   | 6d8+6 (33 hp)                                                 |
-| **Initiative:**          | +3                                                            | +7                                                            | +6                                                            |
-| **Speed:**               | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                 | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                 | 20 ft. (4 squares), climb 20 ft., swim 20 ft.                 |
-| **Armor Class:**         | 16 (+3 Dex, +3 natural), touch 13, flat-footed 13             | 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12    | 15 (–2 size, +2 Dex, +5 natural), touch 10, flat-footed 15    |
-| **Base Attack/Grapple:** | +1/+0                                                         | +2/+6                                                         | +4/+15                                                        |
-| **Attack:**              | Bite +4 melee (1d4–1 plus poison)                             | Bite +4 melee (1d4 plus poison)                               | Bite +6 melee (1d6+4 plus poison)                             |
-| **Full Attack:**         | Bite +4 melee (1d4–1 plus poison)                             | Bite +4 melee (1d4 plus poison)                               | Bite +6 melee (1d6+4 plus poison)                             |
-| **Space/Reach:**         | 5 ft./5 ft.                                                   | 10 ft./5 ft.                                                  | 15 ft./10 ft.                                                 |
-| **Special Attacks:**     | Poison                                                        | Poison                                                        | Poison                                                        |
-| **Special Qualities:**   | Scent                                                         | Scent                                                         | Scent                                                         |
-| **Saves:**               | Fort +3, Ref +6, Will +1                                      | Fort +3, Ref +6, Will +2                                      | Fort +6, Ref +7, Will +3                                      |
-| **Abilities:**           | Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2                   | Str 10, Dex 17, Con 11, Int 1, Wis 12, Cha 2                  | Str 16, Dex 15, Con 13, Int 1, Wis 12, Cha 2                  |
-| **Skills:**              | Balance +11, Climb +11, Hide +12, Listen +5, Spot +5, Swim +7 | Balance +11, Climb +11, Hide +8, Listen +5, Spot +6, Swim +8  | Balance +10, Climb +11, Hide +3, Listen +7, Spot +7, Swim +11 |
-| **Feats:**               | Weapon Finesse                                                | Improved Initiative, Weapon Finesse                           | Improved Initiative, Run, Weapon Focus (bite)                 |
-| **Environment:**         | Temperate marshes                                             | Temperate marshes                                             | Temperate marshes                                             |
-| **Organization:**        | Solitary                                                      | Solitary                                                      | Solitary                                                      |
-| **Challenge Rating:**    | 1                                                             | 2                                                             | 3                                                             |
-| **Advancement:**         | —                                                             | —                                                             | 7–18 HD (Huge)                                                |
-| **Level Adjustment:**    | —                                                             | —                                                             | —                                                             |
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Snake, Tiny Viper</th>
+    <th>Snake, Small Viper</th>
+  </tr>
+  <tr>
+    <td>Tiny Animal</td>
+    <td>Small Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1/4 d8 (1 hp)</td>
+    <td>1d8 (4 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+3</td>
+    <td>+3</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>15 ft. (3 squares), climb 15 ft., swim 15 ft.</td>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14</td>
+    <td>17 (+1 size, +3 Dex, +3 natural), touch 14, flat-footed 14</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+0/–11</td>
+    <td>+0/–6</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +5 melee (1 plus poison)</td>
+    <td>Bite +4 melee (1d2–2 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +5 melee (1 plus poison)</td>
+    <td>Bite +4 melee (1d2–2 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>2-1/2 ft./0 ft.</td>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Poison</td>
+    <td>Poison</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Scent</td>
+    <td>Scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +2, Ref +5, Will +1</td>
+    <td>Fort +2, Ref +5, Will +1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 4, Dex 17, Con 11, Int 1, Wis 12, Cha 2</td>
+    <td>Str 6, Dex 17, Con 11, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Balance +11, Climb +11, Hide +15, Listen +6, Spot +6, Swim +5</td>
+    <td>Balance +11, Climb +11, Hide +11, Listen +7, Spot +7, Swim +6</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Weapon Finesse</td>
+    <td>Weapon Finesse</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes</td>
+    <td>Temperate marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1/3</td>
+    <td>1/2</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Snake, Medium Viper</th>
+    <th>Snake, Large Viper</th>
+    <th>Snake, Huge Viper</th>
+  </tr>
+  <tr>
+    <td>Medium Animal</td>
+    <td>Large Animal</td>
+    <td>Huge Animal</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>2d8 (9 hp)</td>
+    <td>3d8 (13 hp)</td>
+    <td>6d8+6 (33 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+6</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+    <td>20 ft. (4 squares), climb 20 ft., swim 20 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>16 (+3 Dex, +3 natural), touch 13, flat-footed 13</td>
+    <td>15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12</td>
+    <td>15 (–2 size, +2 Dex, +5 natural), touch 10, flat-footed 15</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+0</td>
+    <td>+2/+6</td>
+    <td>+4/+15</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Bite +4 melee (1d4–1 plus poison)</td>
+    <td>Bite +4 melee (1d4 plus poison)</td>
+    <td>Bite +6 melee (1d6+4 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Bite +4 melee (1d4–1 plus poison)</td>
+    <td>Bite +4 melee (1d4 plus poison)</td>
+    <td>Bite +6 melee (1d6+4 plus poison)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+    <td>10 ft./5 ft.</td>
+    <td>15 ft./10 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Poison</td>
+    <td>Poison</td>
+    <td>Poison</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Scent</td>
+    <td>Scent</td>
+    <td>Scent</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +3, Ref +6, Will +1</td>
+    <td>Fort +3, Ref +6, Will +2</td>
+    <td>Fort +6, Ref +7, Will +3</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2</td>
+    <td>Str 10, Dex 17, Con 11, Int 1, Wis 12, Cha 2</td>
+    <td>Str 16, Dex 15, Con 13, Int 1, Wis 12, Cha 2</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Balance +11, Climb +11, Hide +12, Listen +5, Spot +5, Swim +7</td>
+    <td>Balance +11, Climb +11, Hide +8, Listen +5, Spot +6, Swim +8</td>
+    <td>Balance +10, Climb +11, Hide +3, Listen +7, Spot +7, Swim +11</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Weapon Finesse</td>
+    <td>Improved Initiative, Weapon Finesse</td>
+    <td>Improved Initiative, Run, Weapon Focus (bite)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate marshes</td>
+    <td>Temperate marshes</td>
+    <td>Temperate marshes</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+    <td>Solitary</td>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>7–18 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
 
 These creatures range widely in size. They are not particularly aggressive, but will often lash out with a bite attack before attempting to retreat.
 
@@ -1926,7 +2552,7 @@ Some varieties of these seagoing mammals are among the largest animals known. Re
 
 **Blindsight (Ex):** Whales can “see” by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the whale to rely on its vision, which is approximately as good as a human’s.
 
-**Hold Breath (Ex):** A whale can hold its breath for a number of rounds equal to 8 x its Constitution score before it risks drowning.
+**Hold Breath (Ex):** A whale can hold its breath for a number of rounds equal to 8 &times;its Constitution score before it risks drowning.
 
 
 **Skills:** A whale has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. \*A whale has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsight is negated.

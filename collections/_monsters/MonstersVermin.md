@@ -51,9 +51,7 @@ These creatures operate on instinct, driven by simple needs such as food and rep
 | **Level Adjustment:**    | —                                                  | —                                             | —                                                         |
 |                                 |                                                           |                                                      |                                                                  |
 
-Giant ants are among the hardiest and most adaptable vermin. Soldiers
-and workers are about 6 feet long, while queens can grow to a length of
-9 feet.
+Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while queens can grow to a length of 9 feet.
 
 **Acid Sting (Ex):** A giant soldier ant has a stinger and an acid-producing gland in its abdomen. If it successfully grabs an opponent, it can attempt to sting each round (+3 attack bonus). A hit with the sting attack deals 1d4+1 points of piercing damage and 1d4 points of acid damage.
 
@@ -90,26 +88,15 @@ and workers are about 6 feet long, while queens can grow to a length of
 | **Level Adjustment:**    | —                                                 |
 |                                 |                                                          |
 
-Although many times larger, growing to a length of about 5 feet,
-giant bees behave generally the same as their smaller cousins. Giant
-bees are usually not aggressive except when defending themselves or
-their hive.
+Although many times larger, growing to a length of about 5 feet, giant bees behave generally the same as their smaller cousins. Giant bees are usually not aggressive except when defending themselves or their hive.
 
-**Poison (Ex): **Injury, Fortitude DC 11, initial and
-secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee
-that successfully stings another creature pulls away, leaving its
-stinger in the creature. The bee then dies.
+**Poison (Ex):** Injury, Fortitude DC 11, initial and secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature. The bee then dies.
 
-**Skills:** Giant bees have a +4 racial bonus on Spot checks.
-\*They also have a +4 racial bonus on Survival checks to orient
-themselves.
+**Skills:** Giant bees have a +4 racial bonus on Spot checks. \*They also have a +4 racial bonus on Survival checks to orient themselves.
 
-GIANT BOMBARDIER BEETLE
+## GIANT BOMBARDIER BEETLE
 
-|                                 |                                                     |
-|---------------------------------|-----------------------------------------------------|
-|                                 | Medium Vermin                                |
-|                                 |                                                     |
+|                          | Medium Vermin                                |
 | **Hit Dice:**            | 2d8+4 (13 hp)                                |
 | **Initiative:**          | +0                                           |
 | **Speed:**               | 30 ft. (6 squares)                           |
@@ -128,21 +115,13 @@ GIANT BOMBARDIER BEETLE
 | **Organization:**        | Cluster (2–5) or click (6–11)                |
 | **Challenge Rating:**    | 2                                            |
 | **Advancement:**         | 3–4 HD (Medium); 5–6 HD (Large)              |
-|                                 |                                                     |
 | **Level Adjustment:**    | —                                            |
-|                                 |                                                     |
 
-These creatures feed primarily on carrion and offal, gathering heaps
-of the stuff in which to build nests and lay eggs. A giant bombardier
-beetle is about 6 feet long. Giant bombardier beetles normally attack
-only to defend themselves, their nests, or their eggs.
+These creatures feed primarily on carrion and offal, gathering heaps of the stuff in which to build nests and lay eggs. A giant bombardier beetle is about 6 feet long. Giant bombardier beetles normally attack only to defend themselves, their nests, or their eggs.
 
-**Acid Spray (Ex):** When attacked or disturbed, the creature
-can release a 10-foot cone of acidic vapor once per round. Those within
-the cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of
-acid damage. The save DC is Constitution-based.
+**Acid Spray (Ex):** When attacked or disturbed, the creature can release a 10-foot cone of acidic vapor once per round. Those within the cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
 
-GIANT FIRE BEETLE
+## GIANT FIRE BEETLE
 
 |                                 |                                                           |
 |---------------------------------|-----------------------------------------------------------|
@@ -170,18 +149,11 @@ GIANT FIRE BEETLE
 | **Level Adjustment:**    | —                                                  |
 |                                 |                                                           |
 
-These luminous nocturnal insects are prized by miners and
-adventurers. They have two glands, one above each eye, that produce a
-red glow. The glands’ luminosity persists for 1d6 days after removal
-from the beetle, illuminating a roughly circular area with a 10-foot
-radius. Giant fire beetles are about 2 feet long.
+These luminous nocturnal insects are prized by miners and adventurers. They have two glands, one above each eye, that produce a red glow. The glands’ luminosity persists for 1d6 days after removal from the beetle, illuminating a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 feet long.
 
-GIANT STAG BEETLE
+## GIANT STAG BEETLE
 
-|                                 |                                                           |
-|---------------------------------|-----------------------------------------------------------|
-|                                 | Large Vermin                                       |
-|                                 |                                                           |
+|                          | Large Vermin                                       |
 | **Hit Dice:**            | 7d8+21 (52 hp)                                     |
 | **Initiative:**          | +0                                                 |
 | **Speed:**               | 20 ft. (4 squares)                                 |
@@ -201,18 +173,13 @@ GIANT STAG BEETLE
 | **Challenge Rating:**    | 4                                                  |
 | **Alignment:**           | Always neutral                                     |
 | **Advancement:**         | 8–10 HD (Large); 11–21 HD (Huge)                   |
-|                                 |                                                           |
 | **Level Adjustment:**    | —                                                  |
-|                                 |                                                           |
 
-These creatures are serious pests that greedily devour cultivated
-crops. A single beetle can strip an entire farm in short order. An adult
-giant stag beetle is about 10 feet long.
+These creatures are serious pests that greedily devour cultivated crops. A single beetle can strip an entire farm in short order. An adult giant stag beetle is about 10 feet long.
 
-**Trample (Ex): **Reflex half DC 19. The save DC is
-Strength-based.
+**Trample (Ex):** Reflex half DC 19. The save DC is Strength-based.
 
-GIANT PRAYING MANTIS
+## GIANT PRAYING MANTIS
 
 |                                 |                                                                  |
 |---------------------------------|------------------------------------------------------------------|
@@ -240,19 +207,13 @@ GIANT PRAYING MANTIS
 | **Level Adjustment:**    | —                                                         |
 |                                 |                                                                  |
 
-This patient carnivore remains completely still as it waits for prey
-to come near.
+This patient carnivore remains completely still as it waits for prey to come near.
 
-**Improved Grab (Ex):** To use this ability, a giant praying
-mantis must hit with its claws attack. If it wins the ensuing grapple
-check, it establishes a hold and makes a bite attack as a primary attack
-(at its full +6 attack bonus).
+**Improved Grab (Ex):** To use this ability, a giant praying mantis must hit with its claws attack. If it wins the ensuing grapple check, it establishes a hold and makes a bite attack as a primary attack (at its full +6 attack bonus).
 
-**Skills:** A giant praying mantis has a +4 racial bonus on
-Hide and Spot checks. \*Because of its camouflage, the Hide bonus
-increases to +12 when a mantis is surrounded by foliage.
+**Skills:** A giant praying mantis has a +4 racial bonus on Hide and Spot checks. \*Because of its camouflage, the Hide bonus increases to +12 when a mantis is surrounded by foliage.
 
-GIANT WASP
+## GIANT WASP
 
 |                                 |                                                                   |
 |---------------------------------|-------------------------------------------------------------------|
@@ -276,22 +237,15 @@ GIANT WASP
 | **Organization:**        | Solitary, swarm (2–5), or nest (11–20)                     |
 | **Challenge Rating:**    | 3                                                          |
 | **Advancement:**         | 6–8 HD (Large); 9–15 HD (Huge)                             |
-|                                 |                                                                   |
 | **Level Adjustment:**    | —                                                          |
-|                                 |                                                                   |
 
-Giant wasps attack when hungry or threatened, stinging their prey to
-death. They take dead or incapacitated opponents back to their lairs as
-food for their unhatched young.
+Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young.
 
-**Poison (Ex): **Injury, Fortitude DC 14, initial and
-secondary damage 1d6 Dex. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.
 
-**Skills:** Giant wasps have a +8 racial bonus on Spot checks.
-\*They also have a +4 racial bonus on Survival checks to orient
-themselves.
+**Skills:** Giant wasps have a +8 racial bonus on Spot checks. \*They also have a +4 racial bonus on Survival checks to orient themselves.
 
-MONSTROUS CENTIPEDE
+## MONSTROUS CENTIPEDE
 
 |                                 |                                                                   |                                                                   |                                                          |
 |---------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------|
@@ -368,32 +322,20 @@ MONSTROUS CENTIPEDE
 | **Level Adjustment:**    | —                                                          | —                                                          |                                                          |
 |                                 |                                                                   |                                                                   |                                                          |
 
-Monstrous centipedes tend to attack anything that resembles food,
-biting with their jaws and injecting their poison.
+Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.
 
-|                 |                    |                   |                   |                    |                   |
-|-----------------|--------------------|-------------------|-------------------|--------------------|-------------------|
-| **Size** | **Fort DC** | **Damage** | **Size**   | **Fort DC** | **Damage** |
-|                 |                    |                   |                   |                    |                   |
+|   Size   |   Fort DC   |   Damage   |   Size     |   Fort DC   |   Damage   |
+|----------|-------------|------------|------------|-------------|------------|
 | Tiny     | 10          | 1 Dex      | Huge       | 14          | 1d6 Dex    |
 | Small    | 10          | 1d2 Dex    | Gargantuan | 17          | 1d8 Dex    |
 | Medium   | 10          | 1d3 Dex    | Colossal   | 23          | 2d6 Dex    |
-|                 |                    |                   |                   |                    |                   |
-| Large    | 11          | 1d4 Dex    |                   |                    |                   |
-|                 |                    |                   |                   |                    |                   |
+| Large    | 11          | 1d4 Dex    |            |             |            |
 
-**Poison (Ex): **A monstrous centipede has a poisonous bite.
-The details vary by the centipede’s size, as shown on the table above.
-The save DCs are Constitution-based. The indicated damage is both
-initial and secondary damage. 
+**Poison (Ex):** A monstrous centipede has a poisonous bite. The details vary by the centipede’s size, as shown on the table above. The save DCs are Constitution-based. The indicated damage is both initial and secondary damage.
 
-**Skills:** Monstrous centipedes have a +4 racial bonus on
-Spot checks, and a +8 racial bonus on Climb and Hide checks. They can
-use either their Strength or Dexterity modifier for Climb checks,
-whichever is higher. Monstrous scorpions can take 10 on Climb checks,
-even if threatened or distracted.
+**Skills:** Monstrous centipedes have a +4 racial bonus on Spot checks, and a +8 racial bonus on Climb and Hide checks. They can use either their Strength or Dexterity modifier for Climb checks, whichever is higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or distracted.
 
-MONSTROUS SCORPION
+## MONSTROUS SCORPION
 
 |                                 |                                                                           |                                                                           |                                                                      |
 |---------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -473,21 +415,13 @@ MONSTROUS SCORPION
 | **Level Adjustment:**    | —                                                                  | —                                                                  |                                                                      |
 |                                 |                                                                           |                                                                           |                                                                      |
 
-Monstrous scorpions are likely to attack any creature that
-approaches, and they usually charge when attacking prey.
+Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking prey.
 
-**Constrict (Ex): **A monstrous scorpion deals automatic claw
-damage on a successful grapple check.
+**Constrict (Ex):** A monstrous scorpion deals automatic claw damage on a successful grapple check.
 
-**Improved Grab (Ex):** To use this ability, a monstrous
-scorpion must hit with a claw attack. A monstrous scorpion can use
-either its Strength modifier or Dexterity modifier for grapple checks,
-whichever is better.
+**Improved Grab (Ex):** To use this ability, a monstrous scorpion must hit with a claw attack. A monstrous scorpion can use either its Strength modifier or Dexterity modifier for grapple checks, whichever is better.
 
-**Poison (Ex):** A monstrous scorpion has a poisonous sting.
-The details vary by the scorpion’s size, as follows. The save DCs are
-Constitution- based. The indicated damage is initial and secondary
-damage.
+**Poison (Ex):** A monstrous scorpion has a poisonous sting. The details vary by the scorpion’s size, as follows. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.
 
 <table>
 <tbody>
@@ -558,10 +492,9 @@ damage.
 </tbody>
 </table>
 
-**Skills:** A monstrous scorpion has a +4 racial bonus on
-Climb, Hide, and Spot checks.
+**Skills:** A monstrous scorpion has a +4 racial bonus on Climb, Hide, and Spot checks.
 
-MONSTROUS SPIDER
+## MONSTROUS SPIDER
 
 |                                 |                                                                   |                                                                   |                                                             |
 |---------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------|
@@ -641,197 +574,35 @@ MONSTROUS SPIDER
 | **Level Adjustment:**    | —                                                          | —                                                          |                                                             |
 |                                 |                                                                   |                                                                   |                                                             |
 
-All monstrous spiders are aggressive predators that use their
-poisonous bites to subdue or kill prey.
+All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.
 
-Monstrous spiders come in two general types: hunters and
-web-spinners. Hunters rove about, while web-spinners usually attempt to
-trap prey. Hunting spiders can spin webs to use as lairs, but cannot use
-their webs as weapons the way web-spinners can. A hunting spider has a
-base land speed 10 feet faster than the figures given in the statistics
-blocks.
+Monstrous spiders come in two general types: hunters and web-spinners. Hunters rove about, while web-spinners usually attempt to trap prey. Hunting spiders can spin webs to use as lairs, but cannot use their webs as weapons the way web-spinners can. A hunting spider has a base land speed 10 feet faster than the figures given in the statistics blocks.
 
-**Poison (Ex):** A monstrous spider has a poisonous bite. The
-details vary by the spider’s size, as shown on the table below. The save
-DCs are Constitution-based. The indicated damage is initial
+**Poison (Ex):** A monstrous spider has a poisonous bite. The details vary by the spider’s size, as shown on the table below. The save DCs are Constitution-based. The indicated damage is initial and secondary damage.
 
-and secondary damage.
+| Size   | Fort DC | Damage  | Size       | Fort DC | Damage
+| ------ | ------- | ------- | ---------- | ------- | ------
+| Tiny   | 10      | 1d2 Str | Huge       | 16      | 1d8 Str
+| Small  | 10      | 1d3 Str | Gargantuan | 20      | 2d6 Str
+| Medium | 12      | 1d4 Str | Colossal   | 28      | 2d8 Str
+| Large  | 13      | 1d6 Str
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p class="heading">Size</p></td>
-<td><p class="heading">Fort DC</p></td>
-<td><p class="heading">Damage</p></td>
-<td><p class="heading">Size</p></td>
-<td><p class="heading">Fort DC</p></td>
-<td><p class="heading">Damage</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>10</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>Huge</p></td>
-<td><p>16</p></td>
-<td><p>1d8 Str</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>10</p></td>
-<td><p>1d3 Str</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>20</p></td>
-<td><p>2d6 Str</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium</p></td>
-<td><p>12</p></td>
-<td><p>1d4 Str</p></td>
-<td><p>Colossal</p></td>
-<td><p>28</p></td>
-<td><p>2d8 Str</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>13</p></td>
-<td><p>1d6 Str</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Web (Ex):** Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size. Web-spinners can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the spider. An entangled creature can escape with a successful Escape Artist check or burst it with a Strength check. Both are standard actions whose DCs are given in the table below. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. 
 
-**Web (Ex): **Both types of monstrous spiders often wait in
-their webs or in trees, then lower themselves silently on silk strands
-and leap onto prey passing beneath. A single strand is strong enough to
-support the spider and one creature of the same size. Web-spinners can
-throw a web eight times per day. This is similar to an attack with a net
-but has a maximum range of 50 feet, with a range increment of 10 feet,
-and is effective against targets up to one size category larger than the
-spider. An entangled creature can escape with a successful Escape Artist
-check or burst it with a Strength check. Both are standard actions whose
-DCs are given in the table below. The check DCs are Constitution-based,
-and the Strength check DC includes a +4 racial bonus. 
+Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, depending on the size of the spider. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has the hit points given on the table, and sheet webs have damage reduction 5/—.
 
-Web-spinners often create sheets of sticky webbing from 5 to 60 feet
-square, depending on the size of the spider. They usually position these
-sheets to snare flying creatures but can also try to trap prey on the
-ground. Approaching creatures must succeed on a DC 20 Spot check to
-notice a web; otherwise they stumble into it and become trapped as
-though by a successful web attack. Attempts to escape or burst the
-webbing gain a +5 bonus if the trapped creature has something to walk on
-or grab while pulling free. Each 5-foot section has the hit points given
-on the table, and sheet webs have damage reduction 5/—.
+A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.
 
-A monstrous spider can move across its own web at its climb speed and
-can pinpoint the location of any creature touching its web.
+| Size       | Escape Artist DC | Break DC | Hit Points
+| ---------- | ---------------- | -------- | ----------
+| Tiny       | 10               | 14       | 2
+| Small      | 10               | 14       | 4
+| Medium     | 12               | 16       | 6
+| Large      | 13               | 17       | 12
+| Huge       | 16               | 20       | 14
+| Gargantuan | 20               | 24       | 16
+| Colossal   | 28               | 32       | 18
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p class="heading">Size</p></td>
-<td><p class="heading">Escape Artist DC</p></td>
-<td><p class="heading">Break DC</p></td>
-<td><p class="heading">Hit Points</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>10</p></td>
-<td><p>14</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>10</p></td>
-<td><p>14</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium</p></td>
-<td><p>12</p></td>
-<td><p>16</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>13</p></td>
-<td><p>17</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>16</p></td>
-<td><p>20</p></td>
-<td><p>14</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>20</p></td>
-<td><p>24</p></td>
-<td><p>16</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>28</p></td>
-<td><p>32</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Tremorsense (Ex):** A monstrous spider can detect and pinpoint any creature or object within 60 feet in contact with the ground, or within any range in contact with the spider’s webs.
 
-**Tremorsense (Ex): **A monstrous spider can detect and
-pinpoint any creature or object within 60 feet in contact with the
-ground, or within any range in contact with the spider’s webs.
-
-**Skills:** Monstrous spiders have a +4 racial bonus on Hide
-and Spot checks and a +8 racial bonus on Climb checks. A monstrous
-spider can always choose to take 10 on Climb checks, even if rushed or
-threatened. Monstrous spiders use either their Strength or Dexterity
-modifier for Climb checks, whichever is
-
-higher. \*Hunting spiders have a +10 racial bonus on Jump checks and
-a +8 racial bonus on Spot checks. Web-spinning spiders have a +8 racial
-bonus on Hide and Move Silently checks when using their webs.
+**Skills:** Monstrous spiders have a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. A monstrous spider can always choose to take 10 on Climb checks, even if rushed or threatened. Monstrous spiders use either their Strength or Dexterity modifier for Climb checks, whichever is higher. \*Hunting spiders have a +10 racial bonus on Jump checks and a +8 racial bonus on Spot checks. Web-spinning spiders have a +8 racial bonus on Hide and Move Silently checks when using their webs.
