@@ -4,12 +4,31 @@ status: Finished
 title: The Aboleth's Lair
 ---
 
-Aboleth's Lair
---------------
+The Aboleth's Lair
+------------------
 
-A dungeon for four characters levels 7&ndash;9.
+_The Aboleth's Lair_ is a short dungeon adventure for four characters between 7th and 9th levels of experience.
+
+Preface
+-------
 
 Beneath the continental shelf off the shores of a large island a sloping tunnel leads to a series of underwater caverns. An aboleth has recently taken this place as a lair, hiding in the innermost cavern. A pair of chuul lair closer to the entrance, and several thralls to the aboleth live in a small cave within the carverns.
+
+Lair Map
+--------
+
+<pre>
+[1] Entry Tunnel
+     |
+[2] Chuul Grotto
+     |
+[3] Forked Passage
+   /              \
+[5] Inner Chamber   [4] Slave Grotto
+</pre>
+
+Locations and Encounters
+------------------------
 
 ### 1. Entrance/Antechamber
 
@@ -51,19 +70,6 @@ _Skills and Feats:_ Concentration +16, Knowledge (history) +13, Listen +16, Spot
 
 _Treasure:_ Concentrated mucus secretions worth 600 gp and one 3" diameter memory pearl containing current-sensing techniques: every time a spellcaster studies this pearl, they can for one day prepare and cast _freedom of movement_ as a 3rd-level spell effective only in the ocean waters within 20 miles of this location.
 
-Lair Map
---------
-
-<pre>
-[1] Entry Tunnel
-     |
-[2] Chuul Grotto
-     |
-[3] Forked Passage
-   /              \
-[5] Inner Chamber   [4] Slave Grotto
-</pre>
-
 Appendix A: Creatures
 ---------------------
 
@@ -75,7 +81,7 @@ Appendix B: Hooks
 -----------------
 
 * The aboleth has been threatening a coastal settlement with psionic powers.
-* Imprisoned or transformed friendly creatures have been taken hostage in the aboleth's lair.
+* Friendly creatures have been taken hostage in the aboleth's lair.
 
 Appendix C: Resources
 ---------------------
