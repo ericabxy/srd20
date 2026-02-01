@@ -32,34 +32,19 @@ This material is Open Game Content, and is licensed for public use under the ter
 | **Advancement:**          | 3--4 HD (Small); 5--6 HD (Medium)
 | **Level Adjustment:**     | ---
 
-Magmins are small, human-shaped beings from the Elemental Plane of Fire
-that radiate intense heat and are wreathed in an aura of searing flames.
-A typical magmin is 4 feet tall and weighs 400 pounds.
+Magmins are small, human-shaped beings from the Elemental Plane of Fire that radiate intense heat and are wreathed in an aura of searing flames. A typical magmin is 4 feet tall and weighs 400 pounds.
 
 Magmins speak Ignan.
 
 ### COMBAT
 
-Although small, magmins are dangerous opponents. Their touch is
-effective against those who lack protection or immunity from heat and
-flames, but if faced with opponents who have immunity to fire, magmins
-rely on their slam attack. In any case, magmins are not valiant
-fighters. They usually flee if injured, although often only far enough
-to set up a fiery ambush for their enemies.
+Although small, magmins are dangerous opponents. Their touch is effective against those who lack protection or immunity from heat and flames, but if faced with opponents who have immunity to fire, magmins rely on their slam attack. In any case, magmins are not valiant fighters. They usually flee if injured, although often only far enough to set up a fiery ambush for their enemies.
 
-A magmin's natural weapons are treated as magic weapons for the purpose
-of overcoming damage reduction.
+A magmin's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Combustion (Ex):** Anyone a magmin touches must succeed
-on a DC 12 Reflex save or take an extra 1d8 points of fire damage as
-clothes ignite or armor becomes searing hot. The damage continues for
-another 1d4+2 rounds after the magmin's last successful attack. Magmins
-can also ignite flammable materials with a touch. The save DC is
-Constitution-based.
+**Combustion (Ex):** Anyone a magmin touches must succeed on a DC 12 Reflex save or take an extra 1d8 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+2 rounds after the magmin's last successful attack. Magmins can also ignite flammable materials with a touch. The save DC is Constitution-based.
 
-**Fiery Aura (Ex):** Anyone within 20 feet of a magmin
-must succeed on a DC 12 Fortitude save or take 1d6 points of heat damage
-per round from the intense heat. The save DC is Constitution-based.
+**Fiery Aura (Ex):** Anyone within 20 feet of a magmin must succeed on a DC 12 Fortitude save or take 1d6 points of heat damage per round from the intense heat. The save DC is Constitution-based.
 
 **Melt Weapons (Ex):** Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or melt away into slag. The save DC is Constitution-based.
 
@@ -123,9 +108,7 @@ A manticore begins most attacks with a volley of spikes, then closes.mIn the out
 | **Advancement:**          | By character class
 | **Level Adjustment:**     | ---
 
-A medusa is indistinguishable from a normal human at distances greater
-than 30 feet (or closer, if its face is concealed). The creature often
-wears garments that enhance its body while hiding its face behind a hood or veil.
+A medusa is indistinguishable from a normal human at distances greater than 30 feet (or closer, if its face is concealed). The creature often wears garments that enhance its body while hiding its face behind a hood or veil.
 
 A typical medusa is 5 to 6 feet tall and about the same weight as a human.
 
@@ -133,11 +116,7 @@ Medusas speak Common.
 
 ### COMBAT
 
-A medusa tries to disguise its true nature until the intended victim is
-within range of its petrifying gaze, using subterfuge and bluffing games
-to convince the target that there is no danger. It uses normal weapons
-to attack those who avert their eyes or survive its gaze, while its
-poisonous snakes strike at adjacent opponents.
+A medusa tries to disguise its true nature until the intended victim is within range of its petrifying gaze, using subterfuge and bluffing games to convince the target that there is no danger. It uses normal weapons to attack those who avert their eyes or survive its gaze, while its poisonous snakes strike at adjacent opponents.
 
 **Petrifying Gaze (Su):** Turn to stone permanently, 30 feet, Fortitude DC 15 negates. The save DC is Charisma-based.
 
@@ -147,17 +126,13 @@ poisonous snakes strike at adjacent opponents.
 
 Mephits are minor creatures from the elemental planes. 
 
-All mephits appear as small, winged creatures with more or less
-humanoid features. While they are often described as impish, their
-elemental origins are apparent at first glance.
+All mephits appear as small, winged creatures with more or less humanoid features. While they are often described as impish, their elemental origins are apparent at first glance.
 
 ### COMBAT
 
-All mephits fight by biting and clawing or by using a breath weapon,
-the nature and effects of which vary from creature to creature.
+All mephits fight by biting and clawing or by using a breath weapon, the nature and effects of which vary from creature to creature.
 
-A mephit's natural weapons are treated as magic weapons for the purpose
-of overcoming damage reduction.
+A mephit's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
 
@@ -402,15 +377,7 @@ fire or are otherwise protected. This effect imposes a --4 penalty to AC
 and a --2 penalty on attack rolls for 3 rounds. The save DC is
 onstitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour, a magma mephit
-can use *shapechange* to take the form of a
-pool of lava 3 feet in diameter and 6 inches deep. The mephit's damage
-reduction improves to 20/magic when in this form. The mephit can't
-attack while in lava form but can use other spell-like abilities. It can
-move at a speed of 10 feet, but it can't run. In this form the mephit
-can pass through small holes or narrow openings, even mere cracks. The
-pool's touch ignites flammable materials such as paper, straw, or dry
-wood.
+**Spell-Like Abilities:** Once per hour, a magma mephit can use *shapechange* to take the form of a pool of lava 3 feet in diameter and 6 inches deep. The mephit's damage reduction improves to 20/magic when in this form. The mephit can't attack while in lava form but can use other spell-like abilities. It can move at a speed of 10 feet, but it can't run. In this form the mephit can pass through small holes or narrow openings, even mere cracks. The pool's touch ignites flammable materials such as paper, straw, or dry wood.
 
 Once per day a magma mephit can use *pyrotechnics* (DC 14). It can use itself as the fire source without harm. Caster level 6th. The save DC is Charisma-based.
 
@@ -441,29 +408,19 @@ Once per day a magma mephit can use *pyrotechnics* (DC 14). It can use itself as
 | **Advancement:**          | 4--6 HD (Small); 7--9 HD (Medium)
 | **Level Adjustment:**     | +3 (cohort)
 
-Ooze mephits come from the Elemental Plane of Water. An ooze mephit is
-about 4 feet tall and weighs about 30 pounds.
+Ooze mephits come from the Elemental Plane of Water. An ooze mephit is about 4 feet tall and weighs about 30 pounds.
 
 Ooze mephits speak Common and Aquan.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of caustic liquid,
-damage 1d4 acid, Reflex DC 13 half. Living creatures that fail their
-saves are tormented by itching skin and burning eyes unless they have
-immunity to acid or are otherwise protected. This effect imposes a --4
-penalty to AC and a --2 penalty on attack rolls for 3 rounds. The save
-DC is Constitution-based and includes a +1 racial bonus. 
+**Breath Weapon (Su):** 10-foot cone of caustic liquid, damage 1d4 acid, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes unless they have immunity to acid or are otherwise protected. This effect imposes a --4 penalty to AC and a --2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
 **Spell-Like Abilities:** Once per hour an ooze mephit can hurl an acidic blob that functions like *acid arrow* (caster level 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of *stinking cloud* (DC 15, caster level 6th). The save DC is Charisma-based.
 
 **Fast Healing (Ex):** An ooze mephit heals only if in a wet or muddy environment.
 
-**Skills:** An ooze mephit has a +8 racial bonus on any
-Swim check to perform some special action or avoid a hazard. It can
-always choose to take 10 on a Swim check, even if distracted or
-endangered. It can use the run action while swimming, provided it swims
-in a straight line.
+**Skills:** An ooze mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ### SALT MEPHIT
 
@@ -492,28 +449,17 @@ in a straight line.
 
 Salt mephits come from the Elemental Plane of Earth.
 
-Salt mephits are sarcastic creatures who loathe water and moisture of
-any kind. Each one is about 4 feet tall and weighs about 80 pounds.
+Salt mephits are sarcastic creatures who loathe water and moisture of any kind. Each one is about 4 feet tall and weighs about 80 pounds.
 
 Salt mephits speak Common and Terran.
 
 #### Combat
 
-**Breath Weapon (Su):** 10-foot cone of salt crystals,
-damage 1d4, Reflex DC 13 half. Living creatures that fail their saves
-are tormented by itching skin and burning eyes. This effect imposes a
---4 penalty to AC and a --2 penalty on attack rolls for 3 rounds. The
-save DC is Constitution-based and includes a +1 racial
-bonus.
+**Breath Weapon (Su):** 10-foot cone of salt crystals, damage 1d4, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a --4 penalty to AC and a --2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
 **Spell-Like Abilities:** Once per hour a salt mephit can use *glitterdust* (DC 14, caster level 3rd).
 
-Once per day it can draw the moisture from an area in a 20-foot radius
-centered on itself. Living creatures within range take 2d8 points of
-damage (Fortitude DC 14 half; caster level 6th). This effect is
-especially devastating to plant creatures and aquatic creatures, which
-take a --2 penalty on their saving throws. This ability is the
-equivalent of a 2nd-level spell. The save DCs are Charisma-based.
+Once per day it can draw the moisture from an area in a 20-foot radius centered on itself. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half; caster level 6th). This effect is especially devastating to plant creatures and aquatic creatures, which take a --2 penalty on their saving throws. This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
 **Fast Healing (Ex):** A salt mephit heals only if in an arid environment.
 
@@ -544,35 +490,19 @@ equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
 Steam mephits come from the Elemental Plane of Fire.
 
-Steam mephits are bossy creatures who consider themselves the lords of
-all their kind. Each one is about 4 feet tall and weighs about 2
-pounds.
+Steam mephits are bossy creatures who consider themselves the lords of all their kind. Each one is about 4 feet tall and weighs about 2 pounds.
 
 Steam mephits speak Common and Ignan.
 
 #### Combat
 
-Unlike other mephits, steam mephits rush into combat eagerly, driven by
-an oversized ego.
+Unlike other mephits, steam mephits rush into combat eagerly, driven by an oversized ego.
 
-**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4
-fire, Reflex DC 12 half. Living creatures that fail their saves are
-tormented by burned skin and seared eyes unless they have immunity to
-fire or are otherwise protected. This effect imposes a --4 penalty to AC
-and a --2 penalty on attack rolls for 3 rounds. The save DC is
-Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a --4 penalty to AC and a --2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:** Once per hour a steam mephit
-can surround itself with a plume of vapor, duplicating the effect of a
-*blur* spell (caster level 3rd). Once per
-day it can create a rainstorm of boiling water that affects a
-20-foot-square area. Living creatures caught in the storm take 2d6
-points of fire damage (Reflex DC 14 half; caster level 6th). This
-ability is the equivalent of a 2nd-level spell. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a *blur* spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
-**Fast Healing (Ex):** A steam mephit heals only if it is
-touching boiling water or is in a hot, humid area.
+**Fast Healing (Ex):** A steam mephit heals only if it is touching boiling water or is in a hot, humid area.
 
 ### WATER MEPHIT
 
@@ -601,9 +531,7 @@ touching boiling water or is in a hot, humid area.
 
 Water mephits come from the Elemental Plane of Water.
 
-Water mephits are jaunty creatures with an unflagging sense of humor
-who quickly get on the nerves of everyone around them. Each one is about
-4 feet tall and weighs about 30 pounds.
+Water mephits are jaunty creatures with an unflagging sense of humor who quickly get on the nerves of everyone around them. Each one is about 4 feet tall and weighs about 30 pounds.
 
 Water mephits speak Common and Aquan.
 
@@ -615,65 +543,119 @@ Water mephits speak Common and Aquan.
 
 **Fast Healing (Ex):** A water mephit heals only if it is exposed to rain or submerged up to its waist in water.
 
-**Skills:** A water mephit has a +8 racial bonus on any
-Swim check to perform some special action or avoid a hazard. It can
-always choose to take 10 on a Swim check, even if distracted or
-endangered.
-
-It can use the run action while swimming, provided it swims in a
-straight line.
+**Skills:** A water mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ## MERFOLK
 
-|                           | Merfolk, 1st-Level Warrior
-|                           | Medium Humanoid (Aquatic)
-| **Hit Dice:**             | 1d8+2 (6 hp)
-| **Initiative:**           | +1
-| **Speed:**                | 5 ft. (1 square), swim 50 ft.
-| **Armor Class:**          | 13 (+1 Dex, +2 leather), touch 11, flat-footed 12
-| **Base Attack/Grapple:**  | +1/+2
-| **Attack:**               | Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19--20)
-| **Full Attack:**          | Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19--20)
-| **Space/Reach:**          | 5 ft./5 ft.
-| **Special Attacks:**      | ---
-| **Special Qualities:**    | Amphibious, low-light vision
-| **Saves:**                | Fort +4, Ref +1, Will --1
-| **Abilities:**            | Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10
-| **Skills:**               | Listen +3, Spot +3, Swim +9
-| **Feats:**                | Alertness
-| **Environment:**          | Temperate aquatic
-| **Organization:**         | Company (2--4), patrol (11--20 plus 2 3rd-level lieutenants and 1 leader of 3rd--6th level), or band (30--60 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 10 porpoises)
-| **Challenge Rating:**     | 1/2
-| **Treasure:**             | Standard
-| **Alignment:**            | Usually neutral
-| **Advancement:**          | By character class
-| **Level Adjustment:**     | +1
+<table>
+  <tr>
+    <td rowspan=2></td>
+    <th>Merfolk, 1st-Level Warrior</th>
+  </tr>
+  <tr>
+    <td>Medium Humanoid (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>1d8+2 (6 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>5 ft. (1 square), swim 50 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>13 (+1 Dex, +2 leather), touch 11, flat-footed 12</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+2</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19--20)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19--20)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>---</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Amphibious, low-light vision</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +4, Ref +1, Will --1</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Listen +3, Spot +3, Swim +9</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Alertness</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate aquatic</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Company (2--4), patrol (11--20 plus 2 3rd-level lieutenants and 1 leader of 3rd--6th level), or band (30--60 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 10 porpoises)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1/2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+1</td>
+  </tr>
+</table>
                                            
-A merfolk is about 8 feet long from the top of the head to the end of
-the tail, and weighs about 400 pounds.
+A merfolk is about 8 feet long from the top of the head to the end of the tail, and weighs about 400 pounds.
 
 Merfolk speak Common and Aquan.
 
-Most merfolk encountered outside their home are warriors; the
-information in the statistics block is for one of 1st level.
+Most merfolk encountered outside their home are warriors; the information in the statistics block is for one of 1st level.
 
 ### COMBAT
 
-Merfolk favor heavy crossbows of shell and coral that fire bolts
-fashioned from blowfish spines, with an underwater range increment of 30
-feet. Merfolk often barrage their enemies before closing, when they
-resort to tridents.
+Merfolk favor heavy crossbows of shell and coral that fire bolts fashioned from blowfish spines, with an underwater range increment of 30 feet. Merfolk often barrage their enemies before closing, when they resort to tridents.
 
 **Amphibious (Ex):** Merfolk can breathe both air and water, although they rarely travel more than a few feet from the water's edge.
 
-**Skills:** A merfolk has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line.
+**Skills:** A merfolk has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
-The merfolk warrior presented here had the following ability scores
-before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
+The merfolk warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### MERFOLK CHARACTERS
 

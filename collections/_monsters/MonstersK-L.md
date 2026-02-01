@@ -601,28 +601,96 @@ Lizardfolk characters possess the following racial traits.
 
 ## LOCATHAH
 
-|                           | Medium Humanoid (Aquatic)
-| **Hit Dice:**             | 2d8 (9 hp)
-| **Initiative:**           | +1
-| **Speed:**                | 10 ft. (2 squares), swim 60 ft.
-| **Armor Class:**          | 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-| **Base Attack/Grapple:**  | +1/+1
-| **Attack:**               | Longspear +2 melee (1d8/3) or light crossbow +2 ranged (1d8/19--20)
-| **Full Attack:**          | Longspear +2 melee (1d8/3) or light crossbow +2 ranged (1d8/19--20)
-| **Space/Reach:**          | 5 ft./5 ft.
-| **Saves:**                | Fort +3, Ref +1, Will +1
-| **Special Attacks:**      | ---
-| **Special Qualities:**    | ---
-| **Abilities:**            | Str 10, Dex 12, Con 10, Int_13, Wis 13, Cha 11
-| **Skills:**               | Craft (any one) +6, Listen +6, Spot +6, Swim +8
-| **Feats:**                | Weapon Focus (longspear)
-| **Environment:**          | Warm aquatic
-| **Organization:**         | Company (2--4), patrol (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or tribe (30--100 plus 100% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-| **Challenge Rating:**     | 1/2
-| **Treasure:**             | Standard
-| **Alignment:**            | Usually neutral
-| **Advancement:**          | By character class
-| **Level Adjustment:**     | +1
+<table>
+  <tr>
+    <td></td>
+    <td>Medium Humanoid (Aquatic)</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>2d8 (9 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>10 ft. (2 squares), swim 60 ft.</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>14 (+1 Dex, +3 natural), touch 11, flat-footed 13</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+1/+1</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Longspear +2 melee (1d8/&times;3) or light crossbow +2 ranged (1d8/19--20)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Longspear +2 melee (1d8/&times;3) or light crossbow +2 ranged (1d8/19--20)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>5 ft./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +3, Ref +1, Will +1</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>---</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>---</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Craft (any one) +6, Listen +6, Spot +6, Swim +8</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>Weapon Focus (longspear)</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Warm aquatic</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Company (2--4), patrol (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or tribe (30--100 plus 100% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>1/2</td>
+  </tr>
+  <tr>
+    <th>Treasure:</th>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <th>Alignment:</th>
+    <td>Usually neutral</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>By character class</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>+1</td>
+  </tr>
+</table>
 
 Although humanoid in shape, locathahs are clearly more fish than human. The average locathah stands 5 feet tall and weighs 175 pounds. Females and males look very much alike, although the former can be recognized by the two ochre stripes marking their egg sacs.
 
@@ -634,9 +702,7 @@ Any battle with locathahs usually begins with the creatures loosing volleys of b
 
 Locathahs lack teeth, claws, and other natural weapons, so they are not especially dangerous if unarmed. A weaponless locathah will generally turn and flee.
 
-**Skills:** A locathah has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
-
-It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A locathah has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ## LYCANTHROPE
 

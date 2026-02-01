@@ -1,0 +1,365 @@
+a:
+  aasimar: /MonstersO-R#aasimar
+  aboleth: /MonstersIntro-A#aboleth
+  aboleth mage: /MonstersIntro-A#aboleth-mage
+  abyssal greater basilisk: /MonstersB-C#abyssal-greater-basilisk
+  air elemental: /MonstersE-F#air-elemental
+  air mephit: /MonstersM-N#air-mephit
+  allip: /MonstersIntro-A#allip
+  amulet: /MonstersS#amulet
+  androsphinx: /MonstersS#androsphinx
+  angel: /MonstersIntro-A#angel
+  animated object: /MonstersIntro-A#animated-object
+  ankheg: /MonstersIntro-A#ankheg
+  annis: /MonstersH-I#annis
+  ape: /MonstersAnimals#ape
+  aranea: /MonstersIntro-A#aranea
+  archon: /MonstersIntro-A#archon
+  arrowhawk: /MonstersIntro-A#arrowhawk
+  assassin vine: /MonstersIntro-A#assassin-vine
+  astral deva: /MonstersIntro-A#angel-astral-deva
+  athach: /MonstersIntro-A#athach
+  avoral: /MonstersIntro-A#avoral
+  azer: /MonstersIntro-A#azer
+b:
+  baboon: /MonstersAnimals#baboon
+  badger: /MonstersAnimals#badger
+  barghest: /MonstersB-C#barghest
+  basilisk: /MonstersB-C#basilisk
+  bat: /MonstersAnimals#bat
+  bat swarm: /MonstersS#bat-swarm
+  bear, black: /MonstersAnimals#bear-black
+  bear, brown: /MonstersAnimals#bear-brown
+  bear, polar: /MonstersAnimals#bear-polar
+  behir: /MonstersB-C#behir
+  belker: /MonstersB-C#belker
+  bison: /MonstersAnimals#bison
+  black dragon: /MonstersDr-Dw#black-dragon
+  black pudding: /MonstersO-R#black-pudding
+  blink dog: /MonstersB-C#blink-dog
+  blue dragon: /MonstersDr-Dw#blue-dragon
+  boar: /MonstersAnimals#boar
+  bodak: /MonstersB-C#bodak
+  bralani: /MonstersB-C#bralani
+  brass dragon: /MonstersDr-Dw#brass-dragon
+  bronze dragon: /MonstersDr-Dw#bronze-dragon
+  bugbear: /MonstersB-C#bugbear
+  bulette: /MonstersB-C#bulette
+c:
+  camel: /MonstersAnimals#camel
+  cat: /MonstersAnimals#cat
+  cauchemar: /MonstersM-N#cauchemar
+  celestial charger: /MonstersT-Z#celestial-charger
+  celestial creature: /MonstersB-C#celestial-creature
+  centaur: /MonstersB-C#centaur
+  centipede swarm: /MonstersS#centipede-swarm
+  chaos beast: /MonstersB-C#chaos-beast
+  cheetah: /MonstersAnimals#cheetah
+  chimera: /MonstersB-C#chimera
+  choker: /MonstersB-C#choker
+  chromatic dragons: /MonstersDr-Dw#chromatic-dragons
+  chuul: /MonstersB-C#chuul
+  clay golem: /MonstersG#clay-golem
+  cloaker: /MonstersB-C#cloaker
+  cloud giant: /MonstersG#cloud-giant
+  cockatrice: /MonstersB-C#cockatrice
+  copper dragon: /MonstersDr-Dw#copper-dragon
+  couatl: /MonstersB-C#couatl
+  criosphinx: /MonstersS#criosphinx
+  crocodile: /MonstersAnimals#crocodile
+  cryohydra: /MonstersH-I#cryohydra
+d:
+  dark naga: /MonstersM-N#dark-naga
+  deinonychus: /MonstersDi-Do#deinonychus
+  digester: /MonstersDi-Do#digester
+  dinosaur: /MonstersDi-Do#dinosaur
+  dire animal: /MonstersDi-Do#dire-animal
+  dire ape: /MonstersDi-Do#dire-ape
+  dire badger: /MonstersDi-Do#dire-badger
+  dire bat: /MonstersDi-Do#dire-bat
+  dire bear: /MonstersDi-Do#dire-bear
+  dire boar: /MonstersDi-Do#dire-boar
+  dire lion: /MonstersDi-Do#dire-lion
+  dire rat: /MonstersDi-Do#dire-rat
+  dire shark: /MonstersDi-Do#dire-shark
+  dire tiger: /MonstersDi-Do#dire-tiger
+  dire weasel: /MonstersDi-Do#dire-weasel
+  dire wolf: /MonstersDi-Do#dire-wolf
+  dire wolverine: /MonstersDi-Do#dire-wolverine
+  djinni: /MonstersG#djinni
+  dog: /MonstersAnimals#dog
+  dog, riding: /MonstersAnimals#dog-riding
+  donkey: /MonstersAnimals#donkey
+  doppelganger: /MonstersDi-Do#doppelganger
+  dragon turtle: /MonstersDr-Dw#dragon-turtle
+  dragon, true: /MonstersDr-Dw#dragon-true
+  dragonhide: /MonstersDr-Dw#dragonhide
+  dragonne: /MonstersDr-Dw#dragonne
+  drider: /MonstersDr-Dw#drider
+  dryad: /MonstersDr-Dw#dryad
+  dust mephit: /MonstersM-N#dust-mephit
+  dwarf: /MonstersDr-Dw#dwarf
+e:
+  eagle: /MonstersAnimals#eagle
+  earth elemental: /MonstersE-F#earth-elemental
+  earth mephit: /MonstersM-N#earth-mephit
+  efreeti: /MonstersG#efreeti
+  elasmosaurus: /MonstersDi-Do#elasmosaurus
+  elder black pudding: /MonstersO-R#elder-black-pudding
+  elemental: /MonstersE-F#elemental
+  elephant: /MonstersAnimals#elephant
+  elf: /MonstersE-F#elf
+  ethereal filcher: /MonstersE-F#ethereal-filcher
+f:
+  fire elemental: /MonstersE-F#fire-elemental
+  fire giant: /MonstersG#fire-giant
+  fire mephit: /MonstersM-N#fire-mephit
+  flesh golem: /MonstersG#flesh-golem
+  frost giant: /MonstersG#frost-giant
+  frost giant jarl: /MonstersG#frost-giant-jarl
+g:
+  gargoyle: /MonstersG#gargoyle
+  gelatinous cube: /MonstersO-R#gelatinous-cube
+  genie: /MonstersG#genie
+  ghaele: /MonstersG#ghaele
+  ghast: /MonstersG#ghast
+  ghost: /MonstersG#ghost
+  ghoul: /MonstersG#ghoul
+  giant: /MonstersG#giant
+  giant ant: /MonstersVermin#giant-ant
+  giant bee: /MonstersVermin#giant-bee
+  giant bombardier beetle: /MonstersVermin#giant-bombardier-beetle
+  giant crocodile: /MonstersAnimals#crocodile-giant
+  giant eagle: /MonstersE-F#eagle-giant
+  giant fire beetle: /MonstersVermin#giant-fire-beetle
+  giant octopus: /MonstersAnimals#octopus-giant
+  giant owl: /MonstersO-R#owl-giant
+  giant praying mantis: /MonstersVermin#giant-praying-mantis
+  giant squid: /MonstersAnimals#squid-giant
+  giant stag beetle: /MonstersVermin#giant-stag-beetle
+  giant wasp: /MonstersVermin#giant-wasp
+  gibbering mouther: /MonstersG#gibbering-mouther
+  girallon: /MonstersG#girallon
+  gnoll: /MonstersG#gnoll
+  gnome: /MonstersG#gnome
+  goblin: /MonstersG#goblin
+  gold dragon: /MonstersDr-Dw#gold-dragon
+  golden protector: /MonstersK-L#golden-protector
+  golem: /MonstersG#golem
+  gorgon: /MonstersG#gorgon
+  gray ooze: /MonstersO-R#gray-ooze
+  gray render: /MonstersG#gray-render
+  greater barghest: /MonstersB-C#greater-barghest
+  greater shadow: /MonstersS#greater-shadow
+  greater stone golem: /MonstersG#greater-stone-golem
+  green dragon: /MonstersDr-Dw#green-dragon
+  green hag: /MonstersH-I#green-hag
+  grick: /MonstersG#grick
+  griffon: /MonstersG#griffon
+  grig: /MonstersS#grig
+  grimlock: /MonstersG#grimlock
+  guardian naga: /MonstersM-N#guardian-naga
+  gynosphinx: /MonstersS#gynosphinx
+h:
+  hag: /MonstersH-I#hag
+  hag covey: /MonstersH-I#hag-covey
+  half-celestial: /MonstersH-I#half-celestial
+  half-dragon: /MonstersH-I#half-dragon
+  half-fiend: /MonstersH-I#half-fiend
+  half-orcs: /MonstersO-R#half-orcs
+  halfling: /MonstersH-I#halfling
+  harpy: /MonstersH-I#harpy
+  harpy archer: /MonstersH-I#harpy-archer
+  hawk: /MonstersAnimals#hawk
+  heartstone: /MonstersM-N#heartstone
+  hell hound: /MonstersH-I#hell-hound
+  hellwasp swarm: /MonstersS#hellwasp-swarm
+  hieracosphinx: /MonstersS#hieracosphinx
+  hill giant: /MonstersG#hill-giant
+  hill giant dire wereboar: /MonstersK-L#hill-giant-dire-wereboar
+  hippogriff: /MonstersH-I#hippogriff
+  hobgoblin: /MonstersH-I#hobgoblin
+  homunculus: /MonstersH-I#homunculus
+  horse: /MonstersAnimals#horse
+  hound archon: /MonstersIntro-A#hound-archon
+  hound archon hero: /MonstersIntro-A#hound-archon-hero
+  howler: /MonstersH-I#howler
+  hydra: /MonstersH-I#hydra
+  hyena: /MonstersAnimals#hyena
+i:
+  ice mephit: /MonstersM-N#ice-mephit
+  inevitable: /MonstersH-I#inevitable
+  invisible stalker: /MonstersH-I#invisible-stalker
+  iron golem: /MonstersG#iron-golem
+j:
+  janni: /MonstersG#janni
+k:
+  kapoacinth: /MonstersG#kapoacinth
+  kobold: /MonstersK-L#kobold
+  kolyarut: /MonstersH-I#kolyarut
+  kraken: /MonstersK-L#kraken
+  krenshar: /MonstersK-L#krenshar
+l:
+  lacedon: /MonstersG#lacedon
+  lamia: /MonstersK-L#lamia
+  lammasu: /MonstersK-L#lammasu
+  lantern archon: /MonstersIntro-A#lantern-archon
+  leonal: /MonstersK-L#leonal
+  leopard: /MonstersAnimals#leopard
+  lich: /MonstersK-L#lich
+  lillend: /MonstersK-L#lillend
+  lion: /MonstersAnimals#lion
+  lizard: /MonstersAnimals#lizard
+  lizardfolk: /MonstersK-L#lizardfolk
+  locathah: /MonstersK-L#locathah
+  locust swarm: /MonstersS#locust-swarm
+  lycanthrope: /MonstersK-L#lycanthrope
+m:
+  magma mephit: /MonstersM-N#magma-mephit
+  magmin: /MonstersM-N#magmin
+  manta ray: /MonstersAnimals#manta-ray
+  manticore: /MonstersM-N#manticore
+  marut: /MonstersH-I#marut
+  medusa: /MonstersM-N#medusa
+  megaraptor: /MonstersDi-Do#megaraptor
+  mephit: /MonstersM-N#mephit
+  merfolk: /MonstersM-N#merfolk
+  merrow: /MonstersO-R#merrow
+  metallic dragons: /MonstersDr-Dw#metallic-dragons
+  mimic: /MonstersM-N#mimic
+  minotaur: /MonstersM-N#minotaur
+  mohrg: /MonstersM-N#mohrg
+  monitor lizard: /MonstersAnimals#lizard-monitor
+  monkey: /MonstersAnimals#monkey
+  monstrous centipede: /MonstersVermin#monstrous-centipede
+  monstrous scorpion: /MonstersVermin#monstrous-scorpion
+  monstrous spider: /MonstersVermin#monstrous-spider
+  mule: /MonstersAnimals#mule
+  mummy: /MonstersM-N#mummy
+  mummy lord: /MonstersM-N#mummy-lord
+n:
+  naga: /MonstersM-N#naga
+  nessian warhound: /MonstersH-I#nessian-warhound
+  night hag: /MonstersM-N#night-hag
+  nightcrawler: /MonstersM-N#nightcrawler
+  nightmare: /MonstersM-N#nightmare
+  nightshade: /MonstersM-N#nightshade
+  nightwalker: /MonstersM-N#nightwalker
+  nightwing: /MonstersM-N#nightwing
+  nixie: /MonstersS#nixie
+  nymph: /MonstersM-N#nymph
+o:
+  ochre jelly: /MonstersO-R#ochre-jelly
+  octopus: /MonstersAnimals#octopus
+  ogre: /MonstersO-R#ogre
+  ogre barbarian: /MonstersO-R#ogre-barbarian
+  ooze: /MonstersO-R#ooze
+  ooze mephit: /MonstersM-N#ooze-mephit
+  orc: /MonstersO-R#orc
+  otyugh: /MonstersO-R#otyugh
+  owl: /MonstersAnimals#owl
+  owlbear: /MonstersO-R#owlbear
+p:
+  pegasus: /MonstersO-R#pegasus
+  phantom fungus: /MonstersO-R#phantom-fungus
+  phase spider: /MonstersO-R#phase-spider
+  phasm: /MonstersO-R#phasm
+  pixie: /MonstersS#pixie
+  planetar: /MonstersIntro-A#angel-planetar
+  planetouched: /MonstersO-R#planetouched
+  pony: /MonstersAnimals#pony
+  porpoise: /MonstersAnimals#porpoise
+  pseudodragon: /MonstersO-R#pseudodragon
+  purple worm: /MonstersO-R#purple-worm
+  pyrohydra: /MonstersH-I#pyrohydra
+r:
+  rakshasa: /MonstersO-R#rakshasa
+  rast: /MonstersO-R#rast
+  rat: /MonstersAnimals#rat
+  rat swarm: /MonstersS#rat-swarm
+  raven: /MonstersAnimals#raven
+  ravid: /MonstersO-R#ravid
+  red dragon: /MonstersDr-Dw#red-dragon
+  remorhaz: /MonstersO-R#remorhaz
+  rhinoceros: /MonstersAnimals#rhinoceros
+  roc: /MonstersO-R#roc
+  roper: /MonstersO-R#roper
+  rust monster: /MonstersO-R#rust-monster
+s:
+  sahuagin: /MonstersS#sahuagin
+  sahuagin mutants: /MonstersS#sahuagin-mutants
+  salamander: /MonstersS#salamander
+  salt mephit: /MonstersM-N#salt-mephit
+  satyr: /MonstersS#satyr
+  scrag: /MonstersT-Z#scrag
+  sea cat: /MonstersS#sea-cat
+  sea hag: /MonstersH-I#sea-hag
+  shadow: /MonstersS#shadow
+  shadow mastiff: /MonstersS#shadow-mastiff
+  shambling mound: /MonstersS#shambling-mound
+  shark: /MonstersAnimals#shark
+  shield guardian: /MonstersS#shield-guardian
+  shocker lizard: /MonstersS#shocker-lizard
+  silver dragon: /MonstersDr-Dw#silver-dragon
+  skeleton: /MonstersS#skeleton
+  skum: /MonstersS#skum
+  snake: /MonstersAnimals#snake
+  solar: /MonstersIntro-A#angel-solar
+  spectre: /MonstersS#spectre
+  sphinx: /MonstersS#sphinx
+  spider eater: /MonstersS#spider-eater
+  spider swarm: /MonstersS#spider-swarm
+  spirit naga: /MonstersM-N#spirit-naga
+  sprite: /MonstersS#sprite
+  squid: /MonstersAnimals#squid
+  steam mephit: /MonstersM-N#steam-mephit
+  stirge: /MonstersS#stirge
+  stone giant: /MonstersG#stone-giant
+  stone golem: /MonstersG#stone-golem
+  storm giant: /MonstersG#storm-giant
+  swarm: /MonstersS#swarm
+t:
+  tarrasque: /MonstersT-Z#tarrasque
+  tendriculos: /MonstersT-Z#tendriculos
+  thoqqua: /MonstersT-Z#thoqqua
+  tiefling: /MonstersO-R#tiefling
+  tiger: /MonstersAnimals#tiger
+  titan: /MonstersT-Z#titan
+  toad: /MonstersAnimals#toad
+  tojanida: /MonstersT-Z#tojanida
+  treant: /MonstersT-Z#treant
+  triceratops: /MonstersDi-Do#triceratops
+  triton: /MonstersT-Z#triton
+  troglodyte: /MonstersT-Z#troglodyte
+  troll: /MonstersT-Z#troll
+  troll hunter: /MonstersT-Z#troll-hunter
+  trumpet archon: /MonstersIntro-A#trumpet-archon
+  tyrannosaurus: /MonstersDi-Do#tyrannosaurus
+u:
+  unicorn: /MonstersT-Z#unicorn
+v:
+  vampire: /MonstersT-Z#vampire
+  vampire spawn: /MonstersT-Z#vampire-spawn
+  vargouille: /MonstersT-Z#vargouille
+w:
+  warpony: /MonstersAnimals#pony-war
+  water elemental: /MonstersE-F#water-elemental
+  water mephit: /MonstersM-N#water-mephit
+  water naga: /MonstersM-N#water-naga
+  weasel: /MonstersAnimals#weasel
+  werebear: /MonstersK-L#werebear
+  wereboar: /MonstersK-L#wereboar
+  wererat: /MonstersK-L#wererat
+  weretiger: /MonstersK-L#weretiger
+  werewolf: /MonstersK-L#werewolf
+  werewolf lord: /MonstersK-L#lycanthrope-werewolf-lord
+  whale: /MonstersAnimals#whale
+  white dragon: /MonstersDr-Dw#white-dragon
+  wight: /MonstersT-Z#wight
+  will-o’-wisp: /MonstersT-Z#will-o-wisp
+  winter wolf: /MonstersT-Z#winter-wolf
+  wolf: /MonstersAnimals#wolf
+  wolverine: /MonstersAnimals#wolverine
+z:
+  zelekhut: /MonstersH-I#zelekhut
+  zombie: /MonstersT-Z#zombie

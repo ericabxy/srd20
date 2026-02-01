@@ -181,31 +181,88 @@ These creatures are serious pests that greedily devour cultivated crops. A singl
 
 ## GIANT PRAYING MANTIS
 
-|                                 |                                                                  |
-|---------------------------------|------------------------------------------------------------------|
-|                                 | Large Vermin                                              |
-|                                 |                                                                  |
-| **Hit Dice:**            | 4d8+8 (26 hp)                                             |
-| **Initiative:**          | –1                                                        |
-| **Speed:**               | 20 ft. (4 squares), fly 40 ft. (poor)                     |
-| **Armor Class:**         | 14 (–1 size, –1 Dex, +6 natural), touch 8, flat-footed 14 |
-| **Base Attack/Grapple:** | +3/+11                                                    |
-| **Attack:**              | Claws +6 melee (1d8+4)                                    |
-| **Full Attack:**         | Claws +6 melee (1d8+4) and bite +1 melee (1d6+2)          |
-| **Space/Reach:**         | 10 ft (4 squares)./5 ft.                                  |
-| **Special Attacks:**     | Improved grab                                             |
-| **Special Qualities:**   | Darkvision 60 ft., vermin traits                          |
-| **Saves:**               | Fort +6, Ref +0, Will +3                                  |
-| **Abilities:**           | Str 19, Dex 8, Con 15, Int —, Wis 14, Cha 11              |
-| **Skills:**              | Hide –1\*, Spot +6                                        |
-| **Feats:**               | —                                                         |
-| **Environment:**         | Temperate forests                                         |
-| **Organization:**        | Solitary                                                  |
-| **Challenge Rating:**    | 3                                                         |
-| **Advancement:**         | 5–8 HD (Large); 9–12 HD (Huge)                            |
-|                                 |                                                                  |
-| **Level Adjustment:**    | —                                                         |
-|                                 |                                                                  |
+<table>
+  <tr>
+    <td></td>
+    <td>Large Vermin</td>
+  </tr>
+  <tr>
+    <th>Hit Dice:</th>
+    <td>4d8+8 (26 hp)</td>
+  </tr>
+  <tr>
+    <th>Initiative:</th>
+    <td>–1</td>
+  </tr>
+  <tr>
+    <th>Speed:</th>
+    <td>20 ft. (4 squares), fly 40 ft. (poor)</td>
+  </tr>
+  <tr>
+    <th>Armor Class:</th>
+    <td>14 (–1 size, –1 Dex, +6 natural), touch 8, flat-footed 14</td>
+  </tr>
+  <tr>
+    <th>Base Attack/Grapple:</th>
+    <td>+3/+11</td>
+  </tr>
+  <tr>
+    <th>Attack:</th>
+    <td>Claws +6 melee (1d8+4)</td>
+  </tr>
+  <tr>
+    <th>Full Attack:</th>
+    <td>Claws +6 melee (1d8+4) and bite +1 melee (1d6+2)</td>
+  </tr>
+  <tr>
+    <th>Space/Reach:</th>
+    <td>10 ft (4 squares)./5 ft.</td>
+  </tr>
+  <tr>
+    <th>Special Attacks:</th>
+    <td>Improved grab</td>
+  </tr>
+  <tr>
+    <th>Special Qualities:</th>
+    <td>Darkvision 60 ft., vermin traits</td>
+  </tr>
+  <tr>
+    <th>Saves:</th>
+    <td>Fort +6, Ref +0, Will +3</td>
+  </tr>
+  <tr>
+    <th>Abilities:</th>
+    <td>Str 19, Dex 8, Con 15, Int —, Wis 14, Cha 11</td>
+  </tr>
+  <tr>
+    <th>Skills:</th>
+    <td>Hide –1\*, Spot +6</td>
+  </tr>
+  <tr>
+    <th>Feats:</th>
+    <td>—</td>
+  </tr>
+  <tr>
+    <th>Environment:</th>
+    <td>Temperate forests</td>
+  </tr>
+  <tr>
+    <th>Organization:</th>
+    <td>Solitary</td>
+  </tr>
+  <tr>
+    <th>Challenge Rating:</th>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>Advancement:</th>
+    <td>5–8 HD (Large); 9–12 HD (Huge)</td>
+  </tr>
+  <tr>
+    <th>Level Adjustment:</th>
+    <td>—</td>
+  </tr>
+</table>
 
 This patient carnivore remains completely still as it waits for prey to come near.
 

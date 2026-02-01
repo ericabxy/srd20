@@ -1,22 +1,11 @@
-barbarian:
-  url: /ClassesI#barbarian
-bard:
-  url: /ClassesI#bard
-cleric:
-  url: /ClassesI#cleric
-druid:
-  url: /ClassesI#druid
-fighter:
-  url: /ClassesI#fighter
-monk:
-  url: /ClassesI#monk
-paladin:
-  url: /ClassesII#paladin
-ranger:
-  url: /ClassesII#ranger
-rogue:
-  url: /ClassesII#rogue
-sorcerer:
-  url: /ClassesII#sorcerer
-wizard:
-  url: /ClassesII#wizard
+barbarian: /ClassesI#barbarian
+bard: /ClassesI#bard
+cleric: /ClassesI#cleric
+druid: /ClassesI#druid
+fighter: /ClassesI#fighter
+monk: /ClassesI#monk
+paladin: /ClassesII#paladin
+ranger: /ClassesII#ranger
+rogue: /ClassesII#rogue
+sorcerer: /ClassesII#sorcerer
+wizard: /ClassesII#wizard

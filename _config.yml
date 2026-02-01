@@ -5,6 +5,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srd20.radicalgnu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ericabxy
 theme: minima
+# Plugins
+plugins:
+- jekyll-optional-front-matter
+- jekyll-titles-from-headings
 # Collections
 collections_dir: collections
 collections:
@@ -13,6 +17,9 @@ collections:
     permalink: /:title
   artifacts:
     output: true
+  broken_shallows:
+    output: true
+    permalink: /:collection/:path
   chassis:
     output: true
     permalink: /:collection/:title
@@ -58,6 +65,7 @@ collections:
     permalink: /:title
   thalassa_the_ocean_moon:
     output: true
+    permalink: /:collection/:path
 # End of collections
 # Defaults
 defaults:
