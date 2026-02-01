@@ -50,7 +50,7 @@ At the rear of the grotto the passage narrows to 20 feet again, continuing rough
    
 ### 4. Slave Grotto
 
-The left branch of the forked tunnel narrows to roughly 10 ft. in diameter, then opens into a broad cavern with uneven stone ledges along the sides and the far wall. Housed here are 1d4+2 locathah thralls in a stupor brought on by the aboleth's enslave ability. If approached they are fearful but non-hostile.
+The left branch of the forked tunnel narrows to roughly 10 ft. in diameter, then opens into a broad cavern with uneven stone ledges along the sides and the far wall. Housed here are 1d4+2 locathah thralls in a stupor brought on by the aboleth's enslavement ability. If approached they are fearful but non-hostile.
 
 One of the thralls wears a crude eyepatch over its left eye. If questioned carefully, it may reveal that it has explored the caverns during brief periods the aboleth has left and can describe or draw a detailed map.
 

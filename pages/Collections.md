@@ -1,4 +1,5 @@
 ---
+permalink: /Collections
 title: Collections
 ---
 
