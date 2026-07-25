@@ -3,23 +3,24 @@ power_points: 1
 title: Xeph
 ---
 
+## Xeph
+
 Xephs typically stand about 5--1/2 feet tall and usually weigh about 140 pounds, with men typically taller and heavier than women. Their bodies tend to be lean and agile and favor quick movement and alert posture.
 
---- --2 Strength, +2 Dexterity.
+### Xeph Traits
 
---- Medium-size: No special bonuses or penalties due to size.
+__Abilities:__ --2 Strength, +2 Dexterity.
 
---- Base land speed is 30 feet.
+__Medium-size:__ No special bonuses or penalties due to size.
 
---- Darkvision out to 60 feet.
+__Speed:__ Base land speed is 30 feet.
 
---- Naturally Magic: Xeph spellcasters gain bonus spells as if the governing ability score were 1 points higher. This benefit does not grant them the ability to cast spells unless they gain that ability through levels in a spellcaster class.
+__Darkvision__ out to 60 feet.
 
---- +1 genetic bonus on saving throws against spells and spell-like effects.
+__Naturally Magic:__ Xeph spellcasters gain bonus spells as if the governing ability score were 1 points higher. This benefit does not grant them the ability to cast spells unless they gain that ability through levels in a spellcaster class.
 
---- Special Qualities: Burst.
++1 genetic bonus on saving throws against spells and spell-like effects.
 
-Special Qualities
------------------
+### Special Qualities
 
 __Burst (Su):__ Three times per day, a xeph can increase his or her speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the xeph’s base speed. A burst of speed lasts 3 rounds.

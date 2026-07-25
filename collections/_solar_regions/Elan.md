@@ -3,7 +3,11 @@ power_points: 1
 title: Elan
 ---
 
+## Elan
+
 Elans typically stand just under 6 feet tall and weigh in the neighborhood of 180 pounds, with men sometimes taller and heavier than women, but not always.
+
+### Elan Traits
 
 --- --2 Charisma.
 
@@ -17,8 +21,7 @@ Elans typically stand just under 6 feet tall and weigh in the neighborhood of 18
 
 --- Special Qualities: Repletion, resilience, and resistance.
 
-Special Qualities
------------------
+#### Special Qualities
 
 Once per day, an elan can activate one of the following supernatural abilities.
 

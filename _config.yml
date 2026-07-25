@@ -60,6 +60,9 @@ collections:
   psionics:
     output: true
     permalink: /:title
+  solar_regions:
+    output: true
+    permalink: /:title
   spells:
     output: true
     permalink: /:title

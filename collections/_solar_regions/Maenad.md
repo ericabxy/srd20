@@ -3,7 +3,11 @@ power_points: 2
 title: Maenad
 ---
 
+## Maenad
+
 Maenads typically stand more than 6 feet tall and weigh about 200 pounds; males are the same height as and only marginally heavier than maenad females. Maenads have no facial or body hair, and they prefer heavier clothing and armor if possible.
+
+### Maenad Traits
 
 --- Medium-size: No special bonuses or penalties due to size.
 
