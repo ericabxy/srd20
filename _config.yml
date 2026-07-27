@@ -16,6 +16,9 @@ collections:
     permalink: /:title
   artifacts:
     output: true
+  backgrounds:
+    output: true
+    permalink: /:title
   creatures:
     output: true
     permalink: /:title
