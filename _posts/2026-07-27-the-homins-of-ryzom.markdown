@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Homins of Ryzom
+title: The People of Atys
 published: true
 ---
 

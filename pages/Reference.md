@@ -8,101 +8,26 @@ title: Reference
 
 Material published in the System Reference Document is considered Open Game Content under the Open Game License, and anyone may use, modify, and distribute it.
 
-## Basic Rules and Legal
+## System Reference Document
 
+{% for group in site.data.grouped-srd %}
+<h3>{{ group[0] }}</h3>
 <p>
-{% for post in site.basic_rules %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
+  {% for doc in group[1] %}
+  <a href='{{ doc[1] }}'>{{ doc[0] }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
+  {% endfor %}
 </p>
+{% endfor %}
 
-## Spells
+## Modern System Reference Document
 
+{% for group in site.data.grouped-msrd %}
+<h3>{{ group[0] }}</h3>
 <p>
-{% for post in site.spells %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
+  {% for doc in group[1] %}
+  <a href='{{ doc[1] }}'>{{ doc[0] }}</a>
   {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
+  {% endfor %}
 </p>
-
-## Magic Items
-
-<p>
-{% for post in site.magic_items %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
-</p>
-
-## Monsters
-
-<p>
-{% for post in site.monsters %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Psionics
-
-<p>
-{% for post in site.psionics %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Epic
-
-<p>
-{% for post in site.epic %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Divine
-
-<p>
-{% for post in site.divine %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Modern Basics
-
-<p>
-{% for post in site.modern_basics %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Arcana
-
-<p>
-{% for post in site.arcana %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Future
-
-<p>
-{% for post in site.future %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>
-
-## Menaces
-
-<p>
-{% for post in site.menaces %}
-  <a href='{{ post.url }}'>{{ post.title }}</a>
-  {% unless forloop.last %}&bull;{% endunless %}
-{% endfor %}
-</p>

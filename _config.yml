@@ -11,9 +11,6 @@ plugins:
 - jekyll-titles-from-headings
 # Collections
 collections:
-  arcana:
-    output: true
-    permalink: /:title
   artifacts:
     output: true
   backgrounds:
@@ -22,42 +19,18 @@ collections:
   creatures:
     output: true
     permalink: /:title
-  basic_rules:
-    output: true
-    permalink: /:title
-  divine:
-    output: true
-    permalink: /:title
   docs:
-    output: true
-    permalink: /:title
-  epic:
-    output: true
-    permalink: /:title
-  future:
-    output: true
-    permalink: /:title
-  magic_items:
-    output: true
-    permalink: /:title
-  menaces:
-    output: true
-    permalink: /:title
-  modern_basics:
-    output: true
-    permalink: /:title
-  monsters:
     output: true
     permalink: /:title
   iovian_system:
     output: true
-  psionics:
+  reference:
     output: true
     permalink: /:title
   solar_regions:
     output: true
     permalink: /:title
-  spells:
+  special_abilities:
     output: true
     permalink: /:title
 # End of collections

@@ -18,7 +18,7 @@ Tallfellows possess the following racial traits.
 * +1 racial bonus on all saving throws.
 * +2 morale bonus on saving throws against fear. This bonus stacks with the tallfellow’s +1 bonus on saving throws in general.
 * +1 racial bonus on attack rolls with thrown weapons and slings.
-* +2 racial bonus on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
+* +2 racial bonus on Listen, Search, and Spot checks. An tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
 * Automatic Languages: Common, Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, Orc.
 * Favored Class: Rogue.
 

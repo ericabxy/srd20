@@ -4,7 +4,7 @@ categories:
 title: Gnoll
 ---
 
-Gnoll
+## Gnoll
 -----
 
 Gnolls are hyena-headed humanoids descended from a tribal society. They are covered in short hair, often reddish-brown or dingy yellow.
@@ -14,10 +14,14 @@ Gnolls tend to favor the ranger class.
 ### Gnoll Traits
 
 * +2 Constitution, --2 Intelligence.
+
 * Gnoll base speed is 30 feet.
+
 * Medium-size: As Medium creatures, gnolls have no special bonuses or penalties due to their size.
+
 * Low-light Vision: Gnolls can see twice as far as normal in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
-* +2 racial bonus on Gather Information, Handle Animal, and Move Silently checks.
+
+* +2 racial bonus on Gather Information, Handle Animal, Innuendo, and Move Silently checks.
 
 #### Powerful Jaws (Experimental)
 
