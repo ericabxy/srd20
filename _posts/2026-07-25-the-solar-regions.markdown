@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Backgrounds - Peoples of the Solar Regions
+title: New Backgrounds - People of the Solar Regions
 ---
 
 _The Solar Regions_ is a larger campaign setting which includes _The Outer Sky of Iovis_ and other potential locations such as _The Ocean Moon_ and _The Forest of Titan_. It takes place in a time and reality wherein myriad species and cultures have inhabited the planets, satellites, and other celestial bodies of the _Solar System_ for thousands of years.

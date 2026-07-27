@@ -10,11 +10,11 @@ Basic Rules and Legal:
   Feats: Feats
   Equipment: Equipment
   Special Materials: SpecialMaterials
-  Combat I (Basics):
-  Combat II (Movement, Modifiers, and Special Actions):
-  Special Abilities and Conditions:
+  Combat I (Basics): CombatI
+  Combat II (Movement, Modifiers, and Special Actions): CombatII
+  Special Abilities and Conditions: AbilitiesandConditions
   NPC Classes: NPCClasses
-  Prestige Classes: Prestige Classes
+  Prestige Classes: PrestigeClasses
   Carrying, Movement, and Exploration: CarryingandExploration
   Treasure: Treasure
   Wilderness, Weather, and Environment: WildernessandEnvironment
@@ -25,7 +25,7 @@ Spells:
   Spell List I: SpellListI
   Spell List II: SpellListII
   Spells (A-B): SpellsA-B
-  Spells C: SpellsC
+  Spells (C): SpellsC
   Spells (D-E): SpellsD-E
   Spells (F-G): SpellsF-G
   Spells (H-L): SpellsH-L
