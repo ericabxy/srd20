@@ -14,7 +14,7 @@ The Fyros are a bold warrior civilization who boast the values of truth, honesty
 
 ### Fyros Traits
 
-Fyros are gruff, hardy homins adapted to life in the harsh wilderness of Atys. They gain a _+2 racial bonus to Constitution_ and a _–2 racial penalty to Charisma_.
+Fyros are gruff, hardy homins adapted to life in the harsh wilderness of Atys. They gain a __+2 racial bonus to Constitution__ and a __--2 racial penalty to Charisma__.
 
 Fyros base land speed is 30 feet.
 
@@ -22,9 +22,9 @@ __Medium:__ As Medium creatures, fyros have no special bonuses or penalties due 
 
 __Weapon Proficiency:__ Fyros receive the Martial Weapon Proficiency feats for the scimitar, rapier, and shortbow (including composite shortbow) as bonus feats.
 
-_+2 racial bonus on Craft (any weapon or armor) checks_.
+__+2 racial bonus on Craft (any weapon or armor) checks__.
 
-_+2 circumstance bonus on Knowledge checks_ involving military organization and defensive fortifications.
+__+2 circumstance bonus on Knowledge (military) checks__.
 
 __Endurance:__ Fyros are adept at surviving in desert and other wilderness environments, receiving Endurance as a racial bonus feat.
 
@@ -40,9 +40,9 @@ Themes: Nobility, artistry, diplomacy, botany.
 
 ### Matis Traits
 
-Matis receive a _+2 racial bonus to Intelligence_ and a _--2 penalty to Strength_.
+Matis receive a __+2 racial bonus to Intelligence__ and a __--2 racial penalty to Strength__.
 
-Matis base land speed is 30 feet.
+Matis base land speed is __30 feet__.
 
 __Medium:__ As Medium creatures, matis have no special bonuses or penalties due to their size.
 
@@ -60,17 +60,17 @@ __???:__ Never become lost on navigable waterways. +2 circumstance bonus on roll
 
 ### Tryker Traits
 
-Trykers are physically small, yet nimble homins receiving a _+2 racial bonus to Dexterity_ and a _–2 racial penalty to Strength_.
+Trykers are physically small, yet nimble homins receiving a __+2 racial bonus to Dexterity__ and a __--2 racial penalty to Strength__.
 
-Tryker base land speed is 20 feet.
+Tryker base land speed is __20 feet__.
 
 __Small:__ Because they are Small creatures, all trykers gain a +1 size bonus to Armor Class and attack rolls, and a +4 size bonus to all Stealth checks. They must use smaller-sized weapons and equipment, and can lift and carry only three-quarters as much as a Medium character.
 
-_+2 racial bonus on Climb and Swim checks:_ Trykers are born and raised in cities built over lakes. They live their lives in and out of the water and clambering in and out of boats.
+__+2 racial bonus on Climb and Swim checks:__ Trykers are born and raised in cities built over lakes. They live their lives in and out of the water and clambering in and out of boats.
 
-_+2 racial bonus on Craft (shipbuilding) checks:_ Trykers are trained from an early age to maintain and construct watercraft of all sorts.
+__+2 racial bonus on Craft (shipbuilding) checks:__ Trykers are trained from an early age to maintain and construct watercraft of all sorts.
 
-_+2 racial bonus on Use Rope checks:_ Ropecraft is ubiquitous in tryker culture, being an indispensable tool in shipcraft and marine navigation.
+__+2 racial bonus on Use Rope checks:__ Ropecraft is ubiquitous in tryker culture, being an indispensable tool in shipcraft and marine navigation.
 
 
 Zoraï
@@ -80,12 +80,12 @@ Themes: Mysticism, philosophy, diplomacy.
 
 ### Zoraï Traits
 
-Zoraï receive a _+2 racial bonus to Strength_ and a _--2 racial penalty to Constitution_.
+Zoraï receive a __+2 racial bonus to Dexterity__ and a __--2 racial penalty to Constitution__.
 
 Zoraï base land speed is 30 feet.
 
 __Medium:__ As Medium creatures, zoraï have no special bonuses or penalties due to their size.
 
-_+2 racial bonus on Knowledge (religion) checks_.
+__+2 racial bonus on Knowledge (religion) checks__.
 
-_+2 circumstance bonus on Knowledge (nature) checks_ involving nature spirits, deities, and customs.
+__+2 circumstance bonus on Knowledge (nature) checks__ involving nature spirits, deities, and customs.
