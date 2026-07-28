@@ -1,9 +1,9 @@
 ---
+category: extraordinary
 classes:
 - druid
 - ranger
 title: Wild Empathy
-type: Ex
 ---
 
 Wild Empathy

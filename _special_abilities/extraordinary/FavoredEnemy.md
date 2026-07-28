@@ -1,10 +1,11 @@
 ---
 category: extraordinary
+classes:
+- ranger
+levels:
+- 1
 title: Favored Enemy
 ---
-
-Favored Enemy
-=============
 
 If you choose humanoids or outsiders as a favored enemy, you must also choose an associated subtype, as indicated on the table. If a specific creature falls into more than one category of favored enemy, your bonuses do not stack; you simply use whichever bonus is higher.
 

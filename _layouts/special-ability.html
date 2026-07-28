@@ -6,7 +6,14 @@ layout: default
   {% assign as_class = page.classes[0] %}
 {% endif %}
 
-<h2>{{ page.title }} ({{ page.type }})</h2>
+{% assign cat = "(Ex)" %}
+{% if page.category == "spell-like" %}
+  {% assign cat = "(Sp)" %}
+{% elsif page.category == "supernatural" %}
+  {% assign cat = "(Su)" %}
+{% endif %}
+
+<h1>{{ page.title }} {{ cat }}</h1>
 
 {% if as_class %}
 <p>As the <a href='{{ site.data.classes[as_class].url }}'>{{ as_class }}</a> ability.</p>
