@@ -1,5 +1,5 @@
 ---
-ability_type: extraordinary
+category: extraordinary
 title: Favored Enemy
 ---
 
