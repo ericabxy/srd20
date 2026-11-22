@@ -16,6 +16,9 @@ collections:
   backgrounds:
     output: true
     permalink: /:title
+  characters:
+    output: true
+    permalink: /:title
   creatures:
     output: true
     permalink: /:title
@@ -24,6 +27,9 @@ collections:
     permalink: /:title
   iovian_system:
     output: true
+  locations:
+    output: true
+    permalink: /:title
   reference:
     output: true
     permalink: /:title
