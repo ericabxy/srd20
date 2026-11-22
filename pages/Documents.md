@@ -1,13 +1,22 @@
 ---
 permalink: /Documents
-published: false
 title: Documents
 ---
 
-<ul>
-{% for item in site.docs %}
-  <li>
-    <a href='{{ item.url }}'>{{ item.title }}</a>
-  </li>
+## Characters
+
+<p>
+{% for doc in site.characters %}
+  <a href='{{ doc.url }}'>{{ doc.title }}</a>
+  {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
-</ul>
+</p>
+
+## Locations
+
+<p>
+{% for doc in site.locations %}
+  <a href='{{ doc.url }}'>{{ doc.title }}</a>
+  {% unless forloop.last %}&bull;{% endunless %}
+{% endfor %}
+</p>
