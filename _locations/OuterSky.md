@@ -16,3 +16,9 @@ The Outer Sky is a collection of places to be and places to go, yet distances ar
 ## Locations
 
 [Ione](Ione)
+
+## Images
+
+![The moon world Ione in orbit of Iovis.](assets/EmmaWälimäkiCCByIoAndJupitersJetN4.jpg 'The Outer Sky of Iovis')
+
+Image Credit: "Io and Jupiter's Jet N4" Emma Wälimäki © cc by <https://www.missionjuno.swri.edu/junocam/processing?id=16851>

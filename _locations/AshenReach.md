@@ -13,3 +13,7 @@ References
 ----------
 
 * Media Regio (Ji7)
+
+## External Resources
+
+* [Closed ecological system](https://en.wikipedia.org/wiki/Closed_ecological_system)

@@ -14,4 +14,17 @@ Ione is part of the [Outer Sky](OuterSky) campaign setting.
 
 ## The Earth-Shapers
 
-Long before known or recorded history, a technologically-advanced community set into motion a world-wide geological process on Ione, slowly making the surface habitable to Solar life. 
+Long before known or recorded history, a technologically-advanced community set into motion a world-wide geological process on Ione, slowly making the surface habitable to Solar life.
+
+## Images
+
+![Satellite view of Ione from somewhere above the Lerna Regio](assets/GeraldEichstädtThomasThomopoulosCCByPJ_60_53_2_VOK.png 'Ione')
+
+Image Credit: "IO PJ 60 53" NASA / JPL / SwRI / MSSS / Gerald Eichstädt / Thomas Thomopoulos © cc by <https://www.missionjuno.swri.edu/junocam/processing?id=16433>
+
+## External Resources
+
+* [An overhead view of Io over the Cocytus Montes, plus additional high-res photography](https://science.nasa.gov/get-involved/citizen-science/for-your-processing-pleasure-the-sharpest-pictures-of-jupiters-volcanic-moon-io-in-a-generation/)
+* [The Gish Bar Times](http://www.gishbartimes.org/)
+* [Maps of Io](https://solarviews.com/eng/iomap.htm)
+* [Surface features of Io (moon)](https://en.wikipedia.org/wiki/Category:Surface_features_of_Io_(moon))
