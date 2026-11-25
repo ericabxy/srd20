@@ -20,6 +20,8 @@ This inaccurate map depicts the Ashen Reach as coastal lowlands on the north sho
 
 ![](assets/AshenReachMediaRegioIoneIovis.jpeg 'The Ashen Reach and surrounding landforms.')
 
+Image Source: "Tab. V. Asiae Repraesentans Mediam, Hyrcaniam, Assyriam, Susuanam ac Persidem" by Gerard Mercator 1578. Modified by SRD20 Project 2026. Free of known copyright restrictions under copyright law. <https://raremaps.com/gallery/detail/58566/tab-v-asiae-repraesentans-mediam-hyrcaniam-assyriam-susuanam-ac-persidem-iran-iraq>
+
 ### The Northern Lands
 
 The peaks and ranges further north in the Estan Mons are not maintained as habitable, so few people live or journey in that direction. Yet much of oral and written history in the Reach speaks of another body of water beyond the mountains known as the North Sea.
