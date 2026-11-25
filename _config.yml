@@ -33,6 +33,9 @@ collections:
   reference:
     output: true
     permalink: /:title
+  scenarios:
+    output: true
+    permalink: /:title
   solar_regions:
     output: true
     permalink: /:title

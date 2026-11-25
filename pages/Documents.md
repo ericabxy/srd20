@@ -20,3 +20,12 @@ title: Documents
   {% unless forloop.last %}&bull;{% endunless %}
 {% endfor %}
 </p>
+
+## Scenarios
+
+<p>
+{% for doc in site.scenarios %}
+  <a href='{{ doc.url }}'>{{ doc.title }}</a>
+  {% unless forloop.last %}&bull;{% endunless %}
+{% endfor %}
+</p>
