@@ -2,15 +2,15 @@
 title: The Ashen Reach
 ---
 
+# The Ashen Reach
+
 The Ashen Reach is part of a geothermal belt in the Median Region of Ione. It spans from the northern coast of the Great Sea from the Singing Spires in the west to the lava fields and the southernmost ranges of Estan Mons in the east. These coastal lowlands are bordered in the north by the first ranges of Estan Mons.
 
-Locations
----------
+## Locations
 
 [Kheret's Step](KheretsStep)
 
-References
-----------
+## References
 
 * Media Regio (Ji7)
 
