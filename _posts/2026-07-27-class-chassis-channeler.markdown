@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Class Chassis - Channeler
+author: Eric Abides
 ---
 
 The SRD [cleric](/ClassesI#cleric) and [druid](/ClassesI#druid) classes have many similarities, which is unsurprising considering the druid's origins as a subclass of cleric. Stripped down to their basics, both classes have an identical hit die, base attack bonus progression, saving throw progressions, and spells-per-day progression. It follows that each class could be built upon the same "chassis" given the right choices. Lets call this chassis class the "channeler".

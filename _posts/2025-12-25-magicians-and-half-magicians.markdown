@@ -2,6 +2,7 @@
 layout: post
 title:  "Magicians and Half-magicians"
 published: false
+author: Eric Abides
 ---
 
 Some special abilities seem to correlate with the ability to cast spells.

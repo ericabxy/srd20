@@ -3,6 +3,7 @@ layout: post
 title: wilderness-rogue
 date: 2025-12-26 21:53 -0800
 published: false
+author: Eric Abides
 ---
 
 > The wilderness rogue prefers to put her skills to use in the great outdoors, rather than in cramped alleys and dungeon corridors. In many ways, she is similar to the traditional ranger, though with less combat savvy and with none of the ranger's divine link to the natural world.

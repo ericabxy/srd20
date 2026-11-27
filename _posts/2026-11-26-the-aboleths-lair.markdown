@@ -3,6 +3,7 @@ layout: post
 title:  "Scenario: The Aboleth's Lair"
 date:   2026-11-26 16:16:00 -0800
 categories: artifact scenario
+author: Eric Abides
 ---
 
 _The Aboleth's Lair_ is a short dungeon adventure for four characters between 7th and 9th levels of experience. It was originally set to take place on an ocean world which would have been named Europa, Thalassa, or Triton. There are only three potential encounters and the whole scenario takes place inside an underwater cave system, and the most dangerous creature is designed to run away rather than fighting the party to the death.

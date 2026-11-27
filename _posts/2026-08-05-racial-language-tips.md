@@ -1,5 +1,6 @@
 ---
 title: Using Racialized Language
+author: Eric Abides
 ---
 
 Racial backgrounds indicate heritage and possible physiological differences, not personality or skill. Gamemakers and players should avoid using race names as shorthand for traits like ‘clever,’ ‘strong,’ or ‘skilled’; focusing instead on background, training, and personal experience when describing characters.

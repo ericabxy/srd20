@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Day and Night on a Tidally Locked World
+author: Eric Abides
 ---
 
 Some of the moons in the Solar System are tidally locked, meaning the same side of the moon's surface faces its planet at all times. This document explores the implications of such a phenomenon on the day-night cycle of life on the moon Europa.

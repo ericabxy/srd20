@@ -2,6 +2,7 @@
 layout: post
 title: Creatures
 date: 2026-01-31 12:52 -0800
+author: Eric Abides
 ---
 
 <p>

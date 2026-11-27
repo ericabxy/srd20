@@ -2,6 +2,7 @@
 layout: post
 title: New Campaign Setting - The Outer Sky of Iovis
 date: 2026-01-18 09:37 -0800
+author: Eric Abides
 ---
 
 _The Outer Sky of Iovis_ is a new, original setting for a science fiction campaign or individual scenarios. It draws from an era of pulp science fiction literature and especially from the planetary romance novels of Edgar Rice Burroughs. "Outer Sky" refers to an orbital region around a fictionalized Jupiter including the moon Ione and other orbital bodies.

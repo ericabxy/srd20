@@ -3,6 +3,7 @@ layout: post
 title: The People of Atys
 date: 2026-08-05 01:05:00 -0700
 published: true
+author: Eric Abides
 ---
 
 _The Saga of Ryzom_ is a massively-multiplayer online role-playing game taking place on a fictional planet called Atys.

@@ -3,6 +3,7 @@ layout: post
 title: "Rules Variant: The Heroic Skill System"
 date:   2026-11-27 10:26:00 -0800
 categories: alternative skills
+author: Eric Abides
 ---
 
 This is an alternative to the skill points system I wrote, justified by a passage in _Core Rulebook I: Player's Handbook_. It requires further development and testing, but the initial design is being recorded here for posterity.
