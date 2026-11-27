@@ -1,6 +1,9 @@
 ---
-title: "External Links"
+title: About
+permalink: /about
 ---
+
+## External Resources
 
 - [Revised (v.3.5) System Reference Document](http://web.archive.org/web/20060819135437/http://www.wizards.com/default.asp?x=d20/article/srd35) (archived August 19th, 2006) 
 - [d20 Modern System Reference Document](http://web.archive.org/web/20060819135213/http://www.wizards.com/default.asp?x=d20/article/msrd) (archived August 19th, 2006)
