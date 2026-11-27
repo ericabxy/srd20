@@ -8,13 +8,17 @@ body {
 }
 
 /* headers are all blue and uppercase */
-h2, h3, h4 {
+h1, h2, h3, h4 {
   color: DarkSlateBlue;
   font-family: "Times New Roman", "Times", serif;  
 }
 
-h2, h3 {
+h1, h2, h3 {
   text-transform: uppercase;
+}
+
+h1 {
+  text-align: center;
 }
 
 /* second-level headers are specially stylized */
