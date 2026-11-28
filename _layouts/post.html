@@ -18,6 +18,16 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  {%- if page.categories -%}
+  <div class="post-categories">
+    <span>Categories:</span>
+    {%- for cat in page.categories -%}
+      <span> {{ cat }}</span>
+      {% unless forloop.last %} &vert;{% endunless %}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

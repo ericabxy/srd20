@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: /Reference
-title: Reference
+title: References
 ---
 
 > The System Reference Document is a comprehensive toolbox consisting of rules, races, classes, feats, skills, various systems, spells, magic items, and monsters compatible with the d20 System version of Dungeons & Dragons and various other roleplaying games from Wizards of the Coast.

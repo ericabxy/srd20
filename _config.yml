@@ -16,6 +16,9 @@ collections:
   backgrounds:
     output: true
     permalink: /:title
+  categories:
+    output: true
+    permalink: /:collection/:categories
   characters:
     output: true
     permalink: /:title

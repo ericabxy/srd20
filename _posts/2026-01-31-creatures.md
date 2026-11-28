@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Creatures
-date: 2026-01-31 12:52 -0800
-author: Eric Abides
+title:  "Creatures"
+date:   2026-01-31 12:50:00 -0800
+categories: list
 ---
 
 <p>

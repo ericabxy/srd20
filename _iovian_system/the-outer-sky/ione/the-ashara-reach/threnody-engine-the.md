@@ -2,6 +2,6 @@
 title: The Threnody Engine
 ---
 
-## Contiuum Regulator Theta-Nine (Θ-9)
+## Continuum Regulator Theta-Nine (Θ-9)
 
 
